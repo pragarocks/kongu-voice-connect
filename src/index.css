@@ -1,95 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Tamil&family=Playfair+Display:wght@700;900&family=DM+Sans:wght@400;500;600;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
-All colors MUST be HSL.
-*/
-
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 222.2 84% 4.9%;
+    --background: 36 33% 97%;
+    --foreground: 30 30% 8%;
 
     --card: 0 0% 100%;
-    --card-foreground: 222.2 84% 4.9%;
+    --card-foreground: 30 30% 8%;
 
     --popover: 0 0% 100%;
-    --popover-foreground: 222.2 84% 4.9%;
+    --popover-foreground: 30 30% 8%;
 
-    --primary: 222.2 47.4% 11.2%;
-    --primary-foreground: 210 40% 98%;
+    --primary: 22 90% 47%;
+    --primary-foreground: 0 0% 100%;
 
-    --secondary: 210 40% 96.1%;
-    --secondary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 336 82% 50%;
+    --secondary-foreground: 0 0% 100%;
 
-    --muted: 210 40% 96.1%;
-    --muted-foreground: 215.4 16.3% 46.9%;
+    --muted: 30 15% 90%;
+    --muted-foreground: 25 12% 40%;
 
-    --accent: 210 40% 96.1%;
-    --accent-foreground: 222.2 47.4% 11.2%;
+    --accent: 270 43% 44%;
+    --accent-foreground: 0 0% 100%;
 
-    --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 210 40% 98%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
 
-    --border: 214.3 31.8% 91.4%;
-    --input: 214.3 31.8% 91.4%;
-    --ring: 222.2 84% 4.9%;
+    --border: 30 15% 82%;
+    --input: 30 15% 82%;
+    --ring: 22 90% 47%;
 
     --radius: 0.5rem;
 
+    --header-bg: 260 55% 12%;
+    --header-secondary: 260 40% 22%;
+    --election-gradient: linear-gradient(90deg, hsl(270 43% 44%), hsl(22 90% 47%), hsl(336 82% 50%));
+
+    --dmk-bg: 0 100% 5%;
+    --dmk-accent: 0 100% 40%;
+    --aiadmk-bg: 140 60% 11%;
+    --aiadmk-accent: 140 60% 24%;
+    --tvk-bg: 0 100% 24%;
+    --tvk-accent: 45 100% 50%;
+    --ntk-bg: 345 100% 17%;
+    --ntk-accent: 0 100% 27%;
+
     --sidebar-background: 0 0% 98%;
-
     --sidebar-foreground: 240 5.3% 26.1%;
-
     --sidebar-primary: 240 5.9% 10%;
-
     --sidebar-primary-foreground: 0 0% 98%;
-
     --sidebar-accent: 240 4.8% 95.9%;
-
     --sidebar-accent-foreground: 240 5.9% 10%;
-
     --sidebar-border: 220 13% 91%;
-
-    --sidebar-ring: 217.2 91.2% 59.8%;
-  }
-
-  .dark {
-    --background: 222.2 84% 4.9%;
-    --foreground: 210 40% 98%;
-
-    --card: 222.2 84% 4.9%;
-    --card-foreground: 210 40% 98%;
-
-    --popover: 222.2 84% 4.9%;
-    --popover-foreground: 210 40% 98%;
-
-    --primary: 210 40% 98%;
-    --primary-foreground: 222.2 47.4% 11.2%;
-
-    --secondary: 217.2 32.6% 17.5%;
-    --secondary-foreground: 210 40% 98%;
-
-    --muted: 217.2 32.6% 17.5%;
-    --muted-foreground: 215 20.2% 65.1%;
-
-    --accent: 217.2 32.6% 17.5%;
-    --accent-foreground: 210 40% 98%;
-
-    --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 210 40% 98%;
-
-    --border: 217.2 32.6% 17.5%;
-    --input: 217.2 32.6% 17.5%;
-    --ring: 212.7 26.8% 83.9%;
-    --sidebar-background: 240 5.9% 10%;
-    --sidebar-foreground: 240 4.8% 95.9%;
-    --sidebar-primary: 224.3 76.3% 48%;
-    --sidebar-primary-foreground: 0 0% 100%;
-    --sidebar-accent: 240 3.7% 15.9%;
-    --sidebar-accent-foreground: 240 4.8% 95.9%;
-    --sidebar-border: 240 3.7% 15.9%;
     --sidebar-ring: 217.2 91.2% 59.8%;
   }
 }
@@ -98,8 +64,112 @@ All colors MUST be HSL.
   * {
     @apply border-border;
   }
-
   body {
     @apply bg-background text-foreground;
+    font-family: 'DM Sans', sans-serif;
   }
+  h1, h2, h3 {
+    font-family: 'Playfair Display', serif;
+  }
+  .font-tamil {
+    font-family: 'Tiro Tamil', serif;
+  }
+}
+
+@layer components {
+  .nav-link {
+    @apply text-xs font-semibold px-3 py-2.5 whitespace-nowrap border-b-[3px] border-transparent transition-all duration-200;
+    color: rgba(255,255,255,0.65);
+  }
+  .nav-link:hover, .nav-link.active {
+    color: white;
+    border-bottom-color: hsl(var(--primary));
+  }
+  .nav-link-special {
+    color: hsl(var(--primary));
+    border-bottom-color: hsl(var(--primary) / 0.4);
+  }
+  .nav-link-special:hover, .nav-link-special.active {
+    border-bottom-color: hsl(var(--primary));
+    color: hsl(var(--tvk-accent));
+  }
+
+  .party-pill-dmk {
+    @apply inline-block px-2.5 py-0.5 rounded text-xs font-semibold;
+    background: linear-gradient(90deg, hsl(var(--dmk-bg)), hsl(var(--dmk-accent)));
+    color: #FFB3B3;
+  }
+  .party-pill-aiadmk {
+    @apply inline-block px-2.5 py-0.5 rounded text-xs font-semibold;
+    background: linear-gradient(90deg, hsl(var(--aiadmk-bg)), hsl(var(--aiadmk-accent)));
+    color: #B8FFD0;
+  }
+  .party-pill-tvk {
+    @apply inline-block px-2.5 py-0.5 rounded text-xs font-semibold;
+    background: linear-gradient(90deg, hsl(var(--tvk-bg)), hsl(22 100% 40%));
+    color: #FFD700;
+  }
+  .party-pill-ntk {
+    @apply inline-block px-2.5 py-0.5 rounded text-xs font-semibold;
+    background: hsl(345 100% 20%);
+    color: #FFB3C1;
+  }
+
+  .news-card {
+    @apply bg-card rounded-lg overflow-hidden border border-border shadow-sm hover:shadow-md transition-shadow duration-200;
+  }
+
+  .hero-gradient {
+    background: linear-gradient(135deg, hsl(var(--header-bg)), hsl(var(--header-secondary)));
+  }
+
+  .election-banner-bg {
+    background: var(--election-gradient);
+  }
+
+  .stat-card {
+    @apply bg-card border border-border rounded-lg p-3 text-center flex-1 min-w-[120px];
+    border-top: 4px solid hsl(var(--primary));
+  }
+
+  .district-badge {
+    @apply text-xs font-bold px-2 py-0.5 rounded-full;
+    background: hsl(var(--primary) / 0.1);
+    color: hsl(var(--primary));
+  }
+
+  .category-badge {
+    @apply text-xs font-medium px-2 py-0.5 rounded-full;
+    background: hsl(var(--secondary) / 0.1);
+    color: hsl(var(--secondary));
+  }
+}
+
+/* Scrollbar hide for nav */
+.scrollbar-hide::-webkit-scrollbar { display: none; }
+.scrollbar-hide { scrollbar-width: none; }
+
+/* Animate rows */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-in-up {
+  animation: fadeInUp 0.4s ease-out both;
+}
+
+@keyframes slideIn {
+  from { opacity: 0; transform: translateX(-20px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+.animate-slide-in {
+  animation: slideIn 0.5s ease-out both;
+}
+
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 0 0 hsl(var(--primary) / 0.4); }
+  50% { box-shadow: 0 0 20px 4px hsl(var(--primary) / 0.2); }
+}
+.animate-pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
 }
