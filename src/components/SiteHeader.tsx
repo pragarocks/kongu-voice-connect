@@ -1,6 +1,6 @@
 import { Link, useLocation } from "react-router-dom";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { Menu, X } from "lucide-react";
+import { Menu, X, Facebook, Twitter, Instagram, Youtube, Send } from "lucide-react";
 import { useState } from "react";
 
 const districts = [
@@ -21,94 +21,123 @@ export default function SiteHeader() {
 
   return (
     <>
-      <header className="hero-gradient border-b-[3px] border-primary sticky top-0 z-50">
-        <div className="max-w-[1280px] mx-auto flex items-center justify-between px-4 md:px-6 py-2.5 gap-3">
-          <Link to="/" className="flex-shrink-0">
+      {/* Social bar */}
+      <div className="social-bar">
+        <div className="max-w-[1280px] mx-auto w-full flex items-center justify-between">
+          <div className="flex items-center gap-3">
+            <a href="#" aria-label="Facebook"><Facebook size={13} /></a>
+            <a href="#" aria-label="Twitter"><Twitter size={13} /></a>
+            <a href="#" aria-label="Instagram"><Instagram size={13} /></a>
+            <a href="#" aria-label="YouTube"><Youtube size={13} /></a>
+            <a href="#" aria-label="Telegram"><Send size={13} /></a>
+          </div>
+          <div className="flex items-center gap-1">
+            <button
+              onClick={() => setLang("ta")}
+              className={`font-body text-[10px] font-bold px-2.5 py-0.5 rounded-full transition-all duration-200 ${
+                lang === "ta" ? "bg-primary text-primary-foreground" : "text-white/40 hover:text-white/70"
+              }`}
+            >
+              தமிழ்
+            </button>
+            <span className="text-white/20 text-[10px]">|</span>
+            <button
+              onClick={() => setLang("en")}
+              className={`font-body text-[10px] font-bold px-2.5 py-0.5 rounded-full transition-all duration-200 ${
+                lang === "en" ? "bg-primary text-primary-foreground" : "text-white/40 hover:text-white/70"
+              }`}
+            >
+              EN
+            </button>
+          </div>
+        </div>
+      </div>
+
+      {/* Main header */}
+      <header className="site-header-clean">
+        <div className="max-w-[1280px] mx-auto flex items-center justify-between px-4 md:px-6 py-3">
+          <Link to="/" className="flex items-center gap-3 group">
             <img src="/images/kongu-times-logo.png" alt="The Kongu Times" className="h-10 md:h-12 w-auto" />
           </Link>
-          <div className="hidden md:block text-center">
-            <div className="font-tamil text-xs text-white/60">
-              கொங்கு மண்டலத்தின் குரல் · Voice of the Kongu Region
-            </div>
+          <div className="hidden md:flex flex-col items-center">
+            <span className="font-display text-lg font-black tracking-tight text-foreground/10">
+              THE KONGU TIMES
+            </span>
+            <span className="font-tamil text-[10px] text-muted-foreground -mt-1">
+              கொங்கு மண்டலத்தின் குரல்
+            </span>
           </div>
-          <div className="flex items-center gap-2">
-            <div className="flex gap-0.5 bg-white/10 rounded-md p-0.5">
-              <button
-                onClick={() => setLang("ta")}
-                className={`font-body text-[11px] font-semibold px-3 py-1 rounded transition-colors ${
-                  lang === "ta" ? "bg-primary text-primary-foreground" : "text-white/55"
-                }`}
+          <div className="hidden md:flex items-center gap-2 text-xs text-muted-foreground">
+            <span className="font-body">{new Date().toLocaleDateString(lang === 'ta' ? 'ta-IN' : 'en-IN', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}</span>
+          </div>
+          <button
+            className="md:hidden text-foreground/60 p-1.5 rounded-lg hover:bg-muted transition-colors"
+            onClick={() => setMobileOpen(!mobileOpen)}
+          >
+            {mobileOpen ? <X size={22} /> : <Menu size={22} />}
+          </button>
+        </div>
+
+        {/* Desktop nav */}
+        <div className="border-t border-border">
+          <div className="max-w-[1280px] mx-auto hidden md:flex items-center gap-1 px-4 md:px-6 py-2 overflow-x-auto scrollbar-hide">
+            <Link to="/" className={`nav-pill ${location.pathname === "/" ? "active" : ""}`}>
+              {t("Home", "முகப்பு")}
+            </Link>
+            <Link to="/candidates-2026" className={`nav-pill-special`}>
+              🗳 {t("Candidates 2026", "வேட்பாளர்கள் 2026")}
+            </Link>
+            {districts.map((d) => (
+              <Link
+                key={d.path}
+                to={d.path}
+                className={`nav-pill ${location.pathname === d.path ? "active" : ""}`}
               >
-                தமிழ்
-              </button>
-              <button
-                onClick={() => setLang("en")}
-                className={`font-body text-[11px] font-semibold px-3 py-1 rounded transition-colors ${
-                  lang === "en" ? "bg-primary text-primary-foreground" : "text-white/55"
-                }`}
-              >
-                English
-              </button>
-            </div>
-            <button
-              className="md:hidden text-white/70 p-1"
-              onClick={() => setMobileOpen(!mobileOpen)}
-            >
-              {mobileOpen ? <X size={20} /> : <Menu size={20} />}
-            </button>
+                {d.en} · <span className="font-tamil">{d.ta}</span>
+              </Link>
+            ))}
           </div>
         </div>
       </header>
 
-      {/* Navigation */}
-      <nav className="bg-header-secondary border-b border-white/10">
-        <div className="max-w-[1280px] mx-auto hidden md:flex items-center px-4 md:px-6 overflow-x-auto scrollbar-hide">
-          <Link to="/" className={`nav-link ${location.pathname === "/" ? "active" : ""}`}>
-            🏠 {t("Home", "முகப்பு")}
-          </Link>
-          <Link
-            to="/candidates-2026"
-            className={`nav-link nav-link-special ${location.pathname === "/candidates-2026" ? "active" : ""}`}
-          >
-            🗳 {t("Candidates 2026", "வேட்பாளர்கள் 2026")}
-          </Link>
-          {districts.map((d) => (
-            <Link
-              key={d.path}
-              to={d.path}
-              className={`nav-link ${location.pathname === d.path ? "active" : ""}`}
-            >
-              {d.en} · {d.ta}
-            </Link>
-          ))}
-        </div>
-      </nav>
-
       {/* Mobile menu */}
       {mobileOpen && (
-        <div className="md:hidden bg-header-secondary border-b border-white/10 animate-fade-in-up">
-          <div className="flex flex-col px-4 py-2">
-            <Link to="/" className="nav-link" onClick={() => setMobileOpen(false)}>
-              🏠 {t("Home", "முகப்பு")}
+        <div className="md:hidden bg-background border-b border-border shadow-lg animate-fade-up z-40 relative">
+          <div className="flex flex-col px-4 py-3 gap-1">
+            <Link to="/" className="nav-pill" onClick={() => setMobileOpen(false)}>
+              {t("Home", "முகப்பு")}
             </Link>
-            <Link to="/candidates-2026" className="nav-link nav-link-special" onClick={() => setMobileOpen(false)}>
+            <Link to="/candidates-2026" className="nav-pill-special text-center" onClick={() => setMobileOpen(false)}>
               🗳 {t("Candidates 2026", "வேட்பாளர்கள் 2026")}
             </Link>
             {districts.map((d) => (
-              <Link key={d.path} to={d.path} className="nav-link" onClick={() => setMobileOpen(false)}>
-                {d.en} · {d.ta}
+              <Link key={d.path} to={d.path} className="nav-pill" onClick={() => setMobileOpen(false)}>
+                {d.en} · <span className="font-tamil">{d.ta}</span>
               </Link>
             ))}
           </div>
         </div>
       )}
 
-      {/* Election banner */}
-      <div className="election-banner-bg py-1.5 text-center">
-        <div className="font-body text-xs font-semibold text-white flex items-center justify-center gap-2.5 flex-wrap px-4">
-          <span className="bg-white/20 rounded px-2 py-0.5 text-[10px] tracking-wider">🗳 ELECTION 2026</span>
-          <span>{t("Tamil Nadu Assembly Election · April 23, 2026 · Counting: May 4", "தமிழ்நாடு சட்டமன்றத் தேர்தல் · ஏப்ரல் 23, 2026 · எண்ணிக்கை: மே 4")}</span>
-          <span className="bg-white/20 rounded px-2 py-0.5 text-[10px] tracking-wider">234 {t("Constituencies", "தொகுதிகள்")}</span>
+      {/* Election ticker */}
+      <div className="bg-foreground py-1.5 overflow-hidden">
+        <div className="election-ticker">
+          <div className="election-ticker-inner flex items-center gap-8 text-[11px] font-semibold text-white/80">
+            <span className="flex items-center gap-2">
+              <span className="bg-primary rounded px-1.5 py-0.5 text-[9px] font-bold text-primary-foreground">LIVE</span>
+              🗳 {t("Tamil Nadu Assembly Election 2026", "2026 தமிழ்நாடு சட்டமன்றத் தேர்தல்")}
+            </span>
+            <span>📅 {t("Polling: April 23, 2026", "வாக்குப்பதிவு: ஏப்ரல் 23, 2026")}</span>
+            <span>📊 {t("Counting: May 4, 2026", "எண்ணிக்கை: மே 4, 2026")}</span>
+            <span>🏛️ 234 {t("Constituencies", "தொகுதிகள்")}</span>
+            <span className="flex items-center gap-2">
+              <span className="bg-primary rounded px-1.5 py-0.5 text-[9px] font-bold text-primary-foreground">LIVE</span>
+              🗳 {t("Tamil Nadu Assembly Election 2026", "2026 தமிழ்நாடு சட்டமன்றத் தேர்தல்")}
+            </span>
+            <span>📅 {t("Polling: April 23, 2026", "வாக்குப்பதிவு: ஏப்ரல் 23, 2026")}</span>
+            <span>📊 {t("Counting: May 4, 2026", "எண்ணிக்கை: மே 4, 2026")}</span>
+            <span>🏛️ 234 {t("Constituencies", "தொகுதிகள்")}</span>
+          </div>
         </div>
       </div>
     </>
