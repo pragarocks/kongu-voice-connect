@@ -3,7 +3,8 @@ import SiteFooter from "@/components/SiteFooter";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { candidates } from "@/data/candidates";
 import { useState, useMemo } from "react";
-import { Search, BarChart3, Users, MapPin, Vote, LayoutGrid, Table, Filter } from "lucide-react";
+import { Search, BarChart3, Users, MapPin, Vote, LayoutGrid, Table } from "lucide-react";
+import { Link } from "react-router-dom";
 
 const partyFilters = ["All", "DMK", "AIADMK", "TVK", "NTK"] as const;
 

@@ -3,7 +3,7 @@ import SiteFooter from "@/components/SiteFooter";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { sampleNews } from "@/data/sampleNews";
 import { Link } from "react-router-dom";
-import { ArrowRight, TrendingUp, Clock, Newspaper, Flame, Zap } from "lucide-react";
+import { ArrowRight, TrendingUp, Clock, Flame, Zap } from "lucide-react";
 
 export default function HomePage() {
   const { t } = useLanguage();
