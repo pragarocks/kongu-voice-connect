@@ -24,17 +24,17 @@ export default function SiteHeader() {
       {/* Main header */}
       <header className="site-header-clean">
         <div className="max-w-[1280px] mx-auto flex items-center justify-between px-4 md:px-6 py-4">
-          {/* Logo - bigger */}
-          <Link to="/" className="flex items-center gap-3 group">
-            <img src="/images/kongu-times-logo.png" alt="The Kongu Times" className="h-14 md:h-[72px] w-auto" />
+          {/* Logo - much bigger */}
+          <Link to="/" className="flex items-center gap-4 group">
+            <img src="/images/kongu-times-logo.png" alt="The Kongu Times" className="h-16 md:h-[90px] w-auto" />
           </Link>
 
-          {/* Center - Ghost brand name */}
+          {/* Center - Big prominent brand name */}
           <div className="hidden md:flex flex-col items-center">
-            <span className="font-display text-xl font-black tracking-tight text-foreground/[0.06]">
+            <span className="font-display text-3xl md:text-4xl font-black tracking-tight text-foreground/90 leading-none">
               THE KONGU TIMES
             </span>
-            <span className="font-tamil text-[11px] text-muted-foreground/50 -mt-1">
+            <span className="font-tamil text-sm md:text-base text-primary/80 mt-1 font-semibold">
               கொங்கு மண்டலத்தின் குரல்
             </span>
           </div>
@@ -43,14 +43,14 @@ export default function SiteHeader() {
           <div className="hidden md:flex flex-col items-end gap-1.5">
             {/* Social + Date row */}
             <div className="flex items-center gap-4">
-              <div className="flex items-center gap-2.5">
-                <a href="#" aria-label="Facebook" className="text-muted-foreground/50 hover:text-primary transition-colors"><Facebook size={14} /></a>
-                <a href="#" aria-label="Twitter" className="text-muted-foreground/50 hover:text-primary transition-colors"><Twitter size={14} /></a>
-                <a href="#" aria-label="Instagram" className="text-muted-foreground/50 hover:text-primary transition-colors"><Instagram size={14} /></a>
-                <a href="#" aria-label="YouTube" className="text-muted-foreground/50 hover:text-primary transition-colors"><Youtube size={14} /></a>
-                <a href="#" aria-label="Telegram" className="text-muted-foreground/50 hover:text-primary transition-colors"><Send size={14} /></a>
+              <div className="flex items-center gap-3">
+                <a href="#" aria-label="Facebook" className="text-muted-foreground/60 hover:text-primary transition-colors"><Facebook size={18} /></a>
+                <a href="#" aria-label="Twitter" className="text-muted-foreground/60 hover:text-primary transition-colors"><Twitter size={18} /></a>
+                <a href="#" aria-label="Instagram" className="text-muted-foreground/60 hover:text-primary transition-colors"><Instagram size={18} /></a>
+                <a href="#" aria-label="YouTube" className="text-muted-foreground/60 hover:text-primary transition-colors"><Youtube size={18} /></a>
+                <a href="#" aria-label="Telegram" className="text-muted-foreground/60 hover:text-primary transition-colors"><Send size={18} /></a>
               </div>
-              <span className="w-px h-4 bg-border" />
+              <span className="w-px h-5 bg-border" />
               <span className="font-body text-xs text-muted-foreground">
                 {new Date().toLocaleDateString(lang === 'ta' ? 'ta-IN' : 'en-IN', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}
               </span>
@@ -112,13 +112,12 @@ export default function SiteHeader() {
       {mobileOpen && (
         <div className="md:hidden bg-background border-b border-border shadow-lg animate-fade-up z-40 relative">
           <div className="flex flex-col px-4 py-3 gap-1">
-            {/* Mobile social + lang */}
             <div className="flex items-center justify-between pb-3 mb-2 border-b border-border">
               <div className="flex items-center gap-2.5">
-                <a href="#" className="text-muted-foreground/50"><Facebook size={14} /></a>
-                <a href="#" className="text-muted-foreground/50"><Twitter size={14} /></a>
-                <a href="#" className="text-muted-foreground/50"><Instagram size={14} /></a>
-                <a href="#" className="text-muted-foreground/50"><Youtube size={14} /></a>
+                <a href="#" className="text-muted-foreground/50"><Facebook size={16} /></a>
+                <a href="#" className="text-muted-foreground/50"><Twitter size={16} /></a>
+                <a href="#" className="text-muted-foreground/50"><Instagram size={16} /></a>
+                <a href="#" className="text-muted-foreground/50"><Youtube size={16} /></a>
               </div>
               <div className="flex items-center gap-1">
                 <button onClick={() => setLang("ta")} className={`text-[10px] font-bold px-2 py-0.5 rounded-full ${lang === "ta" ? "bg-primary text-primary-foreground" : "text-muted-foreground"}`}>தமிழ்</button>

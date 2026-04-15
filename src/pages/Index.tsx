@@ -8,9 +8,9 @@ import { ArrowRight, TrendingUp, Clock, Flame, Zap } from "lucide-react";
 export default function HomePage() {
   const { t } = useLanguage();
   const heroNews = sampleNews[0];
-  const sideNews = sampleNews.slice(1, 4);
-  const latestNews = sampleNews.slice(4, 10);
-  const trendingNews = sampleNews.slice(2, 6);
+  const sideNews = sampleNews.slice(1, 6);
+  const latestNews = sampleNews.slice(6, 12);
+  const trendingNews = sampleNews.slice(1, 5);
 
   return (
     <div className="min-h-screen flex flex-col bg-background relative">
@@ -46,7 +46,7 @@ export default function HomePage() {
                     <span className="district-tag bg-white/20 text-white backdrop-blur-sm">{heroNews.district}</span>
                     <span className="category-tag bg-white/20 text-white backdrop-blur-sm">{heroNews.category}</span>
                   </div>
-                  <h1 className="font-display text-2xl md:text-4xl font-black text-white leading-tight mb-3 story-link">
+                  <h1 className="font-display text-2xl md:text-3xl font-black text-white leading-tight mb-3 story-link">
                     {t(heroNews.title_en, heroNews.title_ta)}
                   </h1>
                   <p className="text-sm text-white/80 line-clamp-2 max-w-lg">
@@ -59,27 +59,27 @@ export default function HomePage() {
               </div>
             </div>
 
-            {/* Side stories */}
-            <div className="flex flex-col gap-4">
+            {/* Side stories - 5 cards */}
+            <div className="flex flex-col gap-3">
               {sideNews.map((article, i) => (
                 <div
                   key={article.id}
                   className="news-card-v2 group cursor-pointer animate-fade-up overflow-hidden"
-                  style={{ animationDelay: `${(i + 1) * 0.12}s` }}
+                  style={{ animationDelay: `${(i + 1) * 0.1}s` }}
                 >
                   <div className="flex gap-3 p-3">
                     {article.image && (
-                      <div className="w-24 h-20 md:w-28 md:h-24 rounded-lg overflow-hidden flex-shrink-0">
+                      <div className="w-20 h-16 md:w-24 md:h-[72px] rounded-lg overflow-hidden flex-shrink-0">
                         <img src={article.image} alt="" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
                       </div>
                     )}
                     <div className="flex flex-col justify-center min-w-0">
-                      <span className="district-tag w-fit mb-1">{article.district}</span>
-                      <h3 className="font-display text-sm font-bold leading-snug line-clamp-2 group-hover:text-primary transition-colors">
+                      <span className="district-tag w-fit mb-1 text-[9px]">{article.district}</span>
+                      <h3 className="font-display text-xs font-bold leading-snug line-clamp-2 group-hover:text-primary transition-colors">
                         {t(article.title_en, article.title_ta)}
                       </h3>
-                      <span className="text-[11px] text-muted-foreground mt-1 flex items-center gap-1">
-                        <Clock size={10} /> {article.date}
+                      <span className="text-[10px] text-muted-foreground mt-1 flex items-center gap-1">
+                        <Clock size={9} /> {article.date}
                       </span>
                     </div>
                   </div>
