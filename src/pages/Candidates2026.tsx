@@ -31,7 +31,6 @@ export default function CandidatesPage() {
       <main className="flex-1">
         {/* Hero */}
         <div className="relative overflow-hidden py-14 md:py-20 px-4 md:px-6">
-          {/* Animated background */}
           <div className="absolute inset-0 bg-gradient-to-br from-primary/5 via-background to-secondary/5" />
           <div className="absolute top-0 right-0 w-96 h-96 rounded-full bg-primary/5 blur-3xl animate-float" />
           <div className="absolute bottom-0 left-0 w-64 h-64 rounded-full bg-secondary/5 blur-3xl animate-float" style={{ animationDelay: "1.5s" }} />
@@ -81,7 +80,6 @@ export default function CandidatesPage() {
         {/* Controls */}
         <div className="max-w-[1280px] mx-auto px-4 md:px-6 py-5 sticky top-[60px] z-30 bg-background/80 backdrop-blur-lg border-b border-border/50">
           <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
-            {/* Party filters */}
             <div className="flex gap-2 flex-wrap">
               {partyFilters.map((party) => (
                 <button
@@ -147,7 +145,6 @@ export default function CandidatesPage() {
                   className="candidate-row animate-fade-up group relative"
                   style={{ animationDelay: `${Math.min(i * 0.02, 0.6)}s` }}
                 >
-                  {/* Hover glow effect */}
                   <div className="absolute inset-0 rounded-xl bg-gradient-to-br from-primary/5 to-secondary/5 opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                   <div className="relative z-10">
                     <div className="flex items-start gap-4">
@@ -156,11 +153,23 @@ export default function CandidatesPage() {
                       </div>
                       <div className="flex-1 min-w-0">
                         <h3 className="font-display text-base font-bold mb-3 group-hover:text-primary transition-colors duration-300">{c.con}</h3>
-                        <div className="grid grid-cols-2 gap-1.5">
-                          <span className="pill-dmk text-[11px] truncate">{c.dmk}</span>
-                          <span className="pill-aiadmk text-[11px] truncate">{c.aiadmk}</span>
-                          <span className="pill-tvk text-[11px] truncate">{c.tvk}</span>
-                          <span className="pill-ntk text-[11px] truncate">{c.ntk}</span>
+                        <div className="space-y-1">
+                          <div className="flex items-center gap-2">
+                            <span className="pill-dmk text-[10px] whitespace-nowrap">DMK:</span>
+                            <span className="text-[11px] font-medium truncate">{c.dmk}</span>
+                          </div>
+                          <div className="flex items-center gap-2">
+                            <span className="pill-aiadmk text-[10px] whitespace-nowrap">ADMK:</span>
+                            <span className="text-[11px] font-medium truncate">{c.aiadmk}</span>
+                          </div>
+                          <div className="flex items-center gap-2">
+                            <span className="pill-tvk text-[10px] whitespace-nowrap">TVK:</span>
+                            <span className="text-[11px] font-medium truncate">{c.tvk}</span>
+                          </div>
+                          <div className="flex items-center gap-2">
+                            <span className="pill-ntk text-[10px] whitespace-nowrap">NTK:</span>
+                            <span className="text-[11px] font-medium truncate">{c.ntk}</span>
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -192,11 +201,11 @@ export default function CandidatesPage() {
                       style={{ animationDelay: `${Math.min(i * 0.015, 0.8)}s` }}
                     >
                       <td className="px-3 py-3 border-b border-border/30 font-bold text-muted-foreground text-[11px]">{c.ac}</td>
-                      <td className="px-3 py-3 border-b border-border/30 font-bold group-hover:text-primary transition-colors">{c.con}</td>
-                      <td className="px-3 py-3 border-b border-border/30"><span className="pill-dmk text-[11px]">{c.dmk}</span></td>
-                      <td className="px-3 py-3 border-b border-border/30"><span className="pill-aiadmk text-[11px]">{c.aiadmk}</span></td>
-                      <td className="px-3 py-3 border-b border-border/30"><span className="pill-tvk text-[11px]">{c.tvk}</span></td>
-                      <td className="px-3 py-3 border-b border-border/30"><span className="pill-ntk text-[11px]">{c.ntk}</span></td>
+                      <td className="px-3 py-3 border-b border-border/30 font-bold group-hover:text-primary transition-colors whitespace-nowrap">{c.con}</td>
+                      <td className="px-3 py-3 border-b border-border/30 whitespace-nowrap"><span className="pill-dmk text-[11px]">{c.dmk}</span></td>
+                      <td className="px-3 py-3 border-b border-border/30 whitespace-nowrap"><span className="pill-aiadmk text-[11px]">{c.aiadmk}</span></td>
+                      <td className="px-3 py-3 border-b border-border/30 whitespace-nowrap"><span className="pill-tvk text-[11px]">{c.tvk}</span></td>
+                      <td className="px-3 py-3 border-b border-border/30 whitespace-nowrap"><span className="pill-ntk text-[11px]">{c.ntk}</span></td>
                     </tr>
                   ))}
                 </tbody>
