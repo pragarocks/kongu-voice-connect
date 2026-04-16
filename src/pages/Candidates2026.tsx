@@ -5,15 +5,15 @@ import { candidates } from "@/data/candidates";
 import { useState, useMemo } from "react";
 import { Search, Vote, Users, ChevronDown, ChevronUp } from "lucide-react";
 
-const partyConfig = {
-  All: { label: "All", labelTa: "அனைத்தும்", bg: "bg-foreground", text: "text-background" },
-  DMK: { label: "DMK (SPA)", labelTa: "திமுக", bg: "", text: "", className: "pill-dmk" },
-  AIADMK: { label: "AIADMK (NDA)", labelTa: "அதிமுக", bg: "", text: "", className: "pill-aiadmk" },
-  TVK: { label: "TVK", labelTa: "திவிக", bg: "", text: "", className: "pill-tvk" },
-  NTK: { label: "NTK", labelTa: "நதக", bg: "", text: "", className: "pill-ntk" },
-} as const;
+const partyConfig: Record<string, { label: string; labelTa: string; className?: string }> = {
+  All: { label: "All", labelTa: "அனைத்தும்" },
+  DMK: { label: "DMK (SPA)", labelTa: "திமுக", className: "pill-dmk" },
+  AIADMK: { label: "AIADMK (NDA)", labelTa: "அதிமுக", className: "pill-aiadmk" },
+  TVK: { label: "TVK", labelTa: "திவிக", className: "pill-tvk" },
+  NTK: { label: "NTK", labelTa: "நதக", className: "pill-ntk" },
+};
 
-type PartyKey = keyof typeof partyConfig;
+type PartyKey = string;
 
 export default function CandidatesPage() {
   const { t } = useLanguage();
