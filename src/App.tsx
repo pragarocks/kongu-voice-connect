@@ -7,6 +7,7 @@ import { LanguageProvider } from "@/contexts/LanguageContext";
 import Index from "./pages/Index";
 import Candidates2026 from "./pages/Candidates2026";
 import DistrictPage from "./pages/DistrictPage";
+import ManageContent from "./pages/ManageContent";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -29,6 +30,7 @@ const App = () => (
             <Route path="/nilgiris" element={<DistrictPage district="nilgiris" />} />
             <Route path="/karur" element={<DistrictPage district="karur" />} />
             <Route path="/dharmapuri" element={<DistrictPage district="dharmapuri" />} />
+            <Route path="/manage-content" element={<ManageContent />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </BrowserRouter>
