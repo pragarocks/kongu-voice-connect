@@ -6,7 +6,14 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import { LanguageProvider } from "@/contexts/LanguageContext";
 import Index from "./pages/Index";
 import Candidates2026 from "./pages/Candidates2026";
-import DistrictPage from "./pages/DistrictPage";
+import Erode from "./pages/districts/Erode";
+import Coimbatore from "./pages/districts/Coimbatore";
+import Tiruppur from "./pages/districts/Tiruppur";
+import Salem from "./pages/districts/Salem";
+import Namakkal from "./pages/districts/Namakkal";
+import Nilgiris from "./pages/districts/Nilgiris";
+import Karur from "./pages/districts/Karur";
+import Dharmapuri from "./pages/districts/Dharmapuri";
 import ManageContent from "./pages/ManageContent";
 import NotFound from "./pages/NotFound";
 
@@ -22,14 +29,14 @@ const App = () => (
           <Routes>
             <Route path="/" element={<Index />} />
             <Route path="/candidates-2026" element={<Candidates2026 />} />
-            <Route path="/erode" element={<DistrictPage district="erode" />} />
-            <Route path="/coimbatore" element={<DistrictPage district="coimbatore" />} />
-            <Route path="/tiruppur" element={<DistrictPage district="tiruppur" />} />
-            <Route path="/salem" element={<DistrictPage district="salem" />} />
-            <Route path="/namakkal" element={<DistrictPage district="namakkal" />} />
-            <Route path="/nilgiris" element={<DistrictPage district="nilgiris" />} />
-            <Route path="/karur" element={<DistrictPage district="karur" />} />
-            <Route path="/dharmapuri" element={<DistrictPage district="dharmapuri" />} />
+            <Route path="/erode" element={<Erode />} />
+            <Route path="/coimbatore" element={<Coimbatore />} />
+            <Route path="/tiruppur" element={<Tiruppur />} />
+            <Route path="/salem" element={<Salem />} />
+            <Route path="/namakkal" element={<Namakkal />} />
+            <Route path="/nilgiris" element={<Nilgiris />} />
+            <Route path="/karur" element={<Karur />} />
+            <Route path="/dharmapuri" element={<Dharmapuri />} />
             <Route path="/manage-content" element={<ManageContent />} />
             <Route path="*" element={<NotFound />} />
           </Routes>

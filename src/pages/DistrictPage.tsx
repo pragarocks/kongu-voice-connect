@@ -43,11 +43,7 @@ export default function DistrictPage({ district }: { district: string }) {
         {/* Page title */}
         <section className="bg-gradient-to-b from-sky-50 to-white border-b border-slate-200">
           <div className="max-w-[1280px] mx-auto px-4 md:px-6 py-8 md:py-10">
-            <div className="flex items-center gap-2 text-xs text-sky-600 font-semibold uppercase tracking-widest mb-2">
-              <span className="w-8 h-px bg-sky-300" />
-              Kongu Region
-            </div>
-            <h1 className="font-display text-4xl md:text-5xl font-black text-slate-900 tracking-tight">
+            <h1 className="font-display text-4xl md:text-5xl font-black text-slate-900 tracking-tight animate-fade-up">
               {meta.name}
             </h1>
             <p className="text-sm md:text-base text-slate-600 mt-2">{meta.tagline}</p>
