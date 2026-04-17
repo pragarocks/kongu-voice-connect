@@ -14,7 +14,8 @@ const districts = [
   { path: "/dharmapuri", label: "Dharmapuri" },
 ];
 
-const navLinks = [
+type NavLink = { path: string; label: string; special?: boolean };
+const navLinks: NavLink[] = [
   { path: "/", label: "Home" },
   { path: "/candidates-2026", label: "Candidates 2026", special: true },
   ...districts,
