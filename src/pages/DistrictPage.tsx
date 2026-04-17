@@ -1,77 +1,102 @@
+import { useState, useMemo } from "react";
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
-import { useLanguage } from "@/contexts/LanguageContext";
-import { sampleNews } from "@/data/sampleNews";
-import { Clock, Newspaper } from "lucide-react";
+import { districtNews, districtMeta, type DistrictNewsItem } from "@/data/districtNews";
+import { Calendar, ArrowRight, Newspaper } from "lucide-react";
 
-interface DistrictInfo {
-  en: string;
-  ta: string;
-  emoji: string;
-  color: string;
-}
-
-const districtData: Record<string, DistrictInfo> = {
-  erode: { en: "Erode", ta: "ஈரோடு", emoji: "🌾", color: "from-amber-500 to-orange-600" },
-  coimbatore: { en: "Coimbatore", ta: "கோயம்புத்தூர்", emoji: "🏭", color: "from-blue-500 to-indigo-600" },
-  tiruppur: { en: "Tiruppur", ta: "திருப்பூர்", emoji: "👕", color: "from-teal-500 to-emerald-600" },
-  salem: { en: "Salem", ta: "சேலம்", emoji: "⚙️", color: "from-gray-600 to-slate-700" },
-  namakkal: { en: "Namakkal", ta: "நாமக்கல்", emoji: "🥚", color: "from-yellow-500 to-amber-600" },
-  nilgiris: { en: "Nilgiris", ta: "நீலகிரி", emoji: "🍃", color: "from-green-500 to-emerald-700" },
-  karur: { en: "Karur", ta: "கரூர்", emoji: "🧵", color: "from-purple-500 to-violet-600" },
-  dharmapuri: { en: "Dharmapuri", ta: "தர்மபுரி", emoji: "🥭", color: "from-orange-500 to-red-600" },
+const categoryStyles: Record<string, string> = {
+  Election: "bg-sky-50 text-sky-700 border-sky-200",
+  Campaign: "bg-orange-50 text-orange-700 border-orange-200",
+  Awareness: "bg-emerald-50 text-emerald-700 border-emerald-200",
+  Enforcement: "bg-rose-50 text-rose-700 border-rose-200",
 };
 
-export default function DistrictPage({ district }: { district: string }) {
-  const { t } = useLanguage();
-  const info = districtData[district];
-  const news = sampleNews.filter((n) => n.district.toLowerCase() === district.toLowerCase());
+const categories = ["All", "Election", "Campaign", "Awareness", "Enforcement"] as const;
 
-  if (!info) return null;
+export default function DistrictPage({ district }: { district: string }) {
+  const meta = districtMeta[district];
+  const allNews = districtNews[district] || [];
+  const [activeCategory, setActiveCategory] = useState<(typeof categories)[number]>("All");
+
+  const featured = allNews.find((n) => n.featured);
+  const filteredNews = useMemo(() => {
+    const rest = allNews.filter((n) => !n.featured);
+    if (activeCategory === "All") return rest;
+    return rest.filter((n) => n.category === activeCategory);
+  }, [allNews, activeCategory]);
+
+  if (!meta) {
+    return (
+      <div className="min-h-screen flex flex-col bg-white">
+        <SiteHeader />
+        <main className="flex-1 flex items-center justify-center text-slate-500">District not found</main>
+        <SiteFooter />
+      </div>
+    );
+  }
 
   return (
-    <div className="min-h-screen flex flex-col bg-background">
+    <div className="min-h-screen flex flex-col bg-white">
       <SiteHeader />
 
       <main className="flex-1">
-        {/* Compact district header */}
-        <div className="border-b border-border bg-muted/30">
-          <div className="max-w-[1280px] mx-auto px-4 md:px-6 py-4 flex items-center gap-3">
-            <div className={`w-10 h-10 rounded-xl bg-gradient-to-br ${info.color} flex items-center justify-center text-xl shadow`}>
-              {info.emoji}
+        {/* Page title */}
+        <section className="bg-gradient-to-b from-sky-50 to-white border-b border-slate-200">
+          <div className="max-w-[1280px] mx-auto px-4 md:px-6 py-8 md:py-10">
+            <div className="flex items-center gap-2 text-xs text-sky-600 font-semibold uppercase tracking-widest mb-2">
+              <span className="w-8 h-px bg-sky-300" />
+              Kongu Region
             </div>
-            <h1 className="font-display text-2xl md:text-3xl font-black leading-none">
-              {t(info.en, info.ta)}
+            <h1 className="font-display text-4xl md:text-5xl font-black text-slate-900 tracking-tight">
+              {meta.name}
             </h1>
+            <p className="text-sm md:text-base text-slate-600 mt-2">{meta.tagline}</p>
           </div>
-        </div>
+        </section>
 
-        {/* News grid — starts immediately */}
-        <section className="max-w-[1280px] mx-auto px-4 md:px-6 py-6">
-          {news.length > 0 ? (
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-              {news.map((article, i) => (
-                <div key={article.id} className="news-card-v2 group cursor-pointer animate-fade-up" style={{ animationDelay: `${i * 0.06}s` }}>
-                  {article.image && (
-                    <div className="aspect-[16/9] overflow-hidden">
-                      <img src={article.image} alt={t(article.title_en, article.title_ta)} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
-                    </div>
-                  )}
-                  <div className="p-3">
-                    <span className="category-tag text-[8px] mb-1 inline-block">{article.category}</span>
-                    <h3 className="font-display text-sm font-bold leading-snug mb-1.5 group-hover:text-primary transition-colors line-clamp-2">
-                      {t(article.title_en, article.title_ta)}
-                    </h3>
-                    <p className="text-[11px] text-muted-foreground line-clamp-2 mb-2">{t(article.summary_en, article.summary_ta)}</p>
-                    <span className="flex items-center gap-1 text-[10px] text-muted-foreground"><Clock size={9} /> {article.date}</span>
-                  </div>
-                </div>
+        {/* Featured headline */}
+        {featured && (
+          <section className="max-w-[1280px] mx-auto px-4 md:px-6 pt-8">
+            <FeaturedCard item={featured} />
+          </section>
+        )}
+
+        {/* Category filters */}
+        <section className="max-w-[1280px] mx-auto px-4 md:px-6 pt-8 pb-4">
+          <div className="flex items-center justify-between flex-wrap gap-3 border-b border-slate-200 pb-3">
+            <h2 className="font-display text-xl md:text-2xl font-black text-slate-900">
+              Latest News
+            </h2>
+            <div className="flex items-center gap-1.5 flex-wrap">
+              {categories.map((cat) => (
+                <button
+                  key={cat}
+                  onClick={() => setActiveCategory(cat)}
+                  className={`px-3 py-1.5 rounded-full text-xs font-semibold transition-all border ${
+                    activeCategory === cat
+                      ? "bg-sky-600 text-white border-sky-600 shadow-sm"
+                      : "bg-white text-slate-600 border-slate-200 hover:border-sky-300 hover:text-sky-700"
+                  }`}
+                >
+                  {cat}
+                </button>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        {/* News grid */}
+        <section className="max-w-[1280px] mx-auto px-4 md:px-6 pb-16">
+          {filteredNews.length > 0 ? (
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+              {filteredNews.map((item, i) => (
+                <NewsArticleCard key={item.id} item={item} delay={i * 0.05} />
               ))}
             </div>
           ) : (
-            <div className="text-center py-16 text-muted-foreground animate-fade-up">
-              <Newspaper size={40} className="mx-auto mb-3 text-muted-foreground/20" />
-              <p className="font-display text-lg font-bold">{t("More news coming soon", "மேலும் செய்திகள் விரைவில்")}</p>
+            <div className="text-center py-16 text-slate-400">
+              <Newspaper size={40} className="mx-auto mb-3 opacity-40" />
+              <p className="font-display text-lg font-bold">No articles in this category</p>
             </div>
           )}
         </section>
@@ -79,5 +104,65 @@ export default function DistrictPage({ district }: { district: string }) {
 
       <SiteFooter />
     </div>
+  );
+}
+
+function FeaturedCard({ item }: { item: DistrictNewsItem }) {
+  return (
+    <article className="group relative overflow-hidden rounded-2xl bg-gradient-to-br from-sky-600 via-sky-700 to-indigo-800 text-white shadow-lg hover:shadow-xl transition-shadow animate-fade-up">
+      <div className="absolute inset-0 opacity-10 bg-[radial-gradient(circle_at_top_right,white,transparent_60%)]" />
+      <div className="relative p-6 md:p-10">
+        <div className="flex items-center gap-2 mb-4">
+          <span className="px-2.5 py-1 rounded-full bg-white/20 backdrop-blur text-[10px] font-bold uppercase tracking-wider">
+            ★ Featured
+          </span>
+          <span className={`px-2.5 py-1 rounded-full text-[10px] font-bold border bg-white/95 ${categoryStyles[item.category]}`}>
+            {item.category}
+          </span>
+        </div>
+        <h2 className="font-display text-2xl md:text-4xl font-black leading-tight mb-3 max-w-3xl">
+          {item.title}
+        </h2>
+        <p className="text-white/85 text-sm md:text-base max-w-2xl leading-relaxed mb-4">
+          {item.summary}
+        </p>
+        <div className="flex items-center gap-4 text-xs text-white/70">
+          <span className="flex items-center gap-1.5">
+            <Calendar size={12} /> {item.date}
+          </span>
+          <span className="flex items-center gap-1.5 font-semibold group-hover:gap-2 transition-all">
+            Read more <ArrowRight size={12} />
+          </span>
+        </div>
+      </div>
+    </article>
+  );
+}
+
+function NewsArticleCard({ item, delay }: { item: DistrictNewsItem; delay: number }) {
+  return (
+    <article
+      className="group bg-white rounded-xl border border-slate-200 p-5 hover:border-sky-300 hover:shadow-md transition-all cursor-pointer animate-fade-up"
+      style={{ animationDelay: `${delay}s` }}
+    >
+      <div className="flex items-center justify-between mb-3">
+        <span className={`px-2.5 py-0.5 rounded-full text-[10px] font-bold border ${categoryStyles[item.category]}`}>
+          {item.category}
+        </span>
+        <time className="text-[11px] text-slate-400 font-medium flex items-center gap-1">
+          <Calendar size={10} />
+          {item.date}
+        </time>
+      </div>
+      <h3 className="font-display text-base md:text-lg font-bold text-slate-900 leading-snug mb-2 group-hover:text-sky-700 transition-colors line-clamp-2">
+        {item.title}
+      </h3>
+      <p className="text-sm text-slate-600 leading-relaxed line-clamp-3">{item.summary}</p>
+      <div className="mt-3 pt-3 border-t border-slate-100 flex items-center justify-between text-xs">
+        <span className="font-semibold text-sky-600 group-hover:gap-1.5 flex items-center gap-1 transition-all">
+          Read article <ArrowRight size={11} />
+        </span>
+      </div>
+    </article>
   );
 }
