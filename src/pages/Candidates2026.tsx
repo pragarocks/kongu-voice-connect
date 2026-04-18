@@ -4,6 +4,10 @@ import { useLanguage } from "@/contexts/LanguageContext";
 import { candidates } from "@/data/candidates";
 import { useState, useMemo } from "react";
 import { Search, Vote, Users, ChevronDown, ChevronUp } from "lucide-react";
+import leaderStalin from "@/assets/leader-stalin.png";
+import leaderEps from "@/assets/leader-eps.png";
+import leaderVijay from "@/assets/leader-vijay.png";
+import leaderSeeman from "@/assets/leader-seeman.png";
 
 const partyConfig: Record<string, { label: string; labelTa: string; className?: string }> = {
   All: { label: "All", labelTa: "அனைத்தும்" },
@@ -40,12 +44,11 @@ export default function CandidatesPage() {
     return result;
   }, [search, sortAsc]);
 
-  const stats = [
-    { value: "234", label: t("Constituencies", "தொகுதிகள்"), icon: <Vote size={16} /> },
-    { value: "SPA Alliance", label: "DMK", color: "border-l-4 border-l-red-700" },
-    { value: "NDA Alliance", label: "AIADMK", color: "border-l-4 border-l-green-700" },
-    { value: "Vijay's Party", label: "TVK", color: "border-l-4 border-l-amber-600" },
-    { value: "Seeman", label: "NTK", color: "border-l-4 border-l-rose-800" },
+  const leaderCards = [
+    { headline: t("DMK Alliance", "திமுக கூட்டணி"), party: "DMK", leader: "M. K. Stalin", img: leaderStalin, accent: "border-l-4 border-l-red-700", badge: "bg-red-700" },
+    { headline: t("NDA Alliance", "தேமுதிக கூட்டணி"), party: "AIADMK", leader: "Edappadi K. Palaniswami", img: leaderEps, accent: "border-l-4 border-l-green-700", badge: "bg-green-700" },
+    { headline: t("Vijay's Party", "விஜய் கட்சி"), party: "TVK", leader: "Thalapathy Vijay", img: leaderVijay, accent: "border-l-4 border-l-amber-600", badge: "bg-amber-600" },
+    { headline: t("Seeman's NTK", "சீமான் நாதக"), party: "NTK", leader: "Seeman", img: leaderSeeman, accent: "border-l-4 border-l-rose-800", badge: "bg-rose-800" },
   ];
 
   return (
