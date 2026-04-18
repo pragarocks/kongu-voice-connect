@@ -3,7 +3,7 @@ import SiteFooter from "@/components/SiteFooter";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { candidates } from "@/data/candidates";
 import { useState, useMemo } from "react";
-import { Search, Vote, Users, ChevronDown, ChevronUp } from "lucide-react";
+import { Search, Users, ChevronDown, ChevronUp } from "lucide-react";
 import leaderStalin from "@/assets/leader-stalin.png";
 import leaderEps from "@/assets/leader-eps.png";
 import leaderVijay from "@/assets/leader-vijay.png";
@@ -77,16 +77,30 @@ export default function CandidatesPage() {
               </div>
             </div>
 
-            {/* Stats row */}
-            <div className="grid grid-cols-2 sm:grid-cols-5 gap-3 mt-6">
-              {stats.map((s, i) => (
+            {/* Leader cards row */}
+            <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mt-8">
+              {leaderCards.map((c, i) => (
                 <div
-                  key={s.label}
-                  className={`bg-background/10 backdrop-blur rounded-xl px-4 py-3 animate-fade-up ${s.color || ""}`}
+                  key={c.party}
+                  className={`group bg-background/10 backdrop-blur rounded-2xl overflow-hidden animate-fade-up ${c.accent} hover:bg-background/15 transition-all`}
                   style={{ animationDelay: `${i * 0.08}s` }}
                 >
-                  <div className="text-lg font-black text-primary">{s.value}</div>
-                  <div className="text-[10px] text-background/50 uppercase tracking-wider font-bold">{s.label}</div>
+                  <div className="aspect-[4/3] w-full overflow-hidden bg-background/5">
+                    <img
+                      src={c.img}
+                      alt={`${c.leader} - ${c.party}`}
+                      loading="lazy"
+                      className="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500"
+                    />
+                  </div>
+                  <div className="px-4 py-3">
+                    <div className="flex items-center gap-2 mb-1">
+                      <span className={`inline-block w-2 h-2 rounded-full ${c.badge}`} />
+                      <span className="text-[10px] font-bold tracking-[0.15em] uppercase text-primary">{c.party}</span>
+                    </div>
+                    <div className="text-sm font-black text-background leading-tight">{c.headline}</div>
+                    <div className="text-[11px] text-background/60 mt-0.5">{c.leader}</div>
+                  </div>
                 </div>
               ))}
             </div>
