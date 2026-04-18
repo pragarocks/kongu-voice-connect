@@ -146,5 +146,637 @@
     "date": "April 17, 2026",
     "title": "DEO Conducts Voter Awareness in Hill Hamlets",
     "summary": "The District Election Officer led an awareness drive in remote hill hamlets across Nilgiris."
+  },
+  {
+    "id": "nil-22",
+    "title": "EVM Commissioning Underway in Nilgiris Constituencies",
+    "summary": "Election officials in Nilgiris have begun the commissioning of EVMs and VVPATs in the presence of candidate agents and observers ahead of the polling day.",
+    "category": "Election",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-23",
+    "title": "DMK Intensifies Final-Phase Outreach in Nilgiris",
+    "summary": "DMK candidates and alliance workers have intensified door-to-door outreach across Nilgiris, focusing on welfare scheme beneficiaries and first-time voters.",
+    "category": "Campaign",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-24",
+    "title": "SVEEP Street Plays Boost Voter Awareness in Nilgiris",
+    "summary": "SVEEP teams in Nilgiris performed street plays at bus stands and markets to encourage 100% voter turnout on April 23.",
+    "category": "Awareness",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-25",
+    "title": "Flying Squads Intensify Vehicle Checks in Nilgiris",
+    "summary": "Flying squads in Nilgiris have intensified vehicle checks at major entry points and highway intersections to curb illegal cash movement.",
+    "category": "Enforcement",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-26",
+    "title": "Nilgiris Reports Smooth Progress on Postal Ballot Distribution",
+    "summary": "District election officials confirmed that postal ballot distribution to service voters and senior citizens in Nilgiris is progressing as per schedule.",
+    "category": "Election",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-27",
+    "title": "AIADMK Holds Booth-Level Worker Meetings in Nilgiris",
+    "summary": "AIADMK held booth-level worker meetings across Nilgiris to finalize polling-day strategy and voter mobilization plans.",
+    "category": "Campaign",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-28",
+    "title": "Nilgiris Colleges Host Voter Pledge Programs",
+    "summary": "Colleges across Nilgiris hosted voter pledge programs for first-time voters, accompanied by mock EVM demonstrations.",
+    "category": "Awareness",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-29",
+    "title": "Nilgiris Static Surveillance Teams Report Daily to Observers",
+    "summary": "Static surveillance teams in Nilgiris are reporting daily to election observers on cash, liquor, and freebie movement.",
+    "category": "Enforcement",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-30",
+    "title": "Strong Rooms Sealed in Nilgiris After Final Randomization",
+    "summary": "EVM strong rooms across Nilgiris have been sealed under multi-tier security following the final randomization of polling personnel.",
+    "category": "Election",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-31",
+    "title": "BJP Highlights Central Schemes During Nilgiris Roadshow",
+    "summary": "BJP candidates conducted a roadshow in Nilgiris highlighting central government welfare schemes and infrastructure investments.",
+    "category": "Campaign",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-32",
+    "title": "Booth Slip Distribution Crosses Halfway Mark in Nilgiris",
+    "summary": "Door-to-door booth slip distribution in Nilgiris has crossed the halfway mark, with BLOs targeting full coverage by April 18.",
+    "category": "Awareness",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-33",
+    "title": "MCC Violation Notices Issued in Nilgiris Constituencies",
+    "summary": "Several model code of conduct violation notices have been issued in Nilgiris constituencies for unauthorised hoardings and campaign material.",
+    "category": "Enforcement",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-34",
+    "title": "Nilgiris Collector Reviews Polling Station Readiness",
+    "summary": "The District Collector held a review meeting with returning officers in Nilgiris to assess polling station readiness, water supply, and accessibility ramps.",
+    "category": "Election",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-35",
+    "title": "TVK Cadre Steps Up Door-to-Door Drive in Nilgiris",
+    "summary": "TVK cadre led by local coordinators stepped up the door-to-door campaign across Nilgiris, distributing pamphlets and party manifestos.",
+    "category": "Campaign",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-36",
+    "title": "Nilgiris Administration Installs Awareness Hoardings",
+    "summary": "The Nilgiris district administration has installed voter awareness hoardings at major junctions, urging citizens to exercise their franchise.",
+    "category": "Awareness",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-37",
+    "title": "Nilgiris Police Beef Up Security at Sensitive Booths",
+    "summary": "Nilgiris district police have beefed up security at sensitive booths with paramilitary deployment and additional patrol vehicles.",
+    "category": "Enforcement",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-38",
+    "title": "Mock Polls Demonstrated to Candidates in Nilgiris",
+    "summary": "Mock polls were demonstrated to candidate representatives in Nilgiris as part of EVM transparency measures before the April 23 election.",
+    "category": "Election",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-39",
+    "title": "Congress Workers Hold Street-Corner Meetings in Nilgiris",
+    "summary": "Congress alliance workers held street-corner meetings in Nilgiris to highlight the alliance's promises on education and healthcare.",
+    "category": "Campaign",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-40",
+    "title": "Voter Helpline Sees Spike in Calls from Nilgiris",
+    "summary": "The state voter helpline has seen a spike in calls from Nilgiris, mostly enquiring about polling station details and voter slip status.",
+    "category": "Awareness",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-41",
+    "title": "Liquor Seizure Reported During Nilgiris Checks",
+    "summary": "A significant liquor seizure was reported during routine election-related checks in Nilgiris, and the contraband has been impounded.",
+    "category": "Enforcement",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-42",
+    "title": "Nilgiris Voter List Final Verification Concluded",
+    "summary": "Booth-level officers in Nilgiris have concluded the final voter list verification, ensuring electoral roll accuracy ahead of polling.",
+    "category": "Election",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-43",
+    "title": "NTK Organises Cycle Rally Across Nilgiris Towns",
+    "summary": "Naam Tamilar Katchi organised a cycle rally across Nilgiris towns to highlight environmental and identity-based issues ahead of polling.",
+    "category": "Campaign",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-44",
+    "title": "Nilgiris Differently-Abled Voters Get Dedicated Assistance",
+    "summary": "Differently-abled voters in Nilgiris are receiving dedicated transport and assistance arrangements from the district election office.",
+    "category": "Awareness",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-45",
+    "title": "Income Tax Teams Conduct Discreet Surveys in Nilgiris",
+    "summary": "Income Tax teams have been conducting discreet surveys in Nilgiris to track unaccounted financial flows linked to the election period.",
+    "category": "Enforcement",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-46",
+    "title": "Sector Officers Deployed Across Nilgiris Polling Zones",
+    "summary": "Sector officers have been deployed across Nilgiris polling zones to monitor turnout, address grievances, and report issues in real time.",
+    "category": "Election",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-47",
+    "title": "Star Campaigners Schedule Final Rallies in Nilgiris",
+    "summary": "Major political parties have scheduled final-phase rallies of star campaigners in Nilgiris as the silent period nears.",
+    "category": "Campaign",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-48",
+    "title": "Social Media Influencers Promote Turnout in Nilgiris",
+    "summary": "Local social media influencers in Nilgiris are running short-form video campaigns urging youth to vote on April 23.",
+    "category": "Awareness",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-49",
+    "title": "Nilgiris Cybercrime Cell Monitors Election Misinformation",
+    "summary": "The Nilgiris cybercrime cell is actively monitoring social media platforms for election-related misinformation and hate speech.",
+    "category": "Enforcement",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-50",
+    "title": "Nilgiris Election Control Room Operates Round the Clock",
+    "summary": "The election control room in Nilgiris is functioning round the clock to handle voter complaints, MCC violations, and logistical queries.",
+    "category": "Election",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-51",
+    "title": "Women Self-Help Groups Address Nilgiris Candidates",
+    "summary": "Women self-help group federations in Nilgiris addressed candidates seeking concrete commitments on livelihood and credit access.",
+    "category": "Campaign",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-52",
+    "title": "Nilgiris Senior Citizens Avail Home Voting Facility",
+    "summary": "Senior citizens above 85 in Nilgiris are availing the home voting facility, with polling teams visiting registered residences.",
+    "category": "Awareness",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-53",
+    "title": "Bank Cash Movement Tracked in Nilgiris",
+    "summary": "Bank cash movement above the threshold in Nilgiris is being tracked and verified by election expenditure observers.",
+    "category": "Enforcement",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-54",
+    "title": "EVM Commissioning Underway in Nilgiris Constituencies",
+    "summary": "Election officials in Nilgiris have begun the commissioning of EVMs and VVPATs in the presence of candidate agents and observers ahead of the polling day.",
+    "category": "Election",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-55",
+    "title": "Trader Associations Submit Memorandum to Nilgiris Candidates",
+    "summary": "Trader associations submitted a joint memorandum to candidates in Nilgiris seeking GST relief and infrastructure support.",
+    "category": "Campaign",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-56",
+    "title": "SVEEP Street Plays Boost Voter Awareness in Nilgiris",
+    "summary": "SVEEP teams in Nilgiris performed street plays at bus stands and markets to encourage 100% voter turnout on April 23.",
+    "category": "Awareness",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-57",
+    "title": "Flying Squads Intensify Vehicle Checks in Nilgiris",
+    "summary": "Flying squads in Nilgiris have intensified vehicle checks at major entry points and highway intersections to curb illegal cash movement.",
+    "category": "Enforcement",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-58",
+    "title": "Nilgiris Reports Smooth Progress on Postal Ballot Distribution",
+    "summary": "District election officials confirmed that postal ballot distribution to service voters and senior citizens in Nilgiris is progressing as per schedule.",
+    "category": "Election",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-59",
+    "title": "Nilgiris Farmers Raise Pricing Concerns at Public Meeting",
+    "summary": "Farmers in Nilgiris raised concerns over crop pricing and procurement at a public meeting attended by alliance candidates.",
+    "category": "Campaign",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-60",
+    "title": "Nilgiris Colleges Host Voter Pledge Programs",
+    "summary": "Colleges across Nilgiris hosted voter pledge programs for first-time voters, accompanied by mock EVM demonstrations.",
+    "category": "Awareness",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-61",
+    "title": "Nilgiris Static Surveillance Teams Report Daily to Observers",
+    "summary": "Static surveillance teams in Nilgiris are reporting daily to election observers on cash, liquor, and freebie movement.",
+    "category": "Enforcement",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-62",
+    "title": "Strong Rooms Sealed in Nilgiris After Final Randomization",
+    "summary": "EVM strong rooms across Nilgiris have been sealed under multi-tier security following the final randomization of polling personnel.",
+    "category": "Election",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-63",
+    "title": "DMK Intensifies Final-Phase Outreach in Nilgiris",
+    "summary": "DMK candidates and alliance workers have intensified door-to-door outreach across Nilgiris, focusing on welfare scheme beneficiaries and first-time voters.",
+    "category": "Campaign",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-64",
+    "title": "Booth Slip Distribution Crosses Halfway Mark in Nilgiris",
+    "summary": "Door-to-door booth slip distribution in Nilgiris has crossed the halfway mark, with BLOs targeting full coverage by April 18.",
+    "category": "Awareness",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-65",
+    "title": "MCC Violation Notices Issued in Nilgiris Constituencies",
+    "summary": "Several model code of conduct violation notices have been issued in Nilgiris constituencies for unauthorised hoardings and campaign material.",
+    "category": "Enforcement",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-66",
+    "title": "Nilgiris Collector Reviews Polling Station Readiness",
+    "summary": "The District Collector held a review meeting with returning officers in Nilgiris to assess polling station readiness, water supply, and accessibility ramps.",
+    "category": "Election",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-67",
+    "title": "AIADMK Holds Booth-Level Worker Meetings in Nilgiris",
+    "summary": "AIADMK held booth-level worker meetings across Nilgiris to finalize polling-day strategy and voter mobilization plans.",
+    "category": "Campaign",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-68",
+    "title": "Nilgiris Administration Installs Awareness Hoardings",
+    "summary": "The Nilgiris district administration has installed voter awareness hoardings at major junctions, urging citizens to exercise their franchise.",
+    "category": "Awareness",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-69",
+    "title": "Nilgiris Police Beef Up Security at Sensitive Booths",
+    "summary": "Nilgiris district police have beefed up security at sensitive booths with paramilitary deployment and additional patrol vehicles.",
+    "category": "Enforcement",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-70",
+    "title": "Mock Polls Demonstrated to Candidates in Nilgiris",
+    "summary": "Mock polls were demonstrated to candidate representatives in Nilgiris as part of EVM transparency measures before the April 23 election.",
+    "category": "Election",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-71",
+    "title": "BJP Highlights Central Schemes During Nilgiris Roadshow",
+    "summary": "BJP candidates conducted a roadshow in Nilgiris highlighting central government welfare schemes and infrastructure investments.",
+    "category": "Campaign",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-72",
+    "title": "Voter Helpline Sees Spike in Calls from Nilgiris",
+    "summary": "The state voter helpline has seen a spike in calls from Nilgiris, mostly enquiring about polling station details and voter slip status.",
+    "category": "Awareness",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-73",
+    "title": "Liquor Seizure Reported During Nilgiris Checks",
+    "summary": "A significant liquor seizure was reported during routine election-related checks in Nilgiris, and the contraband has been impounded.",
+    "category": "Enforcement",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-74",
+    "title": "Nilgiris Voter List Final Verification Concluded",
+    "summary": "Booth-level officers in Nilgiris have concluded the final voter list verification, ensuring electoral roll accuracy ahead of polling.",
+    "category": "Election",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-75",
+    "title": "TVK Cadre Steps Up Door-to-Door Drive in Nilgiris",
+    "summary": "TVK cadre led by local coordinators stepped up the door-to-door campaign across Nilgiris, distributing pamphlets and party manifestos.",
+    "category": "Campaign",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-76",
+    "title": "Nilgiris Differently-Abled Voters Get Dedicated Assistance",
+    "summary": "Differently-abled voters in Nilgiris are receiving dedicated transport and assistance arrangements from the district election office.",
+    "category": "Awareness",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-77",
+    "title": "Income Tax Teams Conduct Discreet Surveys in Nilgiris",
+    "summary": "Income Tax teams have been conducting discreet surveys in Nilgiris to track unaccounted financial flows linked to the election period.",
+    "category": "Enforcement",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-78",
+    "title": "Sector Officers Deployed Across Nilgiris Polling Zones",
+    "summary": "Sector officers have been deployed across Nilgiris polling zones to monitor turnout, address grievances, and report issues in real time.",
+    "category": "Election",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-79",
+    "title": "Congress Workers Hold Street-Corner Meetings in Nilgiris",
+    "summary": "Congress alliance workers held street-corner meetings in Nilgiris to highlight the alliance's promises on education and healthcare.",
+    "category": "Campaign",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-80",
+    "title": "Social Media Influencers Promote Turnout in Nilgiris",
+    "summary": "Local social media influencers in Nilgiris are running short-form video campaigns urging youth to vote on April 23.",
+    "category": "Awareness",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-81",
+    "title": "Nilgiris Cybercrime Cell Monitors Election Misinformation",
+    "summary": "The Nilgiris cybercrime cell is actively monitoring social media platforms for election-related misinformation and hate speech.",
+    "category": "Enforcement",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-82",
+    "title": "Nilgiris Election Control Room Operates Round the Clock",
+    "summary": "The election control room in Nilgiris is functioning round the clock to handle voter complaints, MCC violations, and logistical queries.",
+    "category": "Election",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-83",
+    "title": "NTK Organises Cycle Rally Across Nilgiris Towns",
+    "summary": "Naam Tamilar Katchi organised a cycle rally across Nilgiris towns to highlight environmental and identity-based issues ahead of polling.",
+    "category": "Campaign",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-84",
+    "title": "Nilgiris Senior Citizens Avail Home Voting Facility",
+    "summary": "Senior citizens above 85 in Nilgiris are availing the home voting facility, with polling teams visiting registered residences.",
+    "category": "Awareness",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-85",
+    "title": "Bank Cash Movement Tracked in Nilgiris",
+    "summary": "Bank cash movement above the threshold in Nilgiris is being tracked and verified by election expenditure observers.",
+    "category": "Enforcement",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-86",
+    "title": "EVM Commissioning Underway in Nilgiris Constituencies",
+    "summary": "Election officials in Nilgiris have begun the commissioning of EVMs and VVPATs in the presence of candidate agents and observers ahead of the polling day.",
+    "category": "Election",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-87",
+    "title": "Star Campaigners Schedule Final Rallies in Nilgiris",
+    "summary": "Major political parties have scheduled final-phase rallies of star campaigners in Nilgiris as the silent period nears.",
+    "category": "Campaign",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-88",
+    "title": "SVEEP Street Plays Boost Voter Awareness in Nilgiris",
+    "summary": "SVEEP teams in Nilgiris performed street plays at bus stands and markets to encourage 100% voter turnout on April 23.",
+    "category": "Awareness",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-89",
+    "title": "Flying Squads Intensify Vehicle Checks in Nilgiris",
+    "summary": "Flying squads in Nilgiris have intensified vehicle checks at major entry points and highway intersections to curb illegal cash movement.",
+    "category": "Enforcement",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-90",
+    "title": "Nilgiris Reports Smooth Progress on Postal Ballot Distribution",
+    "summary": "District election officials confirmed that postal ballot distribution to service voters and senior citizens in Nilgiris is progressing as per schedule.",
+    "category": "Election",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-91",
+    "title": "Women Self-Help Groups Address Nilgiris Candidates",
+    "summary": "Women self-help group federations in Nilgiris addressed candidates seeking concrete commitments on livelihood and credit access.",
+    "category": "Campaign",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-92",
+    "title": "Nilgiris Colleges Host Voter Pledge Programs",
+    "summary": "Colleges across Nilgiris hosted voter pledge programs for first-time voters, accompanied by mock EVM demonstrations.",
+    "category": "Awareness",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-93",
+    "title": "Nilgiris Static Surveillance Teams Report Daily to Observers",
+    "summary": "Static surveillance teams in Nilgiris are reporting daily to election observers on cash, liquor, and freebie movement.",
+    "category": "Enforcement",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-94",
+    "title": "Strong Rooms Sealed in Nilgiris After Final Randomization",
+    "summary": "EVM strong rooms across Nilgiris have been sealed under multi-tier security following the final randomization of polling personnel.",
+    "category": "Election",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-95",
+    "title": "Trader Associations Submit Memorandum to Nilgiris Candidates",
+    "summary": "Trader associations submitted a joint memorandum to candidates in Nilgiris seeking GST relief and infrastructure support.",
+    "category": "Campaign",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-96",
+    "title": "Booth Slip Distribution Crosses Halfway Mark in Nilgiris",
+    "summary": "Door-to-door booth slip distribution in Nilgiris has crossed the halfway mark, with BLOs targeting full coverage by April 18.",
+    "category": "Awareness",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-97",
+    "title": "MCC Violation Notices Issued in Nilgiris Constituencies",
+    "summary": "Several model code of conduct violation notices have been issued in Nilgiris constituencies for unauthorised hoardings and campaign material.",
+    "category": "Enforcement",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-98",
+    "title": "Nilgiris Collector Reviews Polling Station Readiness",
+    "summary": "The District Collector held a review meeting with returning officers in Nilgiris to assess polling station readiness, water supply, and accessibility ramps.",
+    "category": "Election",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-99",
+    "title": "Nilgiris Farmers Raise Pricing Concerns at Public Meeting",
+    "summary": "Farmers in Nilgiris raised concerns over crop pricing and procurement at a public meeting attended by alliance candidates.",
+    "category": "Campaign",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "nil-100",
+    "title": "Nilgiris Administration Installs Awareness Hoardings",
+    "summary": "The Nilgiris district administration has installed voter awareness hoardings at major junctions, urging citizens to exercise their franchise.",
+    "category": "Awareness",
+    "date": "April 17, 2026",
+    "featured": false
   }
 ]
