@@ -1,0 +1,782 @@
+[
+  {
+    "id": "kar-f",
+    "featured": true,
+    "category": "Campaign",
+    "date": "April 17, 2026",
+    "title": "Kamal Haasan Promises Industrial Growth in Karur Rally",
+    "summary": "Kamal Haasan addresses a public rally promising industrial growth in Karur, particularly focusing on the textile and home furnishing exports sector."
+  },
+  {
+    "id": "kar-1",
+    "category": "Campaign",
+    "date": "April 17, 2026",
+    "title": "DMK Door-to-Door Campaign in Karur Town",
+    "summary": "DMK candidate conducts intensive door-to-door campaign in Karur town today, meeting weavers and textile workers."
+  },
+  {
+    "id": "kar-2",
+    "category": "Campaign",
+    "date": "April 17, 2026",
+    "title": "AIADMK Promises Better Drinking Water in Thanthoni",
+    "summary": "AIADMK nominee promises improved drinking water supply infrastructure in Thanthoni area of Karur."
+  },
+  {
+    "id": "kar-3",
+    "category": "Awareness",
+    "date": "April 17, 2026",
+    "title": "TVK Distributes Booth Slips Across Rural Karur",
+    "summary": "TVK workers distribute booth slips across rural Karur villages today as part of grassroots voter mobilization."
+  },
+  {
+    "id": "kar-4",
+    "category": "Campaign",
+    "date": "April 17, 2026",
+    "title": "BJP Highlights Textile Industry Development",
+    "summary": "BJP candidate highlights textile industry development plans for Karur district under central government schemes."
+  },
+  {
+    "id": "kar-5",
+    "category": "Enforcement",
+    "date": "April 17, 2026",
+    "title": "Flying Squads Seize Cash Near Kulithalai",
+    "summary": "Flying squads seize unaccounted cash during vehicle checks near Kulithalai under model code enforcement."
+  },
+  {
+    "id": "kar-6",
+    "category": "Campaign",
+    "date": "April 17, 2026",
+    "title": "DMK Vows Support for Handloom Weavers",
+    "summary": "DMK candidate vows better support for handloom weavers in Karur, including procurement guarantees and welfare schemes."
+  },
+  {
+    "id": "kar-7",
+    "category": "Awareness",
+    "date": "April 17, 2026",
+    "title": "NTK Voter Awareness in Aravakurichi Villages",
+    "summary": "NTK activists organise voter awareness camps in Aravakurichi villages to ensure full participation on polling day."
+  },
+  {
+    "id": "kar-8",
+    "category": "Election",
+    "date": "April 17, 2026",
+    "title": "Karur Collector Reviews Election Preparedness",
+    "summary": "Karur Collector reviews election preparedness at the district control room today with senior officials and observers."
+  },
+  {
+    "id": "kar-9",
+    "category": "Awareness",
+    "date": "April 17, 2026",
+    "title": "SVEEP Street Plays at Karur Bus Stand",
+    "summary": "SVEEP teams conduct street plays on voting rights at the Karur bus stand area to reach commuters."
+  },
+  {
+    "id": "kar-10",
+    "category": "Enforcement",
+    "date": "April 17, 2026",
+    "title": "Paramilitary Deployed in Sensitive Polling Booths",
+    "summary": "Paramilitary forces deployed in sensitive polling booths across Karur for safe and fair polling on April 23."
+  },
+  {
+    "id": "kar-11",
+    "category": "Election",
+    "date": "April 17, 2026",
+    "title": "Observer Inspects EVM Storage Centre",
+    "summary": "Election observer inspects the EVM storage centre in Karur to verify security and randomization protocols."
+  },
+  {
+    "id": "kar-12",
+    "category": "Campaign",
+    "date": "April 17, 2026",
+    "title": "Vijay Interacts with Karur Youth",
+    "summary": "TVK star campaigner Vijay interacts with youth in Karur town, promising startup support and skill centres."
+  },
+  {
+    "id": "kar-13",
+    "category": "Election",
+    "date": "April 17, 2026",
+    "title": "Home Voting Facility for Elderly Voters",
+    "summary": "Home voting facility has been arranged for elderly and differently-abled voters in Karur constituency."
+  },
+  {
+    "id": "kar-14",
+    "category": "Campaign",
+    "date": "April 17, 2026",
+    "title": "Congress Focuses on K.Paramathi Irrigation",
+    "summary": "Congress alliance candidate focuses on farmers' irrigation needs in K.Paramathi constituency."
+  },
+  {
+    "id": "kar-15",
+    "category": "Campaign",
+    "date": "April 17, 2026",
+    "title": "DMK Pledges Skill Development Centres",
+    "summary": "DMK candidate pledges skill development centres for youth across Karur district."
+  },
+  {
+    "id": "kar-16",
+    "category": "Campaign",
+    "date": "April 17, 2026",
+    "title": "BJP Visits Small-Scale Textile Units",
+    "summary": "BJP candidate visits small-scale textile industries in Karur to discuss MSME schemes."
+  },
+  {
+    "id": "kar-17",
+    "category": "Enforcement",
+    "date": "April 17, 2026",
+    "title": "Flying Squads Intensify Highway Checks",
+    "summary": "Flying squads intensify checking on highways entering Karur to curb illegal cash and goods movement."
+  },
+  {
+    "id": "kar-18",
+    "category": "Campaign",
+    "date": "April 17, 2026",
+    "title": "DMK Vows Improved Cauvery Delta Irrigation",
+    "summary": "DMK candidate vows improved irrigation for Cauvery delta farmers in Karur."
+  },
+  {
+    "id": "kar-19",
+    "category": "Awareness",
+    "date": "April 17, 2026",
+    "title": "SVEEP Volunteers Educate First-Time Voters",
+    "summary": "SVEEP volunteers educate first-time voters in Karur colleges ahead of polling day."
+  },
+  {
+    "id": "kar-20",
+    "category": "Enforcement",
+    "date": "April 17, 2026",
+    "title": "MCC Violation Notice to Campaign Team",
+    "summary": "An MCC violation notice has been issued to a campaign team in Karur after a flagged complaint."
+  },
+  {
+    "id": "kar-22",
+    "title": "EVM Commissioning Underway in Karur Constituencies",
+    "summary": "Election officials in Karur have begun the commissioning of EVMs and VVPATs in the presence of candidate agents and observers ahead of the polling day.",
+    "category": "Election",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-23",
+    "title": "DMK Intensifies Final-Phase Outreach in Karur",
+    "summary": "DMK candidates and alliance workers have intensified door-to-door outreach across Karur, focusing on welfare scheme beneficiaries and first-time voters.",
+    "category": "Campaign",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-24",
+    "title": "SVEEP Street Plays Boost Voter Awareness in Karur",
+    "summary": "SVEEP teams in Karur performed street plays at bus stands and markets to encourage 100% voter turnout on April 23.",
+    "category": "Awareness",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-25",
+    "title": "Flying Squads Intensify Vehicle Checks in Karur",
+    "summary": "Flying squads in Karur have intensified vehicle checks at major entry points and highway intersections to curb illegal cash movement.",
+    "category": "Enforcement",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-26",
+    "title": "Karur Reports Smooth Progress on Postal Ballot Distribution",
+    "summary": "District election officials confirmed that postal ballot distribution to service voters and senior citizens in Karur is progressing as per schedule.",
+    "category": "Election",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-27",
+    "title": "AIADMK Holds Booth-Level Worker Meetings in Karur",
+    "summary": "AIADMK held booth-level worker meetings across Karur to finalize polling-day strategy and voter mobilization plans.",
+    "category": "Campaign",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-28",
+    "title": "Karur Colleges Host Voter Pledge Programs",
+    "summary": "Colleges across Karur hosted voter pledge programs for first-time voters, accompanied by mock EVM demonstrations.",
+    "category": "Awareness",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-29",
+    "title": "Karur Static Surveillance Teams Report Daily to Observers",
+    "summary": "Static surveillance teams in Karur are reporting daily to election observers on cash, liquor, and freebie movement.",
+    "category": "Enforcement",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-30",
+    "title": "Strong Rooms Sealed in Karur After Final Randomization",
+    "summary": "EVM strong rooms across Karur have been sealed under multi-tier security following the final randomization of polling personnel.",
+    "category": "Election",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-31",
+    "title": "BJP Highlights Central Schemes During Karur Roadshow",
+    "summary": "BJP candidates conducted a roadshow in Karur highlighting central government welfare schemes and infrastructure investments.",
+    "category": "Campaign",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-32",
+    "title": "Booth Slip Distribution Crosses Halfway Mark in Karur",
+    "summary": "Door-to-door booth slip distribution in Karur has crossed the halfway mark, with BLOs targeting full coverage by April 18.",
+    "category": "Awareness",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-33",
+    "title": "MCC Violation Notices Issued in Karur Constituencies",
+    "summary": "Several model code of conduct violation notices have been issued in Karur constituencies for unauthorised hoardings and campaign material.",
+    "category": "Enforcement",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-34",
+    "title": "Karur Collector Reviews Polling Station Readiness",
+    "summary": "The District Collector held a review meeting with returning officers in Karur to assess polling station readiness, water supply, and accessibility ramps.",
+    "category": "Election",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-35",
+    "title": "TVK Cadre Steps Up Door-to-Door Drive in Karur",
+    "summary": "TVK cadre led by local coordinators stepped up the door-to-door campaign across Karur, distributing pamphlets and party manifestos.",
+    "category": "Campaign",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-36",
+    "title": "Karur Administration Installs Awareness Hoardings",
+    "summary": "The Karur district administration has installed voter awareness hoardings at major junctions, urging citizens to exercise their franchise.",
+    "category": "Awareness",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-37",
+    "title": "Karur Police Beef Up Security at Sensitive Booths",
+    "summary": "Karur district police have beefed up security at sensitive booths with paramilitary deployment and additional patrol vehicles.",
+    "category": "Enforcement",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-38",
+    "title": "Mock Polls Demonstrated to Candidates in Karur",
+    "summary": "Mock polls were demonstrated to candidate representatives in Karur as part of EVM transparency measures before the April 23 election.",
+    "category": "Election",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-39",
+    "title": "Congress Workers Hold Street-Corner Meetings in Karur",
+    "summary": "Congress alliance workers held street-corner meetings in Karur to highlight the alliance's promises on education and healthcare.",
+    "category": "Campaign",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-40",
+    "title": "Voter Helpline Sees Spike in Calls from Karur",
+    "summary": "The state voter helpline has seen a spike in calls from Karur, mostly enquiring about polling station details and voter slip status.",
+    "category": "Awareness",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-41",
+    "title": "Liquor Seizure Reported During Karur Checks",
+    "summary": "A significant liquor seizure was reported during routine election-related checks in Karur, and the contraband has been impounded.",
+    "category": "Enforcement",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-42",
+    "title": "Karur Voter List Final Verification Concluded",
+    "summary": "Booth-level officers in Karur have concluded the final voter list verification, ensuring electoral roll accuracy ahead of polling.",
+    "category": "Election",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-43",
+    "title": "NTK Organises Cycle Rally Across Karur Towns",
+    "summary": "Naam Tamilar Katchi organised a cycle rally across Karur towns to highlight environmental and identity-based issues ahead of polling.",
+    "category": "Campaign",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-44",
+    "title": "Karur Differently-Abled Voters Get Dedicated Assistance",
+    "summary": "Differently-abled voters in Karur are receiving dedicated transport and assistance arrangements from the district election office.",
+    "category": "Awareness",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-45",
+    "title": "Income Tax Teams Conduct Discreet Surveys in Karur",
+    "summary": "Income Tax teams have been conducting discreet surveys in Karur to track unaccounted financial flows linked to the election period.",
+    "category": "Enforcement",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-46",
+    "title": "Sector Officers Deployed Across Karur Polling Zones",
+    "summary": "Sector officers have been deployed across Karur polling zones to monitor turnout, address grievances, and report issues in real time.",
+    "category": "Election",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-47",
+    "title": "Star Campaigners Schedule Final Rallies in Karur",
+    "summary": "Major political parties have scheduled final-phase rallies of star campaigners in Karur as the silent period nears.",
+    "category": "Campaign",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-48",
+    "title": "Social Media Influencers Promote Turnout in Karur",
+    "summary": "Local social media influencers in Karur are running short-form video campaigns urging youth to vote on April 23.",
+    "category": "Awareness",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-49",
+    "title": "Karur Cybercrime Cell Monitors Election Misinformation",
+    "summary": "The Karur cybercrime cell is actively monitoring social media platforms for election-related misinformation and hate speech.",
+    "category": "Enforcement",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-50",
+    "title": "Karur Election Control Room Operates Round the Clock",
+    "summary": "The election control room in Karur is functioning round the clock to handle voter complaints, MCC violations, and logistical queries.",
+    "category": "Election",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-51",
+    "title": "Women Self-Help Groups Address Karur Candidates",
+    "summary": "Women self-help group federations in Karur addressed candidates seeking concrete commitments on livelihood and credit access.",
+    "category": "Campaign",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-52",
+    "title": "Karur Senior Citizens Avail Home Voting Facility",
+    "summary": "Senior citizens above 85 in Karur are availing the home voting facility, with polling teams visiting registered residences.",
+    "category": "Awareness",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-53",
+    "title": "Bank Cash Movement Tracked in Karur",
+    "summary": "Bank cash movement above the threshold in Karur is being tracked and verified by election expenditure observers.",
+    "category": "Enforcement",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-54",
+    "title": "EVM Commissioning Underway in Karur Constituencies",
+    "summary": "Election officials in Karur have begun the commissioning of EVMs and VVPATs in the presence of candidate agents and observers ahead of the polling day.",
+    "category": "Election",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-55",
+    "title": "Trader Associations Submit Memorandum to Karur Candidates",
+    "summary": "Trader associations submitted a joint memorandum to candidates in Karur seeking GST relief and infrastructure support.",
+    "category": "Campaign",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-56",
+    "title": "SVEEP Street Plays Boost Voter Awareness in Karur",
+    "summary": "SVEEP teams in Karur performed street plays at bus stands and markets to encourage 100% voter turnout on April 23.",
+    "category": "Awareness",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-57",
+    "title": "Flying Squads Intensify Vehicle Checks in Karur",
+    "summary": "Flying squads in Karur have intensified vehicle checks at major entry points and highway intersections to curb illegal cash movement.",
+    "category": "Enforcement",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-58",
+    "title": "Karur Reports Smooth Progress on Postal Ballot Distribution",
+    "summary": "District election officials confirmed that postal ballot distribution to service voters and senior citizens in Karur is progressing as per schedule.",
+    "category": "Election",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-59",
+    "title": "Karur Farmers Raise Pricing Concerns at Public Meeting",
+    "summary": "Farmers in Karur raised concerns over crop pricing and procurement at a public meeting attended by alliance candidates.",
+    "category": "Campaign",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-60",
+    "title": "Karur Colleges Host Voter Pledge Programs",
+    "summary": "Colleges across Karur hosted voter pledge programs for first-time voters, accompanied by mock EVM demonstrations.",
+    "category": "Awareness",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-61",
+    "title": "Karur Static Surveillance Teams Report Daily to Observers",
+    "summary": "Static surveillance teams in Karur are reporting daily to election observers on cash, liquor, and freebie movement.",
+    "category": "Enforcement",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-62",
+    "title": "Strong Rooms Sealed in Karur After Final Randomization",
+    "summary": "EVM strong rooms across Karur have been sealed under multi-tier security following the final randomization of polling personnel.",
+    "category": "Election",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-63",
+    "title": "DMK Intensifies Final-Phase Outreach in Karur",
+    "summary": "DMK candidates and alliance workers have intensified door-to-door outreach across Karur, focusing on welfare scheme beneficiaries and first-time voters.",
+    "category": "Campaign",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-64",
+    "title": "Booth Slip Distribution Crosses Halfway Mark in Karur",
+    "summary": "Door-to-door booth slip distribution in Karur has crossed the halfway mark, with BLOs targeting full coverage by April 18.",
+    "category": "Awareness",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-65",
+    "title": "MCC Violation Notices Issued in Karur Constituencies",
+    "summary": "Several model code of conduct violation notices have been issued in Karur constituencies for unauthorised hoardings and campaign material.",
+    "category": "Enforcement",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-66",
+    "title": "Karur Collector Reviews Polling Station Readiness",
+    "summary": "The District Collector held a review meeting with returning officers in Karur to assess polling station readiness, water supply, and accessibility ramps.",
+    "category": "Election",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-67",
+    "title": "AIADMK Holds Booth-Level Worker Meetings in Karur",
+    "summary": "AIADMK held booth-level worker meetings across Karur to finalize polling-day strategy and voter mobilization plans.",
+    "category": "Campaign",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-68",
+    "title": "Karur Administration Installs Awareness Hoardings",
+    "summary": "The Karur district administration has installed voter awareness hoardings at major junctions, urging citizens to exercise their franchise.",
+    "category": "Awareness",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-69",
+    "title": "Karur Police Beef Up Security at Sensitive Booths",
+    "summary": "Karur district police have beefed up security at sensitive booths with paramilitary deployment and additional patrol vehicles.",
+    "category": "Enforcement",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-70",
+    "title": "Mock Polls Demonstrated to Candidates in Karur",
+    "summary": "Mock polls were demonstrated to candidate representatives in Karur as part of EVM transparency measures before the April 23 election.",
+    "category": "Election",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-71",
+    "title": "BJP Highlights Central Schemes During Karur Roadshow",
+    "summary": "BJP candidates conducted a roadshow in Karur highlighting central government welfare schemes and infrastructure investments.",
+    "category": "Campaign",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-72",
+    "title": "Voter Helpline Sees Spike in Calls from Karur",
+    "summary": "The state voter helpline has seen a spike in calls from Karur, mostly enquiring about polling station details and voter slip status.",
+    "category": "Awareness",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-73",
+    "title": "Liquor Seizure Reported During Karur Checks",
+    "summary": "A significant liquor seizure was reported during routine election-related checks in Karur, and the contraband has been impounded.",
+    "category": "Enforcement",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-74",
+    "title": "Karur Voter List Final Verification Concluded",
+    "summary": "Booth-level officers in Karur have concluded the final voter list verification, ensuring electoral roll accuracy ahead of polling.",
+    "category": "Election",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-75",
+    "title": "TVK Cadre Steps Up Door-to-Door Drive in Karur",
+    "summary": "TVK cadre led by local coordinators stepped up the door-to-door campaign across Karur, distributing pamphlets and party manifestos.",
+    "category": "Campaign",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-76",
+    "title": "Karur Differently-Abled Voters Get Dedicated Assistance",
+    "summary": "Differently-abled voters in Karur are receiving dedicated transport and assistance arrangements from the district election office.",
+    "category": "Awareness",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-77",
+    "title": "Income Tax Teams Conduct Discreet Surveys in Karur",
+    "summary": "Income Tax teams have been conducting discreet surveys in Karur to track unaccounted financial flows linked to the election period.",
+    "category": "Enforcement",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-78",
+    "title": "Sector Officers Deployed Across Karur Polling Zones",
+    "summary": "Sector officers have been deployed across Karur polling zones to monitor turnout, address grievances, and report issues in real time.",
+    "category": "Election",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-79",
+    "title": "Congress Workers Hold Street-Corner Meetings in Karur",
+    "summary": "Congress alliance workers held street-corner meetings in Karur to highlight the alliance's promises on education and healthcare.",
+    "category": "Campaign",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-80",
+    "title": "Social Media Influencers Promote Turnout in Karur",
+    "summary": "Local social media influencers in Karur are running short-form video campaigns urging youth to vote on April 23.",
+    "category": "Awareness",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-81",
+    "title": "Karur Cybercrime Cell Monitors Election Misinformation",
+    "summary": "The Karur cybercrime cell is actively monitoring social media platforms for election-related misinformation and hate speech.",
+    "category": "Enforcement",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-82",
+    "title": "Karur Election Control Room Operates Round the Clock",
+    "summary": "The election control room in Karur is functioning round the clock to handle voter complaints, MCC violations, and logistical queries.",
+    "category": "Election",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-83",
+    "title": "NTK Organises Cycle Rally Across Karur Towns",
+    "summary": "Naam Tamilar Katchi organised a cycle rally across Karur towns to highlight environmental and identity-based issues ahead of polling.",
+    "category": "Campaign",
+    "date": "April 17, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-84",
+    "title": "Karur Senior Citizens Avail Home Voting Facility",
+    "summary": "Senior citizens above 85 in Karur are availing the home voting facility, with polling teams visiting registered residences.",
+    "category": "Awareness",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-85",
+    "title": "Bank Cash Movement Tracked in Karur",
+    "summary": "Bank cash movement above the threshold in Karur is being tracked and verified by election expenditure observers.",
+    "category": "Enforcement",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-86",
+    "title": "EVM Commissioning Underway in Karur Constituencies",
+    "summary": "Election officials in Karur have begun the commissioning of EVMs and VVPATs in the presence of candidate agents and observers ahead of the polling day.",
+    "category": "Election",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-87",
+    "title": "Star Campaigners Schedule Final Rallies in Karur",
+    "summary": "Major political parties have scheduled final-phase rallies of star campaigners in Karur as the silent period nears.",
+    "category": "Campaign",
+    "date": "April 16, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-88",
+    "title": "SVEEP Street Plays Boost Voter Awareness in Karur",
+    "summary": "SVEEP teams in Karur performed street plays at bus stands and markets to encourage 100% voter turnout on April 23.",
+    "category": "Awareness",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-89",
+    "title": "Flying Squads Intensify Vehicle Checks in Karur",
+    "summary": "Flying squads in Karur have intensified vehicle checks at major entry points and highway intersections to curb illegal cash movement.",
+    "category": "Enforcement",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-90",
+    "title": "Karur Reports Smooth Progress on Postal Ballot Distribution",
+    "summary": "District election officials confirmed that postal ballot distribution to service voters and senior citizens in Karur is progressing as per schedule.",
+    "category": "Election",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-91",
+    "title": "Women Self-Help Groups Address Karur Candidates",
+    "summary": "Women self-help group federations in Karur addressed candidates seeking concrete commitments on livelihood and credit access.",
+    "category": "Campaign",
+    "date": "April 15, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-92",
+    "title": "Karur Colleges Host Voter Pledge Programs",
+    "summary": "Colleges across Karur hosted voter pledge programs for first-time voters, accompanied by mock EVM demonstrations.",
+    "category": "Awareness",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-93",
+    "title": "Karur Static Surveillance Teams Report Daily to Observers",
+    "summary": "Static surveillance teams in Karur are reporting daily to election observers on cash, liquor, and freebie movement.",
+    "category": "Enforcement",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-94",
+    "title": "Strong Rooms Sealed in Karur After Final Randomization",
+    "summary": "EVM strong rooms across Karur have been sealed under multi-tier security following the final randomization of polling personnel.",
+    "category": "Election",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-95",
+    "title": "Trader Associations Submit Memorandum to Karur Candidates",
+    "summary": "Trader associations submitted a joint memorandum to candidates in Karur seeking GST relief and infrastructure support.",
+    "category": "Campaign",
+    "date": "April 14, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-96",
+    "title": "Booth Slip Distribution Crosses Halfway Mark in Karur",
+    "summary": "Door-to-door booth slip distribution in Karur has crossed the halfway mark, with BLOs targeting full coverage by April 18.",
+    "category": "Awareness",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-97",
+    "title": "MCC Violation Notices Issued in Karur Constituencies",
+    "summary": "Several model code of conduct violation notices have been issued in Karur constituencies for unauthorised hoardings and campaign material.",
+    "category": "Enforcement",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-98",
+    "title": "Karur Collector Reviews Polling Station Readiness",
+    "summary": "The District Collector held a review meeting with returning officers in Karur to assess polling station readiness, water supply, and accessibility ramps.",
+    "category": "Election",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-99",
+    "title": "Karur Farmers Raise Pricing Concerns at Public Meeting",
+    "summary": "Farmers in Karur raised concerns over crop pricing and procurement at a public meeting attended by alliance candidates.",
+    "category": "Campaign",
+    "date": "April 13, 2026",
+    "featured": false
+  },
+  {
+    "id": "kar-100",
+    "title": "Karur Administration Installs Awareness Hoardings",
+    "summary": "The Karur district administration has installed voter awareness hoardings at major junctions, urging citizens to exercise their franchise.",
+    "category": "Awareness",
+    "date": "April 17, 2026",
+    "featured": false
+  }
+]
