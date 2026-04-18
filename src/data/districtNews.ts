@@ -86,6 +86,14 @@ export const districtNews: Record<string, DistrictNewsItem[]> = {
     { id: "cbe-28", category: "Enforcement", date: D, title: "IT Raids at Textile and Jewellery Shops", summary: "IT raids were conducted at textile and jewellery shops in western districts including Coimbatore as part of poll-time enforcement." },
     { id: "cbe-29", category: "Campaign", date: D1, title: "BJP Performs Silambam in Coimbatore Roadshow", summary: "BJP leaders performed silambam during their campaign in Coimbatore to connect with traditional voters." },
     { id: "cbe-30", category: "Awareness", date: D, title: "DEO Dances with Tribal Voters in Awareness Drive", summary: "The District Election Officer danced with tribal people during a 100% voting awareness campaign in rural Coimbatore." },
+
+    // Region-wide examples
+    { id: "cbe-ex1", category: "Campaign", date: D, title: "Traffic Curbs Tighten as Campaign Rallies Peak", summary: "Traffic diversions have been announced across Coimbatore city as major political events intensify. Heavy vehicle movement has been restricted on key entry routes to manage congestion." },
+    { id: "cbe-ex2", category: "Enforcement", date: D, title: "Drone Restrictions Imposed Across City", summary: "Authorities have imposed drone restrictions across Coimbatore to strengthen security during the final campaign phase ahead of polling." },
+    { id: "cbe-ex3", category: "Awareness", date: D1, title: "Colleges Modify Schedules for Student Voters", summary: "Colleges in Coimbatore are modifying class schedules to encourage student voter participation on April 23. Youth-focused awareness campaigns are gaining strong traction." },
+    { id: "cbe-ex4", category: "Campaign", date: D1, title: "Civil Organisations Release People-Centric Manifestos", summary: "Several civil society organisations in Coimbatore have released people-centric manifestos pushing candidates to commit to local welfare priorities." },
+    { id: "cbe-ex5", category: "Enforcement", date: D2, title: "Sanitation Teams Speed Up Post-Rally Cleanup", summary: "Post-event littering has increased after major rallies, with sanitation teams accelerating cleanup efforts at venues across the city." },
+    { id: "cbe-ex6", category: "Election", date: D2, title: "Coimbatore Stays a Critical Electoral Battleground", summary: "Political narratives increasingly revolve around state versus central governance as Coimbatore remains one of the most critical electoral battlegrounds in Tamil Nadu." },
   ],
 
   // ===================== TIRUPPUR =====================
@@ -247,6 +255,14 @@ export const districtNews: Record<string, DistrictNewsItem[]> = {
     { id: "dpr-18", category: "Campaign", date: D, title: "BJP Visits Farmers on Crop Insurance", summary: "BJP candidate visits farmers in villages to discuss central crop insurance schemes." },
     { id: "dpr-19", category: "Awareness", date: D, title: "SVEEP Reaches Remote Panchayats", summary: "The SVEEP programme reaches remote panchayat villages with voter awareness messaging." },
     { id: "dpr-20", category: "Campaign", date: D, title: "TVK Promises Startup Support for Rural Youth", summary: "TVK candidate promises startup support and skill training for rural youth in Dharmapuri." },
+
+    // Region-wide examples
+    { id: "dpr-ex1", category: "Campaign", date: D, title: "Final-Phase Campaign Gains Momentum Across District", summary: "AIADMK and DMK alliance campaigns gain significant momentum across Dharmapuri with large-scale rallies planned in major towns. Administrative focus has shifted heavily toward election logistics." },
+    { id: "dpr-ex2", category: "Awareness", date: D, title: "Voter Awareness Campaigns Reach Tribal Hamlets", summary: "Voter awareness drives are reaching remote tribal hamlets across Dharmapuri, with SVEEP teams using local-language street plays to boost turnout." },
+    { id: "dpr-ex3", category: "Enforcement", date: D1, title: "Law Enforcement Monitors Media Violations Closely", summary: "Local law enforcement is closely monitoring media-related model code violations in Dharmapuri, with unauthorised broadcasting incidents resulting in arrests." },
+    { id: "dpr-ex4", category: "Campaign", date: D1, title: "Cultural Performers See Increased Demand", summary: "Cultural performers across Dharmapuri are seeing increased demand during campaigns, with public gatherings boosting local economic activity." },
+    { id: "dpr-ex5", category: "Election", date: D2, title: "Candidate Numbers Remain High After Withdrawals", summary: "Candidate numbers across Dharmapuri's five constituencies remain high even after the withdrawal phase. Election scrutiny processes have been completed." },
+    { id: "dpr-ex6", category: "Election", date: D2, title: "Administrative Systems Fully Focused on Polling Day", summary: "District administrative systems are fully focused on smooth election execution. Results are expected to be announced in early May after the May 4 counting." },
   ],
 };
 
