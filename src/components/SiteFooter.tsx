@@ -22,16 +22,16 @@ export default function SiteFooter() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           {/* Brand */}
           <div className="md:col-span-1">
-            <img src="/images/kongu-times-logo.png" alt="The Kongu Times" className="h-10 mb-3" />
+            <img src="/images/kongu-times-logo.png" alt="The Kongu Times" className="h-20 mb-3" />
             <p className="text-sm text-muted-foreground leading-relaxed">
               {t("Voice of the Kongu Region. Delivering trusted news from 8 districts of Western Tamil Nadu.", "கொங்கு மண்டலத்தின் குரல். மேற்கு தமிழ்நாட்டின் 8 மாவட்டங்களிலிருந்து நம்பகமான செய்திகள்.")}
             </p>
             <div className="flex gap-3 mt-4">
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors"><Facebook size={16} /></a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors"><Twitter size={16} /></a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors"><Instagram size={16} /></a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors"><Youtube size={16} /></a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors"><Send size={16} /></a>
+              <a href="#" aria-label="Facebook" className="text-[#1877F2] hover:scale-110 transition-transform"><Facebook size={22} /></a>
+              <a href="#" aria-label="Twitter" className="text-[#1DA1F2] hover:scale-110 transition-transform"><Twitter size={22} /></a>
+              <a href="#" aria-label="Instagram" className="text-[#E4405F] hover:scale-110 transition-transform"><Instagram size={22} /></a>
+              <a href="#" aria-label="YouTube" className="text-[#FF0000] hover:scale-110 transition-transform"><Youtube size={22} /></a>
+              <a href="#" aria-label="Telegram" className="text-[#0088CC] hover:scale-110 transition-transform"><Send size={22} /></a>
             </div>
           </div>
 

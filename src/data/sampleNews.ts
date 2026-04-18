@@ -1,112 +1,113 @@
 import type { NewsArticle } from "@/components/NewsCard";
+import modiCoimbatore from "@/assets/modi-coimbatore.jpg";
 
 export const sampleNews: NewsArticle[] = [
   {
     id: "1",
-    title_en: "AIADMK Final Phase Campaign Begins in Kongu Belt – EPS to Hold Massive Rallies in Coimbatore, Tiruppur, Erode & Salem",
-    title_ta: "கொங்கு மண்டலத்தில் அதிமுக இறுதிக்கட்ட பிரச்சாரம் தொடக்கம் – கோயம்புத்தூர், திருப்பூர், ஈரோடு, சேலத்தில் இபிஎஸ் மாபெரும் பேரணிகள்",
-    summary_en: "Former Chief Minister Edappadi K. Palaniswami kicks off the final phase of AIADMK's election campaign across the Kongu belt with massive public rallies planned in Coimbatore, Tiruppur, Erode, and Salem over the next five days.",
-    summary_ta: "முன்னாள் முதல்வர் எடப்பாடி கே. பழனிசாமி கொங்கு மண்டலம் முழுவதும் அதிமுகவின் இறுதிக்கட்ட தேர்தல் பிரச்சாரத்தை தொடங்கினார்.",
-    district: "Coimbatore", category: "Election", date: "April 15, 2026",
-    image: "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=600&h=400&fit=crop"
+    title_en: "PM Modi's Grand Roadshow Lights Up Coimbatore – Massive Crowds Greet BJP Star Campaigner",
+    title_ta: "கோயம்புத்தூரில் பிரதமர் மோடியின் மாபெரும் ரோட்ஷோ – பாஜக நட்சத்திர பிரச்சாரகரை வரவேற்ற மக்கள் வெள்ளம்",
+    summary_en: "Prime Minister Narendra Modi held a high-voltage roadshow in Coimbatore today, drawing massive crowds along the campaign route as the NDA intensifies its final-phase push across the Kongu belt.",
+    summary_ta: "கொங்கு மண்டலத்தில் என்.டி.ஏ-வின் இறுதிக்கட்ட பிரச்சாரம் தீவிரமடையும் நிலையில், பிரதமர் நரேந்திர மோடி இன்று கோயம்புத்தூரில் மாபெரும் ரோட்ஷோ நடத்தினார்.",
+    district: "Coimbatore", category: "Election", date: "April 18, 2026",
+    image: modiCoimbatore
   },
   {
     id: "2",
-    title_en: "Election Fever: Thudumbu Drummers in High Demand as Campaigning Intensifies",
-    title_ta: "தேர்தல் களேபரம்: பிரச்சாரம் தீவிரமடைவதால் துடும்பு மேளக்காரர்களுக்கு அதிக தேவை",
-    summary_en: "Traditional Thudumbu drummers across Coimbatore district are fully booked as political parties ramp up their campaign activities ahead of the April 23 polling date.",
-    summary_ta: "ஏப்ரல் 23 வாக்குப்பதிவு தேதிக்கு முன் அரசியல் கட்சிகள் பிரச்சார நடவடிக்கைகளை தீவிரப்படுத்துவதால் கோயம்புத்தூர் மாவட்டம் முழுவதும் துடும்பு மேளக்காரர்கள் முழுமையாக முன்பதிவு செய்யப்பட்டுள்ளனர்.",
-    district: "Coimbatore", category: "Election", date: "April 14, 2026",
-    image: "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=600&h=400&fit=crop"
+    title_en: "Coimbatore Traffic Diversions in Force as Campaign Rallies Reach Peak",
+    title_ta: "பிரச்சார பேரணிகள் உச்சம் – கோயம்புத்தூரில் போக்குவரத்து திருப்பிவிடல் அமல்",
+    summary_en: "Major traffic diversions are in effect across Coimbatore city as back-to-back political events fill the calendar. Heavy vehicle movement has been restricted on key entry routes to ease congestion.",
+    summary_ta: "கோயம்புத்தூர் நகரம் முழுவதும் தொடர்ச்சியான அரசியல் நிகழ்வுகள் காரணமாக போக்குவரத்து திருப்பிவிடல் நடைமுறையில் உள்ளது. முக்கிய நுழைவு சாலைகளில் கனரக வாகனங்கள் கட்டுப்படுத்தப்பட்டுள்ளன.",
+    district: "Coimbatore", category: "Election", date: "April 18, 2026",
+    image: "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=400&fit=crop"
   },
   {
     id: "3",
-    title_en: "TVK's Vijay Holds Roadshow in Tiruppur – Massive Crowds Expected",
-    title_ta: "திருப்பூரில் திவிகவின் விஜய் ரோட்ஷோ – மாபெரும் கூட்டம் எதிர்பார்ப்பு",
-    summary_en: "Tamilaga Vetri Kazhagam leader Vijay is set to hold a massive roadshow in Tiruppur today, with party workers expecting record turnout across the textile city.",
-    summary_ta: "தமிழக வெற்றி கழக தலைவர் விஜய் இன்று திருப்பூரில் மாபெரும் ரோட்ஷோ நடத்த உள்ளார், ஜவுளி நகரம் முழுவதும் சாதனை வருகையை கட்சி தொண்டர்கள் எதிர்பார்க்கின்றனர்.",
-    district: "Tiruppur", category: "Election", date: "April 15, 2026",
-    image: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&h=400&fit=crop"
-  },
-  {
-    id: "4",
-    title_en: "Senguntha Mudaliar Community Demands Better Representation in Candidate Lists",
-    title_ta: "வேட்பாளர் பட்டியலில் சிறந்த பிரதிநிதித்துவம் கோரும் செங்குந்த முதலியார் சமூகம்",
-    summary_en: "Leaders of the Senguntha Mudaliar community in Erode have urged all major parties to field more candidates from their community in the upcoming elections.",
-    summary_ta: "ஈரோட்டில் செங்குந்த முதலியார் சமூகத் தலைவர்கள் வரவிருக்கும் தேர்தலில் தங்கள் சமூகத்திலிருந்து அதிக வேட்பாளர்களை நிறுத்துமாறு அனைத்து முக்கிய கட்சிகளையும் வலியுறுத்தியுள்ளனர்.",
-    district: "Erode", category: "Election", date: "April 15, 2026",
+    title_en: "Home Voting Begins for Elderly and Differently-Abled Across Kongu Districts",
+    title_ta: "கொங்கு மாவட்டங்களில் முதியோர், மாற்றுத்திறனாளிகளுக்கு வீட்டு வாக்குப்பதிவு தொடக்கம்",
+    summary_en: "District election teams have started the home voting facility for senior citizens and persons with disabilities across Erode, Coimbatore, Tiruppur and Salem ahead of polling day.",
+    summary_ta: "வாக்குப்பதிவு நாளுக்கு முன்னதாக ஈரோடு, கோயம்புத்தூர், திருப்பூர், சேலம் ஆகிய மாவட்டங்களில் மூத்த குடிமக்கள் மற்றும் மாற்றுத்திறனாளிகளுக்கு வீட்டு வாக்குப்பதிவு வசதி தொடங்கியுள்ளது.",
+    district: "Erode", category: "Election", date: "April 17, 2026",
     image: "https://images.unsplash.com/photo-1494172961521-33799ddd43a5?w=600&h=400&fit=crop"
   },
   {
-    id: "5",
-    title_en: "BJP Proposes Solar-Powered Cold Chain for Salem Mangoes in Election Manifesto",
-    title_ta: "தேர்தல் அறிக்கையில் சேலம் மாம்பழங்களுக்கு சோலார் இயங்கும் குளிர்சாதன சங்கிலி பாஜக முன்மொழிவு",
-    summary_en: "The BJP has included a proposal for solar-powered cold storage chain across Salem district to reduce post-harvest losses for mango farmers in its election manifesto.",
-    summary_ta: "மாம்பழ விவசாயிகளின் அறுவடைக்குப் பிந்தைய இழப்புகளைக் குறைக்க சேலம் மாவட்டம் முழுவதும் சோலார் இயங்கும் குளிர்சாதன சங்கிலி திட்டத்தை பாஜக தனது தேர்தல் அறிக்கையில் சேர்த்துள்ளது.",
-    district: "Salem", category: "Election", date: "April 14, 2026",
-    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?w=600&h=400&fit=crop"
-  },
-  {
-    id: "6",
-    title_en: "Pre-Poll Survey Predicts DMK Dominance in Kongu Region with 44-46 Seats",
-    title_ta: "முன்கூட்டிய கருத்துக்கணிப்பு: கொங்கு மண்டலத்தில் 44-46 இடங்களில் திமுக ஆதிக்கம்",
-    summary_en: "A major pre-poll survey predicts DMK-led SPA alliance winning 44-46 seats in the Kongu region, a significant improvement from 2021 results.",
-    summary_ta: "ஒரு முக்கிய முன்கூட்டிய கருத்துக்கணிப்பு கொங்கு மண்டலத்தில் திமுக தலைமையிலான எஸ்.பி.ஏ கூட்டணி 44-46 இடங்களை வெல்லும் என்று கணிக்கிறது.",
-    district: "Coimbatore", category: "Election", date: "April 15, 2026",
-    image: "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=600&h=400&fit=crop"
-  },
-  {
-    id: "7",
-    title_en: "Nilgiris Tea Exports Hit All-Time High",
-    title_ta: "நீலகிரி தேயிலை ஏற்றுமதி சாதனை உயரம்",
-    summary_en: "Tea exports from the Nilgiris district have reached an all-time high, with organic tea varieties driving demand.",
-    summary_ta: "நீலகிரி மாவட்டத்தின் தேயிலை ஏற்றுமதி சாதனை உச்சத்தை எட்டியுள்ளது.",
-    district: "Nilgiris", category: "Industry", date: "April 13, 2026",
-    image: "https://images.unsplash.com/photo-1582793988951-9aed5509eb97?w=600&h=400&fit=crop"
-  },
-  {
-    id: "8",
-    title_en: "Karur Textile Cluster Gets Smart City Upgrade",
-    title_ta: "கரூர் ஜவுளி கிளஸ்டருக்கு ஸ்மார்ட் சிட்டி மேம்பாடு",
-    summary_en: "The Karur textile cluster has been selected for a smart city upgrade with modern infrastructure and digital connectivity.",
-    summary_ta: "கரூர் ஜவுளி கிளஸ்டர் ஸ்மார்ட் சிட்டி மேம்பாட்டிற்கு தேர்வு செய்யப்பட்டுள்ளது.",
-    district: "Karur", category: "Infrastructure", date: "April 12, 2026",
-    image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop"
-  },
-  {
-    id: "9",
-    title_en: "Namakkal Poultry Industry Achieves ₹10,000 Crore Milestone",
-    title_ta: "நாமக்கல் கோழி தொழில் ₹10,000 கோடி மைல்கல்",
-    summary_en: "Namakkal's poultry industry has crossed the ₹10,000 crore annual revenue mark, cementing its position as India's egg capital.",
-    summary_ta: "நாமக்கல் கோழி தொழில் ₹10,000 கோடி வருடாந்திர வருவாயை கடந்தது.",
-    district: "Namakkal", category: "Industry", date: "April 11, 2026",
-    image: "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?w=600&h=400&fit=crop"
-  },
-  {
-    id: "10",
-    title_en: "Dharmapuri Mango Season Begins with Grand Festival",
-    title_ta: "தர்மபுரி மாம்பழ பருவம் பிரமாண்ட திருவிழாவுடன் தொடக்கம்",
-    summary_en: "The mango season in Dharmapuri has kicked off with the annual mango festival attracting traders from across South India.",
-    summary_ta: "தர்மபுரியில் மாம்பழ பருவம் வருடாந்திர மாம்பழ திருவிழாவுடன் தொடங்கியுள்ளது.",
-    district: "Dharmapuri", category: "Culture", date: "April 10, 2026",
-    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?w=600&h=400&fit=crop"
-  },
-  {
-    id: "11",
-    title_en: "New Textile Park to Create 50,000 Jobs in Tiruppur",
-    title_ta: "திருப்பூரில் புதிய ஜவுளி பூங்கா 50,000 வேலைவாய்ப்புகளை உருவாக்கும்",
-    summary_en: "The state government has approved a ₹2,000 crore mega textile park in Tiruppur, expected to generate employment for 50,000 people.",
-    summary_ta: "திருப்பூரில் ₹2,000 கோடி மெகா ஜவுளி பூங்காவுக்கு மாநில அரசு ஒப்புதல் அளித்துள்ளது.",
-    district: "Tiruppur", category: "Industry", date: "April 9, 2026",
+    id: "4",
+    title_en: "Tiruppur Industries Pivot Toward Sustainable, ESG-Driven Manufacturing",
+    title_ta: "திருப்பூர் தொழில்கள் நிலையான, ESG சார்ந்த உற்பத்தியை நோக்கி திரும்புகின்றன",
+    summary_en: "Export associations in Tiruppur are accelerating sustainability and compliance standards as global buyers tighten ESG requirements, with worker wage agreements also finalized this week.",
+    summary_ta: "உலக வாடிக்கையாளர்கள் ESG தேவைகளை இறுக்கப்படுத்துவதால், திருப்பூர் ஏற்றுமதி சங்கங்கள் நிலைத்தன்மை மற்றும் இணக்க தரங்களை விரைவுபடுத்தி வருகின்றன.",
+    district: "Tiruppur", category: "Industry", date: "April 17, 2026",
     image: "https://images.unsplash.com/photo-1558171813-4c088753af8f?w=600&h=400&fit=crop"
   },
   {
-    id: "12",
-    title_en: "Salem Steel Plant Expansion Creates 10,000 Jobs",
-    title_ta: "சேலம் எஃகு ஆலை விரிவாக்கம் 10,000 வேலைவாய்ப்புகள்",
-    summary_en: "The Salem Steel Plant expansion project has been approved, creating 10,000 new employment opportunities.",
-    summary_ta: "சேலம் எஃகு ஆலை விரிவாக்கத் திட்டம் ஒப்புதல் பெற்று 10,000 புதிய வேலைவாய்ப்புகளை உருவாக்குகிறது.",
-    district: "Salem", category: "Industry", date: "April 8, 2026",
+    id: "5",
+    title_en: "Salem Sees Spike in Chain-Snatching Cases Amid Election Season",
+    title_ta: "தேர்தல் காலத்தில் சேலத்தில் சங்கிலி பறிப்பு வழக்குகள் அதிகரிப்பு",
+    summary_en: "Police in Salem have launched coordinated investigations after a string of chain-snatching incidents raised public safety concerns during the busy election period.",
+    summary_ta: "பரபரப்பான தேர்தல் காலத்தில் தொடர் சங்கிலி பறிப்பு சம்பவங்கள் பொதுமக்கள் பாதுகாப்பு குறித்த கவலையை எழுப்பியுள்ள நிலையில், சேலம் காவல்துறை ஒருங்கிணைந்த விசாரணையை தொடங்கியுள்ளது.",
+    district: "Salem", category: "Election", date: "April 17, 2026",
+    image: "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=600&h=400&fit=crop"
+  },
+  {
+    id: "6",
+    title_en: "Namakkal Protests Highlight Cold Storage and Transport Worker Demands",
+    title_ta: "குளிர்பதன கிடங்கு, போக்குவரத்து தொழிலாளர் கோரிக்கைகளை முன்னிலைப்படுத்தும் நாமக்கல் போராட்டங்கள்",
+    summary_en: "Major demonstrations in Namakkal have spotlighted long-pending demands for cold storage infrastructure and welfare measures for transport workers ahead of the polls.",
+    summary_ta: "தேர்தலுக்கு முன்னதாக நாமக்கல்லில் நடைபெற்ற முக்கிய ஆர்ப்பாட்டங்கள், குளிர்பதன கிடங்கு உள்கட்டமைப்பு மற்றும் போக்குவரத்து தொழிலாளர் நலன் தொடர்பான நீண்டகால கோரிக்கைகளை முன்னிலைப்படுத்தியுள்ளன.",
+    district: "Namakkal", category: "Election", date: "April 16, 2026",
+    image: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=600&h=400&fit=crop"
+  },
+  {
+    id: "7",
+    title_en: "Drone Curbs and Tighter Security Cover Coimbatore as VIP Visits Surge",
+    title_ta: "விஐபி வருகைகள் அதிகரிப்பு – கோயம்புத்தூரில் ட்ரோன் கட்டுப்பாடு, பாதுகாப்பு பலப்படுத்தல்",
+    summary_en: "Authorities have imposed drone restrictions and stepped up multi-layer security across Coimbatore as senior national leaders line up campaign visits in the final stretch.",
+    summary_ta: "இறுதிக்கட்டத்தில் மூத்த தேசியத் தலைவர்கள் வரிசையாக பிரச்சாரத்திற்கு வருகை தருவதால், கோயம்புத்தூர் முழுவதும் ட்ரோன் கட்டுப்பாடுகள் விதிக்கப்பட்டு பாதுகாப்பு பலப்படுத்தப்பட்டுள்ளது.",
+    district: "Coimbatore", category: "Election", date: "April 17, 2026",
+    image: "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=600&h=400&fit=crop"
+  },
+  {
+    id: "8",
+    title_en: "Erode Faces Triple Challenge: Elections, Heatwave and Waste Management",
+    title_ta: "ஈரோடு முக்கோண சவால்: தேர்தல், வெப்ப அலை, கழிவு மேலாண்மை",
+    summary_en: "Election preparations in Erode are entering the final lap even as heatwave conditions disrupt daily routines and plastic waste continues to strain urban and rural sanitation systems.",
+    summary_ta: "வெப்ப அலை அன்றாட வாழ்க்கையை பாதிக்கும் நிலையிலும், பிளாஸ்டிக் கழிவு நகர்ப்புற மற்றும் கிராமப்புற தூய்மை அமைப்புகளை சவாலுக்குள்ளாக்கும் நிலையிலும், ஈரோட்டில் தேர்தல் ஏற்பாடுகள் இறுதிக்கட்டத்தை எட்டியுள்ளன.",
+    district: "Erode", category: "Election", date: "April 16, 2026",
+    image: "https://images.unsplash.com/photo-1582793988951-9aed5509eb97?w=600&h=400&fit=crop"
+  },
+  {
+    id: "9",
+    title_en: "Worker Wage Agreement Finalised in Tiruppur Textile Sector",
+    title_ta: "திருப்பூர் ஜவுளித் துறையில் தொழிலாளர் ஊதிய ஒப்பந்தம் இறுதி",
+    summary_en: "Industry bodies and unions in Tiruppur have signed off on a fresh wage agreement, with labour welfare emerging as a decisive issue in the run-up to polling day.",
+    summary_ta: "திருப்பூரில் தொழில் அமைப்புகள் மற்றும் தொழிற்சங்கங்கள் புதிய ஊதிய ஒப்பந்தத்தில் கையெழுத்திட்டுள்ளன; வாக்குப்பதிவை நோக்கி தொழிலாளர் நலன் முக்கிய தேர்தல் விவகாரமாக மாறியுள்ளது.",
+    district: "Tiruppur", category: "Industry", date: "April 16, 2026",
+    image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop"
+  },
+  {
+    id: "10",
+    title_en: "Tax Raids Conducted on Several Business Establishments in Salem",
+    title_ta: "சேலத்தில் பல வணிக நிறுவனங்களில் வரித்துறை சோதனை",
+    summary_en: "Income tax teams carried out searches at multiple business premises in Salem, while political protests over recent policy decisions intensified across the district.",
+    summary_ta: "வருமான வரித்துறை குழுக்கள் சேலத்தில் பல வணிக இடங்களில் சோதனை நடத்தியதுடன், சமீபத்திய கொள்கை முடிவுகளுக்கு எதிரான அரசியல் போராட்டங்களும் மாவட்டம் முழுவதும் தீவிரமடைந்தன.",
+    district: "Salem", category: "Election", date: "April 16, 2026",
     image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop"
+  },
+  {
+    id: "11",
+    title_en: "Dharmapuri Mango Belt Gears Up for Peak Harvest Season",
+    title_ta: "தர்மபுரி மாம்பழ பகுதி உச்ச அறுவடை பருவத்திற்கு தயார்",
+    summary_en: "Mango growers across Dharmapuri are preparing for the peak harvest as traders from across South India arrive, even as the campaign trail rolls through the district.",
+    summary_ta: "தென்னிந்தியா முழுவதிலுமிருந்து வியாபாரிகள் வந்துசேரும் நிலையில், தர்மபுரியில் மாம்பழ விவசாயிகள் உச்ச அறுவடைக்கு தயாராகி வருகின்றனர்.",
+    district: "Dharmapuri", category: "Culture", date: "April 15, 2026",
+    image: "https://images.unsplash.com/photo-1553279768-865429fa0078?w=600&h=400&fit=crop"
+  },
+  {
+    id: "12",
+    title_en: "Namakkal Voter Awareness Drive Targets First-Time and Women Voters",
+    title_ta: "நாமக்கல் வாக்காளர் விழிப்புணர்வு பிரச்சாரம் – புதிய மற்றும் பெண் வாக்காளர்களை இலக்காகக் கொண்டு",
+    summary_en: "District officials in Namakkal are running a focused SVEEP drive to boost turnout among first-time and women voters, with women empowerment a key plank of campaign messaging.",
+    summary_ta: "நாமக்கல் மாவட்ட அதிகாரிகள், புதிய மற்றும் பெண் வாக்காளர்களின் வாக்களிப்பை அதிகரிக்க இலக்கு வைத்த SVEEP பிரச்சாரத்தை நடத்தி வருகின்றனர்.",
+    district: "Namakkal", category: "Election", date: "April 15, 2026",
+    image: "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?w=600&h=400&fit=crop"
   },
 ];
