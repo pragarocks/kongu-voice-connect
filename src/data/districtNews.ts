@@ -1,3 +1,14 @@
+// Content lives in /src/data/news/*.json — DO NOT hardcode news arrays here.
+// Edit news daily by updating the JSON files only.
+import coimbatore from "@/data/news/coimbatore.json";
+import dharmapuri from "@/data/news/dharmapuri.json";
+import erode from "@/data/news/erode.json";
+import karur from "@/data/news/karur.json";
+import namakkal from "@/data/news/namakkal.json";
+import nilgiris from "@/data/news/nilgiris.json";
+import salem from "@/data/news/salem.json";
+import tiruppur from "@/data/news/tiruppur.json";
+
 export interface DistrictNewsItem {
   id: string;
   title: string;
@@ -7,263 +18,15 @@ export interface DistrictNewsItem {
   featured?: boolean;
 }
 
-const D = "April 17, 2026";
-const D1 = "April 16, 2026";
-const D2 = "April 15, 2026";
-
 export const districtNews: Record<string, DistrictNewsItem[]> = {
-  // ===================== ERODE =====================
-  erode: [
-    { id: "erd-f", featured: true, category: "Enforcement", date: D,
-      title: "High-Level Election Security Meeting Held in Erode with CRPF Commander",
-      summary: "A high-level election security consultation meeting was held in Erode with the Central Armed Police Force Commander, Collector S. Kandasamy, and observers. 630+ paramilitary personnel have been deployed for sensitive booths." },
-
-    { id: "erd-1", category: "Campaign", date: D, title: "DMK's S. Muthusamy Promises New Trade Centre for Erode West", summary: "DMK candidate S. Muthusamy (Erode West) promised a new Trade Centre for industrial growth during a trade association meeting." },
-    { id: "erd-2", category: "Campaign", date: D, title: "BJP's Yuvaraja Promises ₹10,000 Family Assistance Grant", summary: "BJP candidate M. Yuvaraja (Erode West) appealed for lotus symbol votes and promised a ₹10,000 family assistance grant if NDA forms government." },
-    { id: "erd-3", category: "Enforcement", date: D1, title: "AIADMK Alleges Cash Distribution to Women in Erode East", summary: "AIADMK alleged cash distribution (₹100 each) to women during an aarthi event in Erode East; the election officer confirmed a violation probe." },
-    { id: "erd-4", category: "Enforcement", date: D1, title: "Flying Squads Seize ₹3.28 Lakh in Modakkurichi & Perundurai", summary: "Flying squads seized ₹3.28 lakh yesterday in Modakkurichi and Perundurai constituencies. Total district seizure now stands at ₹1.90 crore." },
-    { id: "erd-5", category: "Election", date: D1, title: "Postal Ballot Collection Process Fully Completed", summary: "Postal ballot collection process is fully completed in Erode district. 290 of 6,900 registrants missed the opportunity." },
-    { id: "erd-6", category: "Election", date: D, title: "Ballot Sheet Pasting Begins in All 8 Returning Offices", summary: "Ballot sheet pasting work began at 8 AM today in all eight returning offices across Erode district." },
-    { id: "erd-7", category: "Awareness", date: D, title: "Booth Slip Distribution Reaches 27.51% Coverage", summary: "Door-to-door booth slip distribution is ongoing for 17.59 lakh voters; 4.83 lakh slips delivered so far across all eight constituencies." },
-    { id: "erd-8", category: "Awareness", date: D1, title: "Voter Awareness Rally at Barkurmalai in Anthiyur", summary: "A voter awareness rally was organised at Barkurmalai in the Anthiyur area to promote 100% turnout on polling day." },
-    { id: "erd-9", category: "Awareness", date: D1, title: "Forest Department Leads Awareness Rally at Thurusanampalayam", summary: "The Forest Department led a voter awareness rally at Thurusanampalayam urging maximum participation in the April 23 polling." },
-    { id: "erd-10", category: "Awareness", date: D2, title: "SVEEP Cultural Programs Continue Across the District", summary: "SVEEP creative programs including cultural events and human formations continue across Erode to drive voter engagement." },
-    { id: "erd-11", category: "Campaign", date: D1, title: "Minister Sakkarapani Highlights Welfare Schemes", summary: "Minister Sakkarapani campaigned in Erode highlighting DMK government welfare schemes that have benefited every family in the district." },
-    { id: "erd-12", category: "Campaign", date: D1, title: "BJP's Kirthika Shivakumar Campaigns in Modakkurichi", summary: "BJP candidate Kirthika Shivakumar campaigned in Modakkurichi villages quoting AIADMK promises for women and farmers." },
-    { id: "erd-13", category: "Campaign", date: D1, title: "AIADMK's R. Manoharan Conducts Door-to-Door in Erode East", summary: "AIADMK candidate R. Manoharan conducted intensive door-to-door canvassing in Erode East with party workers." },
-    { id: "erd-14", category: "Campaign", date: D1, title: "Congress's Gobinath Continues Outreach in Erode East", summary: "Congress candidate Gobinath Palaniappan continued outreach in Erode East with full alliance support." },
-    { id: "erd-15", category: "Campaign", date: D2, title: "TVK's D. Shanmugan Holds Public Meetings in Modakkurichi", summary: "TVK candidate Engineer D. Shanmugan held public meetings with local promises in Modakkurichi." },
-    { id: "erd-16", category: "Campaign", date: D2, title: "Hilly Terrain Slows Campaign in Thalavadi", summary: "Difficult hilly terrain and language barriers are slowing campaign outreach in the Thalavadi taluk areas of Bhavanisagar." },
-    { id: "erd-17", category: "Enforcement", date: D, title: "630+ Paramilitary Deployed in Sensitive Pockets", summary: "Over 630 paramilitary personnel have been deployed for enhanced security in sensitive and hilly pockets of the district." },
-    { id: "erd-18", category: "Election", date: D1, title: "Collector Inspects Polling Arrangements in Perundurai", summary: "Collector S. Kandasamy inspected polling-related arrangements in Perundurai constituency to ensure readiness." },
-    { id: "erd-19", category: "Election", date: D2, title: "Supplementary EVM Randomization for Erode East & Gobi", summary: "Supplementary ballot unit randomization completed for Erode East and Gobichettipalayam due to high candidate numbers." },
-    { id: "erd-20", category: "Election", date: D2, title: "Second Randomization of Polling Personnel Completed", summary: "Second randomization of polling personnel was completed on 8 April across all eight constituencies." },
-    { id: "erd-21", category: "Enforcement", date: D2, title: "Income Tax Department Issues Compliance Appeals", summary: "Income Tax Department issued appeals for full compliance during the election period to curb illegal cash flow." },
-    { id: "erd-22", category: "Election", date: D2, title: "Three Rivals Reside Within 100m in Periyar Nagar", summary: "Three rival candidates from DMK, AIADMK, and BJP reside within 100 metres of each other in the Periyar Nagar neighbourhood." },
-    { id: "erd-23", category: "Campaign", date: D2, title: "DMK's N. Nallasivam Active in Gobichettipalayam", summary: "DMK candidate N. Nallasivam is active in Gobichettipalayam with intensive door-to-door efforts." },
-    { id: "erd-24", category: "Campaign", date: D2, title: "AIADMK's S. Jayakumar Canvasses in Bhavani", summary: "AIADMK candidate S. Jayakumar is canvassing in Bhavani constituency focusing on the change narrative." },
-    { id: "erd-25", category: "Campaign", date: D2, title: "DMK's Sivabalan Highlights Welfare in Anthiyur", summary: "DMK candidate M. Sivabalan is campaigning in Anthiyur highlighting welfare schemes." },
-    { id: "erd-26", category: "Campaign", date: D2, title: "Thoppu Venkatachalam Contests Perundurai for DMK", summary: "DMK's Thoppu N.D. Venkatachalam contests in Perundurai with a strong local development focus." },
-    { id: "erd-27", category: "Campaign", date: D2, title: "TVK's K.K. Anand Mohan Continues Solo Campaign", summary: "TVK candidate K.K. Anand Mohan filed nomination earlier and continues his solo campaign in Erode West." },
-    { id: "erd-28", category: "Election", date: D, title: "EVM Readiness Confirmed for 2,379 Polling Stations", summary: "EVM and VVPAT readiness has been confirmed for all 2,379 polling stations across Erode district ahead of April 23 polls." },
-    { id: "erd-29", category: "Election", date: D2, title: "17.59 Lakh Voters Registered Across the District", summary: "Over 17.59 lakh voters (8,47,197 men, 9,11,778 women, 182 third-gender) are registered in Erode district." },
-    { id: "erd-30", category: "Election", date: D2, title: "131 Nominations Accepted, 71 Rejected After Scrutiny", summary: "131 nominations were accepted and 71 rejected after scrutiny on 7 April across the eight constituencies." },
-  ],
-
-  // ===================== COIMBATORE =====================
-  coimbatore: [
-    { id: "cbe-f", featured: true, category: "Campaign", date: D,
-      title: "PM Modi to Campaign in Coimbatore on April 18 for AIADMK-BJP Alliance",
-      summary: "Prime Minister Narendra Modi is scheduled to hold a high-profile rally in Coimbatore on April 18 for AIADMK-BJP alliance candidates. Traffic diversions have been announced ahead of the visit, with security tightened across the city." },
-
-    { id: "cbe-1", category: "Campaign", date: D, title: "Senthilbalaji Promises 25% Industrial Share for Coimbatore", summary: "DMK candidate V. Senthilbalaji (Coimbatore South) promised to raise Coimbatore's share in Tamil Nadu's industrial production to 25%." },
-    { id: "cbe-2", category: "Campaign", date: D, title: "Vanathi's Family Steps Up Door-to-Door Campaign", summary: "BJP candidate Vanathi Srinivasan's husband and sons are leading door-to-door campaigning in Coimbatore North apartment complexes during her hospitalization." },
-    { id: "cbe-3", category: "Enforcement", date: D1, title: "10 DMK Campaign Tents Removed in Coimbatore South", summary: "Election Commission acted on AIADMK's complaint and removed 10 DMK campaign tents in Coimbatore South for violating model code of conduct." },
-    { id: "cbe-4", category: "Election", date: D1, title: "Postal Voting Begins for Election Duty Personnel", summary: "Postal voting has commenced for polling personnel deployed for election duty across Coimbatore." },
-    { id: "cbe-5", category: "Election", date: D1, title: "Five Constituencies to Use Two Ballot Units Per Booth", summary: "Mettupalayam, Coimbatore North, Thondamuthur, Coimbatore South and Singanallur will use two ballot units per polling station due to high candidate numbers." },
-    { id: "cbe-6", category: "Election", date: D2, title: "183 Candidates in Fray Across 10 Coimbatore Seats", summary: "After the final list release, 183 candidates are contesting across 10 assembly seats in Coimbatore. Coimbatore South leads with 31 contenders." },
-    { id: "cbe-7", category: "Enforcement", date: D1, title: "Flying Squads Seize ₹5.97 Crore in Cash and Valuables", summary: "Flying squads in Coimbatore have seized cash and valuables worth ₹5.97 crore so far. ₹5.06 crore was returned with proper documentation." },
-    { id: "cbe-8", category: "Awareness", date: D2, title: "100% Voter Turnout Hoardings at Race Course", summary: "Hoardings promoting 100% voter turnout have been installed at Race Course in Coimbatore as part of the SVEEP awareness initiative." },
-    { id: "cbe-9", category: "Election", date: D2, title: "Home Voting Facility for Senior Citizens Rolled Out", summary: "Home voting facility has been rolled out for senior citizens aged 85+ and persons with disabilities across Coimbatore." },
-    { id: "cbe-10", category: "Enforcement", date: D1, title: "DMK Functionaries Booked for ₹8,000 Gift Coupons", summary: "DMK functionaries were booked for distributing gift coupons worth ₹8,000 in Coimbatore. Annamalai alleged organised vote-buying." },
-    { id: "cbe-11", category: "Enforcement", date: D1, title: "₹10 Crore Worth Jewellery Seized by Poll Squads", summary: "Election squads seized gold, diamond, and silver jewellery worth ₹10 crore in Coimbatore during intensified pre-poll checks." },
-    { id: "cbe-12", category: "Campaign", date: D1, title: "Delhi CM Rekha Gupta Campaigns for Vanathi Srinivasan", summary: "Delhi CM Rekha Gupta campaigned for BJP candidate Vanathi Srinivasan in Coimbatore North, stressing women's empowerment." },
-    { id: "cbe-13", category: "Campaign", date: D1, title: "EPS Reassures Voters on Delimitation in Coimbatore Rally", summary: "Edappadi K. Palaniswami reassured voters on the delimitation bill during a Coimbatore rally, dismissing concerns raised by CM Stalin." },
-    { id: "cbe-14", category: "Campaign", date: D1, title: "P Chidambaram Warns of Reduced Southern Influence", summary: "P. Chidambaram addressed reporters in Coimbatore alleging delimitation would suppress South India's voice in Parliament." },
-    { id: "cbe-15", category: "Election", date: D2, title: "450 Nominations Filed; 201 Accepted, 249 Rejected", summary: "450 nominations were filed for 10 constituencies in Coimbatore; 201 accepted and 249 rejected after scrutiny." },
-    { id: "cbe-16", category: "Election", date: D2, title: "18 Independent Candidates in Coimbatore South", summary: "Coimbatore South saw 18 independent candidates filing nominations, many from Senthilbalaji's home turf of Karur." },
-    { id: "cbe-17", category: "Election", date: D2, title: "Vanathi Srinivasan Declares ₹13 Crore Family Assets", summary: "BJP's Vanathi Srinivasan (Coimbatore North) declared family assets worth over ₹13 crore in her election affidavit." },
-    { id: "cbe-18", category: "Election", date: D2, title: "Senthilbalaji Declares ₹4.54 Crore in Family Assets", summary: "DMK's V. Senthilbalaji and family declared assets worth ₹4.54 crore in his election affidavit." },
-    { id: "cbe-19", category: "Election", date: D2, title: "S P Velumani's Family Assets Rise to ₹13.08 Crore", summary: "AIADMK's S P Velumani (Thondamuthur) declared family assets increased to ₹13.08 crore." },
-    { id: "cbe-20", category: "Election", date: D2, title: "TVK Candidate Asha Senthil's Nomination Rejected", summary: "TVK candidate Asha Senthil's nomination was rejected during scrutiny in Coimbatore South." },
-    { id: "cbe-21", category: "Awareness", date: D2, title: "TNAU Extends Holidays to Facilitate Voting", summary: "Tamil Nadu Agricultural University has granted extended holidays for students to facilitate voting on April 23." },
-    { id: "cbe-22", category: "Awareness", date: D2, title: "'Run for Vote' at Race Course Sees 350+ Runners", summary: "The 'Run for Vote' event at Race Course saw 350+ runners pledging 100% turnout on polling day." },
-    { id: "cbe-23", category: "Election", date: D1, title: "EVM-VVPAT Commissioning with Mock Polls Begins", summary: "EVM-VVPAT commissioning began in Coimbatore with mock polls of 1,000 votes in 5% of randomly selected machines." },
-    { id: "cbe-24", category: "Awareness", date: D1, title: "Election Control Room Toll-Free 1800-425-0086 Active", summary: "Coimbatore district has a dedicated election control room (toll-free 1800-425-0086) operating 24x7 for complaints." },
-    { id: "cbe-25", category: "Campaign", date: D1, title: "Senthilbalaji Highlights ₹760 Cr for City Roads", summary: "Senthilbalaji highlighted the ₹760 crore allocated by DMK government for Coimbatore road improvements during his campaign." },
-    { id: "cbe-26", category: "Campaign", date: D, title: "Annamalai Predicts Huge NDA Mandate in Western TN", summary: "BJP's K. Annamalai campaigned vigorously in Coimbatore predicting a huge NDA mandate in the western region." },
-    { id: "cbe-27", category: "Election", date: D, title: "8,343 Ballot Units & 5,572 VVPATs Ready", summary: "Coimbatore district is ready with 8,343 ballot units and 5,572 VVPATs for the 23 April polling." },
-    { id: "cbe-28", category: "Enforcement", date: D, title: "IT Raids at Textile and Jewellery Shops", summary: "IT raids were conducted at textile and jewellery shops in western districts including Coimbatore as part of poll-time enforcement." },
-    { id: "cbe-29", category: "Campaign", date: D1, title: "BJP Performs Silambam in Coimbatore Roadshow", summary: "BJP leaders performed silambam during their campaign in Coimbatore to connect with traditional voters." },
-    { id: "cbe-30", category: "Awareness", date: D, title: "DEO Dances with Tribal Voters in Awareness Drive", summary: "The District Election Officer danced with tribal people during a 100% voting awareness campaign in rural Coimbatore." },
-
-    // Region-wide examples
-    { id: "cbe-ex1", category: "Campaign", date: D, title: "Traffic Curbs Tighten as Campaign Rallies Peak", summary: "Traffic diversions have been announced across Coimbatore city as major political events intensify. Heavy vehicle movement has been restricted on key entry routes to manage congestion." },
-    { id: "cbe-ex2", category: "Enforcement", date: D, title: "Drone Restrictions Imposed Across City", summary: "Authorities have imposed drone restrictions across Coimbatore to strengthen security during the final campaign phase ahead of polling." },
-    { id: "cbe-ex3", category: "Awareness", date: D1, title: "Colleges Modify Schedules for Student Voters", summary: "Colleges in Coimbatore are modifying class schedules to encourage student voter participation on April 23. Youth-focused awareness campaigns are gaining strong traction." },
-    { id: "cbe-ex4", category: "Campaign", date: D1, title: "Civil Organisations Release People-Centric Manifestos", summary: "Several civil society organisations in Coimbatore have released people-centric manifestos pushing candidates to commit to local welfare priorities." },
-    { id: "cbe-ex5", category: "Enforcement", date: D2, title: "Sanitation Teams Speed Up Post-Rally Cleanup", summary: "Post-event littering has increased after major rallies, with sanitation teams accelerating cleanup efforts at venues across the city." },
-    { id: "cbe-ex6", category: "Election", date: D2, title: "Coimbatore Stays a Critical Electoral Battleground", summary: "Political narratives increasingly revolve around state versus central governance as Coimbatore remains one of the most critical electoral battlegrounds in Tamil Nadu." },
-  ],
-
-  // ===================== TIRUPPUR =====================
-  tiruppur: [
-    { id: "tir-f", featured: true, category: "Campaign", date: D,
-      title: "Kamal Haasan Begins Campaign Tour for DMK Alliance in Tiruppur",
-      summary: "Kamal Haasan begins his four-day campaign tour today supporting DMK-led alliance candidates in Tiruppur and Avinashi constituencies. He will campaign in Avinashi on April 19." },
-
-    { id: "tir-1", category: "Campaign", date: D, title: "DMK's Dinesh Kumar Highlights Textile Hub Development", summary: "DMK candidate N. Dinesh Kumar campaigns in Tiruppur South highlighting development projects for the textile hub including new infrastructure." },
-    { id: "tir-2", category: "Campaign", date: D, title: "BJP Releases 12-Point Manifesto for Tiruppur South", summary: "BJP candidate S. Thangaraj released a constituency-specific manifesto with 12 points for Tiruppur South focused on textile industry growth." },
-    { id: "tir-3", category: "Campaign", date: D, title: "TVK's Vijay Roadshow Creates Buzz in Perumanallur", summary: "TVK chief Vijay's roadshow in Perumanallur created massive buzz among youth voters in Tiruppur district." },
-    { id: "tir-4", category: "Awareness", date: D, title: "Voter Awareness Boat Rally in Tiruppur Water Bodies", summary: "A unique voter awareness boat rally was conducted in Tiruppur water bodies urging citizens for 100% turnout on polling day." },
-    { id: "tir-5", category: "Campaign", date: D1, title: "AIADMK's Anandan Promises ₹10,000 Scholarship", summary: "AIADMK candidate S.S.M. Anandan promises ₹10,000 scholarship in Tiruppur North if the party forms the next government." },
-    { id: "tir-6", category: "Enforcement", date: D1, title: "Cash Seized in Textile Areas of Tiruppur South", summary: "Flying squads seized cash during checks in the textile areas of Tiruppur South under model code enforcement." },
-    { id: "tir-7", category: "Awareness", date: D1, title: "Booth Slip Distribution Gains Momentum in All 8 Segments", summary: "Door-to-door booth slip distribution gains momentum across all eight assembly segments in Tiruppur district." },
-    { id: "tir-8", category: "Awareness", date: D1, title: "Bharata Natyam Used for Voter Awareness in Temples", summary: "Bharata Natyam performances are being used for innovative voter awareness in Tiruppur temples to engage devotees." },
-    { id: "tir-9", category: "Election", date: D1, title: "Avinashi (SC): Multi-Cornered Contest Heats Up", summary: "Avinashi reserved constituency sees multi-cornered contest with DMK, AIADMK, BJP, TVK and NTK candidates running active grassroots outreach." },
-    { id: "tir-10", category: "Election", date: D2, title: "Second Randomization of EVMs Completed", summary: "Second randomization of EVMs and polling personnel has been completed across all eight Tiruppur constituencies." },
-    { id: "tir-11", category: "Enforcement", date: D2, title: "Paramilitary Deployed in Sensitive Booths", summary: "Paramilitary forces have been deployed for security in sensitive polling booths across Tiruppur district." },
-    { id: "tir-12", category: "Awareness", date: D2, title: "Vote-a-Than 2026 Marathon with Rotary Clubs", summary: "A creative 'Vote-a-Than 2026' marathon was organised with Rotary clubs to spread voter awareness across Tiruppur." },
-    { id: "tir-13", category: "Election", date: D2, title: "Home Voting for 85+ and PWD Voters Rolled Out", summary: "Home voting facility has been rolled out for 85+ senior citizens and persons with disabilities across Tiruppur." },
-  ],
-
-  // ===================== SALEM =====================
-  salem: [
-    { id: "sal-f", featured: true, category: "Campaign", date: D,
-      title: "Vijay Addresses Massive Rally in Salem West Demanding Powerloom Reforms",
-      summary: "TVK chief Vijay addresses a massive rally in Salem West demanding powerloom sector reforms today. Thousands of textile workers gathered to hear his promises on industry revival." },
-
-    { id: "sal-1", category: "Campaign", date: D, title: "DMK Candidate Promises Industrial Growth in Salem North", summary: "DMK candidate in Salem North kicks off door-to-door campaign promising industrial growth and new job creation in the steel city." },
-    { id: "sal-2", category: "Awareness", date: D, title: "AIADMK Distributes Voter Awareness Pamphlets in Omalur", summary: "AIADMK workers in Omalur distribute voter awareness pamphlets under the SVEEP initiative urging 100% turnout." },
-    { id: "sal-3", category: "Campaign", date: D, title: "BJP Rally in Edappadi Seeks Textile Industry Revival", summary: "BJP candidate in Edappadi holds a rally seeking textile industry revival for powerloom workers, promising central scheme support." },
-    { id: "sal-4", category: "Awareness", date: D, title: "TVK Cadre Distributes Booth Slips Across 50 Booths", summary: "TVK cadre in Salem South conducts booth slip distribution drive across 50 booths as part of voter outreach." },
-    { id: "sal-5", category: "Enforcement", date: D, title: "Flying Squads Seize Unaccounted Cash in Mettur", summary: "Flying squads seize unaccounted cash in Mettur constituency under model code violation today." },
-    { id: "sal-6", category: "Election", date: D, title: "Salem Collector Reviews Election Preparedness", summary: "Salem district collector reviews election preparedness in the control room with senior officials and observers." },
-    { id: "sal-7", category: "Enforcement", date: D, title: "Paramilitary CRPF Deployed in Sensitive Salem North", summary: "Paramilitary CRPF forces have been deployed in sensitive areas of Salem North for safe and fair polling on April 23." },
-    { id: "sal-8", category: "Campaign", date: D, title: "DMK Pledges Free Power for Powerloom Units", summary: "DMK candidate in Salem South pledges free power for powerloom units if the party returns to power." },
-    { id: "sal-9", category: "Campaign", date: D, title: "Kamal Haasan Campaigns in Salem North", summary: "Kamal Haasan campaigns for MNM in Salem North urging youth to participate actively in the polling process." },
-    { id: "sal-10", category: "Enforcement", date: D, title: "Cash-Laden Vehicle Seized in Veerapandi", summary: "Flying squads nab a cash-laden vehicle in Veerapandi constituency in a major model code enforcement action." },
-    { id: "sal-11", category: "Election", date: D, title: "Observer Verifies EVMs in Omalur Strong Room", summary: "Election observer verifies EVM machines in Omalur strong room ahead of polling day to ensure full transparency." },
-    { id: "sal-12", category: "Campaign", date: D1, title: "BJP Promises Skill Training in Gangavalli (SC)", summary: "BJP candidate in Gangavalli (SC) promises skill training programmes for textile workers and rural youth." },
-    { id: "sal-13", category: "Enforcement", date: D, title: "Liquor Bottles Seized in Mettur MCC Check", summary: "Flying squads seize illegal liquor bottles in Mettur during a routine model code violation check." },
-    { id: "sal-14", category: "Campaign", date: D, title: "DMK Star Campaigner Visits Veerapandi", summary: "A DMK star campaigner visits Veerapandi promising exporter-friendly policies and industrial incentives." },
-    { id: "sal-15", category: "Election", date: D, title: "AIADMK's Sankari Candidate Launches Home Voting Awareness", summary: "AIADMK candidate in Sankari launches home voting awareness drive for senior citizens." },
-    { id: "sal-16", category: "Election", date: D, title: "Observer Inspects EVM Randomization in Gangavalli (SC)", summary: "An observer inspects the EVM randomization process in Gangavalli (SC) constituency." },
-    { id: "sal-17", category: "Awareness", date: D, title: "NTK Workers Highlight Local Issues in Omalur", summary: "NTK workers in Omalur highlight local agriculture issues during a street campaign." },
-    { id: "sal-18", category: "Enforcement", date: D, title: "Congress Files MCC Violation Complaint in Attur (SC)", summary: "Congress candidate in Attur (SC) files a complaint over a model code violation by a rival." },
-    { id: "sal-19", category: "Awareness", date: D, title: "SVEEP Awareness Rally in Yercaud (ST)", summary: "SVEEP team organises a voter awareness rally in the tribal-reserved Yercaud (ST) constituency." },
-    { id: "sal-20", category: "Campaign", date: D, title: "TVK Meets Exporters in Veerapandi", summary: "TVK candidate in Veerapandi meets exporters promising export incentives and policy support." },
-  ],
-
-  // ===================== NAMAKKAL =====================
-  namakkal: [
-    { id: "nmk-f", featured: true, category: "Campaign", date: D,
-      title: "Kamal Haasan Promises Sago Industry Revival in Namakkal Rally",
-      summary: "Kamal Haasan addresses a packed public rally in Namakkal promising the revival of the sago industry, which is a major economic backbone of the district." },
-
-    { id: "nmk-1", category: "Campaign", date: D, title: "DMK's P. Rani Intensifies Door-to-Door Campaigning", summary: "DMK candidate P. Rani intensifies door-to-door campaigning in Namakkal town today, focusing on women voters and welfare beneficiaries." },
-    { id: "nmk-2", category: "Campaign", date: D, title: "AIADMK's Sridevi Promises Better Poultry Farm Support", summary: "AIADMK nominee Sridevi P. S. Mohan promises better poultry farm support and disease control labs in Namakkal constituency." },
-    { id: "nmk-3", category: "Awareness", date: D, title: "TVK Workers Distribute Booth Slips in Rasipuram (SC)", summary: "TVK workers distribute booth slips vigorously across Rasipuram (SC) constituency as part of grassroots voter outreach." },
-    { id: "nmk-4", category: "Campaign", date: D, title: "BJP's Premkumar Holds Roadshow on Granite Quarry Issues", summary: "BJP candidate S. D. Premkumar holds a roadshow highlighting granite quarry worker issues in Rasipuram." },
-    { id: "nmk-5", category: "Enforcement", date: D, title: "Flying Squads Seize Unaccounted Cash in Paramathi-Velur", summary: "Flying squads seize unaccounted cash during checks in Paramathi-Velur today as election enforcement intensifies." },
-    { id: "nmk-6", category: "Campaign", date: D, title: "DMK Vows to Resolve Tapioca Farmers' Market Woes", summary: "DMK candidate in Senthamangalam (ST) vows to resolve tapioca farmers' market woes through new cold storage facilities." },
-    { id: "nmk-7", category: "Awareness", date: D, title: "NTK Holds Voter Awareness in Kolli Hills Tribal Areas", summary: "NTK activists organise voter awareness meetings in remote Kolli Hills tribal areas to ensure no eligible voter is left out." },
-    { id: "nmk-8", category: "Campaign", date: D, title: "Vijay's TVK Campaign Vehicle Tours Kumarapalayam", summary: "Vijay's TVK campaign vehicle tours Kumarapalayam stressing youth employment and skill development promises." },
-    { id: "nmk-9", category: "Enforcement", date: D, title: "Paramilitary Deployed in Sensitive Senthamangalam Booths", summary: "Paramilitary forces have been deployed at sensitive polling booths in Senthamangalam (ST) ahead of polling day." },
-    { id: "nmk-10", category: "Election", date: D, title: "Home Voting Arranged for Elderly in Rasipuram", summary: "Home voting facility arranged for elderly and differently-abled voters in Rasipuram constituency." },
-    { id: "nmk-11", category: "Enforcement", date: D, title: "MCC Violation Filed Against Independent in Kolli Hills", summary: "Flying squads booked a model code violation case against an independent candidate in Kolli Hills." },
-    { id: "nmk-12", category: "Election", date: D, title: "Observer Visits EVM Randomization Centre", summary: "Election observer visits the EVM randomization centre in Namakkal district headquarters to verify the process." },
-    { id: "nmk-13", category: "Election", date: D, title: "Postal Ballot Applications Surge from NRIs in Tiruchengode", summary: "Postal ballot applications surge among NRIs from Tiruchengode constituency, reflecting high diaspora engagement." },
-    { id: "nmk-14", category: "Campaign", date: D, title: "AIADMK Addresses Bird Flu Concerns of Poultry Farmers", summary: "AIADMK holds a public meeting addressing poultry farmers' bird flu concerns in Namakkal." },
-    { id: "nmk-15", category: "Campaign", date: D, title: "DMK Promises Skill Centres for Powerloom Youth", summary: "DMK candidate P. Rani promises skill training centres for powerloom youth in Namakkal." },
-    { id: "nmk-16", category: "Campaign", date: D, title: "BJP Inspects Granite Quarry Worker Conditions", summary: "BJP's S. D. Premkumar inspects granite quarry worker conditions in Rasipuram and promises better safety norms." },
-    { id: "nmk-17", category: "Awareness", date: D, title: "SVEEP Reaches Remote Senthamangalam Hamlets", summary: "SVEEP programme reaches remote hamlets in Senthamangalam (ST) constituency with awareness drives." },
-    { id: "nmk-18", category: "Election", date: D, title: "Polling Personnel Training Completed in District", summary: "Polling personnel training has been completed successfully across all six Namakkal constituencies." },
-    { id: "nmk-19", category: "Campaign", date: D, title: "TVK Pledges Modern Sago Processing Units in Mohanur", summary: "TVK candidate pledges modern sago processing units in Mohanur to revive the local economy." },
-    { id: "nmk-20", category: "Enforcement", date: D, title: "Flying Squads Seize Liquor Bottles in Rasipuram", summary: "Flying squads seize illegal liquor bottles during checks in Rasipuram under model code enforcement." },
-  ],
-
-  // ===================== NILGIRIS =====================
-  nilgiris: [
-    { id: "nil-f", featured: true, category: "Campaign", date: D,
-      title: "Kamal Haasan Promises Eco-Tourism Boost in Udhagamandalam Rally",
-      summary: "Kamal Haasan addresses a massive rally promising an eco-tourism boost in Udhagamandalam, focusing on sustainable hill station development." },
-
-    { id: "nil-1", category: "Campaign", date: D, title: "DMK's Senthil Campaigns Among Tea Estate Workers", summary: "DMK candidate R. Senthil campaigns door-to-door among tea estate workers in Udhagamandalam today, focusing on wages and welfare." },
-    { id: "nil-2", category: "Campaign", date: D, title: "AIADMK Promises Wage Hike for Tea Plantation Labourers", summary: "AIADMK nominee promises wage hike and improved housing for tea plantation labourers in Coonoor constituency." },
-    { id: "nil-3", category: "Awareness", date: D, title: "TVK Distributes Booth Slips in Gudalur", summary: "TVK workers distribute booth slips to tourists and locals in Gudalur today as part of grassroots voter outreach." },
-    { id: "nil-4", category: "Campaign", date: D, title: "BJP Highlights Tourism Promotion in Udhagamandalam", summary: "BJP candidate highlights central tourism promotion schemes during a roadshow in Udhagamandalam." },
-    { id: "nil-5", category: "Enforcement", date: D, title: "Flying Squads Seize Cash from Vehicles in Kotagiri", summary: "Flying squads seize unaccounted cash from vehicles in Kotagiri (SC) constituency under model code enforcement." },
-    { id: "nil-6", category: "Campaign", date: D, title: "DMK Vows Better Tribal Welfare in Kotagiri", summary: "DMK candidate in Kotagiri vows better tribal welfare and stronger forest rights implementation for hill communities." },
-    { id: "nil-7", category: "Awareness", date: D, title: "NTK Awareness Camps in Remote Gudalur Tribal Hamlets", summary: "NTK activists organise voter awareness camps in remote Gudalur tribal hamlets to ensure inclusive participation." },
-    { id: "nil-8", category: "Election", date: D, title: "Nilgiris Collector Reviews Election Preparedness", summary: "Nilgiris Collector reviews election preparedness in the district control room with police and observers." },
-    { id: "nil-9", category: "Enforcement", date: D, title: "Paramilitary Deployed at Sensitive Polling Stations", summary: "Paramilitary forces have been deployed at sensitive polling stations across Kotagiri hills for safe polling." },
-    { id: "nil-10", category: "Awareness", date: D, title: "SVEEP Street Plays Near Ooty Botanical Gardens", summary: "SVEEP teams conduct street plays on voting rights near the Ooty botanical gardens to engage tourists and locals." },
-    { id: "nil-11", category: "Campaign", date: D, title: "Vijay Interacts with Dairy Farmers in Coonoor", summary: "TVK star campaigner Vijay interacts with dairy farmers in Coonoor today, promising better procurement prices." },
-    { id: "nil-12", category: "Election", date: D, title: "Home Voting for Elderly Tea Workers in Kotagiri", summary: "Home voting facility arranged for elderly tea workers in Kotagiri (SC) constituency." },
-    { id: "nil-13", category: "Enforcement", date: D, title: "MCC Violation Booked Against Vehicle in Udhagamandalam", summary: "Flying squads booked a model code violation against a campaign vehicle in Udhagamandalam." },
-    { id: "nil-14", category: "Campaign", date: D, title: "AIADMK Assures Power Supply to Tea Factories", summary: "AIADMK candidate assures uninterrupted power supply to tea factories in Gudalur." },
-    { id: "nil-15", category: "Campaign", date: D, title: "BJP Campaigns on Horticulture Development", summary: "BJP workers campaign on horticulture development for small farmers in Coonoor." },
-    { id: "nil-16", category: "Election", date: D, title: "Observer Visits EVM Randomization Centre", summary: "An election observer visits the EVM randomization centre in Udhagamandalam." },
-    { id: "nil-17", category: "Awareness", date: D, title: "Postal Ballot Surge from Tourism Sector Employees", summary: "Postal ballot applications increase among Nilgiris tourism sector employees ahead of polling." },
-    { id: "nil-18", category: "Campaign", date: D, title: "TVK Promises Cold Storage for Horticulture Produce", summary: "TVK candidate promises modern cold storage for horticulture produce in Gudalur." },
-    { id: "nil-19", category: "Enforcement", date: D, title: "Cash Seizure Near Coonoor Bus Stand", summary: "Cash seizure reported from a vehicle during checks near Coonoor bus stand." },
-    { id: "nil-20", category: "Awareness", date: D, title: "DEO Conducts Voter Awareness in Hill Hamlets", summary: "The District Election Officer led an awareness drive in remote hill hamlets across Nilgiris." },
-  ],
-
-  // ===================== KARUR =====================
-  karur: [
-    { id: "kar-f", featured: true, category: "Campaign", date: D,
-      title: "Kamal Haasan Promises Industrial Growth in Karur Rally",
-      summary: "Kamal Haasan addresses a public rally promising industrial growth in Karur, particularly focusing on the textile and home furnishing exports sector." },
-
-    { id: "kar-1", category: "Campaign", date: D, title: "DMK Door-to-Door Campaign in Karur Town", summary: "DMK candidate conducts intensive door-to-door campaign in Karur town today, meeting weavers and textile workers." },
-    { id: "kar-2", category: "Campaign", date: D, title: "AIADMK Promises Better Drinking Water in Thanthoni", summary: "AIADMK nominee promises improved drinking water supply infrastructure in Thanthoni area of Karur." },
-    { id: "kar-3", category: "Awareness", date: D, title: "TVK Distributes Booth Slips Across Rural Karur", summary: "TVK workers distribute booth slips across rural Karur villages today as part of grassroots voter mobilization." },
-    { id: "kar-4", category: "Campaign", date: D, title: "BJP Highlights Textile Industry Development", summary: "BJP candidate highlights textile industry development plans for Karur district under central government schemes." },
-    { id: "kar-5", category: "Enforcement", date: D, title: "Flying Squads Seize Cash Near Kulithalai", summary: "Flying squads seize unaccounted cash during vehicle checks near Kulithalai under model code enforcement." },
-    { id: "kar-6", category: "Campaign", date: D, title: "DMK Vows Support for Handloom Weavers", summary: "DMK candidate vows better support for handloom weavers in Karur, including procurement guarantees and welfare schemes." },
-    { id: "kar-7", category: "Awareness", date: D, title: "NTK Voter Awareness in Aravakurichi Villages", summary: "NTK activists organise voter awareness camps in Aravakurichi villages to ensure full participation on polling day." },
-    { id: "kar-8", category: "Election", date: D, title: "Karur Collector Reviews Election Preparedness", summary: "Karur Collector reviews election preparedness at the district control room today with senior officials and observers." },
-    { id: "kar-9", category: "Awareness", date: D, title: "SVEEP Street Plays at Karur Bus Stand", summary: "SVEEP teams conduct street plays on voting rights at the Karur bus stand area to reach commuters." },
-    { id: "kar-10", category: "Enforcement", date: D, title: "Paramilitary Deployed in Sensitive Polling Booths", summary: "Paramilitary forces deployed in sensitive polling booths across Karur for safe and fair polling on April 23." },
-    { id: "kar-11", category: "Election", date: D, title: "Observer Inspects EVM Storage Centre", summary: "Election observer inspects the EVM storage centre in Karur to verify security and randomization protocols." },
-    { id: "kar-12", category: "Campaign", date: D, title: "Vijay Interacts with Karur Youth", summary: "TVK star campaigner Vijay interacts with youth in Karur town, promising startup support and skill centres." },
-    { id: "kar-13", category: "Election", date: D, title: "Home Voting Facility for Elderly Voters", summary: "Home voting facility has been arranged for elderly and differently-abled voters in Karur constituency." },
-    { id: "kar-14", category: "Campaign", date: D, title: "Congress Focuses on K.Paramathi Irrigation", summary: "Congress alliance candidate focuses on farmers' irrigation needs in K.Paramathi constituency." },
-    { id: "kar-15", category: "Campaign", date: D, title: "DMK Pledges Skill Development Centres", summary: "DMK candidate pledges skill development centres for youth across Karur district." },
-    { id: "kar-16", category: "Campaign", date: D, title: "BJP Visits Small-Scale Textile Units", summary: "BJP candidate visits small-scale textile industries in Karur to discuss MSME schemes." },
-    { id: "kar-17", category: "Enforcement", date: D, title: "Flying Squads Intensify Highway Checks", summary: "Flying squads intensify checking on highways entering Karur to curb illegal cash and goods movement." },
-    { id: "kar-18", category: "Campaign", date: D, title: "DMK Vows Improved Cauvery Delta Irrigation", summary: "DMK candidate vows improved irrigation for Cauvery delta farmers in Karur." },
-    { id: "kar-19", category: "Awareness", date: D, title: "SVEEP Volunteers Educate First-Time Voters", summary: "SVEEP volunteers educate first-time voters in Karur colleges ahead of polling day." },
-    { id: "kar-20", category: "Enforcement", date: D, title: "MCC Violation Notice to Campaign Team", summary: "An MCC violation notice has been issued to a campaign team in Karur after a flagged complaint." },
-  ],
-
-  // ===================== DHARMAPURI =====================
-  dharmapuri: [
-    { id: "dpr-f", featured: true, category: "Campaign", date: D,
-      title: "Kamal Haasan Promises Rural Development in Dharmapuri Rally",
-      summary: "Kamal Haasan addresses a major public rally in Dharmapuri promising comprehensive rural development, including new roads, irrigation, and skill centres for youth." },
-
-    { id: "dpr-1", category: "Campaign", date: D, title: "DMK Door-to-Door Campaign in Dharmapuri Town", summary: "DMK candidate conducts intensive door-to-door campaign in Dharmapuri town today, focusing on welfare scheme beneficiaries." },
-    { id: "dpr-2", category: "Campaign", date: D, title: "AIADMK Promises Improved Drinking Water in Pennagaram", summary: "AIADMK nominee promises improved drinking water facilities in Pennagaram as part of his constituency manifesto." },
-    { id: "dpr-3", category: "Awareness", date: D, title: "TVK Distributes Booth Slips in Rural Villages", summary: "TVK workers distribute booth slips across rural Dharmapuri villages today as part of grassroots outreach." },
-    { id: "dpr-4", category: "Campaign", date: D, title: "BJP Highlights Road Infrastructure Development", summary: "BJP candidate highlights road infrastructure development promises for Dharmapuri district under central schemes." },
-    { id: "dpr-5", category: "Enforcement", date: D, title: "Flying Squads Seize Cash Near Harur", summary: "Flying squads seize unaccounted cash during checks near Harur under model code enforcement." },
-    { id: "dpr-6", category: "Campaign", date: D, title: "DMK Vows Support for Drought-Hit Farmers", summary: "DMK candidate vows better support for farmers affected by drought in Dharmapuri, including loan waivers and irrigation upgrades." },
-    { id: "dpr-7", category: "Awareness", date: D, title: "NTK Voter Awareness in Tribal Hamlets", summary: "NTK activists organise voter awareness camps in tribal hamlets across Dharmapuri to ensure inclusive participation." },
-    { id: "dpr-8", category: "Campaign", date: D, title: "Congress Focuses on Pappireddipatti Irrigation", summary: "Congress alliance candidate focuses on irrigation schemes in Pappireddipatti, promising to revive long-pending water projects." },
-    { id: "dpr-9", category: "Election", date: D, title: "Dharmapuri Collector Reviews Election Preparedness", summary: "Dharmapuri Collector reviews election preparedness at the district control room with senior officials and observers." },
-    { id: "dpr-10", category: "Awareness", date: D, title: "SVEEP Street Plays in Bus Stand Area", summary: "SVEEP teams conduct street plays on voting rights in the Dharmapuri bus stand area to reach commuters." },
-    { id: "dpr-11", category: "Enforcement", date: D, title: "Paramilitary Deployed at Sensitive Polling Booths", summary: "Paramilitary forces have been deployed at sensitive polling booths across Dharmapuri district for safe polling." },
-    { id: "dpr-12", category: "Election", date: D, title: "Observer Inspects EVM Storage Centre", summary: "Election observer inspects the EVM storage centre in Dharmapuri to verify security and randomization processes." },
-    { id: "dpr-13", category: "Election", date: D, title: "Home Voting Arranged for Elderly Voters", summary: "Home voting facility has been arranged for elderly voters across Dharmapuri district." },
-    { id: "dpr-14", category: "Campaign", date: D, title: "Vijay Interacts with Youth in Dharmapuri Town", summary: "TVK star campaigner Vijay interacts with youth in Dharmapuri town, promising rural employment opportunities." },
-    { id: "dpr-15", category: "Campaign", date: D, title: "AIADMK Assures Better Healthcare in Rural Areas", summary: "AIADMK candidate promises improved healthcare facilities and PHC upgrades in rural Dharmapuri." },
-    { id: "dpr-16", category: "Awareness", date: D, title: "Congress Cycle Rally for Voter Awareness", summary: "Congress leaders organise a cycle rally for voter awareness across Dharmapuri urban areas." },
-    { id: "dpr-17", category: "Enforcement", date: D, title: "Cash Seizure Near Dharmapuri Market Area", summary: "Cash seizure reported during routine flying squad checks near Dharmapuri market area." },
-    { id: "dpr-18", category: "Campaign", date: D, title: "BJP Visits Farmers on Crop Insurance", summary: "BJP candidate visits farmers in villages to discuss central crop insurance schemes." },
-    { id: "dpr-19", category: "Awareness", date: D, title: "SVEEP Reaches Remote Panchayats", summary: "The SVEEP programme reaches remote panchayat villages with voter awareness messaging." },
-    { id: "dpr-20", category: "Campaign", date: D, title: "TVK Promises Startup Support for Rural Youth", summary: "TVK candidate promises startup support and skill training for rural youth in Dharmapuri." },
-
-    // Region-wide examples
-    { id: "dpr-ex1", category: "Campaign", date: D, title: "Final-Phase Campaign Gains Momentum Across District", summary: "AIADMK and DMK alliance campaigns gain significant momentum across Dharmapuri with large-scale rallies planned in major towns. Administrative focus has shifted heavily toward election logistics." },
-    { id: "dpr-ex2", category: "Awareness", date: D, title: "Voter Awareness Campaigns Reach Tribal Hamlets", summary: "Voter awareness drives are reaching remote tribal hamlets across Dharmapuri, with SVEEP teams using local-language street plays to boost turnout." },
-    { id: "dpr-ex3", category: "Enforcement", date: D1, title: "Law Enforcement Monitors Media Violations Closely", summary: "Local law enforcement is closely monitoring media-related model code violations in Dharmapuri, with unauthorised broadcasting incidents resulting in arrests." },
-    { id: "dpr-ex4", category: "Campaign", date: D1, title: "Cultural Performers See Increased Demand", summary: "Cultural performers across Dharmapuri are seeing increased demand during campaigns, with public gatherings boosting local economic activity." },
-    { id: "dpr-ex5", category: "Election", date: D2, title: "Candidate Numbers Remain High After Withdrawals", summary: "Candidate numbers across Dharmapuri's five constituencies remain high even after the withdrawal phase. Election scrutiny processes have been completed." },
-    { id: "dpr-ex6", category: "Election", date: D2, title: "Administrative Systems Fully Focused on Polling Day", summary: "District administrative systems are fully focused on smooth election execution. Results are expected to be announced in early May after the May 4 counting." },
-  ],
+  coimbatore: coimbatore as DistrictNewsItem[],
+  dharmapuri: dharmapuri as DistrictNewsItem[],
+  erode: erode as DistrictNewsItem[],
+  karur: karur as DistrictNewsItem[],
+  namakkal: namakkal as DistrictNewsItem[],
+  nilgiris: nilgiris as DistrictNewsItem[],
+  salem: salem as DistrictNewsItem[],
+  tiruppur: tiruppur as DistrictNewsItem[],
 };
 
 export const districtMeta: Record<string, { name: string; tagline: string }> = {
