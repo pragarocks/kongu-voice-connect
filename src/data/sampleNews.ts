@@ -1,7 +1,46 @@
 import type { NewsArticle } from "@/components/NewsCard";
 import modiCoimbatore from "@/assets/modi-coimbatore.jpg";
+import mainNews from "@/data/news/main.json";
+
+const mainHero: NewsArticle = {
+  id: mainNews.featured.id,
+  title_en: mainNews.featured.title,
+  title_ta: mainNews.featured.title,
+  summary_en: mainNews.featured.summary,
+  summary_ta: mainNews.featured.summary,
+  district: "Tamil Nadu",
+  category: mainNews.featured.category,
+  date: mainNews.featured.date,
+  image: modiCoimbatore,
+};
+
+const mainSide: NewsArticle[] = mainNews.sideNews.map((n) => ({
+  id: n.id,
+  title_en: n.title,
+  title_ta: n.title,
+  summary_en: n.summary,
+  summary_ta: n.summary,
+  district: "Tamil Nadu",
+  category: n.category,
+  date: n.date,
+  image: "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=600&h=400&fit=crop",
+}));
+
+const mainGrid: NewsArticle[] = mainNews.gridNews.map((n) => ({
+  id: n.id,
+  title_en: n.title,
+  title_ta: n.title,
+  summary_en: n.summary,
+  summary_ta: n.summary,
+  district: "Tamil Nadu",
+  category: n.category,
+  date: n.date,
+  image: "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=600&h=400&fit=crop",
+}));
 
 export const sampleNews: NewsArticle[] = [
+  mainHero,
+  ...mainSide,
   {
     id: "1",
     title_en: "PM Modi's Grand Roadshow Lights Up Coimbatore – Massive Crowds Greet BJP Star Campaigner",
@@ -11,6 +50,7 @@ export const sampleNews: NewsArticle[] = [
     district: "Coimbatore", category: "Election", date: "April 18, 2026",
     image: modiCoimbatore
   },
+  ...mainGrid,
   {
     id: "2",
     title_en: "Coimbatore Traffic Diversions in Force as Campaign Rallies Reach Peak",
