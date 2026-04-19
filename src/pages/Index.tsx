@@ -1,16 +1,121 @@
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 import { useLanguage } from "@/contexts/LanguageContext";
-import { sampleNews } from "@/data/sampleNews";
 import { Link } from "react-router-dom";
 import { ArrowRight, TrendingUp, Clock, Flame, Zap } from "lucide-react";
+import modiCoimbatore from "@/assets/modi-coimbatore.jpg";
+
+// 100% JSON-driven content. Edit the JSON files in /src/data/news/ to update the site.
+import coimbatoreNews from "@/data/news/coimbatore.json";
+import erodeNews from "@/data/news/erode.json";
+import tiruppurNews from "@/data/news/tiruppur.json";
+import salemNews from "@/data/news/salem.json";
+import namakkalNews from "@/data/news/namakkal.json";
+import nilgirisNews from "@/data/news/nilgiris.json";
+import karurNews from "@/data/news/karur.json";
+import dharmapuriNews from "@/data/news/dharmapuri.json";
+
+// ---------- Types & helpers (kept local; no extra files needed) ----------
+interface RawNews {
+  id: string;
+  title: string;
+  summary: string;
+  category: string;
+  date: string;
+  featured?: boolean;
+}
+
+interface DisplayArticle {
+  id: string;
+  title_en: string;
+  title_ta: string;
+  summary_en: string;
+  summary_ta: string;
+  district: string;
+  category: string;
+  date: string;
+  image: string;
+}
+
+const DEFAULT_IMAGES = [
+  "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=600&h=400&fit=crop",
+  "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=600&h=400&fit=crop",
+  "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&h=400&fit=crop",
+  "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=600&h=400&fit=crop",
+  "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+  "https://images.unsplash.com/photo-1553279768-865429fa0078?w=600&h=400&fit=crop",
+  "https://images.unsplash.com/photo-1558171813-4c088753af8f?w=600&h=400&fit=crop",
+  "https://images.unsplash.com/photo-1582793988951-9aed5509eb97?w=600&h=400&fit=crop",
+];
+
+const DISTRICT_LABEL: Record<string, string> = {
+  coimbatore: "Coimbatore",
+  erode: "Erode",
+  tiruppur: "Tiruppur",
+  salem: "Salem",
+  namakkal: "Namakkal",
+  nilgiris: "Nilgiris",
+  karur: "Karur",
+  dharmapuri: "Dharmapuri",
+};
+
+// Convert raw JSON item -> display article (keeps single-language JSON working in bilingual UI)
+function toDisplay(item: RawNews, district: string, idx: number): DisplayArticle {
+  return {
+    id: `${district}-${item.id}`,
+    title_en: item.title,
+    title_ta: item.title,
+    summary_en: item.summary,
+    summary_ta: item.summary,
+    district: DISTRICT_LABEL[district] ?? district,
+    category: item.category,
+    date: item.date,
+    image: DEFAULT_IMAGES[idx % DEFAULT_IMAGES.length],
+  };
+}
+
+// Robust date sort (newest first). Handles "April 17, 2026" style strings.
+function sortByDateDesc(a: DisplayArticle, b: DisplayArticle) {
+  const ta = Date.parse(a.date);
+  const tb = Date.parse(b.date);
+  if (isNaN(ta) && isNaN(tb)) return 0;
+  if (isNaN(ta)) return 1;
+  if (isNaN(tb)) return -1;
+  return tb - ta;
+}
+
+// ---------- Build aggregated feed from JSON (runs once at module load) ----------
+const sources: Array<[string, RawNews[]]> = [
+  ["coimbatore", coimbatoreNews as RawNews[]],
+  ["erode", erodeNews as RawNews[]],
+  ["tiruppur", tiruppurNews as RawNews[]],
+  ["salem", salemNews as RawNews[]],
+  ["namakkal", namakkalNews as RawNews[]],
+  ["nilgiris", nilgirisNews as RawNews[]],
+  ["karur", karurNews as RawNews[]],
+  ["dharmapuri", dharmapuriNews as RawNews[]],
+];
+
+const allNews: DisplayArticle[] = sources.flatMap(([district, items]) =>
+  items.map((it, i) => toDisplay(it, district, i))
+);
+
+const sortedNews = [...allNews].sort(sortByDateDesc);
+const featuredFromJson = sortedNews.find((n) => allNews.find((x) => x.id === n.id) && (sources.find(([d]) => d === n.district.toLowerCase())?.[1].find((r) => `${n.district.toLowerCase()}-${r.id}` === n.id)?.featured));
+
+// Hero: any featured article (newest first), else newest. Override hero image for the lead story.
+const heroNewsBase = featuredFromJson ?? sortedNews[0];
+const heroNews: DisplayArticle = heroNewsBase
+  ? { ...heroNewsBase, image: modiCoimbatore }
+  : ({} as DisplayArticle);
+
+const remaining = sortedNews.filter((n) => n.id !== heroNews.id);
+const sideNews = remaining.slice(0, 5);
+const trendingNews = remaining.slice(5, 9);
+const latestNews = remaining.slice(9, 15);
 
 export default function HomePage() {
   const { t } = useLanguage();
-  const heroNews = sampleNews[0];
-  const sideNews = sampleNews.slice(1, 6);
-  const trendingNews = sampleNews.slice(1, 5);
-  const latestNews = sampleNews.slice(6, 12);
 
   return (
     <div className="min-h-screen flex flex-col bg-background">
