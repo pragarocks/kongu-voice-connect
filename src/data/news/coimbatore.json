@@ -762,5 +762,48 @@
     "category": "Awareness",
     "date": "April 16, 2026",
     "featured": false
+  },
+  {
+    "id": "cbe-101",
+    "featured": true,
+    "category": "Campaign",
+    "date": "April 19, 2026",
+    "title": "PM Modi's Coimbatore Rally Draws Massive Crowds: 'NDA In, DMK Out'",
+    "summary": "Prime Minister Narendra Modi's high-profile rally on April 18 in Coimbatore for the AIADMK-BJP alliance saw huge turnout. Modi declared that Tamil Nadu voters want 'NDA in and DMK out', highlighted the women's reservation bill, and attacked the DMK government on development and delimitation issues."
+  },
+  {
+    "id": "cbe-102",
+    "category": "Campaign",
+    "date": "April 19, 2026",
+    "title": "NDA Alliance Intensifies Final-Phase Campaign After Modi Rally",
+    "summary": "Following PM Modi's massive Coimbatore rally, AIADMK and BJP workers have stepped up door-to-door outreach and roadshows across all 10 constituencies, focusing on women's empowerment and central welfare schemes."
+  },
+  {
+    "id": "cbe-103",
+    "category": "Enforcement",
+    "date": "April 19, 2026",
+    "title": "Flying Squads Heighten Vigil Post-Modi Rally in Coimbatore",
+    "summary": "Election flying squads and static surveillance teams have increased vehicle and cash checks across the city following the high-profile NDA rally on April 18 to prevent any model code violations."
+  },
+  {
+    "id": "cbe-104",
+    "category": "Awareness",
+    "date": "April 19, 2026",
+    "title": "SVEEP Campaigns Peak as Coimbatore Prepares for April 23 Polling",
+    "summary": "Voter awareness drives including street plays, college pledges, and social media campaigns by influencers are in full swing to ensure maximum turnout on polling day."
+  },
+  {
+    "id": "cbe-105",
+    "category": "Election",
+    "date": "April 19, 2026",
+    "title": "EVM Strong Rooms Remain Under Multi-Tier Security",
+    "summary": "Strong rooms in Coimbatore housing commissioned EVMs and VVPATs continue to be guarded round-the-clock as the district enters the final stretch before April 23 polling."
+  },
+  {
+    "id": "cbe-106",
+    "category": "Campaign",
+    "date": "April 19, 2026",
+    "title": "Coimbatore Remains Key Battleground in Final Days of TN Polls",
+    "summary": "With just four days to go, Coimbatore continues to be a focal point in the Tamil Nadu assembly elections, with both NDA and DMK alliances ramping up efforts following star campaigner visits."
   }
 ]
