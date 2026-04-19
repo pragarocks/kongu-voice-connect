@@ -96,15 +96,20 @@ const sources: Array<[string, RawNews[]]> = [
   ["dharmapuri", dharmapuriNews as RawNews[]],
 ];
 
+// Track featured IDs from raw JSON before transforming
+const featuredIds = new Set<string>();
 const allNews: DisplayArticle[] = sources.flatMap(([district, items]) =>
-  items.map((it, i) => toDisplay(it, district, i))
+  items.map((it, i) => {
+    const article = toDisplay(it, district, i);
+    if (it.featured) featuredIds.add(article.id);
+    return article;
+  })
 );
 
 const sortedNews = [...allNews].sort(sortByDateDesc);
-const featuredFromJson = sortedNews.find((n) => allNews.find((x) => x.id === n.id) && (sources.find(([d]) => d === n.district.toLowerCase())?.[1].find((r) => `${n.district.toLowerCase()}-${r.id}` === n.id)?.featured));
 
-// Hero: any featured article (newest first), else newest. Override hero image for the lead story.
-const heroNewsBase = featuredFromJson ?? sortedNews[0];
+// Hero: newest featured article from JSON, else newest article. Override hero image for the lead story.
+const heroNewsBase = sortedNews.find((n) => featuredIds.has(n.id)) ?? sortedNews[0];
 const heroNews: DisplayArticle = heroNewsBase
   ? { ...heroNewsBase, image: modiCoimbatore }
   : ({} as DisplayArticle);
