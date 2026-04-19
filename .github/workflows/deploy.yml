@@ -3,31 +3,34 @@ name: Deploy Vite Site
 on:
   push:
     branches: [main]
-
+ 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v5
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v5
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
           node-version: 18
-          cache: 'npm'
 
-      - run: npm install   # safer than ci if unsure
+      - name: Install dependencies
+        run: npm install
 
-      - run: npm run build
+      - name: Build Vite project
+        run: npm run build
 
-      - uses: actions/upload-pages-artifact@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
           path: dist
 
   deploy:
     needs: build-and-deploy
     runs-on: ubuntu-latest
-
     permissions:
       pages: write
       id-token: write
@@ -37,5 +40,6 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-      - id: deployment
-        uses: actions/deploy-pages@v5
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
