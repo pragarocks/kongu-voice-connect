@@ -6,7 +6,7 @@
     "date": "April 19, 2026",
     "title": "Modi's Coimbatore Rally Triggers Final-Phase Campaign Surge",
     "summary": "Prime Minister Narendra Modi's April 18 rally in Coimbatore has intensified election momentum, with major alliances accelerating final-phase outreach, roadshows, and voter engagement across constituencies."
-  },
+  }, 
   {
     "id": "cbe-1",
     "category": "Campaign",
