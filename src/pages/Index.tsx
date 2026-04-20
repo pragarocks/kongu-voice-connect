@@ -4,6 +4,7 @@ import { useLanguage } from "@/contexts/LanguageContext";
 import { Link } from "react-router-dom";
 import { ArrowRight, TrendingUp, Clock, Flame, Zap } from "lucide-react";
 import modiCoimbatore from "@/assets/modi-coimbatore.jpg";
+import valparaiAccident from "@/assets/news/valparai-accident.png";
 
 // 100% JSON-driven content. Edit the JSON files in /src/data/news/ to update the site.
 import coimbatoreNews from "@/data/news/coimbatore.json";
