@@ -1,7 +1,63 @@
 [
   {
-    "id": "nil-f",
+    "id": "nil-new1",
     "featured": true,
+    "category": "Wildlife",
+    "date": "April 20, 2026",
+    "title": "Drone Patrols Deployed in Gudalur After Fresh Elephant Incursions",
+    "summary": "The forest department launched 24x7 drone surveillance across Gudalur and Pandalur after three elephant incursions into human settlements over the past week."
+  },
+  {
+    "id": "nil-new2",
+    "featured": false,
+    "category": "Tourism",
+    "date": "April 20, 2026",
+    "title": "Ooty Flower Show 2026 Preparations in Full Swing with Rare Himalayan Species",
+    "summary": "Horticulturalists at the Government Botanical Garden are introducing 18 rare Himalayan species for the landmark 2026 Ooty Flower Show, expected to draw 5 lakh visitors."
+  },
+  {
+    "id": "nil-new3",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 20, 2026",
+    "title": "Nilgiris Tightens ‘No Plastic’ Rule; Biodegradable Alternatives Mandatory",
+    "summary": "The district administration extended the No-Plastic regulation to include all tourist outlets, mandating biodegradable cutlery, bags and bottles from May 1."
+  },
+  {
+    "id": "nil-new4",
+    "featured": false,
+    "category": "Election",
+    "date": "April 20, 2026",
+    "title": "Tribal Voter Outreach Camps Cover 92 Hill Hamlets",
+    "summary": "SVEEP teams reached 92 remote tribal hamlets across Kotagiri and Coonoor blocks, distributing voter slips and conducting EVM demonstrations in Badaga and Toda dialects."
+  },
+  {
+    "id": "nil-new5",
+    "featured": false,
+    "category": "Politics",
+    "date": "April 20, 2026",
+    "title": "Three-Way Contest in Udhagamandalam as TVK Fields Plantation-Worker Leader",
+    "summary": "Vijay’s TVK has fielded a long-time plantation worker union leader for Udhagamandalam, complicating the traditional DMK-AIADMK contest in the hill seat."
+  },
+  {
+    "id": "nil-new6",
+    "featured": false,
+    "category": "Healthcare",
+    "date": "April 20, 2026",
+    "title": "Integrated Traditional-Modern Health Centre Opens in Coonoor",
+    "summary": "An integrated wellness centre combining Siddha, Ayurveda and modern medicine was inaugurated at Coonoor, the first of its kind in the Nilgiris district."
+  },
+  {
+    "id": "nil-new7",
+    "featured": false,
+    "category": "Awareness",
+    "date": "April 20, 2026",
+    "title": "Postal-Ballot Voting Concludes for Plantation Polling Staff",
+    "summary": "Postal-ballot voting concluded for over 3,400 tea-estate workers deputised for election duty, ensuring full franchise coverage in the hill district."
+  },
+  {
+    "id": "nil-f",
+    "featured": false,
     "category": "Campaign",
     "date": "April 17, 2026",
     "title": "Kamal Haasan Promises Eco-Tourism Boost in Udhagamandalam Rally",

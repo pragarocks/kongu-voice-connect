@@ -1,7 +1,63 @@
 [
   {
-    "id": "sal-f",
+    "id": "sal-new1",
     "featured": true,
+    "category": "Development",
+    "date": "April 20, 2026",
+    "title": "Salem Inks €456-Million 24x7 Water Supply Concession with Global Firm",
+    "summary": "Salem Corporation finalised a 25-year water supply concession with a European utility major worth approximately €456 million, promising 24x7 pressurised supply to over a million residents."
+  },
+  {
+    "id": "sal-new2",
+    "featured": false,
+    "category": "Politics",
+    "date": "April 20, 2026",
+    "title": "Edappadi K. Palaniswami Holds Make-or-Break Rally in Edappadi Constituency",
+    "summary": "AIADMK general secretary Edappadi K. Palaniswami addressed a high-stakes rally in his home turf of Edappadi, focusing on Gounder community concerns and farm-loan promises."
+  },
+  {
+    "id": "sal-new3",
+    "featured": false,
+    "category": "Election",
+    "date": "April 20, 2026",
+    "title": "TVK’s Vijay Promises Powerloom Job Package in Salem South",
+    "summary": "Tamilaga Vettri Kazhagam chief Vijay’s Salem South roadshow assured a ₹2,500-crore powerloom revival fund and skill-credit for unemployed youth."
+  },
+  {
+    "id": "sal-new4",
+    "featured": false,
+    "category": "Crime",
+    "date": "April 20, 2026",
+    "title": "Salem Sees Spike in Pre-Poll Hate-Speech Cases; 14 FIRs Registered",
+    "summary": "City police registered 14 fresh FIRs over the past 48 hours related to inflammatory campaign speeches and social-media posts, with two arrests reported in Suramangalam."
+  },
+  {
+    "id": "sal-new5",
+    "featured": false,
+    "category": "Infrastructure",
+    "date": "April 20, 2026",
+    "title": "Salem-Coimbatore Green Corridor Resumes After Compensation Talks",
+    "summary": "Work on the contested Salem-Chennai Green Corridor resumed in three Salem blocks after the administration revised land compensation rates by 35% for affected farmers."
+  },
+  {
+    "id": "sal-new6",
+    "featured": false,
+    "category": "Awareness",
+    "date": "April 20, 2026",
+    "title": "Polling Personnel Training Concluded at Mettur Multispecialty Hall",
+    "summary": "The Collector reviewed the second-phase training of over 12,000 polling officers at Mettur, including mock-drills on the new VVPAT verification protocol."
+  },
+  {
+    "id": "sal-new7",
+    "featured": false,
+    "category": "Election",
+    "date": "April 20, 2026",
+    "title": "Congress Tribal Outreach Meet Held in Yercaud (ST)",
+    "summary": "The DMK-allied Congress candidate for the Yercaud (ST) reserved seat held a tribal voter outreach meeting at Shevaroy Hills, focusing on land-rights and education."
+  },
+  {
+    "id": "sal-f",
+    "featured": false,
     "category": "Campaign",
     "date": "April 17, 2026",
     "title": "Vijay Addresses Massive Rally in Salem West Demanding Powerloom Reforms",

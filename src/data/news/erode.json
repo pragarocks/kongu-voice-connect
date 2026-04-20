@@ -1,7 +1,63 @@
 [
   {
-    "id": "erd-f",
+    "id": "erd-new1",
     "featured": true,
+    "category": "Election",
+    "date": "April 20, 2026",
+    "title": "TVK Rally in Erode East Draws Record Youth Turnout for Vijay",
+    "summary": "Actor-politician Vijay’s Tamilaga Vettri Kazhagam roadshow in Erode East drew an estimated 1.2 lakh first-time voters, signalling a sharp three-way contest in the textile city."
+  },
+  {
+    "id": "erd-new2",
+    "featured": false,
+    "category": "Business",
+    "date": "April 20, 2026",
+    "title": "Erode Turmeric Market Eyes Middle-East Boom After GI Tag Push",
+    "summary": "Despite a short-term price slump from oversupply, the new GI tag for Erode turmeric has unlocked direct export contracts with buyers in UAE, Saudi Arabia and Canada."
+  },
+  {
+    "id": "erd-new3",
+    "featured": false,
+    "category": "Politics",
+    "date": "April 20, 2026",
+    "title": "DMK’s S. Muthusamy Pledges New Trade Centre for Erode West",
+    "summary": "Sitting MLA S. Muthusamy promised a ₹450-crore Trade & Convention Centre to boost handloom and powerloom exports during a meeting of the Erode Trade Association."
+  },
+  {
+    "id": "erd-new4",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 20, 2026",
+    "title": "Heatwave Pushes Erode Mercury to 41°C; Farmers Brace for Pump Diesel Shortage",
+    "summary": "Erode recorded its hottest day of the season at 41.2°C. Farmer collectives have urged the government to ensure uninterrupted diesel supply for irrigation pumps."
+  },
+  {
+    "id": "erd-new5",
+    "featured": false,
+    "category": "Development",
+    "date": "April 20, 2026",
+    "title": "Perundurai Industrial Cluster to Get ₹120-Crore Effluent Treatment Upgrade",
+    "summary": "The state pollution board sanctioned a major upgrade to the Common Effluent Treatment Plant at Perundurai SIPCOT to address soil and water contamination concerns."
+  },
+  {
+    "id": "erd-new6",
+    "featured": false,
+    "category": "Enforcement",
+    "date": "April 20, 2026",
+    "title": "Static Surveillance Teams Seize 1,800 Litres of Illicit Liquor in Bhavani",
+    "summary": "Election enforcement teams raided storage points across Bhavani and Anthiyur, seizing 1,800 litres of illicit arrack meant for distribution before polling day."
+  },
+  {
+    "id": "erd-new7",
+    "featured": false,
+    "category": "Awareness",
+    "date": "April 20, 2026",
+    "title": "Erode SVEEP Campaign Reaches 96% Voter-Slip Distribution",
+    "summary": "The district administration confirmed that 96% of voter information slips have been distributed door-to-door, with the remainder targeted by tomorrow evening."
+  },
+  {
+    "id": "erd-f",
+    "featured": false,
     "category": "Enforcement",
     "date": "April 17, 2026",
     "title": "High-Level Election Security Meeting Held in Erode with CRPF Commander",

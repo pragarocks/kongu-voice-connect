@@ -1,7 +1,63 @@
 [
   {
-    "id": "kar-f",
+    "id": "kar-new1",
     "featured": true,
+    "category": "Politics",
+    "date": "April 20, 2026",
+    "title": "Mettur Reservoir Drops to 45% Storage; Karur Farmers on Edge",
+    "summary": "Stanley Reservoir storage stands at just 45% of capacity ahead of the Kuruvai season. Karur and Erode delta-fringe farmers have urged a calibrated water release schedule."
+  },
+  {
+    "id": "kar-new2",
+    "featured": false,
+    "category": "Development",
+    "date": "April 20, 2026",
+    "title": "Amaravathi Riverbank Revival Drive Plants 12,000 Saplings",
+    "summary": "A community-led reforestation drive along the Amaravathi riverbank in Karur planted 12,000 native saplings as part of the ‘Green Governance’ initiative."
+  },
+  {
+    "id": "kar-new3",
+    "featured": false,
+    "category": "Election",
+    "date": "April 20, 2026",
+    "title": "DMK Candidate Assures Agriculture Loan Waiver in Sankari Farmer Meet",
+    "summary": "The DMK candidate for the Karur-bordering Sankari constituency promised a comprehensive agriculture loan waiver during a farmer interaction at Kulithalai."
+  },
+  {
+    "id": "kar-new4",
+    "featured": false,
+    "category": "Business",
+    "date": "April 20, 2026",
+    "title": "Karur Home-Textile Exporters Tap North-American Market via Coimbatore Port Alliance",
+    "summary": "Karur home-textile exporters signed a logistics-sharing pact with Coimbatore-based exporters to consolidate North-American shipments and cut freight costs by 14%."
+  },
+  {
+    "id": "kar-new5",
+    "featured": false,
+    "category": "Enforcement",
+    "date": "April 20, 2026",
+    "title": "₹38 Lakh Cash Seized from Auto-Rickshaw Near Karur Bus Stand",
+    "summary": "Flying squads intercepted an auto-rickshaw near the Karur central bus stand and seized ₹38 lakh in unaccounted cash. Two persons taken into custody for questioning."
+  },
+  {
+    "id": "kar-new6",
+    "featured": false,
+    "category": "Awareness",
+    "date": "April 20, 2026",
+    "title": "Booth-Level Officers Complete Final Voter-Slip Distribution Round",
+    "summary": "All 1,247 booth-level officers across Karur’s four assembly constituencies completed the final round of voter-information slip distribution today."
+  },
+  {
+    "id": "kar-new7",
+    "featured": false,
+    "category": "Election",
+    "date": "April 20, 2026",
+    "title": "EVM Commissioning Concluded for All Karur Constituencies",
+    "summary": "EVM and VVPAT commissioning was completed at Karur Government Engineering College in the presence of all contesting candidates and ECI observers."
+  },
+  {
+    "id": "kar-f",
+    "featured": false,
     "category": "Campaign",
     "date": "April 17, 2026",
     "title": "Kamal Haasan Promises Industrial Growth in Karur Rally",
