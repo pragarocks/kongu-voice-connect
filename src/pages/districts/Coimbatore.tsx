@@ -36,25 +36,36 @@ const Coimbatore = () => {
 
         {/* 2. Featured Hero Section (Blue Gradient Style) */}
         <section className="mb-20">
-          <div className="relative overflow-hidden rounded-[2.5rem] bg-gradient-to-br from-[#1b63cc] via-[#1a73e8] to-[#673ab7] p-10 md:p-14 text-white shadow-2xl flex flex-col justify-center min-h-[420px]">
-            <div className="flex gap-3 mb-8">
-              <Badge className="bg-white/20 hover:bg-white/30 text-white border-none backdrop-blur-md uppercase text-[10px] py-1 px-3">
-                ★ Featured
-              </Badge>
-              <Badge className="bg-white/20 hover:bg-white/30 text-white border-none backdrop-blur-md uppercase text-[10px] py-1 px-3">
-                {featured.category}
-              </Badge>
+          <div className="relative overflow-hidden rounded-[2.5rem] bg-gradient-to-br from-[#1b63cc] via-[#1a73e8] to-[#673ab7] text-white shadow-2xl grid md:grid-cols-2 gap-0 min-h-[420px]">
+            <div className="p-10 md:p-14 flex flex-col justify-center">
+              <div className="flex gap-3 mb-8">
+                <Badge className="bg-white/20 hover:bg-white/30 text-white border-none backdrop-blur-md uppercase text-[10px] py-1 px-3">
+                  ★ Featured
+                </Badge>
+                <Badge className="bg-white/20 hover:bg-white/30 text-white border-none backdrop-blur-md uppercase text-[10px] py-1 px-3">
+                  {featured.category}
+                </Badge>
+              </div>
+              <h2 className="text-4xl md:text-5xl font-black leading-[1.1] mb-6 max-w-3xl drop-shadow-xl">
+                {featured.title}
+              </h2>
+              <p className="text-lg text-blue-50/80 mb-8 max-w-2xl leading-relaxed">
+                {featured.summary}
+              </p>
+              <div className="flex items-center gap-4 text-[11px] font-bold uppercase tracking-widest opacity-70">
+                <span>{featured.date}</span>
+                <button className="hover:underline flex items-center gap-1">Read more <span className="text-base">→</span></button>
+              </div>
             </div>
-            <h2 className="text-4xl md:text-5xl font-black leading-[1.1] mb-6 max-w-3xl drop-shadow-xl">
-              {featured.title}
-            </h2>
-            <p className="text-lg text-blue-50/80 mb-8 max-w-2xl leading-relaxed">
-              {featured.summary}
-            </p>
-            <div className="flex items-center gap-4 text-[11px] font-bold uppercase tracking-widest opacity-70">
-              <span>{featured.date}</span>
-              <button className="hover:underline flex items-center gap-1">Read more <span className="text-base">→</span></button>
-            </div>
+            {(featured as any).image && (
+              <div className="relative overflow-hidden bg-black/10 min-h-[260px] md:min-h-full">
+                <img
+                  src={(featured as any).image}
+                  alt={featured.title}
+                  className="w-full h-full object-cover"
+                />
+              </div>
+            )}
           </div>
         </section>
 
