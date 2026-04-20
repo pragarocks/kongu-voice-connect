@@ -109,10 +109,10 @@ const allNews: DisplayArticle[] = sources.flatMap(([district, items]) =>
 
 const sortedNews = [...allNews].sort(sortByDateDesc);
 
-// Hero: newest featured article from JSON, else newest article. Override hero image for the lead story.
+// Hero: newest featured article from JSON, else newest article. Override hero image with the Valparai accident infographic.
 const heroNewsBase = sortedNews.find((n) => featuredIds.has(n.id)) ?? sortedNews[0];
 const heroNews: DisplayArticle = heroNewsBase
-  ? { ...heroNewsBase, image: modiCoimbatore }
+  ? { ...heroNewsBase, image: valparaiAccident }
   : ({} as DisplayArticle);
 
 const remaining = sortedNews.filter((n) => n.id !== heroNews.id);
