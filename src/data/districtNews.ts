@@ -13,9 +13,10 @@ export interface DistrictNewsItem {
   id: string;
   title: string;
   summary: string;
-  category: "Election" | "Campaign" | "Awareness" | "Enforcement";
+  category: "Election" | "Campaign" | "Awareness" | "Enforcement" | string;
   date: string;
   featured?: boolean;
+  image?: string;
 }
 
 export const districtNews: Record<string, DistrictNewsItem[]> = {
