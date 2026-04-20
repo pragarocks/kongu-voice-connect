@@ -107,28 +107,39 @@ function FeaturedCard({ item }: { item: DistrictNewsItem }) {
   return (
     <article className="group relative overflow-hidden rounded-2xl bg-gradient-to-br from-sky-600 via-sky-700 to-indigo-800 text-white shadow-lg hover:shadow-xl transition-shadow animate-fade-up">
       <div className="absolute inset-0 opacity-10 bg-[radial-gradient(circle_at_top_right,white,transparent_60%)]" />
-      <div className="relative p-6 md:p-10">
-        <div className="flex items-center gap-2 mb-4">
-          <span className="px-2.5 py-1 rounded-full bg-white/20 backdrop-blur text-[10px] font-bold uppercase tracking-wider">
-            ★ Featured
-          </span>
-          <span className={`px-2.5 py-1 rounded-full text-[10px] font-bold border bg-white/95 ${categoryStyles[item.category]}`}>
-            {item.category}
-          </span>
-        </div>
-        <h2 className="font-display text-2xl md:text-4xl font-black leading-tight mb-3 max-w-3xl">
-          {item.title}
-        </h2>
-        <p className="text-white/85 text-sm md:text-base max-w-2xl leading-relaxed mb-4">
-          {item.summary}
-        </p>
-        <div className="flex items-center gap-4 text-xs text-white/70">
-          <span className="flex items-center gap-1.5">
-            <Calendar size={12} /> {item.date}
-          </span>
-          <span className="flex items-center gap-1.5 font-semibold group-hover:gap-2 transition-all">
-            Read more <ArrowRight size={12} />
-          </span>
+      <div className="relative grid md:grid-cols-2 gap-0">
+        {item.image && (
+          <div className="md:order-2 overflow-hidden bg-slate-900/20">
+            <img
+              src={item.image}
+              alt={item.title}
+              className="w-full h-full max-h-[420px] object-cover group-hover:scale-105 transition-transform duration-700"
+            />
+          </div>
+        )}
+        <div className="p-6 md:p-10 md:order-1 flex flex-col justify-center">
+          <div className="flex items-center gap-2 mb-4">
+            <span className="px-2.5 py-1 rounded-full bg-white/20 backdrop-blur text-[10px] font-bold uppercase tracking-wider">
+              ★ Featured
+            </span>
+            <span className={`px-2.5 py-1 rounded-full text-[10px] font-bold border bg-white/95 ${categoryStyles[item.category] ?? "text-slate-700 border-slate-200"}`}>
+              {item.category}
+            </span>
+          </div>
+          <h2 className="font-display text-2xl md:text-4xl font-black leading-tight mb-3 max-w-3xl">
+            {item.title}
+          </h2>
+          <p className="text-white/85 text-sm md:text-base max-w-2xl leading-relaxed mb-4">
+            {item.summary}
+          </p>
+          <div className="flex items-center gap-4 text-xs text-white/70">
+            <span className="flex items-center gap-1.5">
+              <Calendar size={12} /> {item.date}
+            </span>
+            <span className="flex items-center gap-1.5 font-semibold group-hover:gap-2 transition-all">
+              Read more <ArrowRight size={12} />
+            </span>
+          </div>
         </div>
       </div>
     </article>

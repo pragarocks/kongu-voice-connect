@@ -1,7 +1,7 @@
 [
   {
     "id": "cbe-new1",
-    "featured": true,
+    "featured": false,
     "category": "Election",
     "date": "April 20, 2026",
     "title": "Modi’s Mega Coimbatore Roadshow Draws Massive NDA Crowds Ahead of April 23 Polls",
@@ -65,11 +65,12 @@
   },
   {
     "id": "cbe-f1",
-    "featured": false,
+    "featured": true,
     "category": "Tragedy",
     "date": "April 19, 2026",
     "title": "Valparai Ghat Road Accident: 9 Killed as Tourist Van Falls into Gorge",
-    "summary": "A tourist van from Kerala plunged into a deep gorge near Valparai, killing nine people including school teachers. PM Modi and President Murmu expressed grief. Bodies handed over after postmortem."
+    "summary": "A tourist van from Kerala plunged into a deep gorge near Valparai, killing nine people including school teachers. PM Modi and President Murmu expressed grief. Bodies handed over after postmortem.",
+    "image": "/news/valparai-accident.png"
   },
   {
     "id": "cbe-f2",
@@ -210,7 +211,8 @@
     "category": "Crime",
     "date": "April 19, 2026",
     "title": "Elderly Woman’s Body Found in Gorge Near Valparai, Partially Eaten by Animal",
-    "summary": "A 76-year-old woman was found dead in a gorge near Valparai, with the corpse partially consumed by an unidentified carnivore. Police have registered a case."
+    "summary": "A 76-year-old woman was found dead in a gorge near Valparai, with the corpse partially consumed by an unidentified carnivore. Police have registered a case.",
+    "image": "/news/valparai-accident.png"
   },
   {
     "id": "cbe-20",
