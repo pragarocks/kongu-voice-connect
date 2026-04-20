@@ -1,7 +1,71 @@
 [
   {
-    "id": "cbe-f1",
+    "id": "cbe-new1",
     "featured": true,
+    "category": "Election",
+    "date": "April 20, 2026",
+    "title": "Modi’s Mega Coimbatore Roadshow Draws Massive NDA Crowds Ahead of April 23 Polls",
+    "summary": "Prime Minister Narendra Modi led a 6-km roadshow across Avinashi Road and Gandhipuram, energising NDA cadres in the Kongu capital just three days before polling. Local leaders said the turnout was the largest in a decade."
+  },
+  {
+    "id": "cbe-new2",
+    "featured": false,
+    "category": "Politics",
+    "date": "April 20, 2026",
+    "title": "Senthilbalaji Promises ‘Global City’ Push for Coimbatore South",
+    "summary": "DMK candidate V. Senthilbalaji wrapped his door-to-door blitz in Singanallur with promises of a fully-funded Global City masterplan, metro phase-2 acceleration and a dedicated MSME relief fund."
+  },
+  {
+    "id": "cbe-new3",
+    "featured": false,
+    "category": "Business",
+    "date": "April 20, 2026",
+    "title": "Coimbatore EV Component Makers Secure $80M Series-B Funding",
+    "summary": "Three home-grown EV component startups headquartered in Peelamedu and Saravanampatti closed a combined $80 million Series-B round, reinforcing Coimbatore’s claim as the ‘Detroit of South India’."
+  },
+  {
+    "id": "cbe-new4",
+    "featured": false,
+    "category": "Development",
+    "date": "April 20, 2026",
+    "title": "Valankulam Lake Rejuvenation Phase-3 Opens to Public",
+    "summary": "The Smart City Mission unveiled the third phase of Valankulam restoration with new walking trails, biodiversity zones and night-lighting, integrating 14 acres of public space."
+  },
+  {
+    "id": "cbe-new5",
+    "featured": false,
+    "category": "Healthcare",
+    "date": "April 20, 2026",
+    "title": "New Cardiac & Neuro Block at CMCH Becomes Fully Operational",
+    "summary": "Coimbatore Government Medical College Hospital’s multispecialty block began full operations today, offering free advanced cardiac and neurological care to the underprivileged."
+  },
+  {
+    "id": "cbe-new6",
+    "featured": false,
+    "category": "Crime",
+    "date": "April 20, 2026",
+    "title": "Safe-City AI Cameras Help Bust Cyber-Fraud Ring Targeting Senior Citizens",
+    "summary": "City police dismantled a 12-member cyber-fraud gang using leads from the 5,000-camera AI command centre. Over ₹4.2 crore allegedly siphoned from elderly residents has been frozen."
+  },
+  {
+    "id": "cbe-new7",
+    "featured": false,
+    "category": "Election",
+    "date": "April 20, 2026",
+    "title": "Flying Squads Seize ₹62 Lakh Unaccounted Cash in Pollachi",
+    "summary": "Election flying squads intercepted two vehicles near Pollachi bypass and seized ₹62 lakh in unaccounted cash along with campaign material in violation of MCC."
+  },
+  {
+    "id": "cbe-new8",
+    "featured": false,
+    "category": "Awareness",
+    "date": "April 20, 2026",
+    "title": "Home-Voting Begins for 11,400 Elderly and PwD Voters Across District",
+    "summary": "Polling teams started door-step voting for senior citizens above 85 and persons with disabilities across all 10 Coimbatore constituencies under the ECI ‘Vote from Home’ initiative."
+  },
+  {
+    "id": "cbe-f1",
+    "featured": false,
     "category": "Tragedy",
     "date": "April 19, 2026",
     "title": "Valparai Ghat Road Accident: 9 Killed as Tourist Van Falls into Gorge",
@@ -9,7 +73,7 @@
   },
   {
     "id": "cbe-f2",
-    "featured": true,
+    "featured": false,
     "category": "Crime",
     "date": "April 19, 2026",
     "title": "Man Attempts Self-Immolation Near Gandhipuram Bus Stand, Critical",

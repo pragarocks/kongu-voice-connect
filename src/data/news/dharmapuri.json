@@ -1,7 +1,63 @@
 [
   {
-    "id": "dpr-f",
+    "id": "dpr-new1",
     "featured": true,
+    "category": "Election",
+    "date": "April 20, 2026",
+    "title": "Dharmapuri Records Highest Voter-Slip Distribution Rate in Kongu Belt",
+    "summary": "The Dharmapuri district administration achieved 98.6% voter-information slip distribution, the highest in the Kongu belt, three days ahead of polling."
+  },
+  {
+    "id": "dpr-new2",
+    "featured": false,
+    "category": "Politics",
+    "date": "April 20, 2026",
+    "title": "Edappadi K. Palaniswami Addresses Rally at Pennagaram",
+    "summary": "AIADMK general secretary Edappadi K. Palaniswami addressed a packed rally at Pennagaram, focusing on farm distress and the AIADMK’s record on rural welfare."
+  },
+  {
+    "id": "dpr-new3",
+    "featured": false,
+    "category": "Agriculture",
+    "date": "April 20, 2026",
+    "title": "Dharmapuri Mango Growers Hail GI-Tag-Driven Export Surge",
+    "summary": "Dharmapuri’s GI-tagged mango growers reported a 22% jump in advance orders from Gulf countries this season, attributing the surge to direct-export linkages."
+  },
+  {
+    "id": "dpr-new4",
+    "featured": false,
+    "category": "Development",
+    "date": "April 20, 2026",
+    "title": "Hogenakkal Eco-Tourism Corridor Phase-2 Sanctioned",
+    "summary": "The state tourism department sanctioned ₹78 crore for the second phase of the Hogenakkal eco-tourism corridor, including waste management and visitor facilities."
+  },
+  {
+    "id": "dpr-new5",
+    "featured": false,
+    "category": "Enforcement",
+    "date": "April 20, 2026",
+    "title": "Static Surveillance Teams Seize 740 Litres of Illicit Arrack in Harur",
+    "summary": "Election enforcement teams raided multiple points in Harur and Palacode, seizing 740 litres of illicit arrack and detaining four persons under MCC violations."
+  },
+  {
+    "id": "dpr-new6",
+    "featured": false,
+    "category": "Awareness",
+    "date": "April 20, 2026",
+    "title": "Home-Voting Drive Reaches 3,800 Elderly Across Five Constituencies",
+    "summary": "Polling teams completed home-voting for 3,800 senior citizens above 85 and persons with disabilities across all five Dharmapuri assembly constituencies."
+  },
+  {
+    "id": "dpr-new7",
+    "featured": false,
+    "category": "Politics",
+    "date": "April 20, 2026",
+    "title": "TVK’s Vijay to Hold Final Roadshow at Dharmapuri Tomorrow",
+    "summary": "Tamilaga Vettri Kazhagam chief Vijay will hold his final pre-poll roadshow at Dharmapuri tomorrow evening, with the district administration tightening security arrangements."
+  },
+  {
+    "id": "dpr-f",
+    "featured": false,
     "category": "Campaign",
     "date": "April 17, 2026",
     "title": "new  Haasan Promises Rural Development in Dharmapuri Rally",

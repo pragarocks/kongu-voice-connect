@@ -1,69 +1,69 @@
 {
   "featured": {
-    "id": "main-1",
-    "title": "மக்களின் ஒற்றுமையை நிலைநிறுத்துவதே குறிக்கோள்; நாட்டை மக்களுக்கு பிரதமர் மோடி உறுதி",
-    "summary": "மக்களின் ஒற்றுமையை பாதுகாப்பது முக்கியம் என பிரதமர் நரேந்திர மோடி தெரிவித்துள்ளார். நாட்டின் முன்னேற்றம் மக்களின் ஒற்றுமையில்தான் இருப்பதாகவும் அவர் வலியுறுத்தினார்.",
+    "id": "main-fresh-1",
+    "title": "Modi’s Mega Coimbatore Roadshow Sets the Tone for NDA Across Kongu Belt",
+    "summary": "Prime Minister Narendra Modi led a 6-km roadshow across Coimbatore today, drawing the largest NDA crowds in a decade as the western belt heads to polls on April 23.",
     "category": "Election",
-    "date": "April 18, 2026",
+    "date": "April 20, 2026",
     "featured": true
   },
   "sideNews": [
     {
-      "id": "side-1",
-      "title": "திருச்சியில் நாளை விஜய் பிரசாரம்: கட்சியினர் உற்சாகம்",
-      "summary": "திருச்சியில் நடைபெறும் விஜயின் பிரசாரத்திற்கு கட்சியினர் மற்றும் ரசிகர்கள் உற்சாகமாக தயாராகின்றனர்.",
+      "id": "main-fresh-2",
+      "title": "Vijay’s TVK Rally in Erode Draws 1.2 Lakh First-Time Voters",
+      "summary": "Tamilaga Vettri Kazhagam chief Vijay’s Erode East roadshow signalled a sharp three-way contest, with first-time voters dominating the turnout.",
       "category": "Campaign",
-      "date": "1 hour ago",
+      "date": "April 20, 2026",
       "featured": false
     },
     {
-      "id": "side-2",
-      "title": "இந்திய நோக்கி வந்த கப்பல் மீது தாக்குதல்: மத்திய அரசு கண்டனம்",
-      "summary": "இந்தியாவை நோக்கி வந்த கப்பல் மீது நடந்த தாக்குதலை மத்திய அரசு கடுமையாக கண்டித்துள்ளது.",
-      "category": "Enforcement",
-      "date": "1 hour ago",
+      "id": "main-fresh-3",
+      "title": "Salem Signs €456-Million 24x7 Water Supply Concession",
+      "summary": "Salem Corporation finalised a 25-year water-supply pact with a European utility major, promising round-the-clock pressurised supply to a million residents.",
+      "category": "Election",
+      "date": "April 20, 2026",
       "featured": false
     },
     {
-      "id": "side-3",
-      "title": "சொல்லும் சாதனைகள் எடப்பாடி பழனிசாமி விளக்கம்",
-      "summary": "அரசின் சாதனைகள் குறித்து எடப்பாடி பழனிசாமி விரிவாக விளக்கம் அளித்தார்.",
+      "id": "main-fresh-4",
+      "title": "Tiruppur Knitwear Exports Poised to Double After India-US Trade Deal",
+      "summary": "The Tiruppur Exporters’ Association projects exports may double in 3-5 years and add five lakh new jobs following tariff reductions.",
       "category": "Campaign",
-      "date": "3 hours ago",
+      "date": "April 20, 2026",
       "featured": false
     }
   ],
   "gridNews": [
     {
-      "id": "grid-1",
-      "title": "ஒரு கண்ணில் வெண்ணெய், மறுகண்ணில் சுண்ணாம்பு: தமிழக அரசியல் இரட்டை நிலை?",
-      "summary": "தமிழக அரசியலில் இரட்டை நிலைப்பாடு குறித்து விமர்சனங்கள் எழுந்துள்ளன.",
+      "id": "main-fresh-5",
+      "title": "Traffic Curbs Tighten as Campaign Rallies Peak in Coimbatore",
+      "summary": "Coimbatore city police imposed sweeping traffic diversions across Avinashi Road and Trichy Road as final-phase campaign rallies cause unprecedented congestion.",
       "category": "Election",
-      "date": "April 18, 2026",
+      "date": "April 20, 2026",
       "featured": false
     },
     {
-      "id": "grid-2",
-      "title": "கருப்பு ஆடையால் திருப்பி அனுப்பப்பட்ட திண்டுக்கல் திமுக வேட்பாளர்",
-      "summary": "கருப்பு ஆடை அணிந்ததற்காக திமுக வேட்பாளர் திருப்பி அனுப்பப்பட்ட சம்பவம் சர்ச்சையை ஏற்படுத்தியது.",
+      "id": "main-fresh-6",
+      "title": "Home-Voting Begins for Elderly Across All Eight Kongu Districts",
+      "summary": "Polling teams kicked off the ECI Vote-from-Home initiative for senior citizens above 85 and persons with disabilities across the entire Kongu belt.",
       "category": "Election",
-      "date": "April 18, 2026",
+      "date": "April 20, 2026",
       "featured": false
     },
     {
-      "id": "grid-3",
-      "title": "கருப்பு எங்கள் கலை: தேவியின் நீம் பாராட்டிய கனிமொழி பேச்சு",
-      "summary": "கருப்பு நிறத்தின் அடையாளம் குறித்து கனிமொழி பேசினார், அது சமூகத்தில் பெரும் விவாதத்தை ஏற்படுத்தியது.",
+      "id": "main-fresh-7",
+      "title": "Mettur Reservoir at 45% Storage; Karur & Erode Farmers on Edge",
+      "summary": "Stanley Reservoir’s low storage has triggered urgent calls from delta-fringe farmer collectives for a calibrated Kuruvai-season water release.",
       "category": "Awareness",
-      "date": "April 18, 2026",
+      "date": "April 20, 2026",
       "featured": false
     },
     {
-      "id": "grid-4",
-      "title": "தமிழகத்தை காப்பாற்ற மத்திய அரசு எடுத்த முக்கிய நடவடிக்கைகள்",
-      "summary": "தமிழகத்திற்கு ஆதரவாக மத்திய அரசு எடுத்த நடவடிக்கைகள் குறித்து விளக்கம் அளிக்கப்பட்டது.",
+      "id": "main-fresh-8",
+      "title": "Heatwave Pushes Erode Mercury to 41°C; No Relief Forecast",
+      "summary": "Erode recorded its hottest day of the season at 41.2°C, with farmers urging uninterrupted diesel supply for irrigation pumps.",
       "category": "Enforcement",
-      "date": "April 18, 2026",
+      "date": "April 20, 2026",
       "featured": false
     }
   ]

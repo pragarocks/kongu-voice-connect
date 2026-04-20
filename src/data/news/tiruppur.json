@@ -1,7 +1,63 @@
 [
   {
-    "id": "tir-f",
+    "id": "tir-new1",
     "featured": true,
+    "category": "Business",
+    "date": "April 20, 2026",
+    "title": "Tiruppur Knitwear Exports Set to Double After India-US Trade Deal",
+    "summary": "The Tiruppur Exporters’ Association projects exports may double in the next 3-5 years following tariff reductions, potentially adding five lakh new jobs in the cluster."
+  },
+  {
+    "id": "tir-new2",
+    "featured": false,
+    "category": "Election",
+    "date": "April 20, 2026",
+    "title": "Four-Way Contest Heats Up in Tiruppur North as TVK Joins Fray",
+    "summary": "Political analysts now see a genuine four-cornered contest in Tiruppur North between DMK, AIADMK, BJP-led NDA and Vijay’s TVK, with the migrant-worker vote emerging as the swing block."
+  },
+  {
+    "id": "tir-new3",
+    "featured": false,
+    "category": "Sustainability",
+    "date": "April 20, 2026",
+    "title": "Knitwear Cluster Shifts to Recycled Fabrics for EU ‘Green Deal’ Compliance",
+    "summary": "Over 220 Tiruppur garment units have transitioned to recycled-yarn lines to meet European Green Deal standards, with several signing dyeing-water zero-discharge contracts."
+  },
+  {
+    "id": "tir-new4",
+    "featured": false,
+    "category": "Development",
+    "date": "April 20, 2026",
+    "title": "Noyyal Riverfront Smart-Energy Phase-1 Inaugurated",
+    "summary": "The Noyyal Riverfront Development Project’s first phase, integrating solar walkways and water-quality sensors, was inaugurated near Mangalam Road."
+  },
+  {
+    "id": "tir-new5",
+    "featured": false,
+    "category": "Politics",
+    "date": "April 20, 2026",
+    "title": "BJP’s M. Yuvaraja Appeals for ‘Lotus Sweep’ in Erode-Tiruppur Belt",
+    "summary": "NDA candidate M. Yuvaraja addressed a packed meeting at Avinashi, urging Kongu voters to give the lotus a clean sweep across the western belt."
+  },
+  {
+    "id": "tir-new6",
+    "featured": false,
+    "category": "Enforcement",
+    "date": "April 20, 2026",
+    "title": "₹1.4 Crore Cash Seized from Campaign Vehicle Near Palladam",
+    "summary": "Flying squads in Palladam intercepted a campaign convoy and seized ₹1.4 crore in cash, suspected to be poll inducement money. Three persons detained."
+  },
+  {
+    "id": "tir-new7",
+    "featured": false,
+    "category": "Awareness",
+    "date": "April 20, 2026",
+    "title": "Migrant-Worker Voter Awareness Drive Covers 38 Garment Units",
+    "summary": "The district SVEEP team conducted Tamil-Hindi-Odia awareness sessions across 38 large garment factories to ensure inter-state workers exercise their franchise."
+  },
+  {
+    "id": "tir-f",
+    "featured": false,
     "category": "Campaign",
     "date": "April 17, 2026",
     "title": "Kamal Haasan Begins Campaign Tour for DMK Alliance in Tiruppur",

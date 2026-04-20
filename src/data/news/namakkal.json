@@ -1,7 +1,63 @@
 [
   {
-    "id": "nmk-f",
+    "id": "nmk-new1",
     "featured": true,
+    "category": "Education",
+    "date": "April 20, 2026",
+    "title": "Namakkal Coaching Hubs Pivot to AI & High-Tech Vocational Training",
+    "summary": "The famed Namakkal coaching ecosystem is transitioning from NEET-only models to AI-integrated skill bootcamps, partnering with Coimbatore engineering firms for placement guarantees."
+  },
+  {
+    "id": "nmk-new2",
+    "featured": false,
+    "category": "Politics",
+    "date": "April 20, 2026",
+    "title": "AIADMK Holds Massive Booth-Committee Meet for Rasipuram Constituency",
+    "summary": "Over 1,800 booth-level workers gathered at Rasipuram for a final strategy session, with senior AIADMK leaders briefing them on the polling-day micro-plan."
+  },
+  {
+    "id": "nmk-new3",
+    "featured": false,
+    "category": "Infrastructure",
+    "date": "April 20, 2026",
+    "title": "Demand for Better Roads & Drainage Sparks Citizen Protest in Namakkal Town",
+    "summary": "Hundreds of residents staged a peaceful sit-in at the Collectorate demanding immediate repair of arterial roads and stormwater drains before the monsoon."
+  },
+  {
+    "id": "nmk-new4",
+    "featured": false,
+    "category": "Business",
+    "date": "April 20, 2026",
+    "title": "Namakkal Poultry Sector Welcomes Feed-Grain GST Cut",
+    "summary": "The Namakkal poultry farmers’ federation hailed the central government’s reduction in GST on feed grains, projecting an 8-10% drop in egg production costs."
+  },
+  {
+    "id": "nmk-new5",
+    "featured": false,
+    "category": "Election",
+    "date": "April 20, 2026",
+    "title": "Home-Voting Begins for 4,200 Elderly Voters Across Namakkal District",
+    "summary": "Polling teams visited 4,200 senior citizens above 85 and persons with disabilities across all six Namakkal assembly constituencies under the ECI Vote-from-Home scheme."
+  },
+  {
+    "id": "nmk-new6",
+    "featured": false,
+    "category": "Enforcement",
+    "date": "April 20, 2026",
+    "title": "Cash, Liquor & Freebies Worth ₹2.1 Crore Seized in Tiruchengode",
+    "summary": "Election surveillance teams seized cash, liquor cartons and household appliances worth ₹2.1 crore from a godown in Tiruchengode allegedly meant for voter inducement."
+  },
+  {
+    "id": "nmk-new7",
+    "featured": false,
+    "category": "Awareness",
+    "date": "April 20, 2026",
+    "title": "EVM Strong-Room Sealed at Namakkal GH College After Final Commissioning",
+    "summary": "All EVMs and VVPATs for the district were sealed in the strong room at Namakkal Government Arts College in the presence of candidates and observers."
+  },
+  {
+    "id": "nmk-f",
+    "featured": false,
     "category": "Campaign",
     "date": "April 17, 2026",
     "title": "Kamal Haasan Promises Sago Industry Revival in Namakkal Rally",
