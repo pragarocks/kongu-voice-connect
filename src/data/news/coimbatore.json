@@ -1,7 +1,7 @@
 [
   {
     "id": "cbe-new1",
-    "featured": true,
+    "featured": false,
     "category": "Election",
     "date": "April 20, 2026",
     "title": "Modi’s Mega Coimbatore Roadshow Draws Massive NDA Crowds Ahead of April 23 Polls",
@@ -65,7 +65,7 @@
   },
   {
     "id": "cbe-f1",
-    "featured": false,
+    "featured": true,
     "category": "Tragedy",
     "date": "April 19, 2026",
     "title": "Valparai Ghat Road Accident: 9 Killed as Tourist Van Falls into Gorge",

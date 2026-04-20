@@ -91,8 +91,18 @@ const Coimbatore = () => {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
             {newsList.map((item) => (
-              <Card key={item.id} className="border-none shadow-none group cursor-pointer hover:bg-accent/50 transition-all rounded-2xl p-4 -m-4">
+              <Card key={item.id} className="border-none shadow-none group cursor-pointer hover:bg-accent/50 transition-all rounded-2xl p-4 -m-4 overflow-hidden">
                 <CardContent className="p-0 space-y-4">
+                  {(item as any).image && (
+                    <div className="aspect-[16/10] overflow-hidden rounded-xl">
+                      <img
+                        src={(item as any).image}
+                        alt={item.title}
+                        className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                        loading="lazy"
+                      />
+                    </div>
+                  )}
                   <div className="flex items-center gap-3 text-[10px] font-bold uppercase tracking-widest">
                     <span className="text-primary">{item.category}</span>
                     <span className="text-muted-foreground/60">{item.date}</span>
