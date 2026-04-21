@@ -1,838 +1,411 @@
 [
   {
-    "id": "nmk-new1",
+    "id": "nkl-new1",
     "featured": true,
-    "category": "Education",
-    "date": "April 20, 2026",
-    "title": "Namakkal Coaching Hubs Pivot to AI & High-Tech Vocational Training",
-    "summary": "The famed Namakkal coaching ecosystem is transitioning from NEET-only models to AI-integrated skill bootcamps, partnering with Coimbatore engineering firms for placement guarantees."
+    "category": "Election",
+    "date": "April 21, 2026",
+    "title": "Election Campaigns Intensify Across Namakkal",
+    "summary": "Political parties have intensified their campaign activities across Namakkal district with rallies, public meetings, and voter outreach programs. Candidates are focusing on key local issues to attract voters ahead of the upcoming elections."
   },
   {
-    "id": "nmk-new2",
+    "id": "nkl-new2",
     "featured": false,
     "category": "Politics",
-    "date": "April 20, 2026",
-    "title": "AIADMK Holds Massive Booth-Committee Meet for Rasipuram Constituency",
-    "summary": "Over 1,800 booth-level workers gathered at Rasipuram for a final strategy session, with senior AIADMK leaders briefing them on the polling-day micro-plan."
+    "date": "April 21, 2026",
+    "title": "Namakkal Emerges as Key Electoral Battleground",
+    "summary": "Namakkal has become a crucial electoral battleground with major political parties deploying senior leaders and strategists to secure voter support in the region."
   },
   {
-    "id": "nmk-new3",
+    "id": "nkl-new3",
+    "featured": false,
+    "category": "Civic",
+    "date": "April 21, 2026",
+    "title": "Residents Demand Road Repairs",
+    "summary": "Residents in several parts of Namakkal have raised concerns over damaged roads and poor infrastructure, urging authorities to take immediate action to improve commuting conditions."
+  },
+  {
+    "id": "nkl-new4",
+    "featured": false,
+    "category": "Agriculture",
+    "date": "April 21, 2026",
+    "title": "Poultry Industry Shows Steady Growth",
+    "summary": "Namakkal’s poultry industry continues to grow steadily with increased production and demand, reinforcing its reputation as a major poultry hub in Tamil Nadu."
+  },
+  {
+    "id": "nkl-new5",
+    "featured": false,
+    "category": "Health",
+    "date": "April 21, 2026",
+    "title": "Heatwave Advisory Issued",
+    "summary": "Authorities have issued a heatwave advisory as temperatures rise across Namakkal, urging residents to take precautions and stay hydrated."
+  },
+
+  {
+    "id": "nkl-new6",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Special Buses Arranged for Election Duty",
+    "summary": "Transport department has arranged special bus services to handle increased passenger flow and election-related travel across the district."
+  },
+  {
+    "id": "nkl-new7",
+    "featured": false,
+    "category": "Crime",
+    "date": "April 21, 2026",
+    "title": "Police Tighten Security Ahead of Polls",
+    "summary": "Police have strengthened security arrangements with increased patrols and checkpoints to ensure peaceful elections in Namakkal."
+  },
+  {
+    "id": "nkl-new8",
+    "featured": false,
+    "category": "Market",
+    "date": "April 21, 2026",
+    "title": "Egg Prices Fluctuate in Namakkal",
+    "summary": "Egg prices in Namakkal markets are witnessing fluctuations due to changes in demand and supply conditions, impacting poultry traders."
+  },
+  {
+    "id": "nkl-new9",
+    "featured": false,
+    "category": "Education",
+    "date": "April 21, 2026",
+    "title": "Students Prepare for Exams",
+    "summary": "Students across Namakkal district are actively preparing for upcoming examinations with revision sessions and academic guidance."
+  },
+  {
+    "id": "nkl-new10",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 21, 2026",
+    "title": "Tree Plantation Drives Conducted",
+    "summary": "Environmental groups and volunteers have conducted tree plantation drives to improve green cover in the district."
+  },
+
+  {
+    "id": "nkl-new11",
     "featured": false,
     "category": "Infrastructure",
-    "date": "April 20, 2026",
-    "title": "Demand for Better Roads & Drainage Sparks Citizen Protest in Namakkal Town",
-    "summary": "Hundreds of residents staged a peaceful sit-in at the Collectorate demanding immediate repair of arterial roads and stormwater drains before the monsoon."
+    "date": "April 21, 2026",
+    "title": "Road Development Projects Accelerated",
+    "summary": "Authorities have accelerated road development works to improve connectivity across urban and rural areas."
   },
   {
-    "id": "nmk-new4",
+    "id": "nkl-new12",
+    "featured": false,
+    "category": "Retail",
+    "date": "April 21, 2026",
+    "title": "Markets Witness Increased Footfall",
+    "summary": "Local markets are witnessing increased customer footfall due to election-related activities and seasonal shopping."
+  },
+  {
+    "id": "nkl-new13",
+    "featured": false,
+    "category": "Tourism",
+    "date": "April 21, 2026",
+    "title": "Namakkal Temple Sees More Visitors",
+    "summary": "Namakkal Anjaneyar Temple is witnessing increased visitor turnout, especially during weekends and holidays."
+  },
+  {
+    "id": "nkl-new14",
+    "featured": false,
+    "category": "Public Safety",
+    "date": "April 21, 2026",
+    "title": "Fire Safety Inspections Conducted",
+    "summary": "Officials have conducted fire safety inspections in commercial establishments to ensure compliance with safety norms."
+  },
+  {
+    "id": "nkl-new15",
+    "featured": false,
+    "category": "Economy",
+    "date": "April 21, 2026",
+    "title": "Local Economy Shows Growth",
+    "summary": "Economic activity in Namakkal is showing positive signs with growth in agriculture and trade sectors."
+  },
+
+  {
+    "id": "nkl-new16",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Traffic Advisory Issued",
+    "summary": "Traffic police have issued advisories to manage congestion during campaign rallies and public gatherings."
+  },
+  {
+    "id": "nkl-new17",
+    "featured": false,
+    "category": "Health",
+    "date": "April 21, 2026",
+    "title": "Free Medical Camps Organized",
+    "summary": "Medical camps are being organized in rural areas to provide healthcare services to underserved communities."
+  },
+  {
+    "id": "nkl-new18",
+    "featured": false,
+    "category": "Civic",
+    "date": "April 21, 2026",
+    "title": "Garbage Clearance Drives Intensified",
+    "summary": "Municipal authorities have intensified sanitation efforts to maintain cleanliness in towns and villages."
+  },
+  {
+    "id": "nkl-new19",
+    "featured": false,
+    "category": "Industry",
+    "date": "April 21, 2026",
+    "title": "Small Industries Expand Operations",
+    "summary": "Local industries are expanding production capacity to meet growing demand in various sectors."
+  },
+  {
+    "id": "nkl-new20",
+    "featured": false,
+    "category": "Law",
+    "date": "April 21, 2026",
+    "title": "Election Code Monitoring Strengthened",
+    "summary": "Authorities are closely monitoring adherence to election code of conduct to ensure fair practices."
+  },
+
+  {
+    "id": "nkl-new21",
+    "featured": false,
+    "category": "Startup",
+    "date": "April 21, 2026",
+    "title": "Startup Initiatives Gain Momentum",
+    "summary": "New startup initiatives are being introduced to encourage entrepreneurship among youth in Namakkal."
+  },
+  {
+    "id": "nkl-new22",
+    "featured": false,
+    "category": "Public",
+    "date": "April 21, 2026",
+    "title": "Voter Awareness Campaigns Increase",
+    "summary": "Officials are conducting campaigns to increase voter awareness and turnout."
+  },
+  {
+    "id": "nkl-new23",
+    "featured": false,
+    "category": "Security",
+    "date": "April 21, 2026",
+    "title": "Additional Police Deployment",
+    "summary": "Additional police forces have been deployed in sensitive areas for election security."
+  },
+  {
+    "id": "nkl-new24",
+    "featured": false,
+    "category": "Energy",
+    "date": "April 21, 2026",
+    "title": "Electricity Demand Rises",
+    "summary": "Power consumption has increased due to rising temperatures across the district."
+  },
+  {
+    "id": "nkl-new25",
+    "featured": false,
+    "category": "Sports",
+    "date": "April 21, 2026",
+    "title": "District Sports Events Conducted",
+    "summary": "Various sports competitions are being held with participation from schools and colleges."
+  },
+
+  {
+    "id": "nkl-new26",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 21, 2026",
+    "title": "Water Body Cleaning Initiatives Continue",
+    "summary": "Authorities are continuing efforts to clean and restore lakes and ponds."
+  },
+  {
+    "id": "nkl-new27",
+    "featured": false,
+    "category": "Retail",
+    "date": "April 21, 2026",
+    "title": "Retail Sales Improve",
+    "summary": "Retail businesses are seeing improved sales with increased consumer activity."
+  },
+  {
+    "id": "nkl-new28",
+    "featured": false,
+    "category": "Technology",
+    "date": "April 21, 2026",
+    "title": "Digital Services Adoption Increases",
+    "summary": "Digital services are being widely adopted across businesses and public services."
+  },
+  {
+    "id": "nkl-new29",
+    "featured": false,
+    "category": "Lifestyle",
+    "date": "April 21, 2026",
+    "title": "Fitness Awareness Among Youth Rises",
+    "summary": "Young people are increasingly focusing on fitness and healthy living."
+  },
+  {
+    "id": "nkl-new30",
+    "featured": false,
+    "category": "Culture",
+    "date": "April 21, 2026",
+    "title": "Cultural Programs Draw Participation",
+    "summary": "Cultural events are attracting participation from local communities."
+  },
+
+  {
+    "id": "nkl-new31",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Bus Stands See Heavy Passenger Movement",
+    "summary": "Passenger traffic has increased significantly in bus stands across Namakkal."
+  },
+  {
+    "id": "nkl-new32",
+    "featured": false,
+    "category": "Agriculture",
+    "date": "April 21, 2026",
+    "title": "Farmers Monitor Market Prices",
+    "summary": "Farmers are closely watching market trends to maximize profits."
+  },
+  {
+    "id": "nkl-new33",
+    "featured": false,
+    "category": "Market",
+    "date": "April 21, 2026",
+    "title": "Vegetable Prices Show Variation",
+    "summary": "Vegetable prices are fluctuating due to supply and demand changes."
+  },
+  {
+    "id": "nkl-new34",
+    "featured": false,
+    "category": "Public Safety",
+    "date": "April 21, 2026",
+    "title": "Emergency Services Prepared",
+    "summary": "Emergency response teams are on standby to handle any incidents."
+  },
+  {
+    "id": "nkl-new35",
+    "featured": false,
+    "category": "Tourism",
+    "date": "April 21, 2026",
+    "title": "Local Attractions See Visitor Rise",
+    "summary": "Tourist spots in Namakkal are seeing increased visitor numbers."
+  },
+
+  {
+    "id": "nkl-new36",
+    "featured": false,
+    "category": "Civic",
+    "date": "April 21, 2026",
+    "title": "Water Supply Monitoring Strengthened",
+    "summary": "Authorities are ensuring continuous water supply across towns and villages."
+  },
+  {
+    "id": "nkl-new37",
+    "featured": false,
+    "category": "Health",
+    "date": "April 21, 2026",
+    "title": "Hospitals Prepare for Summer Cases",
+    "summary": "Hospitals are preparing to handle heat-related health issues."
+  },
+  {
+    "id": "nkl-new38",
     "featured": false,
     "category": "Business",
-    "date": "April 20, 2026",
-    "title": "Namakkal Poultry Sector Welcomes Feed-Grain GST Cut",
-    "summary": "The Namakkal poultry farmers’ federation hailed the central government’s reduction in GST on feed grains, projecting an 8-10% drop in egg production costs."
+    "date": "April 21, 2026",
+    "title": "SMEs Expand Production",
+    "summary": "Small businesses are increasing production capacity to meet demand."
   },
   {
-    "id": "nmk-new5",
+    "id": "nkl-new39",
     "featured": false,
-    "category": "Election",
-    "date": "April 20, 2026",
-    "title": "Home-Voting Begins for 4,200 Elderly Voters Across Namakkal District",
-    "summary": "Polling teams visited 4,200 senior citizens above 85 and persons with disabilities across all six Namakkal assembly constituencies under the ECI Vote-from-Home scheme."
+    "category": "Education",
+    "date": "April 21, 2026",
+    "title": "Skill Development Programs Introduced",
+    "summary": "Skill development programs are helping youth gain employment opportunities."
   },
   {
-    "id": "nmk-new6",
+    "id": "nkl-new40",
     "featured": false,
-    "category": "Enforcement",
-    "date": "April 20, 2026",
-    "title": "Cash, Liquor & Freebies Worth ₹2.1 Crore Seized in Tiruchengode",
-    "summary": "Election surveillance teams seized cash, liquor cartons and household appliances worth ₹2.1 crore from a godown in Tiruchengode allegedly meant for voter inducement."
+    "category": "Infrastructure",
+    "date": "April 21, 2026",
+    "title": "Bridge Maintenance Works Ongoing",
+    "summary": "Bridge repair works are being carried out to ensure safe travel."
   },
+
   {
-    "id": "nmk-new7",
+    "id": "nkl-new41",
     "featured": false,
-    "category": "Awareness",
-    "date": "April 20, 2026",
-    "title": "EVM Strong-Room Sealed at Namakkal GH College After Final Commissioning",
-    "summary": "All EVMs and VVPATs for the district were sealed in the strong room at Namakkal Government Arts College in the presence of candidates and observers."
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Auto Drivers Demand Fare Revision",
+    "summary": "Auto drivers have requested fare hikes due to rising fuel costs."
   },
   {
-    "id": "nmk-f",
+    "id": "nkl-new42",
     "featured": false,
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "Kamal Haasan Promises Sago Industry Revival in Namakkal Rally",
-    "summary": "Kamal Haasan addresses a packed public rally in Namakkal promising the revival of the sago industry, which is a major economic backbone of the district."
-  },
-  {
-    "id": "nmk-1",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "DMK's P. Rani Intensifies Door-to-Door Campaigning",
-    "summary": "DMK candidate P. Rani intensifies door-to-door campaigning in Namakkal town today, focusing on women voters and welfare beneficiaries."
-  },
-  {
-    "id": "nmk-2",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "AIADMK's Sridevi Promises Better Poultry Farm Support",
-    "summary": "AIADMK nominee Sridevi P. S. Mohan promises better poultry farm support and disease control labs in Namakkal constituency."
-  },
-  {
-    "id": "nmk-3",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "title": "TVK Workers Distribute Booth Slips in Rasipuram (SC)",
-    "summary": "TVK workers distribute booth slips vigorously across Rasipuram (SC) constituency as part of grassroots voter outreach."
-  },
-  {
-    "id": "nmk-4",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "BJP's Premkumar Holds Roadshow on Granite Quarry Issues",
-    "summary": "BJP candidate S. D. Premkumar holds a roadshow highlighting granite quarry worker issues in Rasipuram."
-  },
-  {
-    "id": "nmk-5",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "title": "Flying Squads Seize Unaccounted Cash in Paramathi-Velur",
-    "summary": "Flying squads seize unaccounted cash during checks in Paramathi-Velur today as election enforcement intensifies."
-  },
-  {
-    "id": "nmk-6",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "DMK Vows to Resolve Tapioca Farmers' Market Woes",
-    "summary": "DMK candidate in Senthamangalam (ST) vows to resolve tapioca farmers' market woes through new cold storage facilities."
-  },
-  {
-    "id": "nmk-7",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "title": "NTK Holds Voter Awareness in Kolli Hills Tribal Areas",
-    "summary": "NTK activists organise voter awareness meetings in remote Kolli Hills tribal areas to ensure no eligible voter is left out."
-  },
-  {
-    "id": "nmk-8",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "Vijay's TVK Campaign Vehicle Tours Kumarapalayam",
-    "summary": "Vijay's TVK campaign vehicle tours Kumarapalayam stressing youth employment and skill development promises."
-  },
-  {
-    "id": "nmk-9",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "title": "Paramilitary Deployed in Sensitive Senthamangalam Booths",
-    "summary": "Paramilitary forces have been deployed at sensitive polling booths in Senthamangalam (ST) ahead of polling day."
-  },
-  {
-    "id": "nmk-10",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "title": "Home Voting Arranged for Elderly in Rasipuram",
-    "summary": "Home voting facility arranged for elderly and differently-abled voters in Rasipuram constituency."
-  },
-  {
-    "id": "nmk-11",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "title": "MCC Violation Filed Against Independent in Kolli Hills",
-    "summary": "Flying squads booked a model code violation case against an independent candidate in Kolli Hills."
-  },
-  {
-    "id": "nmk-12",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "title": "Observer Visits EVM Randomization Centre",
-    "summary": "Election observer visits the EVM randomization centre in Namakkal district headquarters to verify the process."
-  },
-  {
-    "id": "nmk-13",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "title": "Postal Ballot Applications Surge from NRIs in Tiruchengode",
-    "summary": "Postal ballot applications surge among NRIs from Tiruchengode constituency, reflecting high diaspora engagement."
-  },
-  {
-    "id": "nmk-14",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "AIADMK Addresses Bird Flu Concerns of Poultry Farmers",
-    "summary": "AIADMK holds a public meeting addressing poultry farmers' bird flu concerns in Namakkal."
-  },
-  {
-    "id": "nmk-15",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "DMK Promises Skill Centres for Powerloom Youth",
-    "summary": "DMK candidate P. Rani promises skill training centres for powerloom youth in Namakkal."
-  },
-  {
-    "id": "nmk-16",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "BJP Inspects Granite Quarry Worker Conditions",
-    "summary": "BJP's S. D. Premkumar inspects granite quarry worker conditions in Rasipuram and promises better safety norms."
-  },
-  {
-    "id": "nmk-17",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "title": "SVEEP Reaches Remote Senthamangalam Hamlets",
-    "summary": "SVEEP programme reaches remote hamlets in Senthamangalam (ST) constituency with awareness drives."
-  },
-  {
-    "id": "nmk-18",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "title": "Polling Personnel Training Completed in District",
-    "summary": "Polling personnel training has been completed successfully across all six Namakkal constituencies."
-  },
-  {
-    "id": "nmk-19",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "TVK Pledges Modern Sago Processing Units in Mohanur",
-    "summary": "TVK candidate pledges modern sago processing units in Mohanur to revive the local economy."
-  },
-  {
-    "id": "nmk-20",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "title": "Flying Squads Seize Liquor Bottles in Rasipuram",
-    "summary": "Flying squads seize illegal liquor bottles during checks in Rasipuram under model code enforcement."
-  },
-  {
-    "id": "nmk-22",
-    "title": "EVM Commissioning Underway in Namakkal Constituencies",
-    "summary": "Election officials in Namakkal have begun the commissioning of EVMs and VVPATs in the presence of candidate agents and observers ahead of the polling day.",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-23",
-    "title": "DMK Intensifies Final-Phase Outreach in Namakkal",
-    "summary": "DMK candidates and alliance workers have intensified door-to-door outreach across Namakkal, focusing on welfare scheme beneficiaries and first-time voters.",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-24",
-    "title": "SVEEP Street Plays Boost Voter Awareness in Namakkal",
-    "summary": "SVEEP teams in Namakkal performed street plays at bus stands and markets to encourage 100% voter turnout on April 23.",
-    "category": "Awareness",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-25",
-    "title": "Flying Squads Intensify Vehicle Checks in Namakkal",
-    "summary": "Flying squads in Namakkal have intensified vehicle checks at major entry points and highway intersections to curb illegal cash movement.",
-    "category": "Enforcement",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-26",
-    "title": "Namakkal Reports Smooth Progress on Postal Ballot Distribution",
-    "summary": "District election officials confirmed that postal ballot distribution to service voters and senior citizens in Namakkal is progressing as per schedule.",
-    "category": "Election",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-27",
-    "title": "AIADMK Holds Booth-Level Worker Meetings in Namakkal",
-    "summary": "AIADMK held booth-level worker meetings across Namakkal to finalize polling-day strategy and voter mobilization plans.",
-    "category": "Campaign",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-28",
-    "title": "Namakkal Colleges Host Voter Pledge Programs",
-    "summary": "Colleges across Namakkal hosted voter pledge programs for first-time voters, accompanied by mock EVM demonstrations.",
-    "category": "Awareness",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-29",
-    "title": "Namakkal Static Surveillance Teams Report Daily to Observers",
-    "summary": "Static surveillance teams in Namakkal are reporting daily to election observers on cash, liquor, and freebie movement.",
-    "category": "Enforcement",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-30",
-    "title": "Strong Rooms Sealed in Namakkal After Final Randomization",
-    "summary": "EVM strong rooms across Namakkal have been sealed under multi-tier security following the final randomization of polling personnel.",
-    "category": "Election",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-31",
-    "title": "BJP Highlights Central Schemes During Namakkal Roadshow",
-    "summary": "BJP candidates conducted a roadshow in Namakkal highlighting central government welfare schemes and infrastructure investments.",
-    "category": "Campaign",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-32",
-    "title": "Booth Slip Distribution Crosses Halfway Mark in Namakkal",
-    "summary": "Door-to-door booth slip distribution in Namakkal has crossed the halfway mark, with BLOs targeting full coverage by April 18.",
-    "category": "Awareness",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-33",
-    "title": "MCC Violation Notices Issued in Namakkal Constituencies",
-    "summary": "Several model code of conduct violation notices have been issued in Namakkal constituencies for unauthorised hoardings and campaign material.",
-    "category": "Enforcement",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-34",
-    "title": "Namakkal Collector Reviews Polling Station Readiness",
-    "summary": "The District Collector held a review meeting with returning officers in Namakkal to assess polling station readiness, water supply, and accessibility ramps.",
-    "category": "Election",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-35",
-    "title": "TVK Cadre Steps Up Door-to-Door Drive in Namakkal",
-    "summary": "TVK cadre led by local coordinators stepped up the door-to-door campaign across Namakkal, distributing pamphlets and party manifestos.",
-    "category": "Campaign",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-36",
-    "title": "Namakkal Administration Installs Awareness Hoardings",
-    "summary": "The Namakkal district administration has installed voter awareness hoardings at major junctions, urging citizens to exercise their franchise.",
-    "category": "Awareness",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-37",
-    "title": "Namakkal Police Beef Up Security at Sensitive Booths",
-    "summary": "Namakkal district police have beefed up security at sensitive booths with paramilitary deployment and additional patrol vehicles.",
-    "category": "Enforcement",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-38",
-    "title": "Mock Polls Demonstrated to Candidates in Namakkal",
-    "summary": "Mock polls were demonstrated to candidate representatives in Namakkal as part of EVM transparency measures before the April 23 election.",
-    "category": "Election",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-39",
-    "title": "Congress Workers Hold Street-Corner Meetings in Namakkal",
-    "summary": "Congress alliance workers held street-corner meetings in Namakkal to highlight the alliance's promises on education and healthcare.",
-    "category": "Campaign",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-40",
-    "title": "Voter Helpline Sees Spike in Calls from Namakkal",
-    "summary": "The state voter helpline has seen a spike in calls from Namakkal, mostly enquiring about polling station details and voter slip status.",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-41",
-    "title": "Liquor Seizure Reported During Namakkal Checks",
-    "summary": "A significant liquor seizure was reported during routine election-related checks in Namakkal, and the contraband has been impounded.",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-42",
-    "title": "Namakkal Voter List Final Verification Concluded",
-    "summary": "Booth-level officers in Namakkal have concluded the final voter list verification, ensuring electoral roll accuracy ahead of polling.",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-43",
-    "title": "NTK Organises Cycle Rally Across Namakkal Towns",
-    "summary": "Naam Tamilar Katchi organised a cycle rally across Namakkal towns to highlight environmental and identity-based issues ahead of polling.",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-44",
-    "title": "Namakkal Differently-Abled Voters Get Dedicated Assistance",
-    "summary": "Differently-abled voters in Namakkal are receiving dedicated transport and assistance arrangements from the district election office.",
-    "category": "Awareness",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-45",
-    "title": "Income Tax Teams Conduct Discreet Surveys in Namakkal",
-    "summary": "Income Tax teams have been conducting discreet surveys in Namakkal to track unaccounted financial flows linked to the election period.",
-    "category": "Enforcement",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-46",
-    "title": "Sector Officers Deployed Across Namakkal Polling Zones",
-    "summary": "Sector officers have been deployed across Namakkal polling zones to monitor turnout, address grievances, and report issues in real time.",
-    "category": "Election",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-47",
-    "title": "Star Campaigners Schedule Final Rallies in Namakkal",
-    "summary": "Major political parties have scheduled final-phase rallies of star campaigners in Namakkal as the silent period nears.",
-    "category": "Campaign",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-48",
-    "title": "Social Media Influencers Promote Turnout in Namakkal",
-    "summary": "Local social media influencers in Namakkal are running short-form video campaigns urging youth to vote on April 23.",
-    "category": "Awareness",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-49",
-    "title": "Namakkal Cybercrime Cell Monitors Election Misinformation",
-    "summary": "The Namakkal cybercrime cell is actively monitoring social media platforms for election-related misinformation and hate speech.",
-    "category": "Enforcement",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-50",
-    "title": "Namakkal Election Control Room Operates Round the Clock",
-    "summary": "The election control room in Namakkal is functioning round the clock to handle voter complaints, MCC violations, and logistical queries.",
-    "category": "Election",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-51",
-    "title": "Women Self-Help Groups Address Namakkal Candidates",
-    "summary": "Women self-help group federations in Namakkal addressed candidates seeking concrete commitments on livelihood and credit access.",
-    "category": "Campaign",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-52",
-    "title": "Namakkal Senior Citizens Avail Home Voting Facility",
-    "summary": "Senior citizens above 85 in Namakkal are availing the home voting facility, with polling teams visiting registered residences.",
-    "category": "Awareness",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-53",
-    "title": "Bank Cash Movement Tracked in Namakkal",
-    "summary": "Bank cash movement above the threshold in Namakkal is being tracked and verified by election expenditure observers.",
-    "category": "Enforcement",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-54",
-    "title": "EVM Commissioning Underway in Namakkal Constituencies",
-    "summary": "Election officials in Namakkal have begun the commissioning of EVMs and VVPATs in the presence of candidate agents and observers ahead of the polling day.",
-    "category": "Election",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-55",
-    "title": "Trader Associations Submit Memorandum to Namakkal Candidates",
-    "summary": "Trader associations submitted a joint memorandum to candidates in Namakkal seeking GST relief and infrastructure support.",
-    "category": "Campaign",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-56",
-    "title": "SVEEP Street Plays Boost Voter Awareness in Namakkal",
-    "summary": "SVEEP teams in Namakkal performed street plays at bus stands and markets to encourage 100% voter turnout on April 23.",
-    "category": "Awareness",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-57",
-    "title": "Flying Squads Intensify Vehicle Checks in Namakkal",
-    "summary": "Flying squads in Namakkal have intensified vehicle checks at major entry points and highway intersections to curb illegal cash movement.",
-    "category": "Enforcement",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-58",
-    "title": "Namakkal Reports Smooth Progress on Postal Ballot Distribution",
-    "summary": "District election officials confirmed that postal ballot distribution to service voters and senior citizens in Namakkal is progressing as per schedule.",
-    "category": "Election",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-59",
-    "title": "Namakkal Farmers Raise Pricing Concerns at Public Meeting",
-    "summary": "Farmers in Namakkal raised concerns over crop pricing and procurement at a public meeting attended by alliance candidates.",
-    "category": "Campaign",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-60",
-    "title": "Namakkal Colleges Host Voter Pledge Programs",
-    "summary": "Colleges across Namakkal hosted voter pledge programs for first-time voters, accompanied by mock EVM demonstrations.",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-61",
-    "title": "Namakkal Static Surveillance Teams Report Daily to Observers",
-    "summary": "Static surveillance teams in Namakkal are reporting daily to election observers on cash, liquor, and freebie movement.",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-62",
-    "title": "Strong Rooms Sealed in Namakkal After Final Randomization",
-    "summary": "EVM strong rooms across Namakkal have been sealed under multi-tier security following the final randomization of polling personnel.",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-63",
-    "title": "DMK Intensifies Final-Phase Outreach in Namakkal",
-    "summary": "DMK candidates and alliance workers have intensified door-to-door outreach across Namakkal, focusing on welfare scheme beneficiaries and first-time voters.",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-64",
-    "title": "Booth Slip Distribution Crosses Halfway Mark in Namakkal",
-    "summary": "Door-to-door booth slip distribution in Namakkal has crossed the halfway mark, with BLOs targeting full coverage by April 18.",
-    "category": "Awareness",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-65",
-    "title": "MCC Violation Notices Issued in Namakkal Constituencies",
-    "summary": "Several model code of conduct violation notices have been issued in Namakkal constituencies for unauthorised hoardings and campaign material.",
-    "category": "Enforcement",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-66",
-    "title": "Namakkal Collector Reviews Polling Station Readiness",
-    "summary": "The District Collector held a review meeting with returning officers in Namakkal to assess polling station readiness, water supply, and accessibility ramps.",
-    "category": "Election",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-67",
-    "title": "AIADMK Holds Booth-Level Worker Meetings in Namakkal",
-    "summary": "AIADMK held booth-level worker meetings across Namakkal to finalize polling-day strategy and voter mobilization plans.",
-    "category": "Campaign",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-68",
-    "title": "Namakkal Administration Installs Awareness Hoardings",
-    "summary": "The Namakkal district administration has installed voter awareness hoardings at major junctions, urging citizens to exercise their franchise.",
-    "category": "Awareness",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-69",
-    "title": "Namakkal Police Beef Up Security at Sensitive Booths",
-    "summary": "Namakkal district police have beefed up security at sensitive booths with paramilitary deployment and additional patrol vehicles.",
-    "category": "Enforcement",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-70",
-    "title": "Mock Polls Demonstrated to Candidates in Namakkal",
-    "summary": "Mock polls were demonstrated to candidate representatives in Namakkal as part of EVM transparency measures before the April 23 election.",
-    "category": "Election",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-71",
-    "title": "BJP Highlights Central Schemes During Namakkal Roadshow",
-    "summary": "BJP candidates conducted a roadshow in Namakkal highlighting central government welfare schemes and infrastructure investments.",
-    "category": "Campaign",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-72",
-    "title": "Voter Helpline Sees Spike in Calls from Namakkal",
-    "summary": "The state voter helpline has seen a spike in calls from Namakkal, mostly enquiring about polling station details and voter slip status.",
-    "category": "Awareness",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-73",
-    "title": "Liquor Seizure Reported During Namakkal Checks",
-    "summary": "A significant liquor seizure was reported during routine election-related checks in Namakkal, and the contraband has been impounded.",
-    "category": "Enforcement",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-74",
-    "title": "Namakkal Voter List Final Verification Concluded",
-    "summary": "Booth-level officers in Namakkal have concluded the final voter list verification, ensuring electoral roll accuracy ahead of polling.",
-    "category": "Election",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-75",
-    "title": "TVK Cadre Steps Up Door-to-Door Drive in Namakkal",
-    "summary": "TVK cadre led by local coordinators stepped up the door-to-door campaign across Namakkal, distributing pamphlets and party manifestos.",
-    "category": "Campaign",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-76",
-    "title": "Namakkal Differently-Abled Voters Get Dedicated Assistance",
-    "summary": "Differently-abled voters in Namakkal are receiving dedicated transport and assistance arrangements from the district election office.",
-    "category": "Awareness",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-77",
-    "title": "Income Tax Teams Conduct Discreet Surveys in Namakkal",
-    "summary": "Income Tax teams have been conducting discreet surveys in Namakkal to track unaccounted financial flows linked to the election period.",
-    "category": "Enforcement",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-78",
-    "title": "Sector Officers Deployed Across Namakkal Polling Zones",
-    "summary": "Sector officers have been deployed across Namakkal polling zones to monitor turnout, address grievances, and report issues in real time.",
-    "category": "Election",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-79",
-    "title": "Congress Workers Hold Street-Corner Meetings in Namakkal",
-    "summary": "Congress alliance workers held street-corner meetings in Namakkal to highlight the alliance's promises on education and healthcare.",
-    "category": "Campaign",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-80",
-    "title": "Social Media Influencers Promote Turnout in Namakkal",
-    "summary": "Local social media influencers in Namakkal are running short-form video campaigns urging youth to vote on April 23.",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-81",
-    "title": "Namakkal Cybercrime Cell Monitors Election Misinformation",
-    "summary": "The Namakkal cybercrime cell is actively monitoring social media platforms for election-related misinformation and hate speech.",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-82",
-    "title": "Namakkal Election Control Room Operates Round the Clock",
-    "summary": "The election control room in Namakkal is functioning round the clock to handle voter complaints, MCC violations, and logistical queries.",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-83",
-    "title": "NTK Organises Cycle Rally Across Namakkal Towns",
-    "summary": "Naam Tamilar Katchi organised a cycle rally across Namakkal towns to highlight environmental and identity-based issues ahead of polling.",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-84",
-    "title": "Namakkal Senior Citizens Avail Home Voting Facility",
-    "summary": "Senior citizens above 85 in Namakkal are availing the home voting facility, with polling teams visiting registered residences.",
-    "category": "Awareness",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-85",
-    "title": "Bank Cash Movement Tracked in Namakkal",
-    "summary": "Bank cash movement above the threshold in Namakkal is being tracked and verified by election expenditure observers.",
-    "category": "Enforcement",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-86",
-    "title": "EVM Commissioning Underway in Namakkal Constituencies",
-    "summary": "Election officials in Namakkal have begun the commissioning of EVMs and VVPATs in the presence of candidate agents and observers ahead of the polling day.",
-    "category": "Election",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-87",
-    "title": "Star Campaigners Schedule Final Rallies in Namakkal",
-    "summary": "Major political parties have scheduled final-phase rallies of star campaigners in Namakkal as the silent period nears.",
-    "category": "Campaign",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-88",
-    "title": "SVEEP Street Plays Boost Voter Awareness in Namakkal",
-    "summary": "SVEEP teams in Namakkal performed street plays at bus stands and markets to encourage 100% voter turnout on April 23.",
-    "category": "Awareness",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-89",
-    "title": "Flying Squads Intensify Vehicle Checks in Namakkal",
-    "summary": "Flying squads in Namakkal have intensified vehicle checks at major entry points and highway intersections to curb illegal cash movement.",
-    "category": "Enforcement",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-90",
-    "title": "Namakkal Reports Smooth Progress on Postal Ballot Distribution",
-    "summary": "District election officials confirmed that postal ballot distribution to service voters and senior citizens in Namakkal is progressing as per schedule.",
-    "category": "Election",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-91",
-    "title": "Women Self-Help Groups Address Namakkal Candidates",
-    "summary": "Women self-help group federations in Namakkal addressed candidates seeking concrete commitments on livelihood and credit access.",
-    "category": "Campaign",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-92",
-    "title": "Namakkal Colleges Host Voter Pledge Programs",
-    "summary": "Colleges across Namakkal hosted voter pledge programs for first-time voters, accompanied by mock EVM demonstrations.",
-    "category": "Awareness",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-93",
-    "title": "Namakkal Static Surveillance Teams Report Daily to Observers",
-    "summary": "Static surveillance teams in Namakkal are reporting daily to election observers on cash, liquor, and freebie movement.",
-    "category": "Enforcement",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-94",
-    "title": "Strong Rooms Sealed in Namakkal After Final Randomization",
-    "summary": "EVM strong rooms across Namakkal have been sealed under multi-tier security following the final randomization of polling personnel.",
-    "category": "Election",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-95",
-    "title": "Trader Associations Submit Memorandum to Namakkal Candidates",
-    "summary": "Trader associations submitted a joint memorandum to candidates in Namakkal seeking GST relief and infrastructure support.",
-    "category": "Campaign",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-96",
-    "title": "Booth Slip Distribution Crosses Halfway Mark in Namakkal",
-    "summary": "Door-to-door booth slip distribution in Namakkal has crossed the halfway mark, with BLOs targeting full coverage by April 18.",
-    "category": "Awareness",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-97",
-    "title": "MCC Violation Notices Issued in Namakkal Constituencies",
-    "summary": "Several model code of conduct violation notices have been issued in Namakkal constituencies for unauthorised hoardings and campaign material.",
-    "category": "Enforcement",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-98",
-    "title": "Namakkal Collector Reviews Polling Station Readiness",
-    "summary": "The District Collector held a review meeting with returning officers in Namakkal to assess polling station readiness, water supply, and accessibility ramps.",
-    "category": "Election",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-99",
-    "title": "Namakkal Farmers Raise Pricing Concerns at Public Meeting",
-    "summary": "Farmers in Namakkal raised concerns over crop pricing and procurement at a public meeting attended by alliance candidates.",
-    "category": "Campaign",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nmk-100",
-    "title": "Namakkal Administration Installs Awareness Hoardings",
-    "summary": "The Namakkal district administration has installed voter awareness hoardings at major junctions, urging citizens to exercise their franchise.",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "featured": false
+    "category": "Environment",
+    "date": "April 21, 2026",
+    "title": "Air Quality Remains Stable",
+    "summary": "Air quality levels remain within acceptable limits across Namakkal."
+  },
+  {
+    "id": "nkl-new43",
+    "featured": false,
+    "category": "Retail",
+    "date": "April 21, 2026",
+    "title": "Shopping Activity Increases",
+    "summary": "Shopping activity has increased in markets due to seasonal demand."
+  },
+  {
+    "id": "nkl-new44",
+    "featured": false,
+    "category": "Public",
+    "date": "April 21, 2026",
+    "title": "Public Awareness on Voting Improves",
+    "summary": "Voter awareness campaigns are encouraging higher participation."
+  },
+  {
+    "id": "nkl-new45",
+    "featured": false,
+    "category": "Security",
+    "date": "April 21, 2026",
+    "title": "Security Measures Strengthened",
+    "summary": "Security has been tightened across sensitive areas ahead of elections."
+  },
+
+  {
+    "id": "nkl-new46",
+    "featured": false,
+    "category": "Economy",
+    "date": "April 21, 2026",
+    "title": "Industrial Growth Continues",
+    "summary": "Industrial activity continues to support economic development in Namakkal."
+  },
+  {
+    "id": "nkl-new47",
+    "featured": false,
+    "category": "Culture",
+    "date": "April 21, 2026",
+    "title": "Local Festivals Attract Crowds",
+    "summary": "Festivals and cultural events are drawing large crowds."
+  },
+  {
+    "id": "nkl-new48",
+    "featured": false,
+    "category": "Health",
+    "date": "April 21, 2026",
+    "title": "Public Advised on Heat Safety",
+    "summary": "Residents are advised to follow safety guidelines during high temperatures."
+  },
+  {
+    "id": "nkl-new49",
+    "featured": false,
+    "category": "Market",
+    "date": "April 21, 2026",
+    "title": "Commodity Prices Fluctuate",
+    "summary": "Commodity prices are fluctuating due to market dynamics."
+  },
+  {
+    "id": "nkl-new50",
+    "featured": false,
+    "category": "Tourism",
+    "date": "April 21, 2026",
+    "title": "Weekend Travel Sees Increase",
+    "summary": "Weekend travel has increased with more people visiting nearby attractions."
   }
 ]
