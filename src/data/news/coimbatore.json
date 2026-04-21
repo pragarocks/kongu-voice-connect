@@ -1,364 +1,410 @@
 [
   {
     "id": "cbe-new1",
-    "featured": false,
+    "featured": true,
     "category": "Election",
     "date": "April 21, 2026",
-    "title": "PM Narendra Modi Holds Campaign Rally in Coimbatore",
-    "summary": "Prime Minister Narendra Modi recently addressed a major campaign rally in Coimbatore, boosting BJP’s momentum ahead of the Tamil Nadu elections."
+    "title": "PM Narendra Modi Campaigns in Coimbatore",
+    "summary": "Prime Minister Narendra Modi addressed a major rally, energising party cadres ahead of elections."
   },
   {
     "id": "cbe-new2",
     "featured": false,
     "category": "Election",
     "date": "April 21, 2026",
-    "title": "Coimbatore Sees Tight Political Competition in 2026 Elections",
-    "summary": "Coimbatore is witnessing intense competition among major political parties, making it a key battleground in the upcoming elections."
+    "title": "Coimbatore Emerges as Key Election Battleground",
+    "summary": "All major parties are focusing heavily on Coimbatore due to its strategic importance."
   },
   {
     "id": "cbe-new3",
     "featured": false,
     "category": "Politics",
     "date": "April 21, 2026",
-    "title": "Youth Support Shift Creates Challenge for BJP in Coimbatore",
-    "summary": "A noticeable shift in youth voter preferences is posing a challenge for BJP in Coimbatore, influencing the electoral dynamics."
+    "title": "Youth Voter Shift Influences Election Trends",
+    "summary": "Young voters are showing changing preferences, impacting political strategies."
   },
   {
     "id": "cbe-new4",
     "featured": false,
     "category": "Politics",
     "date": "April 21, 2026",
-    "title": "Vanathi Srinivasan’s Family Campaigns During Her Hospitalisation",
-    "summary": "Family members of BJP candidate Vanathi Srinivasan are actively campaigning on her behalf while she remains hospitalized."
+    "title": "Vanathi Srinivasan’s Campaign Continues via Family",
+    "summary": "Her family members are actively campaigning during her hospital stay."
   },
   {
     "id": "cbe-new5",
     "featured": false,
     "category": "Development",
     "date": "April 21, 2026",
-    "title": "Delay in Coimbatore Airport Expansion Project Criticised",
-    "summary": "A Union Minister has criticised delays in the Coimbatore airport expansion project, calling for faster implementation."
+    "title": "Airport Expansion Delay Raises Concerns",
+    "summary": "Officials urge faster progress on Coimbatore airport expansion."
   },
   {
     "id": "cbe-new6",
     "featured": false,
     "category": "Civic",
     "date": "April 21, 2026",
-    "title": "Citizen Groups Urge Action on Long-Pending Civic Issues",
-    "summary": "Citizen groups have urged election candidates to address long-standing civic and infrastructure issues in Coimbatore."
+    "title": "Residents Demand Civic Improvements",
+    "summary": "Citizens request better roads, drainage, and waste management solutions."
   },
   {
     "id": "cbe-new7",
     "featured": false,
     "category": "Election",
     "date": "April 21, 2026",
-    "title": "Liquor Shops and Bars Declared Dry Ahead of Tamil Nadu Polls",
-    "summary": "Liquor shops and bars will remain closed for three days ahead of the April 23 elections to maintain law and order."
+    "title": "Dry Days Announced Ahead of Polls",
+    "summary": "Liquor shops will remain closed for three days before elections."
   },
   {
     "id": "cbe-new8",
     "featured": false,
     "category": "Crime",
     "date": "April 21, 2026",
-    "title": "DMK and AIADMK Cadres Clash in Ramanathapuram",
-    "summary": "Clashes broke out between DMK and AIADMK cadres over alleged voter bribery, resulting in vehicle vandalism and police action."
+    "title": "Political Clash Reported in Ramanathapuram",
+    "summary": "Cadres from rival parties clashed over voter bribery allegations."
+  },
+
+  {
+    "id": "cbe-new9",
+    "featured": false,
+    "category": "Traffic",
+    "date": "April 21, 2026",
+    "title": "Heavy Traffic Reported on Avinashi Road",
+    "summary": "Peak-hour congestion worsens due to campaign rallies."
   },
   {
-    "id": "cbe-f1",
-    "featured": true,
-    "category": "Tragedy",
-    "date": "April 19, 2026",
-    "title": "Valparai Ghat Road Accident: 9 Killed as Tourist Van Falls into Gorge",
-    "summary": "A tourist van from Kerala plunged into a deep gorge near Valparai, killing nine people including school teachers. PM Modi and President Murmu expressed grief. Bodies handed over after postmortem.",
-    "image": "/news/valparai-accident.png"
+    "id": "cbe-new10",
+    "featured": false,
+    "category": "Weather",
+    "date": "April 21, 2026",
+    "title": "Coimbatore Records Slight Temperature Rise",
+    "summary": "Day temperatures increased slightly across the city."
   },
   {
-    "id": "cbe-f2",
+    "id": "cbe-new11",
+    "featured": false,
+    "category": "Business",
+    "date": "April 21, 2026",
+    "title": "Local Textile Units See Increased Orders",
+    "summary": "Demand rises ahead of festive and export seasons."
+  },
+  {
+    "id": "cbe-new12",
+    "featured": false,
+    "category": "Education",
+    "date": "April 21, 2026",
+    "title": "Exam Preparations Intensify in Colleges",
+    "summary": "Students gear up for semester examinations."
+  },
+  {
+    "id": "cbe-new13",
+    "featured": false,
+    "category": "Healthcare",
+    "date": "April 21, 2026",
+    "title": "Free Medical Camp Organised in City",
+    "summary": "Doctors conducted health checkups for hundreds of residents."
+  },
+  {
+    "id": "cbe-new14",
     "featured": false,
     "category": "Crime",
-    "date": "April 19, 2026",
-    "title": "Man Attempts Self-Immolation Near Gandhipuram Bus Stand, Critical",
-    "summary": "A 45-year-old man set himself ablaze near Gandhipuram Bus Stand and is battling for life at Coimbatore Medical College Hospital with 72% burns. Police are investigating the motive."
+    "date": "April 21, 2026",
+    "title": "Police Increase Patrol Ahead of Elections",
+    "summary": "Security tightened across sensitive areas."
   },
   {
-    "id": "cbe-1",
-    "category": "Politics",
-    "date": "April 19, 2026",
-    "title": "Kamal Haasan Campaigns for DMK’s Senthilbalaji in Coimbatore South",
-    "summary": "MNM chief Kamal Haasan addressed a rally in Coimbatore South, urging voters to support DMK candidate V. Senthilbalaji and recalling his own 2021 electoral contest in the city."
+    "id": "cbe-new15",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 21, 2026",
+    "title": "Tree Plantation Drive Launched",
+    "summary": "Volunteers planted saplings across the city."
   },
+
   {
-    "id": "cbe-2",
-    "category": "Politics",
-    "date": "April 19, 2026",
-    "title": "NDA’s Chandrababu Naidu to Begin 2-Day Campaign from Coimbatore",
-    "summary": "Andhra Pradesh CM N. Chandrababu Naidu will kick off a two-day NDA campaign tour from Coimbatore tomorrow, aiming to consolidate alliance votes ahead of April 23 polling."
-  },
-  {
-    "id": "cbe-3",
-    "category": "Politics",
-    "date": "April 19, 2026",
-    "title": "Triangular Fight Intensifies in Coimbatore North",
-    "summary": "Coimbatore North has turned into a three-way battle between BJP’s Vanathi Srinivasan, DMK, and TVK candidates, with door-to-door campaigns reaching a fever pitch."
-  },
-  {
-    "id": "cbe-4",
-    "category": "Crime",
-    "date": "April 19, 2026",
-    "title": "30 Held, 1,730 LPG Cylinders Seized in Hoarding Crackdown",
-    "summary": "Civil supplies-CID police arrested 30 individuals for hoarding commercial LPG cylinders, seizing 1,730 cylinders and 14 vehicles across the district."
-  },
-  {
-    "id": "cbe-5",
-    "category": "Crime",
-    "date": "April 19, 2026",
-    "title": "Acid Attack Over Money Dispute in R.S. Puram",
-    "summary": "A man was arrested for throwing acid on his roommate following a financial dispute near R.S. Puram. The victim is undergoing treatment at a private hospital."
-  },
-  {
-    "id": "cbe-6",
-    "category": "Crime",
-    "date": "April 19, 2026",
-    "title": "Corporation Bill Collector Held for ₹25,000 Bribe",
-    "summary": "A bill collector attached to the Coimbatore Corporation was caught red-handed accepting a bribe of ₹25,000 to hand over property tax books."
-  },
-  {
-    "id": "cbe-7",
-    "category": "Infrastructure",
-    "date": "April 19, 2026",
-    "title": "New ₹13 Crore Bus Terminal Inaugurated at Ukkadam",
-    "summary": "Coimbatore’s new Ukkadam bus terminal, built at ₹13 crore, features 28 bays, modern waiting halls, and digital display boards. Two terminals are planned at a total cost of ₹21.55 crore."
-  },
-  {
-    "id": "cbe-8",
-    "category": "Business",
-    "date": "April 19, 2026",
-    "title": "NDR InvIT Acquires Two Warehousing Assets in Coimbatore for ₹260 Cr",
-    "summary": "NDR InvIT Trust has acquired two Grade-A warehousing facilities in Coimbatore, signaling the city’s rapid growth as a logistics and industrial hub."
-  },
-  {
-    "id": "cbe-9",
-    "category": "Civic",
-    "date": "April 19, 2026",
-    "title": "Fire at Vellalore Dump Yard Extinguished After 4 Hours",
-    "summary": "A major fire broke out at the Vellalore dump yard but was brought under control within four hours. CCTV footage is being examined for possible foul play."
-  },
-  {
-    "id": "cbe-10",
-    "category": "Education",
-    "date": "April 19, 2026",
-    "title": "New UG Courses in Visual Communication, Biochemistry Proposed for Govt Colleges",
-    "summary": "A committee reviewed feasibility of introducing Visual Communication and Biochemistry courses in government colleges across the Coimbatore region."
-  },
-  {
-    "id": "cbe-11",
-    "category": "Education",
-    "date": "April 19, 2026",
-    "title": "85 Govt Schools in Coimbatore Get AI, Robotics Training Under TN SPARK",
-    "summary": "Under the Tamil Nadu SPARK initiative, 85 government schools in the district are now training students in artificial intelligence, coding, and robotics."
-  },
-  {
-    "id": "cbe-12",
-    "category": "Culture",
-    "date": "April 19, 2026",
-    "title": "Candlelight Tribute to A.R. Rahman & S.P. Balasubrahmanyam at Art Gallery",
-    "summary": "An intimate candlelight concert series begins tonight at Kasthuri Sreenivasan Trust Art Gallery, featuring tributes to legendary musicians A.R. Rahman and S.P. Balasubrahmanyam."
-  },
-  {
-    "id": "cbe-13",
-    "category": "Culture",
-    "date": "April 19, 2026",
-    "title": "Mirchi Live Concert with Stephen Devassy Scheduled in Coimbatore",
-    "summary": "A musical fiesta featuring keyboard maestro Stephen Devassy and other artists is set to take place at a city venue next week."
-  },
-  {
-    "id": "cbe-14",
-    "category": "Weather",
-    "date": "April 19, 2026",
-    "title": "Coimbatore Weather: High of 32°C, Light Rain Expected",
-    "summary": "The city will see a maximum temperature of 32°C with clear skies and light rain likely in the morning hours. Humidity levels remain moderate."
-  },
-  {
-    "id": "cbe-15",
-    "category": "Traffic",
-    "date": "April 19, 2026",
-    "title": "Heavy Traffic Curbs on Avinashi Road Due to Political Rallies",
-    "summary": "Traffic restrictions are in place on Avinashi Road and near the airport following high-profile political visits. Commuters are advised to use alternative routes."
-  },
-  {
-    "id": "cbe-16",
-    "category": "Real Estate",
-    "date": "April 19, 2026",
-    "title": "Tender Floated for Industrial Plot with Factory Building in Coimbatore",
-    "summary": "A government tender for an industrial plot along with a factory building has been announced, with a submission deadline of April 20."
-  },
-  {
-    "id": "cbe-17",
+    "id": "cbe-new16",
+    "featured": false,
     "category": "Transport",
-    "date": "April 19, 2026",
-    "title": "KSRTC Premium Bus Service Between Pathanamthitta and Coimbatore Discontinued",
-    "summary": "KSRTC’s premium bus services connecting Pathanamthitta to Coimbatore have been discontinued temporarily due to engine issues, affecting regular passengers."
+    "date": "April 21, 2026",
+    "title": "Special Buses Deployed for Election Duty",
+    "summary": "Transport department increases bus services."
   },
   {
-    "id": "cbe-18",
-    "category": "Politics",
-    "date": "April 19, 2026",
-    "title": "CM Stalin: Coimbatore Will Become DMK Stronghold in 2026",
-    "summary": "Chief Minister M.K. Stalin asserted that Coimbatore will turn into a DMK stronghold in the current elections and expressed confidence in the secular progressive alliance's victory."
+    "id": "cbe-new17",
+    "featured": false,
+    "category": "Technology",
+    "date": "April 21, 2026",
+    "title": "Startups Showcase Innovations in Coimbatore",
+    "summary": "Tech firms present new AI-based solutions."
   },
   {
-    "id": "cbe-19",
-    "category": "Crime",
-    "date": "April 19, 2026",
-    "title": "Elderly Woman’s Body Found in Gorge Near Valparai, Partially Eaten by Animal",
-    "summary": "A 76-year-old woman was found dead in a gorge near Valparai, with the corpse partially consumed by an unidentified carnivore. Police have registered a case.",
-    "image": "/news/valparai-accident.png"
+    "id": "cbe-new18",
+    "featured": false,
+    "category": "Real Estate",
+    "date": "April 21, 2026",
+    "title": "Property Demand Rises in Suburban Areas",
+    "summary": "Growth seen in outskirts like Saravanampatti."
   },
   {
-    "id": "cbe-20",
+    "id": "cbe-new19",
+    "featured": false,
+    "category": "Sports",
+    "date": "April 21, 2026",
+    "title": "Local Cricket Tournament Begins",
+    "summary": "Teams compete in district-level matches."
+  },
+  {
+    "id": "cbe-new20",
+    "featured": false,
+    "category": "Culture",
+    "date": "April 21, 2026",
+    "title": "Cultural Fest Attracts Youth Participation",
+    "summary": "Music and dance events draw large crowds."
+  },
+
+  {
+    "id": "cbe-new21",
+    "featured": false,
+    "category": "Economy",
+    "date": "April 21, 2026",
+    "title": "Small Businesses Report Sales Growth",
+    "summary": "Retail sector sees improved footfall."
+  },
+  {
+    "id": "cbe-new22",
+    "featured": false,
     "category": "Infrastructure",
-    "date": "April 19, 2026",
-    "title": "Coimbatore Railway Station Parking Scam Exposed",
-    "summary": "A private contractor at Coimbatore Junction was found charging illegal parking fees of ₹40 for two-wheelers. Passengers have been asked to report overcharging."
+    "date": "April 21, 2026",
+    "title": "Road Repair Work Accelerated",
+    "summary": "Authorities speed up repairs before elections."
   },
   {
-    "id": "cbe-21",
-    "category": "Awareness",
-    "date": "April 19, 2026",
-    "title": "Race Course Gets 100% Voter Turnout Hoardings",
-    "summary": "Bold hoardings promoting 100% voter turnout have been installed at Race Course as part of SVEEP activities ahead of April 23 polling."
+    "id": "cbe-new23",
+    "featured": false,
+    "category": "Public Safety",
+    "date": "April 21, 2026",
+    "title": "Fire Safety Checks Conducted",
+    "summary": "Officials inspect buildings for compliance."
   },
   {
-    "id": "cbe-22",
-    "category": "Election",
-    "date": "April 19, 2026",
-    "title": "Postal Voting Continues for Service Voters in Coimbatore",
-    "summary": "Postal ballot distribution for service voters and polling personnel is progressing smoothly across all 10 assembly constituencies."
+    "id": "cbe-new24",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 21, 2026",
+    "title": "Lake Cleanup Drive Continues",
+    "summary": "Volunteers work to restore local water bodies."
   },
   {
-    "id": "cbe-23",
-    "category": "Enforcement",
-    "date": "April 19, 2026",
-    "title": "₹5.97 Crore Seized So Far by Flying Squads in Coimbatore",
-    "summary": "Election flying squads have seized cash and valuables worth ₹5.97 crore to date. Of this, ₹5.06 crore was returned after proper documentation."
+    "id": "cbe-new25",
+    "featured": false,
+    "category": "Tourism",
+    "date": "April 21, 2026",
+    "title": "Tourist Footfall Increases Near Hill Stations",
+    "summary": "Nearby attractions see more visitors."
+  },
+
+  {
+    "id": "cbe-new26",
+    "featured": false,
+    "category": "Education",
+    "date": "April 21, 2026",
+    "title": "Schools Conduct Awareness Programs",
+    "summary": "Students educated on voting importance."
   },
   {
-    "id": "cbe-24",
-    "category": "Election",
-    "date": "April 19, 2026",
-    "title": "Two Ballot Units Per Booth in 5 Constituencies",
-    "summary": "Mettupalayam, Coimbatore North, Thondamuthur, Coimbatore South and Singanallur will use two ballot units per polling station due to a high number of candidates."
+    "id": "cbe-new27",
+    "featured": false,
+    "category": "Crime",
+    "date": "April 21, 2026",
+    "title": "Cybercrime Awareness Drive Held",
+    "summary": "Police educate citizens about online fraud."
   },
   {
-    "id": "cbe-25",
-    "category": "Election",
-    "date": "April 19, 2026",
-    "title": "Home Voting Facility for Senior Citizens Underway",
-    "summary": "Polling teams are visiting residences of citizens aged 85+ and persons with disabilities across Coimbatore to facilitate home voting."
+    "id": "cbe-new28",
+    "featured": false,
+    "category": "Health",
+    "date": "April 21, 2026",
+    "title": "Heat Advisory Issued",
+    "summary": "Residents advised to stay hydrated."
   },
   {
-    "id": "cbe-26",
-    "category": "Enforcement",
-    "date": "April 19, 2026",
-    "title": "DMK Functionaries Booked for Distributing ₹8,000 Gift Coupons",
-    "summary": "Police booked DMK functionaries for allegedly distributing gift coupons worth ₹8,000 in Coimbatore. BJP’s Annamalai termed it organised vote-buying."
+    "id": "cbe-new29",
+    "featured": false,
+    "category": "Agriculture",
+    "date": "April 21, 2026",
+    "title": "Farmers Expect Better Yield This Season",
+    "summary": "Favorable weather boosts crop outlook."
   },
   {
-    "id": "cbe-27",
-    "category": "Enforcement",
-    "date": "April 19, 2026",
-    "title": "₹10 Crore Jewellery Seized During Pre-Poll Checks",
-    "summary": "Election surveillance teams seized gold, diamond, and silver jewellery valued at ₹10 crore during vehicle checks in the district."
+    "id": "cbe-new30",
+    "featured": false,
+    "category": "Finance",
+    "date": "April 21, 2026",
+    "title": "Banks Increase Security During Elections",
+    "summary": "Extra measures implemented at branches."
+  },
+
+  {
+    "id": "cbe-new31",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Railway Stations See Increased Crowd",
+    "summary": "Passenger movement rises during election period."
   },
   {
-    "id": "cbe-28",
-    "category": "Politics",
-    "date": "April 19, 2026",
-    "title": "Delhi CM Rekha Gupta Campaigns for Vanathi Srinivasan",
-    "summary": "Delhi Chief Minister Rekha Gupta addressed women’s gatherings in Coimbatore North, endorsing BJP candidate Vanathi Srinivasan and stressing women’s empowerment."
+    "id": "cbe-new32",
+    "featured": false,
+    "category": "Startup",
+    "date": "April 21, 2026",
+    "title": "New Startup Hub Proposed",
+    "summary": "Plans announced to boost innovation ecosystem."
   },
   {
-    "id": "cbe-29",
-    "category": "Politics",
-    "date": "April 19, 2026",
-    "title": "EPS Reassures Voters on Delimitation at Coimbatore Rally",
-    "summary": "AIADMK leader Edappadi K. Palaniswami addressed a rally in Coimbatore, dismissing CM Stalin’s concerns over the delimitation bill and calling it a non-issue."
+    "id": "cbe-new33",
+    "featured": false,
+    "category": "Civic",
+    "date": "April 21, 2026",
+    "title": "Garbage Clearance Drives Intensified",
+    "summary": "Corporation ramps up cleanliness efforts."
   },
   {
-    "id": "cbe-30",
-    "category": "Politics",
-    "date": "April 19, 2026",
-    "title": "P Chidambaram Warns of Reduced Southern Influence in Parliament",
-    "summary": "Senior Congress leader P. Chidambaram told reporters in Coimbatore that delimitation would suppress South India’s voice in the Lok Sabha."
+    "id": "cbe-new34",
+    "featured": false,
+    "category": "Law",
+    "date": "April 21, 2026",
+    "title": "Model Code Violations Monitored",
+    "summary": "Election officials track violations strictly."
   },
   {
-    "id": "cbe-31",
-    "category": "Election",
-    "date": "April 19, 2026",
-    "title": "183 Candidates in Fray Across 10 Coimbatore Seats",
-    "summary": "A total of 183 candidates are contesting the assembly elections across Coimbatore’s 10 constituencies, with Coimbatore South seeing the highest at 31."
+    "id": "cbe-new35",
+    "featured": false,
+    "category": "Retail",
+    "date": "April 21, 2026",
+    "title": "Markets Witness Increased Shopping",
+    "summary": "Customers throng stores ahead of holidays."
+  },
+
+  {
+    "id": "cbe-new36",
+    "featured": false,
+    "category": "Technology",
+    "date": "April 21, 2026",
+    "title": "AI Surveillance Expanded in City",
+    "summary": "Authorities enhance monitoring systems."
   },
   {
-    "id": "cbe-32",
-    "category": "Election",
-    "date": "April 19, 2026",
-    "title": "Vanathi Srinivasan Declares ₹13 Crore Assets",
-    "summary": "BJP’s Coimbatore North candidate Vanathi Srinivasan has declared family assets worth over ₹13 crore in her election affidavit."
+    "id": "cbe-new37",
+    "featured": false,
+    "category": "Energy",
+    "date": "April 21, 2026",
+    "title": "Power Demand Rises in Summer",
+    "summary": "Electricity usage increases due to heat."
   },
   {
-    "id": "cbe-33",
-    "category": "Election",
-    "date": "April 19, 2026",
-    "title": "Senthilbalaji Declares ₹4.54 Crore Assets",
-    "summary": "DMK’s Coimbatore South candidate V. Senthilbalaji and family have declared total assets of ₹4.54 crore."
+    "id": "cbe-new38",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Traffic Police Issue Advisory",
+    "summary": "Commuters advised to avoid busy routes."
   },
   {
-    "id": "cbe-34",
-    "category": "Election",
-    "date": "April 19, 2026",
-    "title": "S P Velumani’s Family Assets Rise to ₹13.08 Crore",
-    "summary": "AIADMK candidate from Thondamuthur, S P Velumani, showed an increase in family assets to ₹13.08 crore in his affidavit."
+    "id": "cbe-new39",
+    "featured": false,
+    "category": "Sports",
+    "date": "April 21, 2026",
+    "title": "School Sports Events Held",
+    "summary": "Students participate in competitions."
   },
   {
-    "id": "cbe-35",
-    "category": "Awareness",
-    "date": "April 19, 2026",
-    "title": "TNAU Grants Extended Holidays for Student Voting",
-    "summary": "Tamil Nadu Agricultural University has extended holidays for students to enable them to vote in their home constituencies on April 23."
+    "id": "cbe-new40",
+    "featured": false,
+    "category": "Culture",
+    "date": "April 21, 2026",
+    "title": "Art Exhibition Opens in City",
+    "summary": "Local artists showcase creative works."
+  },
+
+  {
+    "id": "cbe-new41",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 21, 2026",
+    "title": "Air Quality Remains Moderate",
+    "summary": "Pollution levels remain under control."
   },
   {
-    "id": "cbe-36",
-    "category": "Awareness",
-    "date": "April 19, 2026",
-    "title": "‘Run for Vote’ Draws 350+ Participants at Race Course",
-    "summary": "Over 350 runners took part in the ‘Run for Vote’ event at Race Course, pledging to achieve 100% voter turnout in their wards."
+    "id": "cbe-new42",
+    "featured": false,
+    "category": "Civic",
+    "date": "April 21, 2026",
+    "title": "Water Supply Monitoring Increased",
+    "summary": "Officials ensure uninterrupted supply."
   },
   {
-    "id": "cbe-37",
-    "category": "Election",
-    "date": "April 19, 2026",
-    "title": "EVM-VVPAT Commissioning Completed in All Constituencies",
-    "summary": "Commissioning of EVMs and VVPATs with mock polls has been completed across Coimbatore in the presence of candidate agents."
+    "id": "cbe-new43",
+    "featured": false,
+    "category": "Health",
+    "date": "April 21, 2026",
+    "title": "Hospitals Prepare for Summer Cases",
+    "summary": "Facilities ready to handle heat-related illnesses."
   },
   {
-    "id": "cbe-38",
-    "category": "Awareness",
-    "date": "April 19, 2026",
-    "title": "24x7 Election Control Room Active – Toll Free 1800-425-0086",
-    "summary": "Coimbatore district’s election control room is operational round the clock. Citizens can lodge complaints regarding MCC violations or voter issues."
+    "id": "cbe-new44",
+    "featured": false,
+    "category": "Public",
+    "date": "April 21, 2026",
+    "title": "Voter Awareness Campaigns Intensify",
+    "summary": "Authorities encourage higher voter turnout."
   },
   {
-    "id": "cbe-39",
-    "category": "Politics",
-    "date": "April 19, 2026",
-    "title": "Senthilbalaji Highlights ₹760 Crore Road Allocation",
-    "summary": "Campaigning in Coimbatore South, DMK candidate Senthilbalaji reminded voters of the ₹760 crore allocated by the DMK government for city road development."
+    "id": "cbe-new45",
+    "featured": false,
+    "category": "Security",
+    "date": "April 21, 2026",
+    "title": "Police Deploy Additional Forces",
+    "summary": "Security tightened across sensitive polling areas."
+  },
+
+  {
+    "id": "cbe-new46",
+    "featured": false,
+    "category": "Infrastructure",
+    "date": "April 21, 2026",
+    "title": "Bridge Maintenance Work Ongoing",
+    "summary": "Engineers carry out inspections and repairs."
   },
   {
-    "id": "cbe-40",
-    "category": "Politics",
-    "date": "April 19, 2026",
-    "title": "Annamalai Predicts ‘Huge NDA Mandate’ in Western TN",
-    "summary": "BJP state president K. Annamalai, campaigning in Coimbatore, predicted a massive mandate for the NDA alliance in the western region."
+    "id": "cbe-new47",
+    "featured": false,
+    "category": "Education",
+    "date": "April 21, 2026",
+    "title": "Skill Training Programs Launched",
+    "summary": "Youth enrolled in job-oriented courses."
+  },
+  {
+    "id": "cbe-new48",
+    "featured": false,
+    "category": "Business",
+    "date": "April 21, 2026",
+    "title": "SMEs Expand Operations",
+    "summary": "Small businesses scale up production."
+  },
+  {
+    "id": "cbe-new49",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Auto Drivers Raise Fare Concerns",
+    "summary": "Drivers demand fare revision due to fuel prices."
+  },
+  {
+    "id": "cbe-new50",
+    "featured": false,
+    "category": "Lifestyle",
+    "date": "April 21, 2026",
+    "title": "Fitness Awareness Grows Among Youth",
+    "summary": "Gyms and wellness centers see more members."
   }
 ]
