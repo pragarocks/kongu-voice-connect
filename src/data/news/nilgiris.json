@@ -1,838 +1,411 @@
 [
   {
-    "id": "nil-new1",
+    "id": "ngl-new1",
     "featured": true,
-    "category": "Wildlife",
-    "date": "April 20, 2026",
-    "title": "Drone Patrols Deployed in Gudalur After Fresh Elephant Incursions",
-    "summary": "The forest department launched 24x7 drone surveillance across Gudalur and Pandalur after three elephant incursions into human settlements over the past week."
-  },
-  {
-    "id": "nil-new2",
-    "featured": false,
     "category": "Tourism",
-    "date": "April 20, 2026",
-    "title": "Ooty Flower Show 2026 Preparations in Full Swing with Rare Himalayan Species",
-    "summary": "Horticulturalists at the Government Botanical Garden are introducing 18 rare Himalayan species for the landmark 2026 Ooty Flower Show, expected to draw 5 lakh visitors."
+    "date": "April 21, 2026",
+    "title": "Tourist Inflow Increases in Ooty Ahead of Summer",
+    "summary": "The Nilgiris district is witnessing a significant rise in tourist arrivals as the summer season begins. Popular destinations like Ooty and Coonoor are experiencing high occupancy rates in hotels and resorts, boosting the local tourism economy."
   },
   {
-    "id": "nil-new3",
+    "id": "ngl-new2",
+    "featured": false,
+    "category": "Weather",
+    "date": "April 21, 2026",
+    "title": "Pleasant Climate Continues Across Nilgiris",
+    "summary": "The Nilgiris continue to enjoy cool and pleasant weather conditions, attracting tourists from across the state. The moderate temperatures provide relief from the heat experienced in plains."
+  },
+  {
+    "id": "ngl-new3",
     "featured": false,
     "category": "Environment",
-    "date": "April 20, 2026",
-    "title": "Nilgiris Tightens ‘No Plastic’ Rule; Biodegradable Alternatives Mandatory",
-    "summary": "The district administration extended the No-Plastic regulation to include all tourist outlets, mandating biodegradable cutlery, bags and bottles from May 1."
+    "date": "April 21, 2026",
+    "title": "Forest Officials Intensify Wildlife Monitoring",
+    "summary": "Forest department officials have intensified wildlife monitoring activities in the Nilgiris to ensure safety and prevent human-animal conflicts during peak tourist season."
   },
   {
-    "id": "nil-new4",
+    "id": "ngl-new4",
     "featured": false,
-    "category": "Election",
-    "date": "April 20, 2026",
-    "title": "Tribal Voter Outreach Camps Cover 92 Hill Hamlets",
-    "summary": "SVEEP teams reached 92 remote tribal hamlets across Kotagiri and Coonoor blocks, distributing voter slips and conducting EVM demonstrations in Badaga and Toda dialects."
+    "category": "Tourism",
+    "date": "April 21, 2026",
+    "title": "Botanical Garden Sees Heavy Visitor Footfall",
+    "summary": "The Government Botanical Garden in Ooty is witnessing heavy footfall as tourists flock to enjoy seasonal flowers and scenic landscapes."
   },
   {
-    "id": "nil-new5",
+    "id": "ngl-new5",
     "featured": false,
-    "category": "Politics",
-    "date": "April 20, 2026",
-    "title": "Three-Way Contest in Udhagamandalam as TVK Fields Plantation-Worker Leader",
-    "summary": "Vijay’s TVK has fielded a long-time plantation worker union leader for Udhagamandalam, complicating the traditional DMK-AIADMK contest in the hill seat."
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Special Buses Operated to Hill Stations",
+    "summary": "Transport authorities have introduced additional bus services to manage the surge in tourists traveling to hill stations in the Nilgiris."
   },
+
   {
-    "id": "nil-new6",
+    "id": "ngl-new6",
     "featured": false,
-    "category": "Healthcare",
-    "date": "April 20, 2026",
-    "title": "Integrated Traditional-Modern Health Centre Opens in Coonoor",
-    "summary": "An integrated wellness centre combining Siddha, Ayurveda and modern medicine was inaugurated at Coonoor, the first of its kind in the Nilgiris district."
+    "category": "Civic",
+    "date": "April 21, 2026",
+    "title": "Cleanliness Drives Conducted in Tourist Areas",
+    "summary": "Local bodies have initiated cleanliness drives in key tourist locations to maintain hygiene and improve visitor experience."
   },
   {
-    "id": "nil-new7",
+    "id": "ngl-new7",
     "featured": false,
-    "category": "Awareness",
-    "date": "April 20, 2026",
-    "title": "Postal-Ballot Voting Concludes for Plantation Polling Staff",
-    "summary": "Postal-ballot voting concluded for over 3,400 tea-estate workers deputised for election duty, ensuring full franchise coverage in the hill district."
+    "category": "Health",
+    "date": "April 21, 2026",
+    "title": "Medical Camps Organized for Tribal Communities",
+    "summary": "Health authorities have conducted medical camps in tribal regions, providing essential healthcare services to remote communities."
   },
   {
-    "id": "nil-f",
+    "id": "ngl-new8",
     "featured": false,
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "Kamal Haasan Promises Eco-Tourism Boost in Udhagamandalam Rally",
-    "summary": "Kamal Haasan addresses a massive rally promising an eco-tourism boost in Udhagamandalam, focusing on sustainable hill station development."
-  },
-  {
-    "id": "nil-1",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "DMK's Senthil Campaigns Among Tea Estate Workers",
-    "summary": "DMK candidate R. Senthil campaigns door-to-door among tea estate workers in Udhagamandalam today, focusing on wages and welfare."
-  },
-  {
-    "id": "nil-2",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "AIADMK Promises Wage Hike for Tea Plantation Labourers",
-    "summary": "AIADMK nominee promises wage hike and improved housing for tea plantation labourers in Coonoor constituency."
-  },
-  {
-    "id": "nil-3",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "title": "TVK Distributes Booth Slips in Gudalur",
-    "summary": "TVK workers distribute booth slips to tourists and locals in Gudalur today as part of grassroots voter outreach."
-  },
-  {
-    "id": "nil-4",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "BJP Highlights Tourism Promotion in Udhagamandalam",
-    "summary": "BJP candidate highlights central tourism promotion schemes during a roadshow in Udhagamandalam."
-  },
-  {
-    "id": "nil-5",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "title": "Flying Squads Seize Cash from Vehicles in Kotagiri",
-    "summary": "Flying squads seize unaccounted cash from vehicles in Kotagiri (SC) constituency under model code enforcement."
-  },
-  {
-    "id": "nil-6",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "DMK Vows Better Tribal Welfare in Kotagiri",
-    "summary": "DMK candidate in Kotagiri vows better tribal welfare and stronger forest rights implementation for hill communities."
-  },
-  {
-    "id": "nil-7",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "title": "NTK Awareness Camps in Remote Gudalur Tribal Hamlets",
-    "summary": "NTK activists organise voter awareness camps in remote Gudalur tribal hamlets to ensure inclusive participation."
-  },
-  {
-    "id": "nil-8",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "title": "Nilgiris Collector Reviews Election Preparedness",
-    "summary": "Nilgiris Collector reviews election preparedness in the district control room with police and observers."
-  },
-  {
-    "id": "nil-9",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "title": "Paramilitary Deployed at Sensitive Polling Stations",
-    "summary": "Paramilitary forces have been deployed at sensitive polling stations across Kotagiri hills for safe polling."
-  },
-  {
-    "id": "nil-10",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "title": "SVEEP Street Plays Near Ooty Botanical Gardens",
-    "summary": "SVEEP teams conduct street plays on voting rights near the Ooty botanical gardens to engage tourists and locals."
-  },
-  {
-    "id": "nil-11",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "Vijay Interacts with Dairy Farmers in Coonoor",
-    "summary": "TVK star campaigner Vijay interacts with dairy farmers in Coonoor today, promising better procurement prices."
-  },
-  {
-    "id": "nil-12",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "title": "Home Voting for Elderly Tea Workers in Kotagiri",
-    "summary": "Home voting facility arranged for elderly tea workers in Kotagiri (SC) constituency."
-  },
-  {
-    "id": "nil-13",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "title": "MCC Violation Booked Against Vehicle in Udhagamandalam",
-    "summary": "Flying squads booked a model code violation against a campaign vehicle in Udhagamandalam."
-  },
-  {
-    "id": "nil-14",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "AIADMK Assures Power Supply to Tea Factories",
-    "summary": "AIADMK candidate assures uninterrupted power supply to tea factories in Gudalur."
-  },
-  {
-    "id": "nil-15",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "BJP Campaigns on Horticulture Development",
-    "summary": "BJP workers campaign on horticulture development for small farmers in Coonoor."
-  },
-  {
-    "id": "nil-16",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "title": "Observer Visits EVM Randomization Centre",
-    "summary": "An election observer visits the EVM randomization centre in Udhagamandalam."
-  },
-  {
-    "id": "nil-17",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "title": "Postal Ballot Surge from Tourism Sector Employees",
-    "summary": "Postal ballot applications increase among Nilgiris tourism sector employees ahead of polling."
-  },
-  {
-    "id": "nil-18",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "TVK Promises Cold Storage for Horticulture Produce",
-    "summary": "TVK candidate promises modern cold storage for horticulture produce in Gudalur."
-  },
-  {
-    "id": "nil-19",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "title": "Cash Seizure Near Coonoor Bus Stand",
-    "summary": "Cash seizure reported from a vehicle during checks near Coonoor bus stand."
-  },
-  {
-    "id": "nil-20",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "title": "DEO Conducts Voter Awareness in Hill Hamlets",
-    "summary": "The District Election Officer led an awareness drive in remote hill hamlets across Nilgiris."
-  },
-  {
-    "id": "nil-22",
-    "title": "EVM Commissioning Underway in Nilgiris Constituencies",
-    "summary": "Election officials in Nilgiris have begun the commissioning of EVMs and VVPATs in the presence of candidate agents and observers ahead of the polling day.",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-23",
-    "title": "DMK Intensifies Final-Phase Outreach in Nilgiris",
-    "summary": "DMK candidates and alliance workers have intensified door-to-door outreach across Nilgiris, focusing on welfare scheme beneficiaries and first-time voters.",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-24",
-    "title": "SVEEP Street Plays Boost Voter Awareness in Nilgiris",
-    "summary": "SVEEP teams in Nilgiris performed street plays at bus stands and markets to encourage 100% voter turnout on April 23.",
-    "category": "Awareness",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-25",
-    "title": "Flying Squads Intensify Vehicle Checks in Nilgiris",
-    "summary": "Flying squads in Nilgiris have intensified vehicle checks at major entry points and highway intersections to curb illegal cash movement.",
-    "category": "Enforcement",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-26",
-    "title": "Nilgiris Reports Smooth Progress on Postal Ballot Distribution",
-    "summary": "District election officials confirmed that postal ballot distribution to service voters and senior citizens in Nilgiris is progressing as per schedule.",
-    "category": "Election",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-27",
-    "title": "AIADMK Holds Booth-Level Worker Meetings in Nilgiris",
-    "summary": "AIADMK held booth-level worker meetings across Nilgiris to finalize polling-day strategy and voter mobilization plans.",
-    "category": "Campaign",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-28",
-    "title": "Nilgiris Colleges Host Voter Pledge Programs",
-    "summary": "Colleges across Nilgiris hosted voter pledge programs for first-time voters, accompanied by mock EVM demonstrations.",
-    "category": "Awareness",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-29",
-    "title": "Nilgiris Static Surveillance Teams Report Daily to Observers",
-    "summary": "Static surveillance teams in Nilgiris are reporting daily to election observers on cash, liquor, and freebie movement.",
-    "category": "Enforcement",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-30",
-    "title": "Strong Rooms Sealed in Nilgiris After Final Randomization",
-    "summary": "EVM strong rooms across Nilgiris have been sealed under multi-tier security following the final randomization of polling personnel.",
-    "category": "Election",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-31",
-    "title": "BJP Highlights Central Schemes During Nilgiris Roadshow",
-    "summary": "BJP candidates conducted a roadshow in Nilgiris highlighting central government welfare schemes and infrastructure investments.",
-    "category": "Campaign",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-32",
-    "title": "Booth Slip Distribution Crosses Halfway Mark in Nilgiris",
-    "summary": "Door-to-door booth slip distribution in Nilgiris has crossed the halfway mark, with BLOs targeting full coverage by April 18.",
-    "category": "Awareness",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-33",
-    "title": "MCC Violation Notices Issued in Nilgiris Constituencies",
-    "summary": "Several model code of conduct violation notices have been issued in Nilgiris constituencies for unauthorised hoardings and campaign material.",
-    "category": "Enforcement",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-34",
-    "title": "Nilgiris Collector Reviews Polling Station Readiness",
-    "summary": "The District Collector held a review meeting with returning officers in Nilgiris to assess polling station readiness, water supply, and accessibility ramps.",
-    "category": "Election",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-35",
-    "title": "TVK Cadre Steps Up Door-to-Door Drive in Nilgiris",
-    "summary": "TVK cadre led by local coordinators stepped up the door-to-door campaign across Nilgiris, distributing pamphlets and party manifestos.",
-    "category": "Campaign",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-36",
-    "title": "Nilgiris Administration Installs Awareness Hoardings",
-    "summary": "The Nilgiris district administration has installed voter awareness hoardings at major junctions, urging citizens to exercise their franchise.",
-    "category": "Awareness",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-37",
-    "title": "Nilgiris Police Beef Up Security at Sensitive Booths",
-    "summary": "Nilgiris district police have beefed up security at sensitive booths with paramilitary deployment and additional patrol vehicles.",
-    "category": "Enforcement",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-38",
-    "title": "Mock Polls Demonstrated to Candidates in Nilgiris",
-    "summary": "Mock polls were demonstrated to candidate representatives in Nilgiris as part of EVM transparency measures before the April 23 election.",
-    "category": "Election",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-39",
-    "title": "Congress Workers Hold Street-Corner Meetings in Nilgiris",
-    "summary": "Congress alliance workers held street-corner meetings in Nilgiris to highlight the alliance's promises on education and healthcare.",
-    "category": "Campaign",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-40",
-    "title": "Voter Helpline Sees Spike in Calls from Nilgiris",
-    "summary": "The state voter helpline has seen a spike in calls from Nilgiris, mostly enquiring about polling station details and voter slip status.",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-41",
-    "title": "Liquor Seizure Reported During Nilgiris Checks",
-    "summary": "A significant liquor seizure was reported during routine election-related checks in Nilgiris, and the contraband has been impounded.",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-42",
-    "title": "Nilgiris Voter List Final Verification Concluded",
-    "summary": "Booth-level officers in Nilgiris have concluded the final voter list verification, ensuring electoral roll accuracy ahead of polling.",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-43",
-    "title": "NTK Organises Cycle Rally Across Nilgiris Towns",
-    "summary": "Naam Tamilar Katchi organised a cycle rally across Nilgiris towns to highlight environmental and identity-based issues ahead of polling.",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-44",
-    "title": "Nilgiris Differently-Abled Voters Get Dedicated Assistance",
-    "summary": "Differently-abled voters in Nilgiris are receiving dedicated transport and assistance arrangements from the district election office.",
-    "category": "Awareness",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-45",
-    "title": "Income Tax Teams Conduct Discreet Surveys in Nilgiris",
-    "summary": "Income Tax teams have been conducting discreet surveys in Nilgiris to track unaccounted financial flows linked to the election period.",
-    "category": "Enforcement",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-46",
-    "title": "Sector Officers Deployed Across Nilgiris Polling Zones",
-    "summary": "Sector officers have been deployed across Nilgiris polling zones to monitor turnout, address grievances, and report issues in real time.",
-    "category": "Election",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-47",
-    "title": "Star Campaigners Schedule Final Rallies in Nilgiris",
-    "summary": "Major political parties have scheduled final-phase rallies of star campaigners in Nilgiris as the silent period nears.",
-    "category": "Campaign",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-48",
-    "title": "Social Media Influencers Promote Turnout in Nilgiris",
-    "summary": "Local social media influencers in Nilgiris are running short-form video campaigns urging youth to vote on April 23.",
-    "category": "Awareness",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-49",
-    "title": "Nilgiris Cybercrime Cell Monitors Election Misinformation",
-    "summary": "The Nilgiris cybercrime cell is actively monitoring social media platforms for election-related misinformation and hate speech.",
-    "category": "Enforcement",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-50",
-    "title": "Nilgiris Election Control Room Operates Round the Clock",
-    "summary": "The election control room in Nilgiris is functioning round the clock to handle voter complaints, MCC violations, and logistical queries.",
-    "category": "Election",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-51",
-    "title": "Women Self-Help Groups Address Nilgiris Candidates",
-    "summary": "Women self-help group federations in Nilgiris addressed candidates seeking concrete commitments on livelihood and credit access.",
-    "category": "Campaign",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-52",
-    "title": "Nilgiris Senior Citizens Avail Home Voting Facility",
-    "summary": "Senior citizens above 85 in Nilgiris are availing the home voting facility, with polling teams visiting registered residences.",
-    "category": "Awareness",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-53",
-    "title": "Bank Cash Movement Tracked in Nilgiris",
-    "summary": "Bank cash movement above the threshold in Nilgiris is being tracked and verified by election expenditure observers.",
-    "category": "Enforcement",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-54",
-    "title": "EVM Commissioning Underway in Nilgiris Constituencies",
-    "summary": "Election officials in Nilgiris have begun the commissioning of EVMs and VVPATs in the presence of candidate agents and observers ahead of the polling day.",
-    "category": "Election",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-55",
-    "title": "Trader Associations Submit Memorandum to Nilgiris Candidates",
-    "summary": "Trader associations submitted a joint memorandum to candidates in Nilgiris seeking GST relief and infrastructure support.",
-    "category": "Campaign",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-56",
-    "title": "SVEEP Street Plays Boost Voter Awareness in Nilgiris",
-    "summary": "SVEEP teams in Nilgiris performed street plays at bus stands and markets to encourage 100% voter turnout on April 23.",
-    "category": "Awareness",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-57",
-    "title": "Flying Squads Intensify Vehicle Checks in Nilgiris",
-    "summary": "Flying squads in Nilgiris have intensified vehicle checks at major entry points and highway intersections to curb illegal cash movement.",
-    "category": "Enforcement",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-58",
-    "title": "Nilgiris Reports Smooth Progress on Postal Ballot Distribution",
-    "summary": "District election officials confirmed that postal ballot distribution to service voters and senior citizens in Nilgiris is progressing as per schedule.",
-    "category": "Election",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-59",
-    "title": "Nilgiris Farmers Raise Pricing Concerns at Public Meeting",
-    "summary": "Farmers in Nilgiris raised concerns over crop pricing and procurement at a public meeting attended by alliance candidates.",
-    "category": "Campaign",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-60",
-    "title": "Nilgiris Colleges Host Voter Pledge Programs",
-    "summary": "Colleges across Nilgiris hosted voter pledge programs for first-time voters, accompanied by mock EVM demonstrations.",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-61",
-    "title": "Nilgiris Static Surveillance Teams Report Daily to Observers",
-    "summary": "Static surveillance teams in Nilgiris are reporting daily to election observers on cash, liquor, and freebie movement.",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-62",
-    "title": "Strong Rooms Sealed in Nilgiris After Final Randomization",
-    "summary": "EVM strong rooms across Nilgiris have been sealed under multi-tier security following the final randomization of polling personnel.",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-63",
-    "title": "DMK Intensifies Final-Phase Outreach in Nilgiris",
-    "summary": "DMK candidates and alliance workers have intensified door-to-door outreach across Nilgiris, focusing on welfare scheme beneficiaries and first-time voters.",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-64",
-    "title": "Booth Slip Distribution Crosses Halfway Mark in Nilgiris",
-    "summary": "Door-to-door booth slip distribution in Nilgiris has crossed the halfway mark, with BLOs targeting full coverage by April 18.",
-    "category": "Awareness",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-65",
-    "title": "MCC Violation Notices Issued in Nilgiris Constituencies",
-    "summary": "Several model code of conduct violation notices have been issued in Nilgiris constituencies for unauthorised hoardings and campaign material.",
-    "category": "Enforcement",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-66",
-    "title": "Nilgiris Collector Reviews Polling Station Readiness",
-    "summary": "The District Collector held a review meeting with returning officers in Nilgiris to assess polling station readiness, water supply, and accessibility ramps.",
-    "category": "Election",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-67",
-    "title": "AIADMK Holds Booth-Level Worker Meetings in Nilgiris",
-    "summary": "AIADMK held booth-level worker meetings across Nilgiris to finalize polling-day strategy and voter mobilization plans.",
-    "category": "Campaign",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-68",
-    "title": "Nilgiris Administration Installs Awareness Hoardings",
-    "summary": "The Nilgiris district administration has installed voter awareness hoardings at major junctions, urging citizens to exercise their franchise.",
-    "category": "Awareness",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-69",
-    "title": "Nilgiris Police Beef Up Security at Sensitive Booths",
-    "summary": "Nilgiris district police have beefed up security at sensitive booths with paramilitary deployment and additional patrol vehicles.",
-    "category": "Enforcement",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-70",
-    "title": "Mock Polls Demonstrated to Candidates in Nilgiris",
-    "summary": "Mock polls were demonstrated to candidate representatives in Nilgiris as part of EVM transparency measures before the April 23 election.",
-    "category": "Election",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-71",
-    "title": "BJP Highlights Central Schemes During Nilgiris Roadshow",
-    "summary": "BJP candidates conducted a roadshow in Nilgiris highlighting central government welfare schemes and infrastructure investments.",
-    "category": "Campaign",
-    "date": "April 15, 2026",
-    "featured": false
-  },
+    "category": "Infrastructure",
+    "date": "April 21, 2026",
+    "title": "Road Repairs Taken Up in Ghat Sections",
+    "summary": "Road repair works are underway in ghat sections to ensure safer travel for tourists and residents."
+  },
+  {
+    "id": "ngl-new9",
+    "featured": false,
+    "category": "Tourism",
+    "date": "April 21, 2026",
+    "title": "Toy Train Bookings Increase Sharply",
+    "summary": "Bookings for the Nilgiri Mountain Railway have surged due to increased tourist demand during the holiday season."
+  },
+  {
+    "id": "ngl-new10",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 21, 2026",
+    "title": "Plastic Ban Enforcement Strengthened",
+    "summary": "Authorities have intensified enforcement of plastic bans in the Nilgiris to protect the fragile ecosystem."
+  },
+
+  {
+    "id": "ngl-new11",
+    "featured": false,
+    "category": "Tourism",
+    "date": "April 21, 2026",
+    "title": "Tea Estates Attract Visitors",
+    "summary": "Tourists are visiting tea estates to experience scenic landscapes and learn about tea production."
+  },
+  {
+    "id": "ngl-new12",
+    "featured": false,
+    "category": "Agriculture",
+    "date": "April 21, 2026",
+    "title": "Tea Production Remains Stable",
+    "summary": "Tea plantations in the Nilgiris report stable production levels despite climate variations."
+  },
+  {
+    "id": "ngl-new13",
+    "featured": false,
+    "category": "Wildlife",
+    "date": "April 21, 2026",
+    "title": "Elephant Movement Alerts Issued",
+    "summary": "Forest officials have issued alerts in areas witnessing elephant movement to ensure public safety."
+  },
+  {
+    "id": "ngl-new14",
+    "featured": false,
+    "category": "Tourism",
+    "date": "April 21, 2026",
+    "title": "Coonoor Sees Rise in Tourist Visits",
+    "summary": "Coonoor is witnessing increased tourist footfall due to its scenic attractions and pleasant weather."
+  },
+  {
+    "id": "ngl-new15",
+    "featured": false,
+    "category": "Public Safety",
+    "date": "April 21, 2026",
+    "title": "Emergency Teams on Standby for Tourist Season",
+    "summary": "Emergency response teams have been placed on alert to handle any incidents during the peak tourist season."
+  },
+
+  {
+    "id": "ngl-new16",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Traffic Regulations Enforced in Ooty",
+    "summary": "Traffic regulations have been tightened to manage congestion caused by increased tourist vehicles."
+  },
+  {
+    "id": "ngl-new17",
+    "featured": false,
+    "category": "Retail",
+    "date": "April 21, 2026",
+    "title": "Local Markets See Increased Sales",
+    "summary": "Local shops and markets are benefiting from higher tourist spending."
+  },
+  {
+    "id": "ngl-new18",
+    "featured": false,
+    "category": "Culture",
+    "date": "April 21, 2026",
+    "title": "Cultural Programs Organized for Tourists",
+    "summary": "Cultural events are being conducted to showcase local traditions to visitors."
+  },
+  {
+    "id": "ngl-new19",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 21, 2026",
+    "title": "Lake Cleaning Initiatives Continue",
+    "summary": "Authorities continue efforts to clean and maintain lakes in the region."
+  },
+  {
+    "id": "ngl-new20",
+    "featured": false,
+    "category": "Economy",
+    "date": "April 21, 2026",
+    "title": "Tourism Boosts Local Economy",
+    "summary": "The tourism sector continues to play a major role in supporting the Nilgiris economy."
+  },
+
   {
-    "id": "nil-72",
-    "title": "Voter Helpline Sees Spike in Calls from Nilgiris",
-    "summary": "The state voter helpline has seen a spike in calls from Nilgiris, mostly enquiring about polling station details and voter slip status.",
-    "category": "Awareness",
-    "date": "April 14, 2026",
-    "featured": false
+    "id": "ngl-new21",
+    "featured": false,
+    "category": "Health",
+    "date": "April 21, 2026",
+    "title": "Hospitals Prepare for Tourist Influx",
+    "summary": "Healthcare facilities are prepared to handle increased patient inflow during peak season."
   },
   {
-    "id": "nil-73",
-    "title": "Liquor Seizure Reported During Nilgiris Checks",
-    "summary": "A significant liquor seizure was reported during routine election-related checks in Nilgiris, and the contraband has been impounded.",
-    "category": "Enforcement",
-    "date": "April 14, 2026",
-    "featured": false
+    "id": "ngl-new22",
+    "featured": false,
+    "category": "Civic",
+    "date": "April 21, 2026",
+    "title": "Water Supply Monitoring Strengthened",
+    "summary": "Authorities are ensuring uninterrupted water supply for residents and tourists."
   },
   {
-    "id": "nil-74",
-    "title": "Nilgiris Voter List Final Verification Concluded",
-    "summary": "Booth-level officers in Nilgiris have concluded the final voter list verification, ensuring electoral roll accuracy ahead of polling.",
-    "category": "Election",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-75",
-    "title": "TVK Cadre Steps Up Door-to-Door Drive in Nilgiris",
-    "summary": "TVK cadre led by local coordinators stepped up the door-to-door campaign across Nilgiris, distributing pamphlets and party manifestos.",
-    "category": "Campaign",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-76",
-    "title": "Nilgiris Differently-Abled Voters Get Dedicated Assistance",
-    "summary": "Differently-abled voters in Nilgiris are receiving dedicated transport and assistance arrangements from the district election office.",
-    "category": "Awareness",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-77",
-    "title": "Income Tax Teams Conduct Discreet Surveys in Nilgiris",
-    "summary": "Income Tax teams have been conducting discreet surveys in Nilgiris to track unaccounted financial flows linked to the election period.",
-    "category": "Enforcement",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-78",
-    "title": "Sector Officers Deployed Across Nilgiris Polling Zones",
-    "summary": "Sector officers have been deployed across Nilgiris polling zones to monitor turnout, address grievances, and report issues in real time.",
-    "category": "Election",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-79",
-    "title": "Congress Workers Hold Street-Corner Meetings in Nilgiris",
-    "summary": "Congress alliance workers held street-corner meetings in Nilgiris to highlight the alliance's promises on education and healthcare.",
-    "category": "Campaign",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-80",
-    "title": "Social Media Influencers Promote Turnout in Nilgiris",
-    "summary": "Local social media influencers in Nilgiris are running short-form video campaigns urging youth to vote on April 23.",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-81",
-    "title": "Nilgiris Cybercrime Cell Monitors Election Misinformation",
-    "summary": "The Nilgiris cybercrime cell is actively monitoring social media platforms for election-related misinformation and hate speech.",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-82",
-    "title": "Nilgiris Election Control Room Operates Round the Clock",
-    "summary": "The election control room in Nilgiris is functioning round the clock to handle voter complaints, MCC violations, and logistical queries.",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-83",
-    "title": "NTK Organises Cycle Rally Across Nilgiris Towns",
-    "summary": "Naam Tamilar Katchi organised a cycle rally across Nilgiris towns to highlight environmental and identity-based issues ahead of polling.",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-84",
-    "title": "Nilgiris Senior Citizens Avail Home Voting Facility",
-    "summary": "Senior citizens above 85 in Nilgiris are availing the home voting facility, with polling teams visiting registered residences.",
-    "category": "Awareness",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-85",
-    "title": "Bank Cash Movement Tracked in Nilgiris",
-    "summary": "Bank cash movement above the threshold in Nilgiris is being tracked and verified by election expenditure observers.",
-    "category": "Enforcement",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-86",
-    "title": "EVM Commissioning Underway in Nilgiris Constituencies",
-    "summary": "Election officials in Nilgiris have begun the commissioning of EVMs and VVPATs in the presence of candidate agents and observers ahead of the polling day.",
-    "category": "Election",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-87",
-    "title": "Star Campaigners Schedule Final Rallies in Nilgiris",
-    "summary": "Major political parties have scheduled final-phase rallies of star campaigners in Nilgiris as the silent period nears.",
-    "category": "Campaign",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-88",
-    "title": "SVEEP Street Plays Boost Voter Awareness in Nilgiris",
-    "summary": "SVEEP teams in Nilgiris performed street plays at bus stands and markets to encourage 100% voter turnout on April 23.",
-    "category": "Awareness",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-89",
-    "title": "Flying Squads Intensify Vehicle Checks in Nilgiris",
-    "summary": "Flying squads in Nilgiris have intensified vehicle checks at major entry points and highway intersections to curb illegal cash movement.",
-    "category": "Enforcement",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-90",
-    "title": "Nilgiris Reports Smooth Progress on Postal Ballot Distribution",
-    "summary": "District election officials confirmed that postal ballot distribution to service voters and senior citizens in Nilgiris is progressing as per schedule.",
-    "category": "Election",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-91",
-    "title": "Women Self-Help Groups Address Nilgiris Candidates",
-    "summary": "Women self-help group federations in Nilgiris addressed candidates seeking concrete commitments on livelihood and credit access.",
-    "category": "Campaign",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-92",
-    "title": "Nilgiris Colleges Host Voter Pledge Programs",
-    "summary": "Colleges across Nilgiris hosted voter pledge programs for first-time voters, accompanied by mock EVM demonstrations.",
-    "category": "Awareness",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-93",
-    "title": "Nilgiris Static Surveillance Teams Report Daily to Observers",
-    "summary": "Static surveillance teams in Nilgiris are reporting daily to election observers on cash, liquor, and freebie movement.",
-    "category": "Enforcement",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-94",
-    "title": "Strong Rooms Sealed in Nilgiris After Final Randomization",
-    "summary": "EVM strong rooms across Nilgiris have been sealed under multi-tier security following the final randomization of polling personnel.",
-    "category": "Election",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-95",
-    "title": "Trader Associations Submit Memorandum to Nilgiris Candidates",
-    "summary": "Trader associations submitted a joint memorandum to candidates in Nilgiris seeking GST relief and infrastructure support.",
-    "category": "Campaign",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "nil-96",
-    "title": "Booth Slip Distribution Crosses Halfway Mark in Nilgiris",
-    "summary": "Door-to-door booth slip distribution in Nilgiris has crossed the halfway mark, with BLOs targeting full coverage by April 18.",
-    "category": "Awareness",
-    "date": "April 13, 2026",
-    "featured": false
-  },
+    "id": "ngl-new23",
+    "featured": false,
+    "category": "Infrastructure",
+    "date": "April 21, 2026",
+    "title": "Bridge Maintenance Works Underway",
+    "summary": "Bridge repair works are being carried out to ensure safe travel."
+  },
   {
-    "id": "nil-97",
-    "title": "MCC Violation Notices Issued in Nilgiris Constituencies",
-    "summary": "Several model code of conduct violation notices have been issued in Nilgiris constituencies for unauthorised hoardings and campaign material.",
-    "category": "Enforcement",
-    "date": "April 13, 2026",
-    "featured": false
-  },
+    "id": "ngl-new24",
+    "featured": false,
+    "category": "Security",
+    "date": "April 21, 2026",
+    "title": "Police Deployment Increased",
+    "summary": "Police presence has been increased in tourist areas for safety."
+  },
   {
-    "id": "nil-98",
-    "title": "Nilgiris Collector Reviews Polling Station Readiness",
-    "summary": "The District Collector held a review meeting with returning officers in Nilgiris to assess polling station readiness, water supply, and accessibility ramps.",
-    "category": "Election",
-    "date": "April 13, 2026",
-    "featured": false
+    "id": "ngl-new25",
+    "featured": false,
+    "category": "Education",
+    "date": "April 21, 2026",
+    "title": "Students Participate in Eco Awareness Programs",
+    "summary": "Students are actively involved in environmental awareness activities."
+  },
+
+  {
+    "id": "ngl-new26",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 21, 2026",
+    "title": "Forest Fire Prevention Measures Strengthened",
+    "summary": "Authorities have stepped up forest fire prevention efforts during dry conditions."
   },
-  {
-    "id": "nil-99",
-    "title": "Nilgiris Farmers Raise Pricing Concerns at Public Meeting",
-    "summary": "Farmers in Nilgiris raised concerns over crop pricing and procurement at a public meeting attended by alliance candidates.",
-    "category": "Campaign",
-    "date": "April 13, 2026",
-    "featured": false
+  {
+    "id": "ngl-new27",
+    "featured": false,
+    "category": "Tourism",
+    "date": "April 21, 2026",
+    "title": "Resort Bookings Reach Peak Levels",
+    "summary": "Hotels and resorts report full occupancy due to tourist demand."
   },
-  {
-    "id": "nil-100",
-    "title": "Nilgiris Administration Installs Awareness Hoardings",
-    "summary": "The Nilgiris district administration has installed voter awareness hoardings at major junctions, urging citizens to exercise their franchise.",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "featured": false
+  {
+    "id": "ngl-new28",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Taxi Services See Increased Demand",
+    "summary": "Taxi operators are experiencing higher demand from tourists."
+  },
+  {
+    "id": "ngl-new29",
+    "featured": false,
+    "category": "Agriculture",
+    "date": "April 21, 2026",
+    "title": "Vegetable Farming Supports Local Supply",
+    "summary": "Local farms continue to supply fresh vegetables to markets."
+  },
+  {
+    "id": "ngl-new30",
+    "featured": false,
+    "category": "Market",
+    "date": "April 21, 2026",
+    "title": "Handicraft Sales Increase",
+    "summary": "Handicraft items are seeing increased sales among tourists."
+  },
+
+  {
+    "id": "ngl-new31",
+    "featured": false,
+    "category": "Lifestyle",
+    "date": "April 21, 2026",
+    "title": "Adventure Tourism Gains Popularity",
+    "summary": "Adventure activities such as trekking are gaining popularity among visitors."
+  },
+  {
+    "id": "ngl-new32",
+    "featured": false,
+    "category": "Public",
+    "date": "April 21, 2026",
+    "title": "Public Awareness on Eco Protection Grows",
+    "summary": "Residents and tourists are becoming more aware of environmental protection."
+  },
+  {
+    "id": "ngl-new33",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Parking Facilities Expanded",
+    "summary": "Authorities have expanded parking facilities to handle tourist vehicles."
+  },
+  {
+    "id": "ngl-new34",
+    "featured": false,
+    "category": "Tourism",
+    "date": "April 21, 2026",
+    "title": "Flower Shows Preparation Begins",
+    "summary": "Preparations for the annual flower show have begun in Ooty."
+  },
+  {
+    "id": "ngl-new35",
+    "featured": false,
+    "category": "Culture",
+    "date": "April 21, 2026",
+    "title": "Local Festivals Attract Visitors",
+    "summary": "Traditional festivals are drawing both locals and tourists."
+  },
+
+  {
+    "id": "ngl-new36",
+    "featured": false,
+    "category": "Health",
+    "date": "April 21, 2026",
+    "title": "Cold Weather Health Advisory Issued",
+    "summary": "Visitors are advised to take precautions against cold weather conditions."
+  },
+  {
+    "id": "ngl-new37",
+    "featured": false,
+    "category": "Economy",
+    "date": "April 21, 2026",
+    "title": "Local Businesses Benefit from Tourism",
+    "summary": "Small businesses are benefiting from increased tourist spending."
+  },
+  {
+    "id": "ngl-new38",
+    "featured": false,
+    "category": "Infrastructure",
+    "date": "April 21, 2026",
+    "title": "Hill Road Safety Measures Improved",
+    "summary": "Safety measures have been enhanced on hill roads to prevent accidents."
+  },
+  {
+    "id": "ngl-new39",
+    "featured": false,
+    "category": "Security",
+    "date": "April 21, 2026",
+    "title": "Tourist Safety Patrols Increased",
+    "summary": "Police patrols have been increased to ensure tourist safety."
+  },
+  {
+    "id": "ngl-new40",
+    "featured": false,
+    "category": "Retail",
+    "date": "April 21, 2026",
+    "title": "Souvenir Shops Report High Sales",
+    "summary": "Souvenir shops are experiencing increased sales during peak season."
+  },
+
+  {
+    "id": "ngl-new41",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 21, 2026",
+    "title": "Waste Management Efforts Strengthened",
+    "summary": "Authorities are improving waste management systems to handle tourist waste."
+  },
+  {
+    "id": "ngl-new42",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Bus Services Extended to Remote Areas",
+    "summary": "Transport services have been expanded to improve accessibility."
+  },
+  {
+    "id": "ngl-new43",
+    "featured": false,
+    "category": "Education",
+    "date": "April 21, 2026",
+    "title": "Schools Conduct Nature Awareness Programs",
+    "summary": "Schools are organizing programs to educate students about nature conservation."
+  },
+  {
+    "id": "ngl-new44",
+    "featured": false,
+    "category": "Agriculture",
+    "date": "April 21, 2026",
+    "title": "Tea Prices Remain Stable",
+    "summary": "Tea prices remain stable, supporting local plantation economy."
+  },
+  {
+    "id": "ngl-new45",
+    "featured": false,
+    "category": "Public Safety",
+    "date": "April 21, 2026",
+    "title": "Disaster Response Teams on Alert",
+    "summary": "Disaster management teams are on alert to respond to emergencies."
+  },
+
+  {
+    "id": "ngl-new46",
+    "featured": false,
+    "category": "Tourism",
+    "date": "April 21, 2026",
+    "title": "Camping Activities Attract Youth",
+    "summary": "Camping and outdoor activities are becoming popular among young tourists."
+  },
+  {
+    "id": "ngl-new47",
+    "featured": false,
+    "category": "Market",
+    "date": "April 21, 2026",
+    "title": "Local Produce Sales Increase",
+    "summary": "Sales of locally grown produce have increased in markets."
+  },
+  {
+    "id": "ngl-new48",
+    "featured": false,
+    "category": "Culture",
+    "date": "April 21, 2026",
+    "title": "Music Events Held for Visitors",
+    "summary": "Music events are being organized to entertain tourists."
+  },
+  {
+    "id": "ngl-new49",
+    "featured": false,
+    "category": "Health",
+    "date": "April 21, 2026",
+    "title": "Emergency Medical Services Strengthened",
+    "summary": "Emergency medical services have been strengthened for tourist safety."
+  },
+  {
+    "id": "ngl-new50",
+    "featured": false,
+    "category": "Economy",
+    "date": "April 21, 2026",
+    "title": "Tourism Revenue Expected to Rise",
+    "summary": "Officials expect tourism revenue to increase significantly during the season."
   }
 ]
