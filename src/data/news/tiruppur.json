@@ -1,845 +1,411 @@
 [
   {
-    "id": "tir-new1",
+    "id": "tpr-new1",
     "featured": true,
     "category": "Business",
-    "date": "April 20, 2026",
-    "title": "Tiruppur Knitwear Exports Set to Double After India-US Trade Deal",
-    "summary": "The Tiruppur Exporters’ Association projects exports may double in the next 3-5 years following tariff reductions, potentially adding five lakh new jobs in the cluster."
+    "date": "April 21, 2026",
+    "title": "Tiruppur Garment Exports See Fresh Growth",
+    "summary": "Tiruppur’s garment export sector has reported a steady increase in international demand, supported by improved logistics and consistent product quality. Exporters are witnessing renewed interest from global buyers, strengthening the region’s economy and employment opportunities."
   },
   {
-    "id": "tir-new2",
+    "id": "tpr-new2",
     "featured": false,
     "category": "Election",
-    "date": "April 20, 2026",
-    "title": "Four-Way Contest Heats Up in Tiruppur North as TVK Joins Fray",
-    "summary": "Political analysts now see a genuine four-cornered contest in Tiruppur North between DMK, AIADMK, BJP-led NDA and Vijay’s TVK, with the migrant-worker vote emerging as the swing block."
+    "date": "April 21, 2026",
+    "title": "Election Campaigns Intensify Across Tiruppur",
+    "summary": "Political parties have stepped up their campaign efforts with rallies, roadshows, and voter outreach programs across Tiruppur, highlighting the constituency’s importance in the upcoming elections."
   },
   {
-    "id": "tir-new3",
+    "id": "tpr-new3",
     "featured": false,
-    "category": "Sustainability",
-    "date": "April 20, 2026",
-    "title": "Knitwear Cluster Shifts to Recycled Fabrics for EU ‘Green Deal’ Compliance",
-    "summary": "Over 220 Tiruppur garment units have transitioned to recycled-yarn lines to meet European Green Deal standards, with several signing dyeing-water zero-discharge contracts."
+    "category": "Election",
+    "date": "April 21, 2026",
+    "title": "Tiruppur Emerges as Key Poll Battleground",
+    "summary": "Tiruppur is witnessing intense competition among major parties, with its industrial significance and diverse voter base making it a crucial electoral battleground."
   },
   {
-    "id": "tir-new4",
-    "featured": false,
-    "category": "Development",
-    "date": "April 20, 2026",
-    "title": "Noyyal Riverfront Smart-Energy Phase-1 Inaugurated",
-    "summary": "The Noyyal Riverfront Development Project’s first phase, integrating solar walkways and water-quality sensors, was inaugurated near Mangalam Road."
-  },
-  {
-    "id": "tir-new5",
+    "id": "tpr-new4",
     "featured": false,
     "category": "Politics",
-    "date": "April 20, 2026",
-    "title": "BJP’s M. Yuvaraja Appeals for ‘Lotus Sweep’ in Erode-Tiruppur Belt",
-    "summary": "NDA candidate M. Yuvaraja addressed a packed meeting at Avinashi, urging Kongu voters to give the lotus a clean sweep across the western belt."
+    "date": "April 21, 2026",
+    "title": "Youth Voters Influence Tiruppur Election Trends",
+    "summary": "Young voters are playing a vital role in shaping election trends in Tiruppur, with their focus on jobs, education, and development influencing political narratives."
   },
   {
-    "id": "tir-new6",
+    "id": "tpr-new5",
     "featured": false,
-    "category": "Enforcement",
-    "date": "April 20, 2026",
-    "title": "₹1.4 Crore Cash Seized from Campaign Vehicle Near Palladam",
-    "summary": "Flying squads in Palladam intercepted a campaign convoy and seized ₹1.4 crore in cash, suspected to be poll inducement money. Three persons detained."
+    "category": "Civic",
+    "date": "April 21, 2026",
+    "title": "Residents Demand Improved Drainage Systems",
+    "summary": "Residents across Tiruppur have raised concerns over inadequate drainage systems, urging authorities to address waterlogging and sanitation challenges."
   },
+
   {
-    "id": "tir-new7",
+    "id": "tpr-new6",
     "featured": false,
-    "category": "Awareness",
-    "date": "April 20, 2026",
-    "title": "Migrant-Worker Voter Awareness Drive Covers 38 Garment Units",
-    "summary": "The district SVEEP team conducted Tamil-Hindi-Odia awareness sessions across 38 large garment factories to ensure inter-state workers exercise their franchise."
+    "category": "Infrastructure",
+    "date": "April 21, 2026",
+    "title": "Road Development Works Accelerated",
+    "summary": "Authorities have accelerated road development and repair works to improve connectivity and address long-standing infrastructure issues before elections."
   },
   {
-    "id": "tir-f",
+    "id": "tpr-new7",
     "featured": false,
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "Kamal Haasan Begins Campaign Tour for DMK Alliance in Tiruppur",
-    "summary": "Kamal Haasan begins his four-day campaign tour today supporting DMK-led alliance candidates in Tiruppur and Avinashi constituencies. He will campaign in Avinashi on April 19."
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Special Buses Deployed for Election Duty",
+    "summary": "Additional buses have been deployed to handle increased passenger demand and support election-related transportation needs."
   },
+  {
+    "id": "tpr-new8",
+    "featured": false,
+    "category": "Crime",
+    "date": "April 21, 2026",
+    "title": "Police Increase Surveillance Ahead of Polls",
+    "summary": "Security has been tightened with increased surveillance and deployment of additional police personnel in sensitive areas."
+  },
+  {
+    "id": "tpr-new9",
+    "featured": false,
+    "category": "Market",
+    "date": "April 21, 2026",
+    "title": "Cotton Prices Fluctuate in Tiruppur Markets",
+    "summary": "Cotton prices have shown fluctuations due to market demand and supply variations, affecting textile production costs."
+  },
+  {
+    "id": "tpr-new10",
+    "featured": false,
+    "category": "Weather",
+    "date": "April 21, 2026",
+    "title": "Temperature Rises Across Tiruppur",
+    "summary": "Daytime temperatures have increased, prompting health advisories for residents to avoid prolonged exposure to heat."
+  },
+
+  {
+    "id": "tpr-new11",
+    "featured": false,
+    "category": "Health",
+    "date": "April 21, 2026",
+    "title": "Free Medical Camps Held in Rural Areas",
+    "summary": "Medical camps have been organized to provide free healthcare services and screenings to rural communities."
+  },
+  {
+    "id": "tpr-new12",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 21, 2026",
+    "title": "Tree Plantation Drives Conducted",
+    "summary": "Tree plantation initiatives are being carried out to enhance green cover and promote environmental awareness."
+  },
+  {
+    "id": "tpr-new13",
+    "featured": false,
+    "category": "Education",
+    "date": "April 21, 2026",
+    "title": "Students Prepare for Exams",
+    "summary": "Students across schools and colleges are preparing for upcoming examinations with increased study efforts."
+  },
+  {
+    "id": "tpr-new14",
+    "featured": false,
+    "category": "Industry",
+    "date": "April 21, 2026",
+    "title": "Small Textile Units Expand Operations",
+    "summary": "Small-scale textile units are expanding operations to meet rising demand, boosting local employment."
+  },
+  {
+    "id": "tpr-new15",
+    "featured": false,
+    "category": "Crime",
+    "date": "April 21, 2026",
+    "title": "Cybercrime Awareness Campaign Conducted",
+    "summary": "Authorities have launched campaigns to educate citizens about cybercrime prevention and safe digital practices."
+  },
+
+  {
+    "id": "tpr-new16",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Traffic Advisory Issued for Key Roads",
+    "summary": "Traffic advisories have been issued for major roads to manage congestion caused by increased movement."
+  },
+  {
+    "id": "tpr-new17",
+    "featured": false,
+    "category": "Retail",
+    "date": "April 21, 2026",
+    "title": "Markets See Increased Footfall",
+    "summary": "Local markets are experiencing increased footfall due to seasonal demand and public activity."
+  },
+  {
+    "id": "tpr-new18",
+    "featured": false,
+    "category": "Public Safety",
+    "date": "April 21, 2026",
+    "title": "Fire Safety Inspections Conducted",
+    "summary": "Fire safety inspections have been carried out to ensure compliance in commercial establishments."
+  },
+  {
+    "id": "tpr-new19",
+    "featured": false,
+    "category": "Tourism",
+    "date": "April 21, 2026",
+    "title": "Nearby Tourist Spots Attract Visitors",
+    "summary": "Tourist destinations around Tiruppur have seen increased visitor numbers during weekends."
+  },
   {
-    "id": "tir-1",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "DMK's Dinesh Kumar Highlights Textile Hub Development",
-    "summary": "DMK candidate N. Dinesh Kumar campaigns in Tiruppur South highlighting development projects for the textile hub including new infrastructure."
-  },
-  {
-    "id": "tir-2",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "BJP Releases 12-Point Manifesto for Tiruppur South",
-    "summary": "BJP candidate S. Thangaraj released a constituency-specific manifesto with 12 points for Tiruppur South focused on textile industry growth."
-  },
-  {
-    "id": "tir-3",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "TVK's Vijay Roadshow Creates Buzz in Perumanallur",
-    "summary": "TVK chief Vijay's roadshow in Perumanallur created massive buzz among youth voters in Tiruppur district."
-  },
-  {
-    "id": "tir-4",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "title": "Voter Awareness Boat Rally in Tiruppur Water Bodies",
-    "summary": "A unique voter awareness boat rally was conducted in Tiruppur water bodies urging citizens for 100% turnout on polling day."
-  },
-  {
-    "id": "tir-5",
-    "category": "Campaign",
-    "date": "April 16, 2026",
-    "title": "AIADMK's Anandan Promises ₹10,000 Scholarship",
-    "summary": "AIADMK candidate S.S.M. Anandan promises ₹10,000 scholarship in Tiruppur North if the party forms the next government."
-  },
-  {
-    "id": "tir-6",
-    "category": "Enforcement",
-    "date": "April 16, 2026",
-    "title": "Cash Seized in Textile Areas of Tiruppur South",
-    "summary": "Flying squads seized cash during checks in the textile areas of Tiruppur South under model code enforcement."
-  },
-  {
-    "id": "tir-7",
-    "category": "Awareness",
-    "date": "April 16, 2026",
-    "title": "Booth Slip Distribution Gains Momentum in All 8 Segments",
-    "summary": "Door-to-door booth slip distribution gains momentum across all eight assembly segments in Tiruppur district."
-  },
-  {
-    "id": "tir-8",
-    "category": "Awareness",
-    "date": "April 16, 2026",
-    "title": "Bharata Natyam Used for Voter Awareness in Temples",
-    "summary": "Bharata Natyam performances are being used for innovative voter awareness in Tiruppur temples to engage devotees."
-  },
-  {
-    "id": "tir-9",
-    "category": "Election",
-    "date": "April 16, 2026",
-    "title": "Avinashi (SC): Multi-Cornered Contest Heats Up",
-    "summary": "Avinashi reserved constituency sees multi-cornered contest with DMK, AIADMK, BJP, TVK and NTK candidates running active grassroots outreach."
-  },
-  {
-    "id": "tir-10",
-    "category": "Election",
-    "date": "April 15, 2026",
-    "title": "Second Randomization of EVMs Completed",
-    "summary": "Second randomization of EVMs and polling personnel has been completed across all eight Tiruppur constituencies."
-  },
-  {
-    "id": "tir-11",
-    "category": "Enforcement",
-    "date": "April 15, 2026",
-    "title": "Paramilitary Deployed in Sensitive Booths",
-    "summary": "Paramilitary forces have been deployed for security in sensitive polling booths across Tiruppur district."
-  },
-  {
-    "id": "tir-12",
-    "category": "Awareness",
-    "date": "April 15, 2026",
-    "title": "Vote-a-Than 2026 Marathon with Rotary Clubs",
-    "summary": "A creative 'Vote-a-Than 2026' marathon was organised with Rotary clubs to spread voter awareness across Tiruppur."
-  },
-  {
-    "id": "tir-13",
-    "category": "Election",
-    "date": "April 15, 2026",
-    "title": "Home Voting for 85+ and PWD Voters Rolled Out",
-    "summary": "Home voting facility has been rolled out for 85+ senior citizens and persons with disabilities across Tiruppur."
-  },
-  {
-    "id": "tir-15",
-    "title": "EVM Commissioning Underway in Tiruppur Constituencies",
-    "summary": "Election officials in Tiruppur have begun the commissioning of EVMs and VVPATs in the presence of candidate agents and observers ahead of the polling day.",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-16",
-    "title": "DMK Intensifies Final-Phase Outreach in Tiruppur",
-    "summary": "DMK candidates and alliance workers have intensified door-to-door outreach across Tiruppur, focusing on welfare scheme beneficiaries and first-time voters.",
-    "category": "Campaign",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-17",
-    "title": "SVEEP Street Plays Boost Voter Awareness in Tiruppur",
-    "summary": "SVEEP teams in Tiruppur performed street plays at bus stands and markets to encourage 100% voter turnout on April 23.",
-    "category": "Awareness",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-18",
-    "title": "Flying Squads Intensify Vehicle Checks in Tiruppur",
-    "summary": "Flying squads in Tiruppur have intensified vehicle checks at major entry points and highway intersections to curb illegal cash movement.",
-    "category": "Enforcement",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-19",
-    "title": "Tiruppur Reports Smooth Progress on Postal Ballot Distribution",
-    "summary": "District election officials confirmed that postal ballot distribution to service voters and senior citizens in Tiruppur is progressing as per schedule.",
-    "category": "Election",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-20",
-    "title": "AIADMK Holds Booth-Level Worker Meetings in Tiruppur",
-    "summary": "AIADMK held booth-level worker meetings across Tiruppur to finalize polling-day strategy and voter mobilization plans.",
-    "category": "Campaign",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-21",
-    "title": "Tiruppur Colleges Host Voter Pledge Programs",
-    "summary": "Colleges across Tiruppur hosted voter pledge programs for first-time voters, accompanied by mock EVM demonstrations.",
-    "category": "Awareness",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-22",
-    "title": "Tiruppur Static Surveillance Teams Report Daily to Observers",
-    "summary": "Static surveillance teams in Tiruppur are reporting daily to election observers on cash, liquor, and freebie movement.",
-    "category": "Enforcement",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-23",
-    "title": "Strong Rooms Sealed in Tiruppur After Final Randomization",
-    "summary": "EVM strong rooms across Tiruppur have been sealed under multi-tier security following the final randomization of polling personnel.",
-    "category": "Election",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-24",
-    "title": "BJP Highlights Central Schemes During Tiruppur Roadshow",
-    "summary": "BJP candidates conducted a roadshow in Tiruppur highlighting central government welfare schemes and infrastructure investments.",
-    "category": "Campaign",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-25",
-    "title": "Booth Slip Distribution Crosses Halfway Mark in Tiruppur",
-    "summary": "Door-to-door booth slip distribution in Tiruppur has crossed the halfway mark, with BLOs targeting full coverage by April 18.",
-    "category": "Awareness",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-26",
-    "title": "MCC Violation Notices Issued in Tiruppur Constituencies",
-    "summary": "Several model code of conduct violation notices have been issued in Tiruppur constituencies for unauthorised hoardings and campaign material.",
-    "category": "Enforcement",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-27",
-    "title": "Tiruppur Collector Reviews Polling Station Readiness",
-    "summary": "The District Collector held a review meeting with returning officers in Tiruppur to assess polling station readiness, water supply, and accessibility ramps.",
-    "category": "Election",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-28",
-    "title": "TVK Cadre Steps Up Door-to-Door Drive in Tiruppur",
-    "summary": "TVK cadre led by local coordinators stepped up the door-to-door campaign across Tiruppur, distributing pamphlets and party manifestos.",
-    "category": "Campaign",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-29",
-    "title": "Tiruppur Administration Installs Awareness Hoardings",
-    "summary": "The Tiruppur district administration has installed voter awareness hoardings at major junctions, urging citizens to exercise their franchise.",
-    "category": "Awareness",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-30",
-    "title": "Tiruppur Police Beef Up Security at Sensitive Booths",
-    "summary": "Tiruppur district police have beefed up security at sensitive booths with paramilitary deployment and additional patrol vehicles.",
-    "category": "Enforcement",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-31",
-    "title": "Mock Polls Demonstrated to Candidates in Tiruppur",
-    "summary": "Mock polls were demonstrated to candidate representatives in Tiruppur as part of EVM transparency measures before the April 23 election.",
-    "category": "Election",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-32",
-    "title": "Congress Workers Hold Street-Corner Meetings in Tiruppur",
-    "summary": "Congress alliance workers held street-corner meetings in Tiruppur to highlight the alliance's promises on education and healthcare.",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-33",
-    "title": "Voter Helpline Sees Spike in Calls from Tiruppur",
-    "summary": "The state voter helpline has seen a spike in calls from Tiruppur, mostly enquiring about polling station details and voter slip status.",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-34",
-    "title": "Liquor Seizure Reported During Tiruppur Checks",
-    "summary": "A significant liquor seizure was reported during routine election-related checks in Tiruppur, and the contraband has been impounded.",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-35",
-    "title": "Tiruppur Voter List Final Verification Concluded",
-    "summary": "Booth-level officers in Tiruppur have concluded the final voter list verification, ensuring electoral roll accuracy ahead of polling.",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-36",
-    "title": "NTK Organises Cycle Rally Across Tiruppur Towns",
-    "summary": "Naam Tamilar Katchi organised a cycle rally across Tiruppur towns to highlight environmental and identity-based issues ahead of polling.",
-    "category": "Campaign",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-37",
-    "title": "Tiruppur Differently-Abled Voters Get Dedicated Assistance",
-    "summary": "Differently-abled voters in Tiruppur are receiving dedicated transport and assistance arrangements from the district election office.",
-    "category": "Awareness",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-38",
-    "title": "Income Tax Teams Conduct Discreet Surveys in Tiruppur",
-    "summary": "Income Tax teams have been conducting discreet surveys in Tiruppur to track unaccounted financial flows linked to the election period.",
-    "category": "Enforcement",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-39",
-    "title": "Sector Officers Deployed Across Tiruppur Polling Zones",
-    "summary": "Sector officers have been deployed across Tiruppur polling zones to monitor turnout, address grievances, and report issues in real time.",
-    "category": "Election",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-40",
-    "title": "Star Campaigners Schedule Final Rallies in Tiruppur",
-    "summary": "Major political parties have scheduled final-phase rallies of star campaigners in Tiruppur as the silent period nears.",
-    "category": "Campaign",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-41",
-    "title": "Social Media Influencers Promote Turnout in Tiruppur",
-    "summary": "Local social media influencers in Tiruppur are running short-form video campaigns urging youth to vote on April 23.",
-    "category": "Awareness",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-42",
-    "title": "Tiruppur Cybercrime Cell Monitors Election Misinformation",
-    "summary": "The Tiruppur cybercrime cell is actively monitoring social media platforms for election-related misinformation and hate speech.",
-    "category": "Enforcement",
-    "date": "April 15, 2026",
-    "featured": false
-  },
+    "id": "tpr-new20",
+    "featured": false,
+    "category": "Culture",
+    "date": "April 21, 2026",
+    "title": "Cultural Programs Draw Public Participation",
+    "summary": "Cultural events are attracting large crowds, promoting local traditions and talent."
+  },
+
   {
-    "id": "tir-43",
-    "title": "Tiruppur Election Control Room Operates Round the Clock",
-    "summary": "The election control room in Tiruppur is functioning round the clock to handle voter complaints, MCC violations, and logistical queries.",
-    "category": "Election",
-    "date": "April 15, 2026",
-    "featured": false
+    "id": "tpr-new21",
+    "featured": false,
+    "category": "Economy",
+    "date": "April 21, 2026",
+    "title": "Local Economy Shows Growth Signs",
+    "summary": "Economic activity in Tiruppur is showing positive trends with growth in retail and industrial sectors."
   },
   {
-    "id": "tir-44",
-    "title": "Women Self-Help Groups Address Tiruppur Candidates",
-    "summary": "Women self-help group federations in Tiruppur addressed candidates seeking concrete commitments on livelihood and credit access.",
-    "category": "Campaign",
-    "date": "April 14, 2026",
-    "featured": false
+    "id": "tpr-new22",
+    "featured": false,
+    "category": "Civic",
+    "date": "April 21, 2026",
+    "title": "Garbage Clearance Drives Intensified",
+    "summary": "Municipal authorities have stepped up sanitation efforts to maintain cleanliness."
   },
   {
-    "id": "tir-45",
-    "title": "Tiruppur Senior Citizens Avail Home Voting Facility",
-    "summary": "Senior citizens above 85 in Tiruppur are availing the home voting facility, with polling teams visiting registered residences.",
-    "category": "Awareness",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-46",
-    "title": "Bank Cash Movement Tracked in Tiruppur",
-    "summary": "Bank cash movement above the threshold in Tiruppur is being tracked and verified by election expenditure observers.",
-    "category": "Enforcement",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-47",
-    "title": "EVM Commissioning Underway in Tiruppur Constituencies",
-    "summary": "Election officials in Tiruppur have begun the commissioning of EVMs and VVPATs in the presence of candidate agents and observers ahead of the polling day.",
-    "category": "Election",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-48",
-    "title": "Trader Associations Submit Memorandum to Tiruppur Candidates",
-    "summary": "Trader associations submitted a joint memorandum to candidates in Tiruppur seeking GST relief and infrastructure support.",
-    "category": "Campaign",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-49",
-    "title": "SVEEP Street Plays Boost Voter Awareness in Tiruppur",
-    "summary": "SVEEP teams in Tiruppur performed street plays at bus stands and markets to encourage 100% voter turnout on April 23.",
-    "category": "Awareness",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-50",
-    "title": "Flying Squads Intensify Vehicle Checks in Tiruppur",
-    "summary": "Flying squads in Tiruppur have intensified vehicle checks at major entry points and highway intersections to curb illegal cash movement.",
-    "category": "Enforcement",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-51",
-    "title": "Tiruppur Reports Smooth Progress on Postal Ballot Distribution",
-    "summary": "District election officials confirmed that postal ballot distribution to service voters and senior citizens in Tiruppur is progressing as per schedule.",
-    "category": "Election",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-52",
-    "title": "Tiruppur Farmers Raise Pricing Concerns at Public Meeting",
-    "summary": "Farmers in Tiruppur raised concerns over crop pricing and procurement at a public meeting attended by alliance candidates.",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-53",
-    "title": "Tiruppur Colleges Host Voter Pledge Programs",
-    "summary": "Colleges across Tiruppur hosted voter pledge programs for first-time voters, accompanied by mock EVM demonstrations.",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-54",
-    "title": "Tiruppur Static Surveillance Teams Report Daily to Observers",
-    "summary": "Static surveillance teams in Tiruppur are reporting daily to election observers on cash, liquor, and freebie movement.",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-55",
-    "title": "Strong Rooms Sealed in Tiruppur After Final Randomization",
-    "summary": "EVM strong rooms across Tiruppur have been sealed under multi-tier security following the final randomization of polling personnel.",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-56",
-    "title": "DMK Intensifies Final-Phase Outreach in Tiruppur",
-    "summary": "DMK candidates and alliance workers have intensified door-to-door outreach across Tiruppur, focusing on welfare scheme beneficiaries and first-time voters.",
-    "category": "Campaign",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-57",
-    "title": "Booth Slip Distribution Crosses Halfway Mark in Tiruppur",
-    "summary": "Door-to-door booth slip distribution in Tiruppur has crossed the halfway mark, with BLOs targeting full coverage by April 18.",
-    "category": "Awareness",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-58",
-    "title": "MCC Violation Notices Issued in Tiruppur Constituencies",
-    "summary": "Several model code of conduct violation notices have been issued in Tiruppur constituencies for unauthorised hoardings and campaign material.",
-    "category": "Enforcement",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-59",
-    "title": "Tiruppur Collector Reviews Polling Station Readiness",
-    "summary": "The District Collector held a review meeting with returning officers in Tiruppur to assess polling station readiness, water supply, and accessibility ramps.",
-    "category": "Election",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-60",
-    "title": "AIADMK Holds Booth-Level Worker Meetings in Tiruppur",
-    "summary": "AIADMK held booth-level worker meetings across Tiruppur to finalize polling-day strategy and voter mobilization plans.",
-    "category": "Campaign",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-61",
-    "title": "Tiruppur Administration Installs Awareness Hoardings",
-    "summary": "The Tiruppur district administration has installed voter awareness hoardings at major junctions, urging citizens to exercise their franchise.",
-    "category": "Awareness",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-62",
-    "title": "Tiruppur Police Beef Up Security at Sensitive Booths",
-    "summary": "Tiruppur district police have beefed up security at sensitive booths with paramilitary deployment and additional patrol vehicles.",
-    "category": "Enforcement",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-63",
-    "title": "Mock Polls Demonstrated to Candidates in Tiruppur",
-    "summary": "Mock polls were demonstrated to candidate representatives in Tiruppur as part of EVM transparency measures before the April 23 election.",
-    "category": "Election",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-64",
-    "title": "BJP Highlights Central Schemes During Tiruppur Roadshow",
-    "summary": "BJP candidates conducted a roadshow in Tiruppur highlighting central government welfare schemes and infrastructure investments.",
-    "category": "Campaign",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-65",
-    "title": "Voter Helpline Sees Spike in Calls from Tiruppur",
-    "summary": "The state voter helpline has seen a spike in calls from Tiruppur, mostly enquiring about polling station details and voter slip status.",
-    "category": "Awareness",
-    "date": "April 14, 2026",
-    "featured": false
-  },
+    "id": "tpr-new23",
+    "featured": false,
+    "category": "Health",
+    "date": "April 21, 2026",
+    "title": "Heat Advisory Issued for Residents",
+    "summary": "Residents are advised to take precautions against rising temperatures and heat-related illnesses."
+  },
   {
-    "id": "tir-66",
-    "title": "Liquor Seizure Reported During Tiruppur Checks",
-    "summary": "A significant liquor seizure was reported during routine election-related checks in Tiruppur, and the contraband has been impounded.",
-    "category": "Enforcement",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-67",
-    "title": "Tiruppur Voter List Final Verification Concluded",
-    "summary": "Booth-level officers in Tiruppur have concluded the final voter list verification, ensuring electoral roll accuracy ahead of polling.",
-    "category": "Election",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-68",
-    "title": "TVK Cadre Steps Up Door-to-Door Drive in Tiruppur",
-    "summary": "TVK cadre led by local coordinators stepped up the door-to-door campaign across Tiruppur, distributing pamphlets and party manifestos.",
-    "category": "Campaign",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-69",
-    "title": "Tiruppur Differently-Abled Voters Get Dedicated Assistance",
-    "summary": "Differently-abled voters in Tiruppur are receiving dedicated transport and assistance arrangements from the district election office.",
-    "category": "Awareness",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-70",
-    "title": "Income Tax Teams Conduct Discreet Surveys in Tiruppur",
-    "summary": "Income Tax teams have been conducting discreet surveys in Tiruppur to track unaccounted financial flows linked to the election period.",
-    "category": "Enforcement",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-71",
-    "title": "Sector Officers Deployed Across Tiruppur Polling Zones",
-    "summary": "Sector officers have been deployed across Tiruppur polling zones to monitor turnout, address grievances, and report issues in real time.",
-    "category": "Election",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-72",
-    "title": "Congress Workers Hold Street-Corner Meetings in Tiruppur",
-    "summary": "Congress alliance workers held street-corner meetings in Tiruppur to highlight the alliance's promises on education and healthcare.",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-73",
-    "title": "Social Media Influencers Promote Turnout in Tiruppur",
-    "summary": "Local social media influencers in Tiruppur are running short-form video campaigns urging youth to vote on April 23.",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-74",
-    "title": "Tiruppur Cybercrime Cell Monitors Election Misinformation",
-    "summary": "The Tiruppur cybercrime cell is actively monitoring social media platforms for election-related misinformation and hate speech.",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-75",
-    "title": "Tiruppur Election Control Room Operates Round the Clock",
-    "summary": "The election control room in Tiruppur is functioning round the clock to handle voter complaints, MCC violations, and logistical queries.",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-76",
-    "title": "NTK Organises Cycle Rally Across Tiruppur Towns",
-    "summary": "Naam Tamilar Katchi organised a cycle rally across Tiruppur towns to highlight environmental and identity-based issues ahead of polling.",
-    "category": "Campaign",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-77",
-    "title": "Tiruppur Senior Citizens Avail Home Voting Facility",
-    "summary": "Senior citizens above 85 in Tiruppur are availing the home voting facility, with polling teams visiting registered residences.",
-    "category": "Awareness",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-78",
-    "title": "Bank Cash Movement Tracked in Tiruppur",
-    "summary": "Bank cash movement above the threshold in Tiruppur is being tracked and verified by election expenditure observers.",
-    "category": "Enforcement",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-79",
-    "title": "EVM Commissioning Underway in Tiruppur Constituencies",
-    "summary": "Election officials in Tiruppur have begun the commissioning of EVMs and VVPATs in the presence of candidate agents and observers ahead of the polling day.",
-    "category": "Election",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-80",
-    "title": "Star Campaigners Schedule Final Rallies in Tiruppur",
-    "summary": "Major political parties have scheduled final-phase rallies of star campaigners in Tiruppur as the silent period nears.",
-    "category": "Campaign",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-81",
-    "title": "SVEEP Street Plays Boost Voter Awareness in Tiruppur",
-    "summary": "SVEEP teams in Tiruppur performed street plays at bus stands and markets to encourage 100% voter turnout on April 23.",
-    "category": "Awareness",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-82",
-    "title": "Flying Squads Intensify Vehicle Checks in Tiruppur",
-    "summary": "Flying squads in Tiruppur have intensified vehicle checks at major entry points and highway intersections to curb illegal cash movement.",
-    "category": "Enforcement",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-83",
-    "title": "Tiruppur Reports Smooth Progress on Postal Ballot Distribution",
-    "summary": "District election officials confirmed that postal ballot distribution to service voters and senior citizens in Tiruppur is progressing as per schedule.",
-    "category": "Election",
-    "date": "April 15, 2026",
-    "featured": false
-  },
+    "id": "tpr-new24",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Railway Stations See Passenger Rush",
+    "summary": "Railway stations are experiencing heavy passenger movement due to election-related travel."
+  },
   {
-    "id": "tir-84",
-    "title": "Women Self-Help Groups Address Tiruppur Candidates",
-    "summary": "Women self-help group federations in Tiruppur addressed candidates seeking concrete commitments on livelihood and credit access.",
-    "category": "Campaign",
-    "date": "April 14, 2026",
-    "featured": false
+    "id": "tpr-new25",
+    "featured": false,
+    "category": "Business",
+    "date": "April 21, 2026",
+    "title": "Retail Sales Increase in Tiruppur",
+    "summary": "Retail businesses have reported higher sales due to increased consumer spending."
+  },
+
+  {
+    "id": "tpr-new26",
+    "featured": false,
+    "category": "Education",
+    "date": "April 21, 2026",
+    "title": "Voting Awareness Programs Held",
+    "summary": "Educational institutions are conducting programs to raise awareness about voting."
   },
-  {
-    "id": "tir-85",
-    "title": "Tiruppur Colleges Host Voter Pledge Programs",
-    "summary": "Colleges across Tiruppur hosted voter pledge programs for first-time voters, accompanied by mock EVM demonstrations.",
-    "category": "Awareness",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-86",
-    "title": "Tiruppur Static Surveillance Teams Report Daily to Observers",
-    "summary": "Static surveillance teams in Tiruppur are reporting daily to election observers on cash, liquor, and freebie movement.",
-    "category": "Enforcement",
-    "date": "April 14, 2026",
-    "featured": false
+  {
+    "id": "tpr-new27",
+    "featured": false,
+    "category": "Law",
+    "date": "April 21, 2026",
+    "title": "Election Code Violations Monitored",
+    "summary": "Authorities are closely monitoring compliance with election regulations."
   },
-  {
-    "id": "tir-87",
-    "title": "Strong Rooms Sealed in Tiruppur After Final Randomization",
-    "summary": "EVM strong rooms across Tiruppur have been sealed under multi-tier security following the final randomization of polling personnel.",
-    "category": "Election",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-88",
-    "title": "Trader Associations Submit Memorandum to Tiruppur Candidates",
-    "summary": "Trader associations submitted a joint memorandum to candidates in Tiruppur seeking GST relief and infrastructure support.",
-    "category": "Campaign",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-89",
-    "title": "Booth Slip Distribution Crosses Halfway Mark in Tiruppur",
-    "summary": "Door-to-door booth slip distribution in Tiruppur has crossed the halfway mark, with BLOs targeting full coverage by April 18.",
-    "category": "Awareness",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-90",
-    "title": "MCC Violation Notices Issued in Tiruppur Constituencies",
-    "summary": "Several model code of conduct violation notices have been issued in Tiruppur constituencies for unauthorised hoardings and campaign material.",
-    "category": "Enforcement",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-91",
-    "title": "Tiruppur Collector Reviews Polling Station Readiness",
-    "summary": "The District Collector held a review meeting with returning officers in Tiruppur to assess polling station readiness, water supply, and accessibility ramps.",
-    "category": "Election",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-92",
-    "title": "Tiruppur Farmers Raise Pricing Concerns at Public Meeting",
-    "summary": "Farmers in Tiruppur raised concerns over crop pricing and procurement at a public meeting attended by alliance candidates.",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-93",
-    "title": "Tiruppur Administration Installs Awareness Hoardings",
-    "summary": "The Tiruppur district administration has installed voter awareness hoardings at major junctions, urging citizens to exercise their franchise.",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-94",
-    "title": "Tiruppur Police Beef Up Security at Sensitive Booths",
-    "summary": "Tiruppur district police have beefed up security at sensitive booths with paramilitary deployment and additional patrol vehicles.",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-95",
-    "title": "Mock Polls Demonstrated to Candidates in Tiruppur",
-    "summary": "Mock polls were demonstrated to candidate representatives in Tiruppur as part of EVM transparency measures before the April 23 election.",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-96",
-    "title": "DMK Intensifies Final-Phase Outreach in Tiruppur",
-    "summary": "DMK candidates and alliance workers have intensified door-to-door outreach across Tiruppur, focusing on welfare scheme beneficiaries and first-time voters.",
-    "category": "Campaign",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-97",
-    "title": "Voter Helpline Sees Spike in Calls from Tiruppur",
-    "summary": "The state voter helpline has seen a spike in calls from Tiruppur, mostly enquiring about polling station details and voter slip status.",
-    "category": "Awareness",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-98",
-    "title": "Liquor Seizure Reported During Tiruppur Checks",
-    "summary": "A significant liquor seizure was reported during routine election-related checks in Tiruppur, and the contraband has been impounded.",
-    "category": "Enforcement",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-99",
-    "title": "Tiruppur Voter List Final Verification Concluded",
-    "summary": "Booth-level officers in Tiruppur have concluded the final voter list verification, ensuring electoral roll accuracy ahead of polling.",
-    "category": "Election",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "tir-100",
-    "title": "AIADMK Holds Booth-Level Worker Meetings in Tiruppur",
-    "summary": "AIADMK held booth-level worker meetings across Tiruppur to finalize polling-day strategy and voter mobilization plans.",
-    "category": "Campaign",
-    "date": "April 15, 2026",
-    "featured": false
+  {
+    "id": "tpr-new28",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 21, 2026",
+    "title": "Water Body Cleaning Initiatives Continue",
+    "summary": "Efforts to clean and restore water bodies are ongoing."
+  },
+  {
+    "id": "tpr-new29",
+    "featured": false,
+    "category": "Energy",
+    "date": "April 21, 2026",
+    "title": "Electricity Demand Increases",
+    "summary": "Power consumption has increased due to rising temperatures."
+  },
+  {
+    "id": "tpr-new30",
+    "featured": false,
+    "category": "Sports",
+    "date": "April 21, 2026",
+    "title": "District Sports Competitions Held",
+    "summary": "Students and athletes are participating in district-level sports events."
+  },
+
+  {
+    "id": "tpr-new31",
+    "featured": false,
+    "category": "Startup",
+    "date": "April 21, 2026",
+    "title": "Startup Ecosystem Gains Momentum",
+    "summary": "Startup initiatives are gaining traction, encouraging innovation."
+  },
+  {
+    "id": "tpr-new32",
+    "featured": false,
+    "category": "Public",
+    "date": "April 21, 2026",
+    "title": "Voter Awareness Campaigns Increase",
+    "summary": "Authorities are promoting voter participation through campaigns."
+  },
+  {
+    "id": "tpr-new33",
+    "featured": false,
+    "category": "Security",
+    "date": "April 21, 2026",
+    "title": "Additional Police Deployment",
+    "summary": "More police personnel have been deployed for security purposes."
+  },
+  {
+    "id": "tpr-new34",
+    "featured": false,
+    "category": "Infrastructure",
+    "date": "April 21, 2026",
+    "title": "Bridge Repairs Underway",
+    "summary": "Repair works are being carried out on important bridges."
+  },
+  {
+    "id": "tpr-new35",
+    "featured": false,
+    "category": "Retail",
+    "date": "April 21, 2026",
+    "title": "Shopping Activity Increases",
+    "summary": "Shopping activity has increased across markets and malls."
+  },
+
+  {
+    "id": "tpr-new36",
+    "featured": false,
+    "category": "Technology",
+    "date": "April 21, 2026",
+    "title": "Digital Services Expand",
+    "summary": "Digital platforms and services are seeing increased adoption."
+  },
+  {
+    "id": "tpr-new37",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Auto Drivers Seek Fare Revision",
+    "summary": "Auto drivers have demanded fare revisions due to rising fuel prices."
+  },
+  {
+    "id": "tpr-new38",
+    "featured": false,
+    "category": "Lifestyle",
+    "date": "April 21, 2026",
+    "title": "Fitness Awareness Increases",
+    "summary": "More people are focusing on health and fitness activities."
+  },
+  {
+    "id": "tpr-new39",
+    "featured": false,
+    "category": "Culture",
+    "date": "April 21, 2026",
+    "title": "Art Exhibitions Held in Tiruppur",
+    "summary": "Art exhibitions are showcasing creative talents in the city."
+  },
+  {
+    "id": "tpr-new40",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 21, 2026",
+    "title": "Air Quality Remains Stable",
+    "summary": "Air quality levels remain within safe limits."
+  },
+
+  {
+    "id": "tpr-new41",
+    "featured": false,
+    "category": "Health",
+    "date": "April 21, 2026",
+    "title": "Hospitals Prepare for Summer Illnesses",
+    "summary": "Hospitals are prepared to handle heat-related health issues."
+  },
+  {
+    "id": "tpr-new42",
+    "featured": false,
+    "category": "Civic",
+    "date": "April 21, 2026",
+    "title": "Water Supply Monitoring Strengthened",
+    "summary": "Authorities are ensuring uninterrupted water supply."
+  },
+  {
+    "id": "tpr-new43",
+    "featured": false,
+    "category": "Business",
+    "date": "April 21, 2026",
+    "title": "SMEs Expand Production Capacity",
+    "summary": "Small businesses are increasing production to meet demand."
+  },
+  {
+    "id": "tpr-new44",
+    "featured": false,
+    "category": "Education",
+    "date": "April 21, 2026",
+    "title": "Skill Training Programs Introduced",
+    "summary": "Skill training programs are helping youth gain employment."
+  },
+  {
+    "id": "tpr-new45",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Bus Stands See Heavy Passenger Movement",
+    "summary": "Bus stands are experiencing heavy passenger traffic."
+  },
+
+  {
+    "id": "tpr-new46",
+    "featured": false,
+    "category": "Agriculture",
+    "date": "April 21, 2026",
+    "title": "Farmers Monitor Crop Prices",
+    "summary": "Farmers are closely monitoring crop price trends in markets."
+  },
+  {
+    "id": "tpr-new47",
+    "featured": false,
+    "category": "Market",
+    "date": "April 21, 2026",
+    "title": "Vegetable Prices Show Fluctuation",
+    "summary": "Vegetable prices continue to fluctuate based on supply."
+  },
+  {
+    "id": "tpr-new48",
+    "featured": false,
+    "category": "Public Safety",
+    "date": "April 21, 2026",
+    "title": "Emergency Services Prepared for Elections",
+    "summary": "Emergency teams are on standby to handle any incidents."
+  },
+  {
+    "id": "tpr-new49",
+    "featured": false,
+    "category": "Tourism",
+    "date": "April 21, 2026",
+    "title": "Weekend Tourist Rush Reported",
+    "summary": "Tourist spots are witnessing increased weekend crowds."
+  },
+  {
+    "id": "tpr-new50",
+    "featured": false,
+    "category": "Economy",
+    "date": "April 21, 2026",
+    "title": "Industrial Growth Continues in Tiruppur",
+    "summary": "Industrial activities continue to drive economic growth in the region."
   }
 ]
