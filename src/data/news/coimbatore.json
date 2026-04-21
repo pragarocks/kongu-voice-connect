@@ -1,410 +1,411 @@
 [
   {
-    "id": "cbe-new1",
+    "id": "cbe-eve1",
     "featured": true,
     "category": "Election",
     "date": "April 21, 2026",
-    "title": "PM Narendra Modi Campaigns in Coimbatore",
-    "summary": "Prime Minister Narendra Modi addressed a major rally, energising party cadres ahead of elections."
+    "title": "Liquor Shops Declared Dry Ahead of Polls",
+    "summary": "Liquor shops and bars across Coimbatore have been ordered to remain closed for three days ahead of polling day, as authorities enforce strict measures to ensure peaceful elections."
   },
   {
-    "id": "cbe-new2",
-    "featured": false,
-    "category": "Election",
-    "date": "April 21, 2026",
-    "title": "Coimbatore Emerges as Key Election Battleground",
-    "summary": "All major parties are focusing heavily on Coimbatore due to its strategic importance."
-  },
-  {
-    "id": "cbe-new3",
+    "id": "cbe-eve2",
     "featured": false,
     "category": "Politics",
     "date": "April 21, 2026",
-    "title": "Youth Voter Shift Influences Election Trends",
-    "summary": "Young voters are showing changing preferences, impacting political strategies."
+    "title": "DMK and AIADMK Cadres Clash in Ramanathapuram",
+    "summary": "Clashes broke out between rival party cadres over voter bribery allegations, leading to tension and minor property damage in parts of the city."
   },
   {
-    "id": "cbe-new4",
+    "id": "cbe-eve3",
+    "featured": false,
+    "category": "Crime",
+    "date": "April 21, 2026",
+    "title": "Man Arrested in Family Murder Case",
+    "summary": "Police arrested a man for allegedly murdering his father following a domestic dispute, creating shock among residents in the locality."
+  },
+  {
+    "id": "cbe-eve4",
     "featured": false,
     "category": "Politics",
     "date": "April 21, 2026",
-    "title": "Vanathi Srinivasan’s Campaign Continues via Family",
-    "summary": "Her family members are actively campaigning during her hospital stay."
+    "title": "Campaign War Peaks in Coimbatore",
+    "summary": "Political parties intensified their campaigns with roadshows and public meetings as the election date approaches."
   },
   {
-    "id": "cbe-new5",
-    "featured": false,
-    "category": "Development",
-    "date": "April 21, 2026",
-    "title": "Airport Expansion Delay Raises Concerns",
-    "summary": "Officials urge faster progress on Coimbatore airport expansion."
-  },
-  {
-    "id": "cbe-new6",
+    "id": "cbe-eve5",
     "featured": false,
     "category": "Civic",
     "date": "April 21, 2026",
-    "title": "Residents Demand Civic Improvements",
-    "summary": "Citizens request better roads, drainage, and waste management solutions."
-  },
-  {
-    "id": "cbe-new7",
-    "featured": false,
-    "category": "Election",
-    "date": "April 21, 2026",
-    "title": "Dry Days Announced Ahead of Polls",
-    "summary": "Liquor shops will remain closed for three days before elections."
-  },
-  {
-    "id": "cbe-new8",
-    "featured": false,
-    "category": "Crime",
-    "date": "April 21, 2026",
-    "title": "Political Clash Reported in Ramanathapuram",
-    "summary": "Cadres from rival parties clashed over voter bribery allegations."
+    "title": "Fire at Vellalore Dump Yard Controlled",
+    "summary": "Firefighters successfully controlled a fire at the Vellalore dump yard, preventing further environmental damage and health risks."
   },
 
   {
-    "id": "cbe-new9",
-    "featured": false,
-    "category": "Traffic",
-    "date": "April 21, 2026",
-    "title": "Heavy Traffic Reported on Avinashi Road",
-    "summary": "Peak-hour congestion worsens due to campaign rallies."
-  },
-  {
-    "id": "cbe-new10",
-    "featured": false,
-    "category": "Weather",
-    "date": "April 21, 2026",
-    "title": "Coimbatore Records Slight Temperature Rise",
-    "summary": "Day temperatures increased slightly across the city."
-  },
-  {
-    "id": "cbe-new11",
-    "featured": false,
-    "category": "Business",
-    "date": "April 21, 2026",
-    "title": "Local Textile Units See Increased Orders",
-    "summary": "Demand rises ahead of festive and export seasons."
-  },
-  {
-    "id": "cbe-new12",
-    "featured": false,
-    "category": "Education",
-    "date": "April 21, 2026",
-    "title": "Exam Preparations Intensify in Colleges",
-    "summary": "Students gear up for semester examinations."
-  },
-  {
-    "id": "cbe-new13",
-    "featured": false,
-    "category": "Healthcare",
-    "date": "April 21, 2026",
-    "title": "Free Medical Camp Organised in City",
-    "summary": "Doctors conducted health checkups for hundreds of residents."
-  },
-  {
-    "id": "cbe-new14",
-    "featured": false,
-    "category": "Crime",
-    "date": "April 21, 2026",
-    "title": "Police Increase Patrol Ahead of Elections",
-    "summary": "Security tightened across sensitive areas."
-  },
-  {
-    "id": "cbe-new15",
-    "featured": false,
-    "category": "Environment",
-    "date": "April 21, 2026",
-    "title": "Tree Plantation Drive Launched",
-    "summary": "Volunteers planted saplings across the city."
-  },
-
-  {
-    "id": "cbe-new16",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Special Buses Deployed for Election Duty",
-    "summary": "Transport department increases bus services."
-  },
-  {
-    "id": "cbe-new17",
-    "featured": false,
-    "category": "Technology",
-    "date": "April 21, 2026",
-    "title": "Startups Showcase Innovations in Coimbatore",
-    "summary": "Tech firms present new AI-based solutions."
-  },
-  {
-    "id": "cbe-new18",
-    "featured": false,
-    "category": "Real Estate",
-    "date": "April 21, 2026",
-    "title": "Property Demand Rises in Suburban Areas",
-    "summary": "Growth seen in outskirts like Saravanampatti."
-  },
-  {
-    "id": "cbe-new19",
-    "featured": false,
-    "category": "Sports",
-    "date": "April 21, 2026",
-    "title": "Local Cricket Tournament Begins",
-    "summary": "Teams compete in district-level matches."
-  },
-  {
-    "id": "cbe-new20",
-    "featured": false,
-    "category": "Culture",
-    "date": "April 21, 2026",
-    "title": "Cultural Fest Attracts Youth Participation",
-    "summary": "Music and dance events draw large crowds."
-  },
-
-  {
-    "id": "cbe-new21",
-    "featured": false,
-    "category": "Economy",
-    "date": "April 21, 2026",
-    "title": "Small Businesses Report Sales Growth",
-    "summary": "Retail sector sees improved footfall."
-  },
-  {
-    "id": "cbe-new22",
+    "id": "cbe-eve6",
     "featured": false,
     "category": "Infrastructure",
     "date": "April 21, 2026",
-    "title": "Road Repair Work Accelerated",
-    "summary": "Authorities speed up repairs before elections."
+    "title": "Airport Expansion Delay Raises Concerns",
+    "summary": "Criticism continues over delays in the Coimbatore airport expansion project, raising concerns about infrastructure growth."
   },
   {
-    "id": "cbe-new23",
+    "id": "cbe-eve7",
     "featured": false,
-    "category": "Public Safety",
+    "category": "Election",
     "date": "April 21, 2026",
-    "title": "Fire Safety Checks Conducted",
-    "summary": "Officials inspect buildings for compliance."
+    "title": "Youth Voters Influence Election Trends",
+    "summary": "Young voters are playing a significant role in shaping election dynamics, with changing preferences impacting party strategies."
   },
   {
-    "id": "cbe-new24",
+    "id": "cbe-eve8",
     "featured": false,
-    "category": "Environment",
+    "category": "Election",
     "date": "April 21, 2026",
-    "title": "Lake Cleanup Drive Continues",
-    "summary": "Volunteers work to restore local water bodies."
+    "title": "Tight Contest Expected in Coimbatore North",
+    "summary": "The Coimbatore North constituency is witnessing a close contest, with major parties intensifying their efforts to secure votes."
   },
   {
-    "id": "cbe-new25",
-    "featured": false,
-    "category": "Tourism",
-    "date": "April 21, 2026",
-    "title": "Tourist Footfall Increases Near Hill Stations",
-    "summary": "Nearby attractions see more visitors."
-  },
-
-  {
-    "id": "cbe-new26",
-    "featured": false,
-    "category": "Education",
-    "date": "April 21, 2026",
-    "title": "Schools Conduct Awareness Programs",
-    "summary": "Students educated on voting importance."
-  },
-  {
-    "id": "cbe-new27",
-    "featured": false,
-    "category": "Crime",
-    "date": "April 21, 2026",
-    "title": "Cybercrime Awareness Drive Held",
-    "summary": "Police educate citizens about online fraud."
-  },
-  {
-    "id": "cbe-new28",
-    "featured": false,
-    "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Heat Advisory Issued",
-    "summary": "Residents advised to stay hydrated."
-  },
-  {
-    "id": "cbe-new29",
-    "featured": false,
-    "category": "Agriculture",
-    "date": "April 21, 2026",
-    "title": "Farmers Expect Better Yield This Season",
-    "summary": "Favorable weather boosts crop outlook."
-  },
-  {
-    "id": "cbe-new30",
-    "featured": false,
-    "category": "Finance",
-    "date": "April 21, 2026",
-    "title": "Banks Increase Security During Elections",
-    "summary": "Extra measures implemented at branches."
-  },
-
-  {
-    "id": "cbe-new31",
+    "id": "cbe-eve9",
     "featured": false,
     "category": "Transport",
     "date": "April 21, 2026",
-    "title": "Railway Stations See Increased Crowd",
-    "summary": "Passenger movement rises during election period."
+    "title": "Traffic Diversions Implemented for VIP Visits",
+    "summary": "Traffic restrictions and diversions have been put in place across key areas due to visits by political leaders."
   },
   {
-    "id": "cbe-new32",
-    "featured": false,
-    "category": "Startup",
-    "date": "April 21, 2026",
-    "title": "New Startup Hub Proposed",
-    "summary": "Plans announced to boost innovation ecosystem."
-  },
-  {
-    "id": "cbe-new33",
-    "featured": false,
-    "category": "Civic",
-    "date": "April 21, 2026",
-    "title": "Garbage Clearance Drives Intensified",
-    "summary": "Corporation ramps up cleanliness efforts."
-  },
-  {
-    "id": "cbe-new34",
-    "featured": false,
-    "category": "Law",
-    "date": "April 21, 2026",
-    "title": "Model Code Violations Monitored",
-    "summary": "Election officials track violations strictly."
-  },
-  {
-    "id": "cbe-new35",
-    "featured": false,
-    "category": "Retail",
-    "date": "April 21, 2026",
-    "title": "Markets Witness Increased Shopping",
-    "summary": "Customers throng stores ahead of holidays."
-  },
-
-  {
-    "id": "cbe-new36",
-    "featured": false,
-    "category": "Technology",
-    "date": "April 21, 2026",
-    "title": "AI Surveillance Expanded in City",
-    "summary": "Authorities enhance monitoring systems."
-  },
-  {
-    "id": "cbe-new37",
-    "featured": false,
-    "category": "Energy",
-    "date": "April 21, 2026",
-    "title": "Power Demand Rises in Summer",
-    "summary": "Electricity usage increases due to heat."
-  },
-  {
-    "id": "cbe-new38",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Traffic Police Issue Advisory",
-    "summary": "Commuters advised to avoid busy routes."
-  },
-  {
-    "id": "cbe-new39",
-    "featured": false,
-    "category": "Sports",
-    "date": "April 21, 2026",
-    "title": "School Sports Events Held",
-    "summary": "Students participate in competitions."
-  },
-  {
-    "id": "cbe-new40",
-    "featured": false,
-    "category": "Culture",
-    "date": "April 21, 2026",
-    "title": "Art Exhibition Opens in City",
-    "summary": "Local artists showcase creative works."
-  },
-
-  {
-    "id": "cbe-new41",
-    "featured": false,
-    "category": "Environment",
-    "date": "April 21, 2026",
-    "title": "Air Quality Remains Moderate",
-    "summary": "Pollution levels remain under control."
-  },
-  {
-    "id": "cbe-new42",
-    "featured": false,
-    "category": "Civic",
-    "date": "April 21, 2026",
-    "title": "Water Supply Monitoring Increased",
-    "summary": "Officials ensure uninterrupted supply."
-  },
-  {
-    "id": "cbe-new43",
-    "featured": false,
-    "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Hospitals Prepare for Summer Cases",
-    "summary": "Facilities ready to handle heat-related illnesses."
-  },
-  {
-    "id": "cbe-new44",
+    "id": "cbe-eve10",
     "featured": false,
     "category": "Public",
     "date": "April 21, 2026",
-    "title": "Voter Awareness Campaigns Intensify",
-    "summary": "Authorities encourage higher voter turnout."
-  },
-  {
-    "id": "cbe-new45",
-    "featured": false,
-    "category": "Security",
-    "date": "April 21, 2026",
-    "title": "Police Deploy Additional Forces",
-    "summary": "Security tightened across sensitive polling areas."
+    "title": "Protests Over Cash-for-Vote Allegations",
+    "summary": "Residents protested in several areas alleging unfair practices related to vote buying, demanding strict enforcement of election laws."
   },
 
   {
-    "id": "cbe-new46",
+    "id": "cbe-eve11",
     "featured": false,
-    "category": "Infrastructure",
+    "category": "Security",
     "date": "April 21, 2026",
-    "title": "Bridge Maintenance Work Ongoing",
-    "summary": "Engineers carry out inspections and repairs."
+    "title": "Night Patrols Intensified Across City",
+    "summary": "Police have stepped up night patrols in sensitive areas to maintain law and order during the election period."
   },
   {
-    "id": "cbe-new47",
-    "featured": false,
-    "category": "Education",
-    "date": "April 21, 2026",
-    "title": "Skill Training Programs Launched",
-    "summary": "Youth enrolled in job-oriented courses."
-  },
-  {
-    "id": "cbe-new48",
+    "id": "cbe-eve12",
     "featured": false,
     "category": "Business",
     "date": "April 21, 2026",
-    "title": "SMEs Expand Operations",
-    "summary": "Small businesses scale up production."
+    "title": "Evening Retail Sales Decline Slightly",
+    "summary": "Retail businesses reported a slight dip in evening sales due to election restrictions and increased security measures."
   },
   {
-    "id": "cbe-new49",
+    "id": "cbe-eve13",
+    "featured": false,
+    "category": "Health",
+    "date": "April 21, 2026",
+    "title": "Heat Advisory Issued for Citizens",
+    "summary": "Authorities have issued a heat advisory, urging residents to stay hydrated and avoid outdoor exposure during peak hours."
+  },
+  {
+    "id": "cbe-eve14",
+    "featured": false,
+    "category": "Civic",
+    "date": "April 21, 2026",
+    "title": "Sanitation Drives Continue in Evening",
+    "summary": "Municipal workers continued garbage clearance and sanitation activities across the city."
+  },
+  {
+    "id": "cbe-eve15",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Special Buses Operate for Election Duty",
+    "summary": "Additional buses have been deployed to support election-related transportation needs."
+  },
+
+  {
+    "id": "cbe-eve16",
+    "featured": false,
+    "category": "Crime",
+    "date": "April 21, 2026",
+    "title": "Police Crack Down on Illegal Activities",
+    "summary": "Authorities conducted raids and checks to prevent illegal activities during the election period."
+  },
+  {
+    "id": "cbe-eve17",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 21, 2026",
+    "title": "Air Quality Remains Within Limits",
+    "summary": "Air quality levels in Coimbatore remained stable despite increased traffic and activity."
+  },
+  {
+    "id": "cbe-eve18",
+    "featured": false,
+    "category": "Public Safety",
+    "date": "April 21, 2026",
+    "title": "Emergency Teams on High Alert",
+    "summary": "Emergency services are on standby to respond to any incidents during the election period."
+  },
+  {
+    "id": "cbe-eve19",
+    "featured": false,
+    "category": "Economy",
+    "date": "April 21, 2026",
+    "title": "Mixed Trends Seen in Local Economy",
+    "summary": "Economic activity shows mixed trends with some sectors slowing and others maintaining stability."
+  },
+  {
+    "id": "cbe-eve20",
+    "featured": false,
+    "category": "Infrastructure",
+    "date": "April 21, 2026",
+    "title": "Road Repairs Continue Late Evening",
+    "summary": "Authorities carried out road repair works during evening hours to reduce daytime traffic disruptions."
+  },
+
+  {
+    "id": "cbe-eve21",
+    "featured": false,
+    "category": "Election",
+    "date": "April 21, 2026",
+    "title": "Door-to-Door Campaigning Continues",
+    "summary": "Party workers engaged in door-to-door campaigns to reach voters directly."
+  },
+  {
+    "id": "cbe-eve22",
+    "featured": false,
+    "category": "Security",
+    "date": "April 21, 2026",
+    "title": "Additional Forces Deployed",
+    "summary": "Extra police forces have been deployed in sensitive zones to prevent disturbances."
+  },
+  {
+    "id": "cbe-eve23",
+    "featured": false,
+    "category": "Public",
+    "date": "April 21, 2026",
+    "title": "Voter Awareness Campaigns Continue",
+    "summary": "Awareness campaigns are being conducted to encourage voter participation."
+  },
+  {
+    "id": "cbe-eve24",
+    "featured": false,
+    "category": "Market",
+    "date": "April 21, 2026",
+    "title": "Vegetable Prices Show Fluctuation",
+    "summary": "Prices of vegetables fluctuated in evening markets due to supply variations."
+  },
+  {
+    "id": "cbe-eve25",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Bus Stands Witness Heavy Rush",
+    "summary": "Passenger traffic increased significantly across major bus stations."
+  },
+
+  {
+    "id": "cbe-eve26",
+    "featured": false,
+    "category": "Retail",
+    "date": "April 21, 2026",
+    "title": "Shopping Activity Picks Up",
+    "summary": "Evening shopping activity increased slightly in key commercial areas."
+  },
+  {
+    "id": "cbe-eve27",
+    "featured": false,
+    "category": "Technology",
+    "date": "April 21, 2026",
+    "title": "Digital Campaigning Gains Momentum",
+    "summary": "Political parties are increasingly using digital platforms for campaigning."
+  },
+  {
+    "id": "cbe-eve28",
+    "featured": false,
+    "category": "Lifestyle",
+    "date": "April 21, 2026",
+    "title": "Residents Prefer Indoor Activities Due to Heat",
+    "summary": "High temperatures have led many residents to stay indoors during the evening."
+  },
+  {
+    "id": "cbe-eve29",
+    "featured": false,
+    "category": "Culture",
+    "date": "April 21, 2026",
+    "title": "Small Cultural Events Held",
+    "summary": "Local cultural programs were held with moderate participation."
+  },
+  {
+    "id": "cbe-eve30",
+    "featured": false,
+    "category": "Tourism",
+    "date": "April 21, 2026",
+    "title": "Evening Visits Increase at Local Spots",
+    "summary": "Tourist spots saw increased visitors during evening hours."
+  },
+
+  {
+    "id": "cbe-eve31",
+    "featured": false,
+    "category": "Health",
+    "date": "April 21, 2026",
+    "title": "Hospitals Prepare for Heat Cases",
+    "summary": "Hospitals are preparing to handle heat-related illnesses."
+  },
+  {
+    "id": "cbe-eve32",
+    "featured": false,
+    "category": "Civic",
+    "date": "April 21, 2026",
+    "title": "Water Supply Monitoring Strengthened",
+    "summary": "Authorities are ensuring uninterrupted water supply across the city."
+  },
+  {
+    "id": "cbe-eve33",
+    "featured": false,
+    "category": "Business",
+    "date": "April 21, 2026",
+    "title": "Small Businesses Remain Stable",
+    "summary": "Local businesses reported stable operations despite election restrictions."
+  },
+  {
+    "id": "cbe-eve34",
+    "featured": false,
+    "category": "Education",
+    "date": "April 21, 2026",
+    "title": "Students Continue Exam Preparation",
+    "summary": "Students continued preparing for exams during evening study sessions."
+  },
+  {
+    "id": "cbe-eve35",
+    "featured": false,
+    "category": "Infrastructure",
+    "date": "April 21, 2026",
+    "title": "Streetlight Maintenance Work Ongoing",
+    "summary": "Maintenance of streetlights was carried out to improve safety."
+  },
+
+  {
+    "id": "cbe-eve36",
     "featured": false,
     "category": "Transport",
     "date": "April 21, 2026",
     "title": "Auto Drivers Raise Fare Concerns",
-    "summary": "Drivers demand fare revision due to fuel prices."
+    "summary": "Auto drivers expressed concerns over rising fuel costs and demanded fare revisions."
   },
   {
-    "id": "cbe-new50",
+    "id": "cbe-eve37",
     "featured": false,
-    "category": "Lifestyle",
+    "category": "Environment",
     "date": "April 21, 2026",
-    "title": "Fitness Awareness Grows Among Youth",
-    "summary": "Gyms and wellness centers see more members."
+    "title": "Pollution Levels Remain Low",
+    "summary": "Pollution levels remained under control in most parts of the city."
+  },
+  {
+    "id": "cbe-eve38",
+    "featured": false,
+    "category": "Retail",
+    "date": "April 21, 2026",
+    "title": "Evening Market Sales Improve",
+    "summary": "Some markets reported improved sales as footfall increased."
+  },
+  {
+    "id": "cbe-eve39",
+    "featured": false,
+    "category": "Public",
+    "date": "April 21, 2026",
+    "title": "Citizens Discuss Election Issues",
+    "summary": "Residents engaged in discussions about key election issues affecting the city."
+  },
+  {
+    "id": "cbe-eve40",
+    "featured": false,
+    "category": "Security",
+    "date": "April 21, 2026",
+    "title": "Security Tightened in Polling Areas",
+    "summary": "Security measures were intensified in designated polling zones."
+  },
+
+  {
+    "id": "cbe-eve41",
+    "featured": false,
+    "category": "Economy",
+    "date": "April 21, 2026",
+    "title": "Industrial Activity Remains Steady",
+    "summary": "Industrial sectors continued operations with stable production levels."
+  },
+  {
+    "id": "cbe-eve42",
+    "featured": false,
+    "category": "Culture",
+    "date": "April 21, 2026",
+    "title": "Local Events See Moderate Participation",
+    "summary": "Evening events attracted moderate crowds due to weather conditions."
+  },
+  {
+    "id": "cbe-eve43",
+    "featured": false,
+    "category": "Health",
+    "date": "April 21, 2026",
+    "title": "Doctors Advise Hydration",
+    "summary": "Doctors advised residents to drink plenty of fluids during hot weather."
+  },
+  {
+    "id": "cbe-eve44",
+    "featured": false,
+    "category": "Market",
+    "date": "April 21, 2026",
+    "title": "Commodity Prices Remain Unstable",
+    "summary": "Commodity prices showed instability due to supply-demand variations."
+  },
+  {
+    "id": "cbe-eve45",
+    "featured": false,
+    "category": "Tourism",
+    "date": "April 21, 2026",
+    "title": "Weekend Travel Plans Increase",
+    "summary": "Residents are planning weekend trips to nearby tourist spots."
+  },
+
+  {
+    "id": "cbe-eve46",
+    "featured": false,
+    "category": "Public Safety",
+    "date": "April 21, 2026",
+    "title": "Emergency Response Teams Ready",
+    "summary": "Emergency response teams remained alert for any incidents."
+  },
+  {
+    "id": "cbe-eve47",
+    "featured": false,
+    "category": "Civic",
+    "date": "April 21, 2026",
+    "title": "Drainage Cleaning Work Continues",
+    "summary": "Drainage cleaning activities were carried out in several areas."
+  },
+  {
+    "id": "cbe-eve48",
+    "featured": false,
+    "category": "Business",
+    "date": "April 21, 2026",
+    "title": "SMEs Maintain Production Levels",
+    "summary": "Small and medium enterprises maintained steady production levels."
+  },
+  {
+    "id": "cbe-eve49",
+    "featured": false,
+    "category": "Education",
+    "date": "April 21, 2026",
+    "title": "Evening Tuition Centers See Attendance",
+    "summary": "Students attended tuition classes in preparation for exams."
+  },
+  {
+    "id": "cbe-eve50",
+    "featured": false,
+    "category": "Infrastructure",
+    "date": "April 21, 2026",
+    "title": "Urban Development Works Progress",
+    "summary": "Urban infrastructure projects continued progressing across the city."
   }
 ]
