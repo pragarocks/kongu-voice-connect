@@ -1,838 +1,411 @@
 [
   {
-    "id": "sal-new1",
+    "id": "slm-new1",
     "featured": true,
-    "category": "Development",
-    "date": "April 20, 2026",
-    "title": "Salem Inks €456-Million 24x7 Water Supply Concession with Global Firm",
-    "summary": "Salem Corporation finalised a 25-year water supply concession with a European utility major worth approximately €456 million, promising 24x7 pressurised supply to over a million residents."
+    "category": "Election",
+    "date": "April 21, 2026",
+    "title": "Election Campaigns Intensify Across Salem",
+    "summary": "Political parties have intensified their campaign efforts across Salem with rallies, public meetings, and door-to-door outreach. Leaders are focusing on key voter groups and local issues as the election date approaches, making Salem a highly active political zone."
   },
   {
-    "id": "sal-new2",
+    "id": "slm-new2",
     "featured": false,
     "category": "Politics",
-    "date": "April 20, 2026",
-    "title": "Edappadi K. Palaniswami Holds Make-or-Break Rally in Edappadi Constituency",
-    "summary": "AIADMK general secretary Edappadi K. Palaniswami addressed a high-stakes rally in his home turf of Edappadi, focusing on Gounder community concerns and farm-loan promises."
+    "date": "April 21, 2026",
+    "title": "Salem Emerges as Crucial Electoral Battleground",
+    "summary": "Salem has emerged as an important electoral battleground due to its strategic voter base and political significance. Major parties are deploying senior leaders and resources to secure voter support in the district."
   },
   {
-    "id": "sal-new3",
+    "id": "slm-new3",
     "featured": false,
-    "category": "Election",
-    "date": "April 20, 2026",
-    "title": "TVK’s Vijay Promises Powerloom Job Package in Salem South",
-    "summary": "Tamilaga Vettri Kazhagam chief Vijay’s Salem South roadshow assured a ₹2,500-crore powerloom revival fund and skill-credit for unemployed youth."
+    "category": "Civic",
+    "date": "April 21, 2026",
+    "title": "Residents Demand Better Road Infrastructure",
+    "summary": "Residents in several parts of Salem have raised concerns over damaged roads and poor maintenance. They are urging authorities to take immediate steps to improve infrastructure and ensure safer commuting."
   },
   {
-    "id": "sal-new4",
+    "id": "slm-new4",
+    "featured": false,
+    "category": "Business",
+    "date": "April 21, 2026",
+    "title": "Steel Industry in Salem Shows Signs of Recovery",
+    "summary": "The steel industry in Salem has shown positive signs of recovery with increased production and demand. Local industries are optimistic about continued growth in the coming months."
+  },
+  {
+    "id": "slm-new5",
+    "featured": false,
+    "category": "Health",
+    "date": "April 21, 2026",
+    "title": "Heatwave Advisory Issued in Salem",
+    "summary": "Authorities have issued a heatwave advisory as temperatures rise across Salem. Residents are advised to stay hydrated and avoid outdoor activities during peak hours."
+  },
+
+  {
+    "id": "slm-new6",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Special Buses Arranged for Election Duty",
+    "summary": "Transport authorities have arranged special buses to manage increased travel demand and facilitate election duties across Salem district."
+  },
+  {
+    "id": "slm-new7",
     "featured": false,
     "category": "Crime",
-    "date": "April 20, 2026",
-    "title": "Salem Sees Spike in Pre-Poll Hate-Speech Cases; 14 FIRs Registered",
-    "summary": "City police registered 14 fresh FIRs over the past 48 hours related to inflammatory campaign speeches and social-media posts, with two arrests reported in Suramangalam."
+    "date": "April 21, 2026",
+    "title": "Police Tighten Security Ahead of Elections",
+    "summary": "Police have stepped up security arrangements with increased patrols and surveillance to ensure peaceful elections in Salem."
   },
   {
-    "id": "sal-new5",
+    "id": "slm-new8",
+    "featured": false,
+    "category": "Market",
+    "date": "April 21, 2026",
+    "title": "Vegetable Prices Rise in Salem Markets",
+    "summary": "Vegetable prices in Salem markets have increased due to supply shortages, affecting daily household expenses."
+  },
+  {
+    "id": "slm-new9",
+    "featured": false,
+    "category": "Education",
+    "date": "April 21, 2026",
+    "title": "Students Begin Exam Preparations",
+    "summary": "Students across Salem are preparing for upcoming exams with revision sessions and academic support programs."
+  },
+  {
+    "id": "slm-new10",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 21, 2026",
+    "title": "Tree Plantation Drives Gain Momentum",
+    "summary": "Tree plantation drives are being conducted across Salem to improve green cover and environmental awareness."
+  },
+
+  {
+    "id": "slm-new11",
     "featured": false,
     "category": "Infrastructure",
-    "date": "April 20, 2026",
-    "title": "Salem-Coimbatore Green Corridor Resumes After Compensation Talks",
-    "summary": "Work on the contested Salem-Chennai Green Corridor resumed in three Salem blocks after the administration revised land compensation rates by 35% for affected farmers."
+    "date": "April 21, 2026",
+    "title": "Road Repair Works Accelerated",
+    "summary": "Authorities have accelerated road repair works to improve connectivity and address commuter concerns."
   },
   {
-    "id": "sal-new6",
+    "id": "slm-new12",
     "featured": false,
-    "category": "Awareness",
-    "date": "April 20, 2026",
-    "title": "Polling Personnel Training Concluded at Mettur Multispecialty Hall",
-    "summary": "The Collector reviewed the second-phase training of over 12,000 polling officers at Mettur, including mock-drills on the new VVPAT verification protocol."
+    "category": "Retail",
+    "date": "April 21, 2026",
+    "title": "Markets Witness Heavy Crowds",
+    "summary": "Local markets are witnessing heavy crowds due to increased shopping activity ahead of elections."
   },
   {
-    "id": "sal-new7",
+    "id": "slm-new13",
     "featured": false,
-    "category": "Election",
-    "date": "April 20, 2026",
-    "title": "Congress Tribal Outreach Meet Held in Yercaud (ST)",
-    "summary": "The DMK-allied Congress candidate for the Yercaud (ST) reserved seat held a tribal voter outreach meeting at Shevaroy Hills, focusing on land-rights and education."
+    "category": "Tourism",
+    "date": "April 21, 2026",
+    "title": "Yercaud Attracts Weekend Tourists",
+    "summary": "Tourists are visiting Yercaud in large numbers, boosting local tourism and business activity."
   },
   {
-    "id": "sal-f",
+    "id": "slm-new14",
     "featured": false,
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "Vijay Addresses Massive Rally in Salem West Demanding Powerloom Reforms",
-    "summary": "TVK chief Vijay addresses a massive rally in Salem West demanding powerloom sector reforms today. Thousands of textile workers gathered to hear his promises on industry revival."
+    "category": "Public Safety",
+    "date": "April 21, 2026",
+    "title": "Fire Safety Checks Conducted",
+    "summary": "Fire safety inspections have been conducted in commercial establishments to ensure compliance."
+  },
+  {
+    "id": "slm-new15",
+    "featured": false,
+    "category": "Economy",
+    "date": "April 21, 2026",
+    "title": "Local Economy Shows Improvement",
+    "summary": "Salem’s economy is showing improvement with increased activity in trade and industry sectors."
+  },
+
+  {
+    "id": "slm-new16",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Traffic Advisory Issued in City",
+    "summary": "Traffic police have issued advisories to manage congestion during campaign activities."
+  },
+  {
+    "id": "slm-new17",
+    "featured": false,
+    "category": "Health",
+    "date": "April 21, 2026",
+    "title": "Free Health Camps Organized",
+    "summary": "Free health camps are being conducted to provide medical support to rural populations."
+  },
+  {
+    "id": "slm-new18",
+    "featured": false,
+    "category": "Civic",
+    "date": "April 21, 2026",
+    "title": "Garbage Clearance Drives Intensified",
+    "summary": "Municipal workers have intensified cleaning operations across the city."
+  },
+  {
+    "id": "slm-new19",
+    "featured": false,
+    "category": "Industry",
+    "date": "April 21, 2026",
+    "title": "Small Industries Expand Operations",
+    "summary": "Local industries are expanding production to meet growing demand."
+  },
+  {
+    "id": "slm-new20",
+    "featured": false,
+    "category": "Law",
+    "date": "April 21, 2026",
+    "title": "Election Code Violations Monitored",
+    "summary": "Officials are closely monitoring election code violations to ensure fairness."
+  },
+
+  {
+    "id": "slm-new21",
+    "featured": false,
+    "category": "Startup",
+    "date": "April 21, 2026",
+    "title": "Startup Ecosystem Expands in Salem",
+    "summary": "New startups are emerging in Salem, supported by government initiatives and funding opportunities."
+  },
+  {
+    "id": "slm-new22",
+    "featured": false,
+    "category": "Public",
+    "date": "April 21, 2026",
+    "title": "Voter Awareness Campaigns Increase",
+    "summary": "Authorities are encouraging citizens to participate actively in voting."
+  },
+  {
+    "id": "slm-new23",
+    "featured": false,
+    "category": "Security",
+    "date": "April 21, 2026",
+    "title": "Additional Police Deployed",
+    "summary": "Extra police personnel have been deployed to maintain law and order."
+  },
+  {
+    "id": "slm-new24",
+    "featured": false,
+    "category": "Energy",
+    "date": "April 21, 2026",
+    "title": "Power Demand Increases",
+    "summary": "Electricity demand has risen due to summer heat conditions."
+  },
+  {
+    "id": "slm-new25",
+    "featured": false,
+    "category": "Sports",
+    "date": "April 21, 2026",
+    "title": "District-Level Sports Events Held",
+    "summary": "Sports competitions are being conducted with active participation."
+  },
+
+  {
+    "id": "slm-new26",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 21, 2026",
+    "title": "Water Bodies Cleaning Drive Continues",
+    "summary": "Efforts to clean lakes and ponds are ongoing in Salem."
   },
   {
-    "id": "sal-1",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "DMK Candidate Promises Industrial Growth in Salem North",
-    "summary": "DMK candidate in Salem North kicks off door-to-door campaign promising industrial growth and new job creation in the steel city."
+    "id": "slm-new27",
+    "featured": false,
+    "category": "Retail",
+    "date": "April 21, 2026",
+    "title": "Retail Sales See Growth",
+    "summary": "Retail sales have increased with improved consumer spending."
   },
   {
-    "id": "sal-2",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "title": "AIADMK Distributes Voter Awareness Pamphlets in Omalur",
-    "summary": "AIADMK workers in Omalur distribute voter awareness pamphlets under the SVEEP initiative urging 100% turnout."
-  },
-  {
-    "id": "sal-3",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "BJP Rally in Edappadi Seeks Textile Industry Revival",
-    "summary": "BJP candidate in Edappadi holds a rally seeking textile industry revival for powerloom workers, promising central scheme support."
-  },
-  {
-    "id": "sal-4",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "title": "TVK Cadre Distributes Booth Slips Across 50 Booths",
-    "summary": "TVK cadre in Salem South conducts booth slip distribution drive across 50 booths as part of voter outreach."
-  },
-  {
-    "id": "sal-5",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "title": "Flying Squads Seize Unaccounted Cash in Mettur",
-    "summary": "Flying squads seize unaccounted cash in Mettur constituency under model code violation today."
-  },
-  {
-    "id": "sal-6",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "title": "Salem Collector Reviews Election Preparedness",
-    "summary": "Salem district collector reviews election preparedness in the control room with senior officials and observers."
-  },
-  {
-    "id": "sal-7",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "title": "Paramilitary CRPF Deployed in Sensitive Salem North",
-    "summary": "Paramilitary CRPF forces have been deployed in sensitive areas of Salem North for safe and fair polling on April 23."
-  },
-  {
-    "id": "sal-8",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "DMK Pledges Free Power for Powerloom Units",
-    "summary": "DMK candidate in Salem South pledges free power for powerloom units if the party returns to power."
-  },
-  {
-    "id": "sal-9",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "Kamal Haasan Campaigns in Salem North",
-    "summary": "Kamal Haasan campaigns for MNM in Salem North urging youth to participate actively in the polling process."
-  },
-  {
-    "id": "sal-10",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "title": "Cash-Laden Vehicle Seized in Veerapandi",
-    "summary": "Flying squads nab a cash-laden vehicle in Veerapandi constituency in a major model code enforcement action."
-  },
-  {
-    "id": "sal-11",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "title": "Observer Verifies EVMs in Omalur Strong Room",
-    "summary": "Election observer verifies EVM machines in Omalur strong room ahead of polling day to ensure full transparency."
-  },
-  {
-    "id": "sal-12",
-    "category": "Campaign",
-    "date": "April 16, 2026",
-    "title": "BJP Promises Skill Training in Gangavalli (SC)",
-    "summary": "BJP candidate in Gangavalli (SC) promises skill training programmes for textile workers and rural youth."
-  },
-  {
-    "id": "sal-13",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "title": "Liquor Bottles Seized in Mettur MCC Check",
-    "summary": "Flying squads seize illegal liquor bottles in Mettur during a routine model code violation check."
-  },
-  {
-    "id": "sal-14",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "DMK Star Campaigner Visits Veerapandi",
-    "summary": "A DMK star campaigner visits Veerapandi promising exporter-friendly policies and industrial incentives."
-  },
-  {
-    "id": "sal-15",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "title": "AIADMK's Sankari Candidate Launches Home Voting Awareness",
-    "summary": "AIADMK candidate in Sankari launches home voting awareness drive for senior citizens."
-  },
-  {
-    "id": "sal-16",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "title": "Observer Inspects EVM Randomization in Gangavalli (SC)",
-    "summary": "An observer inspects the EVM randomization process in Gangavalli (SC) constituency."
-  },
-  {
-    "id": "sal-17",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "title": "NTK Workers Highlight Local Issues in Omalur",
-    "summary": "NTK workers in Omalur highlight local agriculture issues during a street campaign."
-  },
-  {
-    "id": "sal-18",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "title": "Congress Files MCC Violation Complaint in Attur (SC)",
-    "summary": "Congress candidate in Attur (SC) files a complaint over a model code violation by a rival."
-  },
-  {
-    "id": "sal-19",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "title": "SVEEP Awareness Rally in Yercaud (ST)",
-    "summary": "SVEEP team organises a voter awareness rally in the tribal-reserved Yercaud (ST) constituency."
-  },
-  {
-    "id": "sal-20",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "title": "TVK Meets Exporters in Veerapandi",
-    "summary": "TVK candidate in Veerapandi meets exporters promising export incentives and policy support."
-  },
-  {
-    "id": "sal-22",
-    "title": "EVM Commissioning Underway in Salem Constituencies",
-    "summary": "Election officials in Salem have begun the commissioning of EVMs and VVPATs in the presence of candidate agents and observers ahead of the polling day.",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-23",
-    "title": "DMK Intensifies Final-Phase Outreach in Salem",
-    "summary": "DMK candidates and alliance workers have intensified door-to-door outreach across Salem, focusing on welfare scheme beneficiaries and first-time voters.",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-24",
-    "title": "SVEEP Street Plays Boost Voter Awareness in Salem",
-    "summary": "SVEEP teams in Salem performed street plays at bus stands and markets to encourage 100% voter turnout on April 23.",
-    "category": "Awareness",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-25",
-    "title": "Flying Squads Intensify Vehicle Checks in Salem",
-    "summary": "Flying squads in Salem have intensified vehicle checks at major entry points and highway intersections to curb illegal cash movement.",
-    "category": "Enforcement",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-26",
-    "title": "Salem Reports Smooth Progress on Postal Ballot Distribution",
-    "summary": "District election officials confirmed that postal ballot distribution to service voters and senior citizens in Salem is progressing as per schedule.",
-    "category": "Election",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-27",
-    "title": "AIADMK Holds Booth-Level Worker Meetings in Salem",
-    "summary": "AIADMK held booth-level worker meetings across Salem to finalize polling-day strategy and voter mobilization plans.",
-    "category": "Campaign",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-28",
-    "title": "Salem Colleges Host Voter Pledge Programs",
-    "summary": "Colleges across Salem hosted voter pledge programs for first-time voters, accompanied by mock EVM demonstrations.",
-    "category": "Awareness",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-29",
-    "title": "Salem Static Surveillance Teams Report Daily to Observers",
-    "summary": "Static surveillance teams in Salem are reporting daily to election observers on cash, liquor, and freebie movement.",
-    "category": "Enforcement",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-30",
-    "title": "Strong Rooms Sealed in Salem After Final Randomization",
-    "summary": "EVM strong rooms across Salem have been sealed under multi-tier security following the final randomization of polling personnel.",
-    "category": "Election",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-31",
-    "title": "BJP Highlights Central Schemes During Salem Roadshow",
-    "summary": "BJP candidates conducted a roadshow in Salem highlighting central government welfare schemes and infrastructure investments.",
-    "category": "Campaign",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-32",
-    "title": "Booth Slip Distribution Crosses Halfway Mark in Salem",
-    "summary": "Door-to-door booth slip distribution in Salem has crossed the halfway mark, with BLOs targeting full coverage by April 18.",
-    "category": "Awareness",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-33",
-    "title": "MCC Violation Notices Issued in Salem Constituencies",
-    "summary": "Several model code of conduct violation notices have been issued in Salem constituencies for unauthorised hoardings and campaign material.",
-    "category": "Enforcement",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-34",
-    "title": "Salem Collector Reviews Polling Station Readiness",
-    "summary": "The District Collector held a review meeting with returning officers in Salem to assess polling station readiness, water supply, and accessibility ramps.",
-    "category": "Election",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-35",
-    "title": "TVK Cadre Steps Up Door-to-Door Drive in Salem",
-    "summary": "TVK cadre led by local coordinators stepped up the door-to-door campaign across Salem, distributing pamphlets and party manifestos.",
-    "category": "Campaign",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-36",
-    "title": "Salem Administration Installs Awareness Hoardings",
-    "summary": "The Salem district administration has installed voter awareness hoardings at major junctions, urging citizens to exercise their franchise.",
-    "category": "Awareness",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-37",
-    "title": "Salem Police Beef Up Security at Sensitive Booths",
-    "summary": "Salem district police have beefed up security at sensitive booths with paramilitary deployment and additional patrol vehicles.",
-    "category": "Enforcement",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-38",
-    "title": "Mock Polls Demonstrated to Candidates in Salem",
-    "summary": "Mock polls were demonstrated to candidate representatives in Salem as part of EVM transparency measures before the April 23 election.",
-    "category": "Election",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-39",
-    "title": "Congress Workers Hold Street-Corner Meetings in Salem",
-    "summary": "Congress alliance workers held street-corner meetings in Salem to highlight the alliance's promises on education and healthcare.",
-    "category": "Campaign",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-40",
-    "title": "Voter Helpline Sees Spike in Calls from Salem",
-    "summary": "The state voter helpline has seen a spike in calls from Salem, mostly enquiring about polling station details and voter slip status.",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-41",
-    "title": "Liquor Seizure Reported During Salem Checks",
-    "summary": "A significant liquor seizure was reported during routine election-related checks in Salem, and the contraband has been impounded.",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-42",
-    "title": "Salem Voter List Final Verification Concluded",
-    "summary": "Booth-level officers in Salem have concluded the final voter list verification, ensuring electoral roll accuracy ahead of polling.",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-43",
-    "title": "NTK Organises Cycle Rally Across Salem Towns",
-    "summary": "Naam Tamilar Katchi organised a cycle rally across Salem towns to highlight environmental and identity-based issues ahead of polling.",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-44",
-    "title": "Salem Differently-Abled Voters Get Dedicated Assistance",
-    "summary": "Differently-abled voters in Salem are receiving dedicated transport and assistance arrangements from the district election office.",
-    "category": "Awareness",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-45",
-    "title": "Income Tax Teams Conduct Discreet Surveys in Salem",
-    "summary": "Income Tax teams have been conducting discreet surveys in Salem to track unaccounted financial flows linked to the election period.",
-    "category": "Enforcement",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-46",
-    "title": "Sector Officers Deployed Across Salem Polling Zones",
-    "summary": "Sector officers have been deployed across Salem polling zones to monitor turnout, address grievances, and report issues in real time.",
-    "category": "Election",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-47",
-    "title": "Star Campaigners Schedule Final Rallies in Salem",
-    "summary": "Major political parties have scheduled final-phase rallies of star campaigners in Salem as the silent period nears.",
-    "category": "Campaign",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-48",
-    "title": "Social Media Influencers Promote Turnout in Salem",
-    "summary": "Local social media influencers in Salem are running short-form video campaigns urging youth to vote on April 23.",
-    "category": "Awareness",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-49",
-    "title": "Salem Cybercrime Cell Monitors Election Misinformation",
-    "summary": "The Salem cybercrime cell is actively monitoring social media platforms for election-related misinformation and hate speech.",
-    "category": "Enforcement",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-50",
-    "title": "Salem Election Control Room Operates Round the Clock",
-    "summary": "The election control room in Salem is functioning round the clock to handle voter complaints, MCC violations, and logistical queries.",
-    "category": "Election",
-    "date": "April 15, 2026",
-    "featured": false
-  },
+    "id": "slm-new28",
+    "featured": false,
+    "category": "Technology",
+    "date": "April 21, 2026",
+    "title": "Digital Services Expand Rapidly",
+    "summary": "Digital adoption continues to rise across businesses and services."
+  },
   {
-    "id": "sal-51",
-    "title": "Women Self-Help Groups Address Salem Candidates",
-    "summary": "Women self-help group federations in Salem addressed candidates seeking concrete commitments on livelihood and credit access.",
-    "category": "Campaign",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-52",
-    "title": "Salem Senior Citizens Avail Home Voting Facility",
-    "summary": "Senior citizens above 85 in Salem are availing the home voting facility, with polling teams visiting registered residences.",
-    "category": "Awareness",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-53",
-    "title": "Bank Cash Movement Tracked in Salem",
-    "summary": "Bank cash movement above the threshold in Salem is being tracked and verified by election expenditure observers.",
-    "category": "Enforcement",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-54",
-    "title": "EVM Commissioning Underway in Salem Constituencies",
-    "summary": "Election officials in Salem have begun the commissioning of EVMs and VVPATs in the presence of candidate agents and observers ahead of the polling day.",
-    "category": "Election",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-55",
-    "title": "Trader Associations Submit Memorandum to Salem Candidates",
-    "summary": "Trader associations submitted a joint memorandum to candidates in Salem seeking GST relief and infrastructure support.",
-    "category": "Campaign",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-56",
-    "title": "SVEEP Street Plays Boost Voter Awareness in Salem",
-    "summary": "SVEEP teams in Salem performed street plays at bus stands and markets to encourage 100% voter turnout on April 23.",
-    "category": "Awareness",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-57",
-    "title": "Flying Squads Intensify Vehicle Checks in Salem",
-    "summary": "Flying squads in Salem have intensified vehicle checks at major entry points and highway intersections to curb illegal cash movement.",
-    "category": "Enforcement",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-58",
-    "title": "Salem Reports Smooth Progress on Postal Ballot Distribution",
-    "summary": "District election officials confirmed that postal ballot distribution to service voters and senior citizens in Salem is progressing as per schedule.",
-    "category": "Election",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-59",
-    "title": "Salem Farmers Raise Pricing Concerns at Public Meeting",
-    "summary": "Farmers in Salem raised concerns over crop pricing and procurement at a public meeting attended by alliance candidates.",
-    "category": "Campaign",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-60",
-    "title": "Salem Colleges Host Voter Pledge Programs",
-    "summary": "Colleges across Salem hosted voter pledge programs for first-time voters, accompanied by mock EVM demonstrations.",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-61",
-    "title": "Salem Static Surveillance Teams Report Daily to Observers",
-    "summary": "Static surveillance teams in Salem are reporting daily to election observers on cash, liquor, and freebie movement.",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-62",
-    "title": "Strong Rooms Sealed in Salem After Final Randomization",
-    "summary": "EVM strong rooms across Salem have been sealed under multi-tier security following the final randomization of polling personnel.",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-63",
-    "title": "DMK Intensifies Final-Phase Outreach in Salem",
-    "summary": "DMK candidates and alliance workers have intensified door-to-door outreach across Salem, focusing on welfare scheme beneficiaries and first-time voters.",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-64",
-    "title": "Booth Slip Distribution Crosses Halfway Mark in Salem",
-    "summary": "Door-to-door booth slip distribution in Salem has crossed the halfway mark, with BLOs targeting full coverage by April 18.",
-    "category": "Awareness",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-65",
-    "title": "MCC Violation Notices Issued in Salem Constituencies",
-    "summary": "Several model code of conduct violation notices have been issued in Salem constituencies for unauthorised hoardings and campaign material.",
-    "category": "Enforcement",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-66",
-    "title": "Salem Collector Reviews Polling Station Readiness",
-    "summary": "The District Collector held a review meeting with returning officers in Salem to assess polling station readiness, water supply, and accessibility ramps.",
-    "category": "Election",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-67",
-    "title": "AIADMK Holds Booth-Level Worker Meetings in Salem",
-    "summary": "AIADMK held booth-level worker meetings across Salem to finalize polling-day strategy and voter mobilization plans.",
-    "category": "Campaign",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-68",
-    "title": "Salem Administration Installs Awareness Hoardings",
-    "summary": "The Salem district administration has installed voter awareness hoardings at major junctions, urging citizens to exercise their franchise.",
-    "category": "Awareness",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-69",
-    "title": "Salem Police Beef Up Security at Sensitive Booths",
-    "summary": "Salem district police have beefed up security at sensitive booths with paramilitary deployment and additional patrol vehicles.",
-    "category": "Enforcement",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-70",
-    "title": "Mock Polls Demonstrated to Candidates in Salem",
-    "summary": "Mock polls were demonstrated to candidate representatives in Salem as part of EVM transparency measures before the April 23 election.",
-    "category": "Election",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-71",
-    "title": "BJP Highlights Central Schemes During Salem Roadshow",
-    "summary": "BJP candidates conducted a roadshow in Salem highlighting central government welfare schemes and infrastructure investments.",
-    "category": "Campaign",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-72",
-    "title": "Voter Helpline Sees Spike in Calls from Salem",
-    "summary": "The state voter helpline has seen a spike in calls from Salem, mostly enquiring about polling station details and voter slip status.",
-    "category": "Awareness",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-73",
-    "title": "Liquor Seizure Reported During Salem Checks",
-    "summary": "A significant liquor seizure was reported during routine election-related checks in Salem, and the contraband has been impounded.",
-    "category": "Enforcement",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-74",
-    "title": "Salem Voter List Final Verification Concluded",
-    "summary": "Booth-level officers in Salem have concluded the final voter list verification, ensuring electoral roll accuracy ahead of polling.",
-    "category": "Election",
-    "date": "April 14, 2026",
-    "featured": false
-  },
+    "id": "slm-new29",
+    "featured": false,
+    "category": "Lifestyle",
+    "date": "April 21, 2026",
+    "title": "Fitness Awareness Grows Among Youth",
+    "summary": "Young people are increasingly focusing on fitness and health."
+  },
   {
-    "id": "sal-75",
-    "title": "TVK Cadre Steps Up Door-to-Door Drive in Salem",
-    "summary": "TVK cadre led by local coordinators stepped up the door-to-door campaign across Salem, distributing pamphlets and party manifestos.",
-    "category": "Campaign",
-    "date": "April 14, 2026",
-    "featured": false
+    "id": "slm-new30",
+    "featured": false,
+    "category": "Culture",
+    "date": "April 21, 2026",
+    "title": "Cultural Events Draw Large Crowds",
+    "summary": "Cultural programs have attracted significant public participation."
+  },
+
+  {
+    "id": "slm-new31",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Bus Stands Witness Heavy Rush",
+    "summary": "Passenger movement has increased significantly across bus terminals."
   },
-  {
-    "id": "sal-76",
-    "title": "Salem Differently-Abled Voters Get Dedicated Assistance",
-    "summary": "Differently-abled voters in Salem are receiving dedicated transport and assistance arrangements from the district election office.",
-    "category": "Awareness",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-77",
-    "title": "Income Tax Teams Conduct Discreet Surveys in Salem",
-    "summary": "Income Tax teams have been conducting discreet surveys in Salem to track unaccounted financial flows linked to the election period.",
-    "category": "Enforcement",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-78",
-    "title": "Sector Officers Deployed Across Salem Polling Zones",
-    "summary": "Sector officers have been deployed across Salem polling zones to monitor turnout, address grievances, and report issues in real time.",
-    "category": "Election",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-79",
-    "title": "Congress Workers Hold Street-Corner Meetings in Salem",
-    "summary": "Congress alliance workers held street-corner meetings in Salem to highlight the alliance's promises on education and healthcare.",
-    "category": "Campaign",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-80",
-    "title": "Social Media Influencers Promote Turnout in Salem",
-    "summary": "Local social media influencers in Salem are running short-form video campaigns urging youth to vote on April 23.",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-81",
-    "title": "Salem Cybercrime Cell Monitors Election Misinformation",
-    "summary": "The Salem cybercrime cell is actively monitoring social media platforms for election-related misinformation and hate speech.",
-    "category": "Enforcement",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-82",
-    "title": "Salem Election Control Room Operates Round the Clock",
-    "summary": "The election control room in Salem is functioning round the clock to handle voter complaints, MCC violations, and logistical queries.",
-    "category": "Election",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-83",
-    "title": "NTK Organises Cycle Rally Across Salem Towns",
-    "summary": "Naam Tamilar Katchi organised a cycle rally across Salem towns to highlight environmental and identity-based issues ahead of polling.",
-    "category": "Campaign",
-    "date": "April 17, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-84",
-    "title": "Salem Senior Citizens Avail Home Voting Facility",
-    "summary": "Senior citizens above 85 in Salem are availing the home voting facility, with polling teams visiting registered residences.",
-    "category": "Awareness",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-85",
-    "title": "Bank Cash Movement Tracked in Salem",
-    "summary": "Bank cash movement above the threshold in Salem is being tracked and verified by election expenditure observers.",
-    "category": "Enforcement",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-86",
-    "title": "EVM Commissioning Underway in Salem Constituencies",
-    "summary": "Election officials in Salem have begun the commissioning of EVMs and VVPATs in the presence of candidate agents and observers ahead of the polling day.",
-    "category": "Election",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-87",
-    "title": "Star Campaigners Schedule Final Rallies in Salem",
-    "summary": "Major political parties have scheduled final-phase rallies of star campaigners in Salem as the silent period nears.",
-    "category": "Campaign",
-    "date": "April 16, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-88",
-    "title": "SVEEP Street Plays Boost Voter Awareness in Salem",
-    "summary": "SVEEP teams in Salem performed street plays at bus stands and markets to encourage 100% voter turnout on April 23.",
-    "category": "Awareness",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-89",
-    "title": "Flying Squads Intensify Vehicle Checks in Salem",
-    "summary": "Flying squads in Salem have intensified vehicle checks at major entry points and highway intersections to curb illegal cash movement.",
-    "category": "Enforcement",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-90",
-    "title": "Salem Reports Smooth Progress on Postal Ballot Distribution",
-    "summary": "District election officials confirmed that postal ballot distribution to service voters and senior citizens in Salem is progressing as per schedule.",
-    "category": "Election",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-91",
-    "title": "Women Self-Help Groups Address Salem Candidates",
-    "summary": "Women self-help group federations in Salem addressed candidates seeking concrete commitments on livelihood and credit access.",
-    "category": "Campaign",
-    "date": "April 15, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-92",
-    "title": "Salem Colleges Host Voter Pledge Programs",
-    "summary": "Colleges across Salem hosted voter pledge programs for first-time voters, accompanied by mock EVM demonstrations.",
-    "category": "Awareness",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-93",
-    "title": "Salem Static Surveillance Teams Report Daily to Observers",
-    "summary": "Static surveillance teams in Salem are reporting daily to election observers on cash, liquor, and freebie movement.",
-    "category": "Enforcement",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-94",
-    "title": "Strong Rooms Sealed in Salem After Final Randomization",
-    "summary": "EVM strong rooms across Salem have been sealed under multi-tier security following the final randomization of polling personnel.",
-    "category": "Election",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-95",
-    "title": "Trader Associations Submit Memorandum to Salem Candidates",
-    "summary": "Trader associations submitted a joint memorandum to candidates in Salem seeking GST relief and infrastructure support.",
-    "category": "Campaign",
-    "date": "April 14, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-96",
-    "title": "Booth Slip Distribution Crosses Halfway Mark in Salem",
-    "summary": "Door-to-door booth slip distribution in Salem has crossed the halfway mark, with BLOs targeting full coverage by April 18.",
-    "category": "Awareness",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-97",
-    "title": "MCC Violation Notices Issued in Salem Constituencies",
-    "summary": "Several model code of conduct violation notices have been issued in Salem constituencies for unauthorised hoardings and campaign material.",
-    "category": "Enforcement",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-98",
-    "title": "Salem Collector Reviews Polling Station Readiness",
-    "summary": "The District Collector held a review meeting with returning officers in Salem to assess polling station readiness, water supply, and accessibility ramps.",
-    "category": "Election",
-    "date": "April 13, 2026",
-    "featured": false
+  {
+    "id": "slm-new32",
+    "featured": false,
+    "category": "Agriculture",
+    "date": "April 21, 2026",
+    "title": "Farmers Track Market Prices",
+    "summary": "Farmers are closely monitoring agricultural market trends."
   },
-  {
-    "id": "sal-99",
-    "title": "Salem Farmers Raise Pricing Concerns at Public Meeting",
-    "summary": "Farmers in Salem raised concerns over crop pricing and procurement at a public meeting attended by alliance candidates.",
-    "category": "Campaign",
-    "date": "April 13, 2026",
-    "featured": false
-  },
-  {
-    "id": "sal-100",
-    "title": "Salem Administration Installs Awareness Hoardings",
-    "summary": "The Salem district administration has installed voter awareness hoardings at major junctions, urging citizens to exercise their franchise.",
-    "category": "Awareness",
-    "date": "April 17, 2026",
-    "featured": false
+  {
+    "id": "slm-new33",
+    "featured": false,
+    "category": "Market",
+    "date": "April 21, 2026",
+    "title": "Fruit Prices Fluctuate",
+    "summary": "Fruit prices continue to fluctuate based on supply conditions."
+  },
+  {
+    "id": "slm-new34",
+    "featured": false,
+    "category": "Public Safety",
+    "date": "April 21, 2026",
+    "title": "Emergency Teams on Standby",
+    "summary": "Emergency services are prepared to handle any incidents during elections."
+  },
+  {
+    "id": "slm-new35",
+    "featured": false,
+    "category": "Tourism",
+    "date": "April 21, 2026",
+    "title": "Tourist Footfall Increases",
+    "summary": "Tourism activity has picked up in Salem and nearby regions."
+  },
+
+  {
+    "id": "slm-new36",
+    "featured": false,
+    "category": "Civic",
+    "date": "April 21, 2026",
+    "title": "Water Supply Monitoring Strengthened",
+    "summary": "Authorities are ensuring uninterrupted water supply across Salem."
+  },
+  {
+    "id": "slm-new37",
+    "featured": false,
+    "category": "Health",
+    "date": "April 21, 2026",
+    "title": "Hospitals Ready for Summer Cases",
+    "summary": "Hospitals are prepared for an increase in heat-related illnesses."
+  },
+  {
+    "id": "slm-new38",
+    "featured": false,
+    "category": "Business",
+    "date": "April 21, 2026",
+    "title": "SMEs Increase Production Capacity",
+    "summary": "Small businesses are expanding production to meet growing demand."
+  },
+  {
+    "id": "slm-new39",
+    "featured": false,
+    "category": "Education",
+    "date": "April 21, 2026",
+    "title": "Skill Development Programs Introduced",
+    "summary": "New skill development programs are helping youth improve employability."
+  },
+  {
+    "id": "slm-new40",
+    "featured": false,
+    "category": "Infrastructure",
+    "date": "April 21, 2026",
+    "title": "Bridge Maintenance Work Ongoing",
+    "summary": "Bridge repair and maintenance works are being carried out."
+  },
+
+  {
+    "id": "slm-new41",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 21, 2026",
+    "title": "Auto Drivers Demand Fare Revision",
+    "summary": "Auto drivers have demanded fare hikes citing rising fuel costs."
+  },
+  {
+    "id": "slm-new42",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 21, 2026",
+    "title": "Air Quality Remains Stable",
+    "summary": "Air quality levels remain within safe limits across Salem."
+  },
+  {
+    "id": "slm-new43",
+    "featured": false,
+    "category": "Retail",
+    "date": "April 21, 2026",
+    "title": "Shopping Activity Picks Up",
+    "summary": "Shopping activity has increased in malls and markets."
+  },
+  {
+    "id": "slm-new44",
+    "featured": false,
+    "category": "Public",
+    "date": "April 21, 2026",
+    "title": "Public Awareness on Voting Grows",
+    "summary": "Efforts to improve voter turnout are gaining momentum."
+  },
+  {
+    "id": "slm-new45",
+    "featured": false,
+    "category": "Security",
+    "date": "April 21, 2026",
+    "title": "Security Measures Strengthened",
+    "summary": "Security arrangements have been strengthened across sensitive zones."
+  },
+
+  {
+    "id": "slm-new46",
+    "featured": false,
+    "category": "Economy",
+    "date": "April 21, 2026",
+    "title": "Industrial Activity Expands",
+    "summary": "Industrial growth continues to support Salem’s economic development."
+  },
+  {
+    "id": "slm-new47",
+    "featured": false,
+    "category": "Culture",
+    "date": "April 21, 2026",
+    "title": "Local Festivals Attract Crowds",
+    "summary": "Festivals and events have drawn large public participation."
+  },
+  {
+    "id": "slm-new48",
+    "featured": false,
+    "category": "Health",
+    "date": "April 21, 2026",
+    "title": "Public Advised on Heat Safety",
+    "summary": "Authorities have issued guidelines to stay safe during high temperatures."
+  },
+  {
+    "id": "slm-new49",
+    "featured": false,
+    "category": "Market",
+    "date": "April 21, 2026",
+    "title": "Commodity Prices Show Variation",
+    "summary": "Commodity prices are fluctuating based on supply-demand conditions."
+  },
+  {
+    "id": "slm-new50",
+    "featured": false,
+    "category": "Tourism",
+    "date": "April 21, 2026",
+    "title": "Weekend Travel Demand Increases",
+    "summary": "Weekend travel has increased with more visitors exploring Salem region."
   }
 ]
