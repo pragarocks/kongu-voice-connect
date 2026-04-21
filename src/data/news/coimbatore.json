@@ -11,7 +11,7 @@
     "id": "cbe-new2",
     "featured": false,
     "category": "Politics",
-    "date": "April 20, 2026",
+    "date": "April 21, 2026",
     "title": "Senthilbalaji Promises ‘Global City’ Push for Coimbatore South",
     "summary": "test this page."
   },
@@ -19,7 +19,7 @@
     "id": "cbe-new3",
     "featured": false,
     "category": "Business",
-    "date": "April 20, 2026",
+    "date": "April 21, 2026",
     "title": "Coimbatore EV Component Makers Secure $80M Series-B Funding",
     "summary": "Three home-grown EV component startups headquartered in Peelamedu and Saravanampatti closed a combined $80 million Series-B round, reinforcing Coimbatore’s claim as the ‘Detroit of South India’."
   },
@@ -27,7 +27,7 @@
     "id": "cbe-new4",
     "featured": false,
     "category": "Development",
-    "date": "April 20, 2026",
+    "date": "April 21, 2026",
     "title": "Valankulam Lake Rejuvenation Phase-3 Opens to Public",
     "summary": "The Smart City Mission unveiled the third phase of Valankulam restoration with new walking trails, biodiversity zones and night-lighting, integrating 14 acres of public space."
   },
@@ -35,7 +35,7 @@
     "id": "cbe-new5",
     "featured": false,
     "category": "Healthcare",
-    "date": "April 20, 2026",
+    "date": "April 21, 2026",
     "title": "New Cardiac & Neuro Block at CMCH Becomes Fully Operational",
     "summary": "Coimbatore Government Medical College Hospital’s multispecialty block began full operations today, offering free advanced cardiac and neurological care to the underprivileged."
   },
@@ -43,7 +43,7 @@
     "id": "cbe-new6",
     "featured": false,
     "category": "Crime",
-    "date": "April 20, 2026",
+    "date": "April 21, 2026",
     "title": "Safe-City AI Cameras Help Bust Cyber-Fraud Ring Targeting Senior Citizens",
     "summary": "City police dismantled a 12-member cyber-fraud gang using leads from the 5,000-camera AI command centre. Over ₹4.2 crore allegedly siphoned from elderly residents has been frozen."
   },
@@ -51,7 +51,7 @@
     "id": "cbe-new7",
     "featured": false,
     "category": "Election",
-    "date": "April 20, 2026",
+    "date": "April 21, 2026",
     "title": "Flying Squads Seize ₹62 Lakh Unaccounted Cash in Pollachi",
     "summary": "Election flying squads intercepted two vehicles near Pollachi bypass and seized ₹62 lakh in unaccounted cash along with campaign material in violation of MCC."
   },
@@ -360,425 +360,5 @@
     "date": "April 19, 2026",
     "title": "Annamalai Predicts ‘Huge NDA Mandate’ in Western TN",
     "summary": "BJP state president K. Annamalai, campaigning in Coimbatore, predicted a massive mandate for the NDA alliance in the western region."
-  },
-  {
-    "id": "cbe-41",
-    "category": "Election",
-    "date": "April 19, 2026",
-    "title": "8,343 Ballot Units & 5,572 VVPATs Ready for Polling Day",
-    "summary": "Coimbatore district is fully equipped with 8,343 ballot units and 5,572 VVPATs for the April 23 assembly election."
-  },
-  {
-    "id": "cbe-42",
-    "category": "Enforcement",
-    "date": "April 19, 2026",
-    "title": "IT Raids Conducted at Textile & Jewellery Shops in Coimbatore",
-    "summary": "Income Tax officials carried out raids at several textile and jewellery showrooms in the city as part of poll-time enforcement."
-  },
-  {
-    "id": "cbe-43",
-    "category": "Politics",
-    "date": "April 19, 2026",
-    "title": "BJP Leaders Perform Silambam During Coimbatore Roadshow",
-    "summary": "To connect with traditional voters, BJP leaders showcased silambam (traditional martial art) during a roadshow in Coimbatore."
-  },
-  {
-    "id": "cbe-44",
-    "category": "Awareness",
-    "date": "April 19, 2026",
-    "title": "District Election Officer Dances with Tribal Voters",
-    "summary": "In a unique awareness drive, the DEO joined tribal communities in a folk dance to promote 100% voting in rural Coimbatore."
-  },
-  {
-    "id": "cbe-45",
-    "category": "Enforcement",
-    "date": "April 19, 2026",
-    "title": "Drone Restrictions Imposed Across City Until Polling Day",
-    "summary": "Authorities have imposed a complete ban on drone flights over Coimbatore to ensure security during the final campaign and polling phases."
-  },
-  {
-    "id": "cbe-46",
-    "category": "Awareness",
-    "date": "April 19, 2026",
-    "title": "Colleges Modify Schedules to Boost Student Voting",
-    "summary": "Several arts and science colleges in Coimbatore have rescheduled internal exams to allow students to travel and vote on April 23."
-  },
-  {
-    "id": "cbe-47",
-    "category": "Civic",
-    "date": "April 19, 2026",
-    "title": "Post-Rally Cleanup Accelerated by Corporation Sanitation Teams",
-    "summary": "Sanitation workers are working overtime to clear litter from major rally venues across Coimbatore, with special focus on Avinashi Road and Race Course."
-  },
-  {
-    "id": "cbe-48",
-    "category": "Election",
-    "date": "April 19, 2026",
-    "title": "Coimbatore Stays a Critical Electoral Battleground",
-    "summary": "Political analysts note that Coimbatore’s 10 seats could determine the overall balance of power in western Tamil Nadu."
-  },
-  {
-    "id": "cbe-49",
-    "category": "Election",
-    "date": "April 19, 2026",
-    "title": "DMK Intensifies Final-Phase Door-to-Door Outreach",
-    "summary": "DMK cadres are focusing on first-time voters and welfare scheme beneficiaries in a final push before the silent period begins."
-  },
-  {
-    "id": "cbe-50",
-    "category": "Awareness",
-    "date": "April 19, 2026",
-    "title": "SVEEP Street Plays at Bus Stands and Markets",
-    "summary": "Voter awareness street plays are being performed at Gandhipuram, Ukkadam, and Singanallur bus stands to encourage turnout."
-  },
-  {
-    "id": "cbe-51",
-    "category": "Enforcement",
-    "date": "April 19, 2026",
-    "title": "Flying Squads Intensify Vehicle Checks on Highways",
-    "summary": "Checkpoints at L&T Bypass, Mettupalayam Road, and Pollachi Highway have been strengthened to curb illegal cash and liquor movement."
-  },
-  {
-    "id": "cbe-52",
-    "category": "Election",
-    "date": "April 19, 2026",
-    "title": "Postal Ballot Distribution Progressing Smoothly",
-    "summary": "Officials confirmed that postal ballots have been dispatched to service voters and are being collected without delays."
-  },
-  {
-    "id": "cbe-53",
-    "category": "Politics",
-    "date": "April 19, 2026",
-    "title": "AIADMK Holds Booth-Level Worker Meetings",
-    "summary": "AIADMK convened meetings for polling booth agents across Coimbatore to finalise voter mobilisation plans."
-  },
-  {
-    "id": "cbe-54",
-    "category": "Awareness",
-    "date": "April 19, 2026",
-    "title": "Colleges Host Voter Pledge Programs with Mock EVMs",
-    "summary": "Students at PSG Tech, Kumaraguru College, and GRD College took voter pledges and practiced on mock EVMs."
-  },
-  {
-    "id": "cbe-55",
-    "category": "Enforcement",
-    "date": "April 19, 2026",
-    "title": "Static Surveillance Teams Report Daily to Observers",
-    "summary": "Static teams across Coimbatore are providing daily reports on cash, liquor, and freebie movement to election observers."
-  },
-  {
-    "id": "cbe-56",
-    "category": "Election",
-    "date": "April 19, 2026",
-    "title": "Strong Rooms Sealed Under Multi-Tier Security",
-    "summary": "EVM strong rooms at government colleges and ITI campuses have been sealed with CCTV and paramilitary cover."
-  },
-  {
-    "id": "cbe-57",
-    "category": "Politics",
-    "date": "April 19, 2026",
-    "title": "BJP Highlights Central Schemes in Roadshow",
-    "summary": "BJP candidates highlighted Ayushman Bharat, PM Awas Yojana, and Ujjwala during roadshows in Singanallur and Sulur."
-  },
-  {
-    "id": "cbe-58",
-    "category": "Awareness",
-    "date": "April 19, 2026",
-    "title": "Booth Slip Distribution Crosses 80% Mark",
-    "summary": "Booth-level officers have distributed voter slips to over 80% of households, aiming for full coverage by April 21."
-  },
-  {
-    "id": "cbe-59",
-    "category": "Enforcement",
-    "date": "April 19, 2026",
-    "title": "MCC Notices Issued for Unauthorised Hoardings",
-    "summary": "The election commission issued notices to remove over 150 unauthorised hoardings and banners across the city."
-  },
-  {
-    "id": "cbe-60",
-    "category": "Election",
-    "date": "April 19, 2026",
-    "title": "Collector Reviews Polling Station Readiness",
-    "summary": "District Collector inspected polling stations in rural areas to ensure drinking water, ramps, and lighting are in place."
-  },
-  {
-    "id": "cbe-61",
-    "category": "Politics",
-    "date": "April 19, 2026",
-    "title": "TVK Cadre Steps Up Door-to-Door Campaign",
-    "summary": "TVK volunteers distributed manifestos and pamphlets in Kavundampalayam and Peelamedu, focusing on local issues."
-  },
-  {
-    "id": "cbe-62",
-    "category": "Awareness",
-    "date": "April 19, 2026",
-    "title": "Voter Helpline Receives Record Calls from Coimbatore",
-    "summary": "The state voter helpline logged over 1,200 calls from Coimbatore residents in the last 24 hours, mostly seeking polling booth locations."
-  },
-  {
-    "id": "cbe-63",
-    "category": "Enforcement",
-    "date": "April 19, 2026",
-    "title": "Liquor Worth ₹1.2 Crore Seized in Coimbatore",
-    "summary": "Election squads seized a large consignment of illicit liquor near the Kerala border and at Madukkarai checkpost."
-  },
-  {
-    "id": "cbe-64",
-    "category": "Election",
-    "date": "April 19, 2026",
-    "title": "Final Voter List Verification Concluded",
-    "summary": "BLOs completed the final round of voter list verification, deleting duplicate entries and adding new eligible voters."
-  },
-  {
-    "id": "cbe-65",
-    "category": "Politics",
-    "date": "April 19, 2026",
-    "title": "NTK Organises Cycle Rally Across Coimbatore Towns",
-    "summary": "Naam Tamilar Katchi conducted a cycle rally from Mettupalayam to Pollachi, raising environmental and language issues."
-  },
-  {
-    "id": "cbe-66",
-    "category": "Awareness",
-    "date": "April 19, 2026",
-    "title": "Differently-Abled Voters Get Dedicated Transport",
-    "summary": "The district administration has arranged free buses and wheelchairs for differently-abled voters on polling day."
-  },
-  {
-    "id": "cbe-67",
-    "category": "Enforcement",
-    "date": "April 19, 2026",
-    "title": "Income Tax Teams Conduct Discreet Surveys",
-    "summary": "IT teams surveyed high-value transactions in jewellery and real estate shops to track undisclosed election spending."
-  },
-  {
-    "id": "cbe-68",
-    "category": "Election",
-    "date": "April 19, 2026",
-    "title": "Sector Officers Deployed Across Polling Zones",
-    "summary": "A total of 45 sector officers have been deployed to monitor polling booths and address real-time issues on April 23."
-  },
-  {
-    "id": "cbe-69",
-    "category": "Politics",
-    "date": "April 19, 2026",
-    "title": "Congress Workers Hold Street-Corner Meetings",
-    "summary": "Congress alliance workers held small gatherings in Kovaipudur and Vadavalli, promising education and healthcare reforms."
-  },
-  {
-    "id": "cbe-70",
-    "category": "Awareness",
-    "date": "April 19, 2026",
-    "title": "Social Media Influencers Run #CoimbatoreVotes Campaign",
-    "summary": "Local Instagram and YouTube creators are posting reels and shorts urging youth to vote on April 23."
-  },
-  {
-    "id": "cbe-71",
-    "category": "Enforcement",
-    "date": "April 19, 2026",
-    "title": "Cybercrime Cell Monitors Election Misinformation",
-    "summary": "The Coimbatore cybercrime cell has flagged 20+ social media posts for spreading fake news about polling dates and EVMs."
-  },
-  {
-    "id": "cbe-72",
-    "category": "Election",
-    "date": "April 19, 2026",
-    "title": "Election Control Room Operates Round the Clock",
-    "summary": "The control room at the Collectorate is handling complaints related to MCC violations, campaign noise, and voter ID issues."
-  },
-  {
-    "id": "cbe-73",
-    "category": "Civic",
-    "date": "April 19, 2026",
-    "title": "Coimbatore Corporation Steps Up Waste Collection",
-    "summary": "Due to increased litter from rallies, the Corporation has deployed additional compactors and door-to-door collection vans."
-  },
-  {
-    "id": "cbe-74",
-    "category": "Infrastructure",
-    "date": "April 19, 2026",
-    "title": "Flyover Work at Ramanathapuram Junction Nears Completion",
-    "summary": "The long-pending flyover project at Ramanathapuram is 85% complete and expected to open by June 2026."
-  },
-  {
-    "id": "cbe-75",
-    "category": "Health",
-    "date": "April 19, 2026",
-    "title": "CMCH Conducts Free Mega Health Camp at Sungam",
-    "summary": "Coimbatore Medical College Hospital organised a free health check-up camp at Sungam, screening over 800 residents for diabetes and hypertension."
-  },
-  {
-    "id": "cbe-76",
-    "category": "Sports",
-    "date": "April 19, 2026",
-    "title": "Coimbatore Marathon Scheduled for May 3",
-    "summary": "The annual Coimbatore Marathon has been announced for May 3, with categories for full, half, and 10K runs. Registrations are open."
-  },
-  {
-    "id": "cbe-77",
-    "category": "Environment",
-    "date": "April 19, 2026",
-    "title": "Noyyal River Cleanup Drive by Youth Groups",
-    "summary": "Over 200 volunteers participated in a Noyyal river cleanup drive near Singanallur, removing plastic and invasive weeds."
-  },
-  {
-    "id": "cbe-78",
-    "category": "Business",
-    "date": "April 19, 2026",
-    "title": "Coimbatore Textile Exporters See 12% Growth in Q1 2026",
-    "summary": "The Coimbatore Tirupur textile cluster reported a 12% rise in exports during the first quarter, driven by demand from European markets."
-  },
-  {
-    "id": "cbe-79",
-    "category": "Crime",
-    "date": "April 19, 2026",
-    "title": "Gang Stealing Two-Wheelers Busted in Saibaba Colony",
-    "summary": "Police arrested a three-member gang involved in stealing over 20 two-wheelers from Saibaba Colony and nearby areas."
-  },
-  {
-    "id": "cbe-80",
-    "category": "Infrastructure",
-    "date": "April 19, 2026",
-    "title": "New Foot Overbridge at Gandhipuram Gets Green Light",
-    "summary": "The Corporation approved a new foot overbridge at Gandhipuram to ease pedestrian congestion near the bus stand."
-  },
-  {
-    "id": "cbe-81",
-    "category": "Education",
-    "date": "April 19, 2026",
-    "title": "CBSE Schools in Coimbatore Announce Summer Vacation from May 2",
-    "summary": "Most CBSE-affiliated schools in the city will close for summer break on May 2, reopening on June 8."
-  },
-  {
-    "id": "cbe-82",
-    "category": "Politics",
-    "date": "April 19, 2026",
-    "title": "NTK Candidate Files Complaint Against Rival for MCC Violation",
-    "summary": "NTK’s Coimbatore North candidate lodged a complaint alleging distribution of cash by an opposition party worker."
-  },
-  {
-    "id": "cbe-83",
-    "category": "Election",
-    "date": "April 19, 2026",
-    "title": "Silent Period to Begin from April 21 Midnight",
-    "summary": "Campaigning will cease at 6 PM on April 21, after which no public meetings or processions will be allowed."
-  },
-  {
-    "id": "cbe-84",
-    "category": "Awareness",
-    "date": "April 19, 2026",
-    "title": "Posters of ‘Missed Call’ Voter Helpline Installed at Bus Stops",
-    "summary": "Posters displaying a missed call number for voter information have been put up at over 100 bus stops across Coimbatore."
-  },
-  {
-    "id": "cbe-85",
-    "category": "Enforcement",
-    "date": "April 19, 2026",
-    "title": "Paramilitary Forces Conduct Flag March in Coimbatore",
-    "summary": "Central paramilitary forces carried out a flag march in sensitive areas of the city to instil confidence among voters."
-  },
-  {
-    "id": "cbe-86",
-    "category": "Election",
-    "date": "April 19, 2026",
-    "title": "Coimbatore Records 78% Voter Turnout in 2021 – Target 85% in 2026",
-    "summary": "Officials aim to surpass the previous 78% turnout by encouraging urban voters through targeted awareness campaigns."
-  },
-  {
-    "id": "cbe-87",
-    "category": "Culture",
-    "date": "April 19, 2026",
-    "title": "Coimbatore Vizha 2026 to Be Held in June",
-    "summary": "The annual Coimbatore Vizha celebrating art, food, and culture is scheduled for the first weekend of June at CODISSIA."
-  },
-  {
-    "id": "cbe-88",
-    "category": "Traffic",
-    "date": "April 19, 2026",
-    "title": "One-Way System Introduced Near Brookefields Mall",
-    "summary": "To ease congestion, the traffic police have introduced a one-way system on the service road near Brookefields Mall."
-  },
-  {
-    "id": "cbe-89",
-    "category": "Real Estate",
-    "date": "April 19, 2026",
-    "title": "Property Registrations Drop 15% in March Due to Election Code",
-    "summary": "The model code of conduct led to a temporary dip in property registrations, but activity is expected to resume post-elections."
-  },
-  {
-    "id": "cbe-90",
-    "category": "Health",
-    "date": "April 19, 2026",
-    "title": "Dengue Prevention Drives Intensified in Coimbatore",
-    "summary": "Corporation teams are conducting fogging and larva destruction drives in wards with reported dengue cases."
-  },
-  {
-    "id": "cbe-91",
-    "category": "Business",
-    "date": "April 19, 2026",
-    "title": "Coimbatore Startups Win ₹5 Cr Funding at TiE Conclave",
-    "summary": "Two city-based agritech startups secured ₹5 crore in funding at the TiE Coimbatore Entrepreneurship Conclave."
-  },
-  {
-    "id": "cbe-92",
-    "category": "Crime",
-    "date": "April 19, 2026",
-    "title": "Chain Snatcher Arrested After High-Speed Chase in Peelamedu",
-    "summary": "Police arrested a bike-borne chain snatcher following a chase near Peelamedu flyover. Stolen gold recovered."
-  },
-  {
-    "id": "cbe-93",
-    "category": "Infrastructure",
-    "date": "April 19, 2026",
-    "title": "Underground Drainage Work Completed in 15 New Wards",
-    "summary": "The Corporation announced completion of underground drainage work in 15 wards, benefiting over 10,000 households."
-  },
-  {
-    "id": "cbe-94",
-    "category": "Education",
-    "date": "April 19, 2026",
-    "title": "Anna University Coimbatore Releases Exam Schedule",
-    "summary": "Anna University’s Coimbatore regional campus released the end-semester exam schedule for engineering courses, starting May 5."
-  },
-  {
-    "id": "cbe-95",
-    "category": "Politics",
-    "date": "April 19, 2026",
-    "title": "Woman Candidate from Coimbatore South Raises Safety Issues",
-    "summary": "An independent woman candidate in Coimbatore South filed a complaint about alleged threats from rival supporters."
-  },
-  {
-    "id": "cbe-96",
-    "category": "Election",
-    "date": "April 19, 2026",
-    "title": "Coimbatore Has 28.5 Lakh Eligible Voters",
-    "summary": "The district has a total of 28.5 lakh registered voters, including 14.2 lakh women and 2,300 third-gender voters."
-  },
-  {
-    "id": "cbe-97",
-    "category": "Awareness",
-    "date": "April 19, 2026",
-    "title": "Auto Rickshaws Display ‘Vote Karo’ Stickers",
-    "summary": "Over 5,000 auto rickshaws in Coimbatore now carry voter awareness stickers as part of a transport department initiative."
-  },
-  {
-    "id": "cbe-98",
-    "category": "Enforcement",
-    "date": "April 19, 2026",
-    "title": "Election Observer Holds Meeting with Bank Managers",
-    "summary": "The election observer instructed bank managers to report suspicious cash withdrawals above ₹10 lakh."
-  },
-  {
-    "id": "cbe-99",
-    "category": "Civic",
-    "date": "April 19, 2026",
-    "title": "Coimbatore Gets 200 New Dustbins at Public Places",
-    "summary": "The Corporation installed 200 new dustbins at bus stops, parks, and markets to tackle littering during the election period."
-  },
-  {
-    "id": "cbe-100",
-    "category": "Weather",
-    "date": "April 19, 2026",
-    "title": "Evening Thunderstorms Likely in Coimbatore on April 20",
-    "summary": "The IMD has forecast evening thunderstorms with gusty winds for April 20, advising outdoor event organisers to take precautions."
   }
 ]
