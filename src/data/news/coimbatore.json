@@ -3,409 +3,409 @@
     "id": "cbe-eve1",
     "featured": true,
     "category": "Election",
-    "date": "April 21, 2026",
-    "title": "Liquor Shops Declared Dry Ahead of Polls",
-    "summary": "Liquor shops and bars across Coimbatore have been ordered to remain closed for three days ahead of polling day, as authorities enforce strict measures to ensure peaceful elections."
+    "date": "April 22, 2026",
+    "title": "Polling Preparations Intensify Across Coimbatore",
+    "summary": "Authorities across Coimbatore have significantly intensified preparations for the upcoming polling day, ensuring that all logistical, administrative, and security arrangements are fully in place. Polling booths have been equipped with Electronic Voting Machines (EVMs), VVPAT units, drinking water facilities, shaded waiting areas, and special provisions for elderly and differently-abled voters. Officials conducted repeated inspections and coordination meetings to ensure seamless execution. The administration has emphasized transparency, safety, and voter convenience as top priorities."
   },
   {
     "id": "cbe-eve2",
-    "featured": false,
-    "category": "Politics",
-    "date": "April 21, 2026",
-    "title": "DMK and AIADMK Cadres Clash in Ramanathapuram",
-    "summary": "Clashes broke out between rival party cadres over voter bribery allegations, leading to tension and minor property damage in parts of the city."
+    "featured": true,
+    "category": "Election",
+    "date": "April 22, 2026",
+    "title": "Strict Monitoring on Cash Movement",
+    "summary": "Election flying squads and surveillance teams have intensified checks across highways, urban zones, and entry points to curb illegal cash distribution. Multiple vehicles were inspected, and suspicious transactions were flagged. Authorities seized unaccounted money suspected to be linked to voter inducement. Officials reiterated that strict action will be taken against violators and encouraged citizens to report any suspicious activities immediately."
   },
   {
     "id": "cbe-eve3",
-    "featured": false,
-    "category": "Crime",
-    "date": "April 21, 2026",
-    "title": "Man Arrested in Family Murder Case",
-    "summary": "Police arrested a man for allegedly murdering his father following a domestic dispute, creating shock among residents in the locality."
+    "featured": true,
+    "category": "Politics",
+    "date": "April 22, 2026",
+    "title": "Campaigning Ends with High-Intensity Rallies",
+    "summary": "Political parties concluded their campaigns with high-energy rallies, public meetings, and roadshows across Coimbatore. Leaders addressed key issues such as development, employment, and infrastructure while making final appeals to voters. The atmosphere remained charged as candidates made last-minute efforts to influence undecided voters before the enforcement of the silence period."
   },
   {
     "id": "cbe-eve4",
-    "featured": false,
-    "category": "Politics",
-    "date": "April 21, 2026",
-    "title": "Campaign War Peaks in Coimbatore",
-    "summary": "Political parties intensified their campaigns with roadshows and public meetings as the election date approaches."
+    "featured": true,
+    "category": "Security",
+    "date": "April 22, 2026",
+    "title": "Multi-Layer Security Deployed Across City",
+    "summary": "Security has been significantly tightened with the deployment of central forces, additional police personnel, and surveillance systems in sensitive areas. Checkposts have been strengthened, and continuous monitoring is being carried out through CCTV cameras and patrol units. Authorities have set up control rooms to respond quickly to any incidents, ensuring a safe and peaceful voting environment."
   },
   {
     "id": "cbe-eve5",
-    "featured": false,
-    "category": "Civic",
-    "date": "April 21, 2026",
-    "title": "Fire at Vellalore Dump Yard Controlled",
-    "summary": "Firefighters successfully controlled a fire at the Vellalore dump yard, preventing further environmental damage and health risks."
+    "featured": true,
+    "category": "Transport",
+    "date": "April 22, 2026",
+    "title": "Traffic Diversions Announced for Poll Day",
+    "summary": "Traffic police have issued detailed diversion plans around polling booths and major junctions to ensure smooth movement of voters and officials. Several roads have been declared no-parking zones, and vehicle restrictions have been enforced. Public transport services have been optimized to accommodate increased movement on polling day."
   },
 
   {
     "id": "cbe-eve6",
-    "featured": false,
-    "category": "Infrastructure",
-    "date": "April 21, 2026",
-    "title": "Airport Expansion Delay Raises Concerns",
-    "summary": "Criticism continues over delays in the Coimbatore airport expansion project, raising concerns about infrastructure growth."
+    "featured": true,
+    "category": "Health",
+    "date": "April 22, 2026",
+    "title": "Healthcare Services Strengthened for Voters",
+    "summary": "Medical teams, ambulances, and first-aid units have been deployed at strategic locations near polling booths. With rising temperatures, authorities have taken steps to handle heatstroke cases and other emergencies. Special care arrangements have been made for senior citizens and vulnerable groups."
   },
   {
     "id": "cbe-eve7",
-    "featured": false,
-    "category": "Election",
-    "date": "April 21, 2026",
-    "title": "Youth Voters Influence Election Trends",
-    "summary": "Young voters are playing a significant role in shaping election dynamics, with changing preferences impacting party strategies."
+    "featured": true,
+    "category": "Weather",
+    "date": "April 22, 2026",
+    "title": "Heatwave Conditions Impact Daily Life",
+    "summary": "The city continues to experience intense heat, affecting normal routines and election activities. Officials advised citizens to stay hydrated, avoid peak sunlight hours, and plan their voting time accordingly. Measures such as shaded waiting areas and water distribution have been implemented."
   },
   {
     "id": "cbe-eve8",
-    "featured": false,
-    "category": "Election",
-    "date": "April 21, 2026",
-    "title": "Tight Contest Expected in Coimbatore North",
-    "summary": "The Coimbatore North constituency is witnessing a close contest, with major parties intensifying their efforts to secure votes."
+    "featured": true,
+    "category": "Public",
+    "date": "April 22, 2026",
+    "title": "Awareness Drives Encourage Voter Participation",
+    "summary": "Authorities have intensified voter awareness campaigns through digital media, public announcements, and grassroots initiatives. Special focus has been placed on first-time voters and youth participation, highlighting the importance of democratic engagement."
   },
   {
     "id": "cbe-eve9",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Traffic Diversions Implemented for VIP Visits",
-    "summary": "Traffic restrictions and diversions have been put in place across key areas due to visits by political leaders."
+    "featured": true,
+    "category": "Election",
+    "date": "April 22, 2026",
+    "title": "EVM and VVPAT Testing Completed",
+    "summary": "Mock polling exercises were conducted across multiple booths to ensure the proper functioning of voting machines. Election officials confirmed that all technical systems are ready and functioning without issues."
   },
   {
     "id": "cbe-eve10",
-    "featured": false,
-    "category": "Public",
-    "date": "April 21, 2026",
-    "title": "Protests Over Cash-for-Vote Allegations",
-    "summary": "Residents protested in several areas alleging unfair practices related to vote buying, demanding strict enforcement of election laws."
+    "featured": true,
+    "category": "Crime",
+    "date": "April 22, 2026",
+    "title": "Crackdown on Election Violations",
+    "summary": "Police and enforcement agencies conducted raids and vehicle checks, resulting in the seizure of cash and materials linked to election malpractice. Strict legal actions are being initiated against offenders."
   },
 
   {
     "id": "cbe-eve11",
-    "featured": false,
+    "featured": true,
     "category": "Security",
-    "date": "April 21, 2026",
-    "title": "Night Patrols Intensified Across City",
-    "summary": "Police have stepped up night patrols in sensitive areas to maintain law and order during the election period."
+    "date": "April 22, 2026",
+    "title": "Night Patrols Intensified",
+    "summary": "Police have increased night patrols and surveillance activities across sensitive areas to prevent any untoward incidents ahead of polling."
   },
   {
     "id": "cbe-eve12",
-    "featured": false,
-    "category": "Business",
-    "date": "April 21, 2026",
-    "title": "Evening Retail Sales Decline Slightly",
-    "summary": "Retail businesses reported a slight dip in evening sales due to election restrictions and increased security measures."
+    "featured": true,
+    "category": "Transport",
+    "date": "April 22, 2026",
+    "title": "Special Transport Arranged for Poll Staff",
+    "summary": "Dedicated buses and vehicles have been arranged to transport polling officials and security personnel efficiently to their assigned locations."
   },
   {
     "id": "cbe-eve13",
-    "featured": false,
-    "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Heat Advisory Issued for Citizens",
-    "summary": "Authorities have issued a heat advisory, urging residents to stay hydrated and avoid outdoor exposure during peak hours."
+    "featured": true,
+    "category": "Civic",
+    "date": "April 22, 2026",
+    "title": "Sanitation Drives Completed",
+    "summary": "Municipal teams conducted large-scale cleaning operations near polling stations to maintain hygiene and ensure a clean environment for voters."
   },
   {
     "id": "cbe-eve14",
-    "featured": false,
-    "category": "Civic",
-    "date": "April 21, 2026",
-    "title": "Sanitation Drives Continue in Evening",
-    "summary": "Municipal workers continued garbage clearance and sanitation activities across the city."
+    "featured": true,
+    "category": "Business",
+    "date": "April 22, 2026",
+    "title": "Retail Sector Sees Temporary Slowdown",
+    "summary": "Local businesses reported reduced activity due to election restrictions and shifting public focus towards voting."
   },
   {
     "id": "cbe-eve15",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Special Buses Operate for Election Duty",
-    "summary": "Additional buses have been deployed to support election-related transportation needs."
+    "featured": true,
+    "category": "Public Safety",
+    "date": "April 22, 2026",
+    "title": "Emergency Response Teams on Alert",
+    "summary": "Emergency services, including fire and medical teams, are on standby to respond to any incidents during polling."
   },
 
   {
     "id": "cbe-eve16",
-    "featured": false,
-    "category": "Crime",
-    "date": "April 21, 2026",
-    "title": "Police Crack Down on Illegal Activities",
-    "summary": "Authorities conducted raids and checks to prevent illegal activities during the election period."
+    "featured": true,
+    "category": "Education",
+    "date": "April 22, 2026",
+    "title": "Schools Closed for Polling Activities",
+    "summary": "Several schools have been declared holidays as they are being used as polling booths, affecting regular academic schedules."
   },
   {
     "id": "cbe-eve17",
-    "featured": false,
-    "category": "Environment",
-    "date": "April 21, 2026",
-    "title": "Air Quality Remains Within Limits",
-    "summary": "Air quality levels in Coimbatore remained stable despite increased traffic and activity."
+    "featured": true,
+    "category": "Market",
+    "date": "April 22, 2026",
+    "title": "Essential Commodities in Demand",
+    "summary": "Demand for groceries and essential items increased as residents prepared ahead of polling day restrictions."
   },
   {
     "id": "cbe-eve18",
-    "featured": false,
-    "category": "Public Safety",
-    "date": "April 21, 2026",
-    "title": "Emergency Teams on High Alert",
-    "summary": "Emergency services are on standby to respond to any incidents during the election period."
+    "featured": true,
+    "category": "Environment",
+    "date": "April 22, 2026",
+    "title": "Air Quality Remains Stable",
+    "summary": "Despite increased activity, air quality levels remained within acceptable limits across the city."
   },
   {
     "id": "cbe-eve19",
-    "featured": false,
-    "category": "Economy",
-    "date": "April 21, 2026",
-    "title": "Mixed Trends Seen in Local Economy",
-    "summary": "Economic activity shows mixed trends with some sectors slowing and others maintaining stability."
+    "featured": true,
+    "category": "Infrastructure",
+    "date": "April 22, 2026",
+    "title": "Streetlight and Road Checks Completed",
+    "summary": "Authorities completed maintenance work on roads and streetlights near polling areas to enhance safety."
   },
   {
     "id": "cbe-eve20",
-    "featured": false,
-    "category": "Infrastructure",
-    "date": "April 21, 2026",
-    "title": "Road Repairs Continue Late Evening",
-    "summary": "Authorities carried out road repair works during evening hours to reduce daytime traffic disruptions."
+    "featured": true,
+    "category": "Economy",
+    "date": "April 22, 2026",
+    "title": "Economic Activity Shows Mixed Trends",
+    "summary": "While some sectors slowed due to election restrictions, essential services and industries maintained steady operations."
   },
 
   {
     "id": "cbe-eve21",
-    "featured": false,
-    "category": "Election",
-    "date": "April 21, 2026",
-    "title": "Door-to-Door Campaigning Continues",
-    "summary": "Party workers engaged in door-to-door campaigns to reach voters directly."
+    "featured": true,
+    "category": "Technology",
+    "date": "April 22, 2026",
+    "title": "Digital Monitoring Strengthened",
+    "summary": "Authorities activated cyber monitoring teams to track misinformation and enforce election-related guidelines online."
   },
   {
     "id": "cbe-eve22",
-    "featured": false,
-    "category": "Security",
-    "date": "April 21, 2026",
-    "title": "Additional Forces Deployed",
-    "summary": "Extra police forces have been deployed in sensitive zones to prevent disturbances."
+    "featured": true,
+    "category": "Public",
+    "date": "April 22, 2026",
+    "title": "Residents Prepare for Voting Day",
+    "summary": "Citizens made necessary arrangements and discussed plans to participate in the upcoming election."
   },
   {
     "id": "cbe-eve23",
-    "featured": false,
-    "category": "Public",
-    "date": "April 21, 2026",
-    "title": "Voter Awareness Campaigns Continue",
-    "summary": "Awareness campaigns are being conducted to encourage voter participation."
+    "featured": true,
+    "category": "Tourism",
+    "date": "April 22, 2026",
+    "title": "Tourism Sees Temporary Dip",
+    "summary": "Tourist activity declined as focus shifted to election-related activities."
   },
   {
     "id": "cbe-eve24",
-    "featured": false,
-    "category": "Market",
-    "date": "April 21, 2026",
-    "title": "Vegetable Prices Show Fluctuation",
-    "summary": "Prices of vegetables fluctuated in evening markets due to supply variations."
+    "featured": true,
+    "category": "Lifestyle",
+    "date": "April 22, 2026",
+    "title": "Indoor Activities Increase Due to Heat",
+    "summary": "Residents preferred staying indoors during peak heat hours, reducing outdoor movement."
   },
   {
     "id": "cbe-eve25",
-    "featured": false,
+    "featured": true,
     "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Bus Stands Witness Heavy Rush",
-    "summary": "Passenger traffic increased significantly across major bus stations."
+    "date": "April 22, 2026",
+    "title": "Bus Stations See Increased Movement",
+    "summary": "Public transport hubs witnessed steady passenger flow, especially with election staff travel."
   },
 
   {
     "id": "cbe-eve26",
-    "featured": false,
-    "category": "Retail",
-    "date": "April 21, 2026",
-    "title": "Shopping Activity Picks Up",
-    "summary": "Evening shopping activity increased slightly in key commercial areas."
+    "featured": true,
+    "category": "Civic",
+    "date": "April 22, 2026",
+    "title": "Water Supply Maintained Smoothly",
+    "summary": "Authorities ensured uninterrupted water supply across residential areas during election preparations."
   },
   {
     "id": "cbe-eve27",
-    "featured": false,
-    "category": "Technology",
-    "date": "April 21, 2026",
-    "title": "Digital Campaigning Gains Momentum",
-    "summary": "Political parties are increasingly using digital platforms for campaigning."
+    "featured": true,
+    "category": "Health",
+    "date": "April 22, 2026",
+    "title": "Doctors Issue Public Health Advisory",
+    "summary": "Medical professionals advised citizens to take precautions against heat-related illnesses while participating in voting."
   },
   {
     "id": "cbe-eve28",
-    "featured": false,
-    "category": "Lifestyle",
-    "date": "April 21, 2026",
-    "title": "Residents Prefer Indoor Activities Due to Heat",
-    "summary": "High temperatures have led many residents to stay indoors during the evening."
+    "featured": true,
+    "category": "Security",
+    "date": "April 22, 2026",
+    "title": "Checkposts Strengthened Across City",
+    "summary": "Entry and exit points were placed under strict surveillance to prevent illegal activities."
   },
   {
     "id": "cbe-eve29",
-    "featured": false,
-    "category": "Culture",
-    "date": "April 21, 2026",
-    "title": "Small Cultural Events Held",
-    "summary": "Local cultural programs were held with moderate participation."
+    "featured": true,
+    "category": "Market",
+    "date": "April 22, 2026",
+    "title": "Vegetable Prices Fluctuate",
+    "summary": "Supply variations led to fluctuations in vegetable prices across local markets."
   },
   {
     "id": "cbe-eve30",
-    "featured": false,
-    "category": "Tourism",
-    "date": "April 21, 2026",
-    "title": "Evening Visits Increase at Local Spots",
-    "summary": "Tourist spots saw increased visitors during evening hours."
+    "featured": true,
+    "category": "Business",
+    "date": "April 22, 2026",
+    "title": "SMEs Continue Stable Operations",
+    "summary": "Small and medium enterprises maintained steady production levels despite election-related adjustments."
   },
 
   {
     "id": "cbe-eve31",
-    "featured": false,
-    "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Hospitals Prepare for Heat Cases",
-    "summary": "Hospitals are preparing to handle heat-related illnesses."
+    "featured": true,
+    "category": "Education",
+    "date": "April 22, 2026",
+    "title": "Students Adjust Study Routines",
+    "summary": "Students adapted their schedules due to polling-related holidays and changes."
   },
   {
     "id": "cbe-eve32",
-    "featured": false,
-    "category": "Civic",
-    "date": "April 21, 2026",
-    "title": "Water Supply Monitoring Strengthened",
-    "summary": "Authorities are ensuring uninterrupted water supply across the city."
+    "featured": true,
+    "category": "Environment",
+    "date": "April 22, 2026",
+    "title": "Waste Management Monitored",
+    "summary": "Authorities ensured proper waste management at key locations including dumping yards."
   },
   {
     "id": "cbe-eve33",
-    "featured": false,
-    "category": "Business",
-    "date": "April 21, 2026",
-    "title": "Small Businesses Remain Stable",
-    "summary": "Local businesses reported stable operations despite election restrictions."
+    "featured": true,
+    "category": "Public Safety",
+    "date": "April 22, 2026",
+    "title": "Fire Services Positioned Strategically",
+    "summary": "Fire and rescue units were deployed at critical points for emergency response."
   },
   {
     "id": "cbe-eve34",
-    "featured": false,
-    "category": "Education",
-    "date": "April 21, 2026",
-    "title": "Students Continue Exam Preparation",
-    "summary": "Students continued preparing for exams during evening study sessions."
+    "featured": true,
+    "category": "Culture",
+    "date": "April 22, 2026",
+    "title": "Public Events Restricted",
+    "summary": "Cultural and entertainment events were limited due to election code enforcement."
   },
   {
     "id": "cbe-eve35",
-    "featured": false,
+    "featured": true,
     "category": "Infrastructure",
-    "date": "April 21, 2026",
-    "title": "Streetlight Maintenance Work Ongoing",
-    "summary": "Maintenance of streetlights was carried out to improve safety."
+    "date": "April 22, 2026",
+    "title": "Urban Works Continue Selectively",
+    "summary": "Infrastructure projects continued in non-sensitive areas with minimal disruption."
   },
 
   {
     "id": "cbe-eve36",
-    "featured": false,
+    "featured": true,
+    "category": "Economy",
+    "date": "April 22, 2026",
+    "title": "Local Economy Shows Stability",
+    "summary": "Despite temporary disruptions, key economic sectors remained stable."
+  },
+  {
+    "id": "cbe-eve37",
+    "featured": true,
+    "category": "Public",
+    "date": "April 22, 2026",
+    "title": "Citizens Discuss Key Election Issues",
+    "summary": "Residents engaged in discussions about governance, development, and local concerns."
+  },
+  {
+    "id": "cbe-eve38",
+    "featured": true,
     "category": "Transport",
-    "date": "April 21, 2026",
+    "date": "April 22, 2026",
     "title": "Auto Drivers Raise Fare Concerns",
     "summary": "Auto drivers expressed concerns over rising fuel costs and demanded fare revisions."
   },
   {
-    "id": "cbe-eve37",
-    "featured": false,
-    "category": "Environment",
-    "date": "April 21, 2026",
-    "title": "Pollution Levels Remain Low",
-    "summary": "Pollution levels remained under control in most parts of the city."
-  },
-  {
-    "id": "cbe-eve38",
-    "featured": false,
-    "category": "Retail",
-    "date": "April 21, 2026",
-    "title": "Evening Market Sales Improve",
-    "summary": "Some markets reported improved sales as footfall increased."
-  },
-  {
     "id": "cbe-eve39",
-    "featured": false,
-    "category": "Public",
-    "date": "April 21, 2026",
-    "title": "Citizens Discuss Election Issues",
-    "summary": "Residents engaged in discussions about key election issues affecting the city."
+    "featured": true,
+    "category": "Retail",
+    "date": "April 22, 2026",
+    "title": "Evening Market Activity Improves",
+    "summary": "Some markets saw increased footfall during evening hours."
   },
   {
     "id": "cbe-eve40",
-    "featured": false,
-    "category": "Security",
-    "date": "April 21, 2026",
-    "title": "Security Tightened in Polling Areas",
-    "summary": "Security measures were intensified in designated polling zones."
+    "featured": true,
+    "category": "Tourism",
+    "date": "April 22, 2026",
+    "title": "Local Spots See Limited Visitors",
+    "summary": "Tourist spots experienced moderate activity due to election focus."
   },
 
   {
     "id": "cbe-eve41",
-    "featured": false,
-    "category": "Economy",
-    "date": "April 21, 2026",
-    "title": "Industrial Activity Remains Steady",
-    "summary": "Industrial sectors continued operations with stable production levels."
+    "featured": true,
+    "category": "Health",
+    "date": "April 22, 2026",
+    "title": "Hospitals Prepare for Heat Cases",
+    "summary": "Hospitals readied additional staff and beds for heat-related illnesses."
   },
   {
     "id": "cbe-eve42",
-    "featured": false,
-    "category": "Culture",
-    "date": "April 21, 2026",
-    "title": "Local Events See Moderate Participation",
-    "summary": "Evening events attracted moderate crowds due to weather conditions."
+    "featured": true,
+    "category": "Civic",
+    "date": "April 22, 2026",
+    "title": "Drainage Systems Inspected",
+    "summary": "Authorities conducted inspections to prevent waterlogging issues."
   },
   {
     "id": "cbe-eve43",
-    "featured": false,
-    "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Doctors Advise Hydration",
-    "summary": "Doctors advised residents to drink plenty of fluids during hot weather."
+    "featured": true,
+    "category": "Technology",
+    "date": "April 22, 2026",
+    "title": "EVM Security Strengthened",
+    "summary": "Electronic voting machines were secured under strict supervision."
   },
   {
     "id": "cbe-eve44",
-    "featured": false,
+    "featured": true,
     "category": "Market",
-    "date": "April 21, 2026",
-    "title": "Commodity Prices Remain Unstable",
-    "summary": "Commodity prices showed instability due to supply-demand variations."
+    "date": "April 22, 2026",
+    "title": "Commodity Prices Show Variation",
+    "summary": "Prices fluctuated due to supply-demand imbalances."
   },
   {
     "id": "cbe-eve45",
-    "featured": false,
-    "category": "Tourism",
-    "date": "April 21, 2026",
-    "title": "Weekend Travel Plans Increase",
-    "summary": "Residents are planning weekend trips to nearby tourist spots."
+    "featured": true,
+    "category": "Business",
+    "date": "April 22, 2026",
+    "title": "Commercial Areas See Moderate Activity",
+    "summary": "Business zones reported moderate customer footfall."
   },
 
   {
     "id": "cbe-eve46",
-    "featured": false,
+    "featured": true,
     "category": "Public Safety",
-    "date": "April 21, 2026",
-    "title": "Emergency Response Teams Ready",
-    "summary": "Emergency response teams remained alert for any incidents."
+    "date": "April 22, 2026",
+    "title": "Emergency Units Fully Prepared",
+    "summary": "All emergency response teams remained fully operational and alert."
   },
   {
     "id": "cbe-eve47",
-    "featured": false,
-    "category": "Civic",
-    "date": "April 21, 2026",
-    "title": "Drainage Cleaning Work Continues",
-    "summary": "Drainage cleaning activities were carried out in several areas."
+    "featured": true,
+    "category": "Environment",
+    "date": "April 22, 2026",
+    "title": "Pollution Levels Remain Low",
+    "summary": "Air and noise pollution levels stayed within acceptable limits."
   },
   {
     "id": "cbe-eve48",
-    "featured": false,
-    "category": "Business",
-    "date": "April 21, 2026",
-    "title": "SMEs Maintain Production Levels",
-    "summary": "Small and medium enterprises maintained steady production levels."
+    "featured": true,
+    "category": "Education",
+    "date": "April 22, 2026",
+    "title": "Tuition Centers Continue Classes",
+    "summary": "Evening tuition centers functioned with good attendance."
   },
   {
     "id": "cbe-eve49",
-    "featured": false,
-    "category": "Education",
-    "date": "April 21, 2026",
-    "title": "Evening Tuition Centers See Attendance",
-    "summary": "Students attended tuition classes in preparation for exams."
+    "featured": true,
+    "category": "Infrastructure",
+    "date": "April 22, 2026",
+    "title": "Streetlight Maintenance Completed",
+    "summary": "Maintenance work improved visibility in key areas."
   },
   {
     "id": "cbe-eve50",
-    "featured": false,
-    "category": "Infrastructure",
-    "date": "April 21, 2026",
-    "title": "Urban Development Works Progress",
-    "summary": "Urban infrastructure projects continued progressing across the city."
+    "featured": true,
+    "category": "Election",
+    "date": "April 22, 2026",
+    "title": "Officials Express Confidence in Smooth Polling",
+    "summary": "Election officials expressed confidence that all arrangements are in place for conducting peaceful and efficient polling across Coimbatore."
   }
 ]
