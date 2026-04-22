@@ -4,7 +4,6 @@ import { useLanguage } from "@/contexts/LanguageContext";
 import { Link } from "react-router-dom";
 import { ArrowRight, TrendingUp, Clock, Flame, Zap } from "lucide-react";
 import modiCoimbatore from "@/assets/modi-coimbatore.jpg";
-import valparaiAccident from "@/assets/news/valparai-accident.png";
 
 // 100% JSON-driven content. Edit the JSON files in /src/data/news/ to update the site.
 import coimbatoreNews from "@/data/news/coimbatore.json";
@@ -109,10 +108,10 @@ const allNews: DisplayArticle[] = sources.flatMap(([district, items]) =>
 
 const sortedNews = [...allNews].sort(sortByDateDesc);
 
-// Hero: newest featured article from JSON, else newest article. Override hero image with the Valparai accident infographic.
+// Hero: newest featured article from JSON, else newest article. Override hero image with the Vote infographic.
 const heroNewsBase = sortedNews.find((n) => featuredIds.has(n.id)) ?? sortedNews[0];
 const heroNews: DisplayArticle = heroNewsBase
-  ? { ...heroNewsBase, image: valparaiAccident }
+  ? { ...heroNewsBase, image: "/news/vote.png" }
   : ({} as DisplayArticle);
 
 const remaining = sortedNews.filter((n) => n.id !== heroNews.id);
