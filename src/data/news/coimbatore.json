@@ -1,19 +1,19 @@
 [
   {
-    "id": "cbe-new1",
+    "id": "cbe-1",
     "featured": true,
-    "category": "Election",
+    "category": "Business",
     "date": "April 22, 2026",
-    "title": "Final Poll Readiness Review Completed",
-    "summary": "District administration confirmed full preparedness after conducting final inspections across polling stations."
+    "title": "Coimbatore Export Surge: Engineering Goods Hit ₹18,450 Crore",
+    "summary": "Engineering goods and textiles exports from Coimbatore reached record highs in FY2026, recording 12.3% growth—highest in a decade. Industry credits improved port connectivity and bilateral trade agreements."
   },
   {
-    "id": "cbe-new2",
+    "id": "cbe-2",
     "featured": true,
-    "category": "Security",
+    "category": "Infrastructure",
     "date": "April 22, 2026",
-    "title": "Drone Surveillance Introduced",
-    "summary": "Police deployed drones in sensitive zones to enhance monitoring and prevent election violations."
+    "title": "Smart Traffic System Reduces Congestion by 28% on Avinashi Road",
+    "summary": "AI-powered traffic management system launched on Coimbatore's busiest 12-km arterial. Real-time vehicle counting and adaptive signals optimize flow during peak hours."
   },
   {
     "id": "cbe-new3",
