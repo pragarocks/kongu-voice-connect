@@ -2,410 +2,417 @@
   {
     "id": "erd-eve1",
     "featured": true,
-    "category": "Election",
+    "category": "Election (Govt)",
     "date": "April 22, 2026",
-    "title": "Polling Preparations Intensify Across Erode",
-    "summary": "Authorities across Erode district have significantly intensified preparations for the upcoming polling day, ensuring that all logistical, administrative, and security arrangements are fully in place. Polling booths across urban and rural areas have been equipped with Electronic Voting Machines (EVMs), VVPAT units, drinking water facilities, shaded waiting areas, and accessibility features for elderly and differently-abled voters. Officials conducted repeated inspections and coordination meetings with various departments. Special attention has been given to interior regions to ensure smooth and inclusive voting."
+    "title": "Polling stations prepared (Erode assembly election)",
+    "summary": "District admin set up 2,379 polling stations (8 constituencies) for Apr 23 polls; 11,420 officers assigned. Voter information slips delivered to ~94% of 1.759M electors."
   },
   {
     "id": "erd-eve2",
     "featured": true,
-    "category": "Election",
+    "category": "Crime/Politics",
     "date": "April 22, 2026",
-    "title": "Strict Monitoring on Cash Movement",
-    "summary": "Election flying squads and surveillance teams intensified checks across highways, market areas, and district borders to curb illegal cash distribution. Several vehicles were intercepted and inspected, and unaccounted money was seized. Authorities warned that strict legal action will be taken against those violating election norms."
+    "title": "Electoral cash seizures",
+    "summary": "Authorities report seizure of ₹2 crore in undocumented cash from poll-related activities in Erode district. Investigations are ongoing under the election code."
   },
   {
     "id": "erd-eve3",
     "featured": true,
-    "category": "Politics",
+    "category": "Election (Security)",
     "date": "April 22, 2026",
-    "title": "Campaigning Ends with Strong Public Engagement",
-    "summary": "Political parties concluded their campaigns with rallies and public meetings across Erode district. Leaders highlighted issues related to agriculture, textile industries, employment, and infrastructure development while making final appeals to voters."
+    "title": "Paramilitary & mobile ban on polling day",
+    "summary": "Paramilitary forces from Kerala and Andhra will guard booths from 7 AM–6 PM on election day. All campaigning ends by 6 PM on Apr 22; no mobile phones (except officials') allowed inside booths. Mobile-storage facilities set up at booth entrances."
   },
   {
     "id": "erd-eve4",
     "featured": true,
-    "category": "Security",
+    "category": "Election (Logistics)",
     "date": "April 22, 2026",
-    "title": "Multi-Layer Security Deployed",
-    "summary": "Security arrangements have been strengthened with deployment of central forces and additional police personnel. Checkposts, patrol units, and surveillance systems are actively monitoring sensitive areas."
+    "title": "Polling booths CCTV & EVM tracking",
+    "summary": "Every polling station is equipped with CCTV, and 259 GPS-tracked vehicles will transport EVMs to ensure secure voting. Special \"women-only\" booths and \"green stations\" in hill villages are deployed to aid voters."
   },
   {
     "id": "erd-eve5",
     "featured": true,
     "category": "Transport",
     "date": "April 22, 2026",
-    "title": "Transport Plans Finalized for Polling",
-    "summary": "Authorities arranged special buses and vehicles to transport polling staff and election materials across the district, including remote villages."
+    "title": "Heavy vehicles banned on NH-948 ghat",
+    "summary": "To facilitate election logistics, heavy vehicles were barred on the NH-948 Sathyamangalam–Bannari ghat stretch (Apr 22–24). The ban aims to ensure smooth delivery of poll materials to remote Bhavanisagar hill areas."
   },
-
   {
     "id": "erd-eve6",
     "featured": true,
-    "category": "Health",
+    "category": "Govt Notification",
     "date": "April 22, 2026",
-    "title": "Healthcare Teams Deployed",
-    "summary": "Medical teams and ambulances have been stationed near polling booths to handle emergencies and heat-related illnesses."
+    "title": "Special Flying Squad for liquor (election)",
+    "summary": "District officials have formed a special flying squad (21–23 Apr) to prevent illicit liquor sale ahead of polling. All TASMAC outlets and licensed bars will be closed Apr 21–24; transport of alcohol will be strictly monitored."
   },
   {
     "id": "erd-eve7",
     "featured": true,
-    "category": "Weather",
+    "category": "Business",
     "date": "April 22, 2026",
-    "title": "Heatwave Conditions Continue",
-    "summary": "High temperatures continue to affect daily life in Erode, prompting authorities to advise precautions."
+    "title": "Jewellery market slump",
+    "summary": "The weekly Erode jewellery market (Mon–Tue) was \"deserted\" on Apr 22. Out-of-state traders largely stayed away amid election cash-check squads (Illicit Cash Cell checking cash >₹50k), causing sharp drop in trading volumes."
   },
   {
     "id": "erd-eve8",
     "featured": true,
-    "category": "Public",
+    "category": "Crime",
     "date": "April 22, 2026",
-    "title": "Voter Awareness Drives Intensified",
-    "summary": "Awareness campaigns were conducted to encourage higher voter turnout."
+    "title": "Copper wire theft – suspect arrested",
+    "summary": "Police in Chennimalai (Arasur Rd) arrested a 28-year-old man from West Bengal for stealing ~6 kg of copper wire from a private mobile-phone tower. The stolen copper (valued ₹1.7K/kg) was recovered."
   },
   {
     "id": "erd-eve9",
     "featured": true,
-    "category": "Election",
+    "category": "Market/Agriculture",
     "date": "April 22, 2026",
-    "title": "EVM Testing Completed",
-    "summary": "Mock polling ensured proper functioning of voting machines."
+    "title": "Agri produce auction: ₹1.14 Cr traded",
+    "summary": "At Kodumudi regulated market (Apr 20 auction reported Apr 22), ~23.5K coconuts (6,690 kg) fetched ₹2.90L total (avg ₹43.5/kg), 50.01 t copra sold for ₹77.06L (avg ₹154/kg), and 24.76 t castor sold for ₹34.42L (avg ₹139/kg). Total sale ≈₹1.14 crore across coconut, copra, castor."
   },
   {
     "id": "erd-eve10",
     "featured": true,
-    "category": "Crime",
+    "category": "Market (Precious)",
     "date": "April 22, 2026",
-    "title": "Illegal Cash and Liquor Seized",
-    "summary": "Police seized materials linked to election malpractice."
+    "title": "Gold price update (Erode)",
+    "summary": "24K gold price: ₹15,546/g (down ₹54); 22K: ₹14,250/g (down ₹50); 18K: ₹11,804/g (down ₹51). Short-term trend: ~₹50 decline on 22 Apr in local Erode market."
   },
-
   {
     "id": "erd-eve11",
     "featured": true,
-    "category": "Security",
+    "category": "Market (Precious)",
     "date": "April 22, 2026",
-    "title": "Night Patrols Increased",
-    "summary": "Police intensified patrols in sensitive areas."
+    "title": "Silver price update (Erode)",
+    "summary": "Silver trading at ₹275/g (₹2,75,000/kg) in Erode on 22 Apr 2026. (Price stable/slightly fluctuating from ₹275.)"
   },
   {
     "id": "erd-eve12",
-    "featured": true,
-    "category": "Agriculture",
+    "featured": false,
+    "category": "Market (Agriculture)",
     "date": "April 22, 2026",
-    "title": "Farm Activities Continue",
-    "summary": "Farmers continued irrigation and crop maintenance activities."
+    "title": "Turmeric price (Erode mandi)",
+    "summary": "Local mandi rates around ₹12,651/quintal on average (range ₹10,979–14,323) for Erode market \"Other\" variety turmeric."
   },
   {
     "id": "erd-eve13",
     "featured": true,
-    "category": "Civic",
+    "category": "Weather",
     "date": "April 22, 2026",
-    "title": "Sanitation Work Completed",
-    "summary": "Cleaning drives carried out near polling booths."
+    "title": "Weather – hot and dry",
+    "summary": "IMD reports primarily clear skies in Erode on Apr 22. Forecast high ~39.8 °C, low ~27.1 °C. No rainfall; heat wave conditions continuing."
   },
   {
     "id": "erd-eve14",
-    "featured": true,
-    "category": "Business",
+    "featured": false,
+    "category": "Education",
     "date": "April 22, 2026",
-    "title": "Textile Markets See Slowdown",
-    "summary": "Erode textile markets reported reduced activity due to elections."
+    "title": "Schools/colleges closed tomorrow (election)",
+    "summary": "Local reports indicate all educational institutions will observe holiday on Apr 23 (TN polling day)."
   },
   {
     "id": "erd-eve15",
-    "featured": true,
-    "category": "Public Safety",
+    "featured": false,
+    "category": "Health",
     "date": "April 22, 2026",
-    "title": "Emergency Teams on Alert",
-    "summary": "Emergency services remained ready across district."
+    "title": "Hospitals/health update",
+    "summary": "No major health advisories. Hospitals report normal patient flow; no unusual outbreaks."
   },
-
   {
     "id": "erd-eve16",
-    "featured": true,
-    "category": "Education",
+    "featured": false,
+    "category": "Civic Services",
     "date": "April 22, 2026",
-    "title": "Schools Closed for Polling",
-    "summary": "Schools declared holidays as they serve as polling booths."
+    "title": "Water supply status",
+    "summary": "No major disruptions reported; Erode water works supplying normally across city."
   },
   {
     "id": "erd-eve17",
-    "featured": true,
-    "category": "Market",
+    "featured": false,
+    "category": "Utilities",
     "date": "April 22, 2026",
-    "title": "Grocery Demand Rises",
-    "summary": "Residents stocked essentials ahead of polling."
+    "title": "Power supply update",
+    "summary": "All municipal areas under regular electricity; no planned outages announced for today."
   },
   {
     "id": "erd-eve18",
-    "featured": true,
-    "category": "Environment",
+    "featured": false,
+    "category": "Community/Social",
     "date": "April 22, 2026",
-    "title": "Air Quality Stable",
-    "summary": "Pollution levels remained within safe limits."
+    "title": "Social media buzz",
+    "summary": "Hashtag #ErodeVotes trending on X/Twitter; residents post polling selfies and civic feedback."
   },
   {
     "id": "erd-eve19",
-    "featured": true,
-    "category": "Infrastructure",
+    "featured": false,
+    "category": "Culture/Arts",
     "date": "April 22, 2026",
-    "title": "Road and Streetlight Checks Completed",
-    "summary": "Maintenance work completed near polling areas."
+    "title": "Cultural events update",
+    "summary": "No major festivals or concerts reported today in Erode (normal daily routine)."
   },
   {
     "id": "erd-eve20",
-    "featured": true,
-    "category": "Economy",
+    "featured": false,
+    "category": "Sports",
     "date": "April 22, 2026",
-    "title": "Local Economy Stable",
-    "summary": "Key sectors including textiles and agriculture remained stable."
+    "title": "Sports update",
+    "summary": "No significant local sports results; weekend cricket/football events concluded over weekend."
   },
-
   {
     "id": "erd-eve21",
-    "featured": true,
-    "category": "Technology",
+    "featured": false,
+    "category": "Health",
     "date": "April 22, 2026",
-    "title": "Digital Monitoring Strengthened",
-    "summary": "Authorities tracked online content for violations."
+    "title": "COVID-19 update",
+    "summary": "No new local Covid-19 cases of note; Erode's case count remains low."
   },
   {
     "id": "erd-eve22",
-    "featured": true,
-    "category": "Public",
+    "featured": false,
+    "category": "Infrastructure",
     "date": "April 22, 2026",
-    "title": "Residents Prepare for Voting",
-    "summary": "Citizens planned participation in polling."
+    "title": "Infrastructure works update",
+    "summary": "No new road/bridge project announcements today; ongoing municipal works continue as scheduled."
   },
   {
     "id": "erd-eve23",
-    "featured": true,
-    "category": "Tourism",
+    "featured": false,
+    "category": "Transport",
     "date": "April 22, 2026",
-    "title": "Tourism Activity Drops",
-    "summary": "Visitor numbers declined during election period."
+    "title": "Traffic conditions",
+    "summary": "City traffic normal; election-related convoys infrequently cause brief slowdowns (no reports of major jams)."
   },
   {
     "id": "erd-eve24",
-    "featured": true,
-    "category": "Lifestyle",
+    "featured": false,
+    "category": "Business",
     "date": "April 22, 2026",
-    "title": "Indoor Activities Increase",
-    "summary": "Residents avoided outdoor heat."
+    "title": "Economic/business news",
+    "summary": "No major corporate or industry news specific to Erode today; local businesses reported routine operations (except jewellery market slump)."
   },
   {
     "id": "erd-eve25",
-    "featured": true,
-    "category": "Transport",
+    "featured": false,
+    "category": "Market (Commodities)",
     "date": "April 22, 2026",
-    "title": "Bus Movement Moderate",
-    "summary": "Public transport saw steady passenger flow."
+    "title": "Market: vegetables",
+    "summary": "Erode vegetable mandi reports stable prices (e.g., onion ~₹25/kg, tomato ~₹40/kg)."
   },
-
   {
     "id": "erd-eve26",
-    "featured": true,
-    "category": "Civic",
+    "featured": false,
+    "category": "Market (Fuel)",
     "date": "April 22, 2026",
-    "title": "Water Supply Maintained",
-    "summary": "Authorities ensured uninterrupted water supply."
+    "title": "Market: fuel prices",
+    "summary": "Petrol ~₹101.1/l, diesel ~₹93.0/l (unchanged from previous week). No govt fuel price hike announced."
   },
   {
     "id": "erd-eve27",
-    "featured": true,
-    "category": "Health",
+    "featured": false,
+    "category": "Environment",
     "date": "April 22, 2026",
-    "title": "Doctors Issue Advisory",
-    "summary": "Precautions advised against heat exposure."
+    "title": "Air quality and environment",
+    "summary": "Air quality moderate; no dust storms or pollution alerts."
   },
   {
     "id": "erd-eve28",
-    "featured": true,
-    "category": "Security",
+    "featured": false,
+    "category": "Community/Social",
     "date": "April 22, 2026",
-    "title": "Checkposts Strengthened",
-    "summary": "Strict checks at entry points."
+    "title": "Notable social forum posts",
+    "summary": "A viral post on local FB group warned of election-related phone scams; officials dismiss it as false."
   },
   {
     "id": "erd-eve29",
     "featured": true,
-    "category": "Market",
+    "category": "Govt Services",
     "date": "April 22, 2026",
-    "title": "Vegetable Prices Fluctuate",
-    "summary": "Supply changes affected pricing."
+    "title": "Government notices issued",
+    "summary": "District's election notices (flying squads, booth info) publicized; no new non-election govt orders posted today."
   },
   {
     "id": "erd-eve30",
     "featured": true,
-    "category": "Business",
+    "category": "Election (Setup)",
     "date": "April 22, 2026",
-    "title": "SMEs Continue Operations",
-    "summary": "Small businesses remained stable."
+    "title": "Polling booths ready across Erode",
+    "summary": "District announced 2,379 polling stations set up (8 constituencies) with 11,420 officers for Apr 23 polls. ~94% of 1.759M voters got voter-info slips."
   },
-
   {
     "id": "erd-eve31",
     "featured": true,
-    "category": "Education",
+    "category": "Election (Security)",
     "date": "April 22, 2026",
-    "title": "Students Continue Preparation",
-    "summary": "Students focused on exam preparation."
+    "title": "Parameters for polling day enforced",
+    "summary": "Strict poll-day rules: all campaigning ends 6 PM on Apr 22; no mobile phones allowed inside booths (storage lockers provided). Paramilitary forces from Kerala/AP will guard booths 7AM–6PM."
   },
   {
     "id": "erd-eve32",
     "featured": true,
-    "category": "Environment",
+    "category": "Crime/Election",
     "date": "April 22, 2026",
-    "title": "Waste Management Ongoing",
-    "summary": "Sanitation teams ensured cleanliness."
+    "title": "Illicit cash seizures reported",
+    "summary": "Police/ACB seized ₹2 crore in undocumented cash during the campaign in Erode so far. Cases are under investigation to curb election money."
   },
   {
     "id": "erd-eve33",
     "featured": true,
-    "category": "Public Safety",
+    "category": "Transport",
     "date": "April 22, 2026",
-    "title": "Fire Services Ready",
-    "summary": "Emergency units stationed strategically."
+    "title": "Heavy vehicles banned on NH-948",
+    "summary": "Erode admin banned heavy trucks on the NH-948 ghat stretch (Sathy–Bannari) from 22–24 Apr to ensure smooth transport of poll materials to hill booths."
   },
   {
     "id": "erd-eve34",
     "featured": true,
-    "category": "Culture",
+    "category": "Govt Notice",
     "date": "April 22, 2026",
-    "title": "Events Restricted",
-    "summary": "Public events limited due to election code."
+    "title": "Special Flying Squad for liquor",
+    "summary": "District formed a special squad (21–23 Apr) to prevent illicit liquor trade during polls. All TASMAC shops/bars closed 21–24 Apr; transport of alcohol closely monitored."
   },
   {
     "id": "erd-eve35",
     "featured": true,
-    "category": "Infrastructure",
+    "category": "Business/Market",
     "date": "April 22, 2026",
-    "title": "Infrastructure Works Continue",
-    "summary": "Projects ongoing in non-sensitive areas."
+    "title": "Jewellery market sees low turnout",
+    "summary": "Erode's weekly Tue jewellery market was \"deserted\" on Apr 22. Out-of-state traders (from AP/Kerala/Karnataka) stayed away due to cash-check squads enforcing election rules, reducing business."
   },
-
   {
     "id": "erd-eve36",
     "featured": true,
-    "category": "Economy",
+    "category": "Crime",
     "date": "April 22, 2026",
-    "title": "Daily Wage Workers Affected",
-    "summary": "Temporary slowdown in work opportunities."
+    "title": "Copper wire theft – suspect arrested",
+    "summary": "Police in Chennimalai area arrested a 28-y/o from West Bengal for stealing ~6 kg copper wire from a cellphone tower. The wire (valued ~₹1.7K/kg) was seized."
   },
   {
     "id": "erd-eve37",
     "featured": true,
-    "category": "Public",
+    "category": "Market/Agriculture",
     "date": "April 22, 2026",
-    "title": "Election Discussions Increase",
-    "summary": "Residents discussed key issues."
+    "title": "Agri market auction: ₹1.14 Cr trade",
+    "summary": "Kodumudi Mandi (Apr 20 auction) saw ~23,495 coconuts sold (6,690 kg for ₹2.90L), 50.01 t copra for ₹77.06L, and 24.76 t castor for ₹34.42L. Total sale ~₹1.14 Crore."
   },
   {
     "id": "erd-eve38",
     "featured": true,
-    "category": "Transport",
+    "category": "Market/Prices",
     "date": "April 22, 2026",
-    "title": "Auto Drivers Raise Concerns",
-    "summary": "Demand for fare revision continues."
+    "title": "Gold price update (Erode)",
+    "summary": "24K gold traded at ₹15,546/g (↓₹54), 22K at ₹14,250/g (↓₹50), 18K ₹11,804/g (↓₹51) on Apr 22. Prices eased modestly from previous day."
   },
   {
     "id": "erd-eve39",
     "featured": true,
-    "category": "Retail",
+    "category": "Market/Prices",
     "date": "April 22, 2026",
-    "title": "Evening Sales Improve",
-    "summary": "Markets saw moderate growth."
+    "title": "Silver price update (Erode)",
+    "summary": "Silver priced at ₹275/g (₹2,75,000/kg) on Apr 22, virtually unchanged. (Vendor quotes from Erode market; small fluctuations.)"
   },
   {
     "id": "erd-eve40",
-    "featured": true,
-    "category": "Tourism",
+    "featured": false,
+    "category": "Market/Agri",
     "date": "April 22, 2026",
-    "title": "Travel Plans Increase",
-    "summary": "Residents planned post-poll trips."
+    "title": "Turmeric mandi rates (avg ₹12,651/qtl)",
+    "summary": "Erode turmeric \"Other\" variety averaged ~₹12,651/quintal (range ₹10,979–14,323) on Apr 22. (Source: NaPanta mandi data.)"
   },
-
   {
     "id": "erd-eve41",
     "featured": true,
-    "category": "Health",
+    "category": "Weather",
     "date": "April 22, 2026",
-    "title": "Hospitals Prepare for Heat Cases",
-    "summary": "Healthcare facilities prepared for emergencies."
+    "title": "Weather – hot and clear",
+    "summary": "IMD forecast: clear skies, high ~39.8 °C on Apr 22. (Morning low ~27°C.) No rain expected."
   },
   {
     "id": "erd-eve42",
-    "featured": true,
-    "category": "Civic",
+    "featured": false,
+    "category": "Education",
     "date": "April 22, 2026",
-    "title": "Drainage Cleaning Completed",
-    "summary": "Preventive measures taken."
+    "title": "Schools/colleges holiday tomorrow",
+    "summary": "Reports say all educational institutions will remain closed on 23 Apr (poll day) per TN poll code."
   },
   {
     "id": "erd-eve43",
-    "featured": true,
-    "category": "Technology",
+    "featured": false,
+    "category": "Health",
     "date": "April 22, 2026",
-    "title": "EVM Security Strengthened",
-    "summary": "Voting machines secured under strict monitoring."
+    "title": "Hospitals: routine operations",
+    "summary": "No public health alerts. Local hospitals report normal patient inflow (no new outbreak or advisory)."
   },
   {
     "id": "erd-eve44",
-    "featured": true,
-    "category": "Market",
+    "featured": false,
+    "category": "Civic Services",
     "date": "April 22, 2026",
-    "title": "Commodity Prices Vary",
-    "summary": "Fluctuations observed."
+    "title": "Civic: Water supply normal",
+    "summary": "Municipal water department reports no major disruptions; drinking water supply ongoing as usual across Erode city."
   },
   {
     "id": "erd-eve45",
-    "featured": true,
-    "category": "Business",
+    "featured": false,
+    "category": "Utilities",
     "date": "April 22, 2026",
-    "title": "Commercial Activity Moderate",
-    "summary": "Business zones reported steady flow."
+    "title": "Civic: Power supply steady",
+    "summary": "No scheduled power outages announced for Apr 22. Tangedco reports all feeders functioning; any interruptions are localized and fixed."
   },
-
   {
     "id": "erd-eve46",
-    "featured": true,
-    "category": "Public Safety",
+    "featured": false,
+    "category": "Community/Social",
     "date": "April 22, 2026",
-    "title": "Emergency Units Fully Prepared",
-    "summary": "All teams ready for any incidents."
+    "title": "Social media buzz – #ErodeVotes",
+    "summary": "Online #ErodeVotes hashtag trending as locals share polling selfies and vote-rights messages. Viral post warns of fake poll surveys (dist. police caution)."
   },
   {
     "id": "erd-eve47",
-    "featured": true,
-    "category": "Environment",
+    "featured": false,
+    "category": "Culture",
     "date": "April 22, 2026",
-    "title": "Pollution Levels Remain Low",
-    "summary": "Air quality remained within safe limits."
+    "title": "Cultural events: none reported",
+    "summary": "No major festivals or events today; life normal. (Local temple calendars show no new events on Apr 22.)"
   },
   {
     "id": "erd-eve48",
-    "featured": true,
-    "category": "Education",
+    "featured": false,
+    "category": "Sports",
     "date": "April 22, 2026",
-    "title": "Tuition Centers Continue",
-    "summary": "Evening classes ongoing with steady attendance."
+    "title": "Sports: no major results",
+    "summary": "No major local sports tournaments concluded today. Weekend district league games continued informally."
   },
   {
     "id": "erd-eve49",
-    "featured": true,
-    "category": "Infrastructure",
+    "featured": false,
+    "category": "Environment",
     "date": "April 22, 2026",
-    "title": "Streetlight Maintenance Completed",
-    "summary": "Lighting improved near polling zones."
+    "title": "Environmental – moderate AQI",
+    "summary": "Air quality remains moderate (AQI ~70); no dust alerts or pollution spikes reported."
   },
   {
     "id": "erd-eve50",
-    "featured": true,
-    "category": "Election",
+    "featured": false,
+    "category": "Traffic/Transport",
     "date": "April 22, 2026",
-    "title": "Officials Confident of Smooth Polling",
-    "summary": "Officials expressed confidence in conducting peaceful and efficient elections across Erode district with all arrangements in place."
+    "title": "Road traffic: normal",
+    "summary": "No major road incidents reported. Traffic flows moderate; an election convoy slowed traffic on NH-544 briefly."
+  },
+  {
+    "id": "erd-eve51",
+    "featured": false,
+    "category": "Infrastructure",
+    "date": "April 22, 2026",
+    "title": "Infrastructure: no new announcements",
+    "summary": "No new road or civic infrastructure projects were announced or started today."
+  },
+  {
+    "id": "erd-eve52",
+    "featured": false,
+    "category": "Business",
+    "date": "April 22, 2026",
+    "title": "Business: market-hours normal",
+    "summary": "Shops and markets operated normal hours. (Local traders report steady business except polling districts have reduced activity.)"
   }
 ]
