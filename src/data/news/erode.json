@@ -1,410 +1,411 @@
 [
   {
-    "id": "erd-new1",
+    "id": "erd-eve1",
     "featured": true,
     "category": "Election",
-    "date": "April 21, 2026",
-    "title": "Election Campaigns Intensify Across Erode District",
-    "summary": "Major political parties have stepped up campaigning efforts across Erode ahead of upcoming polls."
+    "date": "April 22, 2026",
+    "title": "Polling Preparations Intensify in Erode District",
+    "summary": "Erode district administration has intensified election preparations across all constituencies, ensuring that polling booths are fully equipped with Electronic Voting Machines (EVMs), VVPAT units, drinking water, shaded waiting areas, and accessibility features for elderly and differently-abled voters. Officials conducted multiple inspections and coordination meetings with departments including police, transport, and health services. Special focus has been given to rural and interior regions to ensure accessibility and smooth logistics. Authorities emphasized transparency, voter convenience, and peaceful polling."
   },
   {
-    "id": "erd-new2",
-    "featured": false,
+    "id": "erd-eve2",
+    "featured": true,
     "category": "Election",
-    "date": "April 21, 2026",
-    "title": "Erode Emerges as Key Battleground in Tamil Nadu Elections",
-    "summary": "Erode district is witnessing intense competition among leading political parties."
+    "date": "April 22, 2026",
+    "title": "Flying Squads Intensify Surveillance",
+    "summary": "Election flying squads and surveillance teams have stepped up monitoring across Erode district to prevent illegal cash distribution and electoral malpractices. Intensive vehicle checks were conducted on highways and key routes. Authorities reported seizures of unaccounted cash and materials, with investigations underway. Officials urged citizens to report suspicious activities to maintain fair elections."
   },
   {
-    "id": "erd-new3",
-    "featured": false,
+    "id": "erd-eve3",
+    "featured": true,
     "category": "Politics",
-    "date": "April 21, 2026",
-    "title": "Youth Voters Play Crucial Role in Erode",
-    "summary": "Young voters are expected to influence election outcomes significantly."
+    "date": "April 22, 2026",
+    "title": "Campaigning Ends with High Engagement",
+    "summary": "Political parties concluded their election campaigns with rallies, public meetings, and door-to-door outreach across Erode. Candidates focused on local issues such as agriculture, textile industry growth, employment, and infrastructure. The final campaign day witnessed active participation from voters before the silence period came into effect."
   },
   {
-    "id": "erd-new4",
-    "featured": false,
-    "category": "Civic",
-    "date": "April 21, 2026",
-    "title": "Residents Demand Better Road Infrastructure",
-    "summary": "Citizens urge authorities to improve damaged roads in several areas."
-  },
-  {
-    "id": "erd-new5",
-    "featured": false,
-    "category": "Agriculture",
-    "date": "April 21, 2026",
-    "title": "Farmers Expect Good Yield This Season",
-    "summary": "Favorable weather conditions boost crop prospects in Erode district."
-  },
-  {
-    "id": "erd-new6",
-    "featured": false,
-    "category": "Market",
-    "date": "April 21, 2026",
-    "title": "Turmeric Prices See Slight Increase in Erode Markets",
-    "summary": "Traders report a rise in turmeric prices due to demand."
-  },
-  {
-    "id": "erd-new7",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Special Buses Operated for Election Duty",
-    "summary": "Transport department deploys extra buses across the district."
-  },
-  {
-    "id": "erd-new8",
-    "featured": false,
-    "category": "Crime",
-    "date": "April 21, 2026",
-    "title": "Police Tighten Security Ahead of Elections",
-    "summary": "Additional forces deployed in sensitive polling areas."
-  },
-
-  {
-    "id": "erd-new9",
-    "featured": false,
-    "category": "Weather",
-    "date": "April 21, 2026",
-    "title": "Erode Records Rise in Temperature",
-    "summary": "Day temperatures increase slightly across the region."
-  },
-  {
-    "id": "erd-new10",
-    "featured": false,
-    "category": "Education",
-    "date": "April 21, 2026",
-    "title": "Students Prepare for Semester Exams",
-    "summary": "Colleges in Erode begin exam preparations."
-  },
-  {
-    "id": "erd-new11",
-    "featured": false,
-    "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Free Health Camp Conducted",
-    "summary": "Doctors provided checkups for rural residents."
-  },
-  {
-    "id": "erd-new12",
-    "featured": false,
-    "category": "Environment",
-    "date": "April 21, 2026",
-    "title": "Tree Plantation Drive Organised",
-    "summary": "Volunteers plant saplings across villages."
-  },
-  {
-    "id": "erd-new13",
-    "featured": false,
-    "category": "Infrastructure",
-    "date": "April 21, 2026",
-    "title": "Road Repair Work Accelerated",
-    "summary": "Authorities speed up road maintenance before elections."
-  },
-  {
-    "id": "erd-new14",
-    "featured": false,
-    "category": "Business",
-    "date": "April 21, 2026",
-    "title": "Textile Industry Sees Increased Orders",
-    "summary": "Garment units report higher demand."
-  },
-  {
-    "id": "erd-new15",
-    "featured": false,
-    "category": "Crime",
-    "date": "April 21, 2026",
-    "title": "Cyber Awareness Program Conducted",
-    "summary": "Police educate public on avoiding online scams."
-  },
-
-  {
-    "id": "erd-new16",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Traffic Advisory Issued in Busy Areas",
-    "summary": "Commuters advised to avoid peak congestion routes."
-  },
-  {
-    "id": "erd-new17",
-    "featured": false,
-    "category": "Retail",
-    "date": "April 21, 2026",
-    "title": "Markets Witness Increased Footfall",
-    "summary": "Shoppers crowd local markets ahead of holidays."
-  },
-  {
-    "id": "erd-new18",
-    "featured": false,
-    "category": "Public Safety",
-    "date": "April 21, 2026",
-    "title": "Fire Safety Inspections Conducted",
-    "summary": "Officials inspect commercial buildings."
-  },
-  {
-    "id": "erd-new19",
-    "featured": false,
-    "category": "Tourism",
-    "date": "April 21, 2026",
-    "title": "Tourist Spots See Increased Visitors",
-    "summary": "Nearby attractions attract more tourists."
-  },
-  {
-    "id": "erd-new20",
-    "featured": false,
-    "category": "Culture",
-    "date": "April 21, 2026",
-    "title": "Local Cultural Events Attract Crowds",
-    "summary": "Music and dance programs draw participation."
-  },
-
-  {
-    "id": "erd-new21",
-    "featured": false,
-    "category": "Agriculture",
-    "date": "April 21, 2026",
-    "title": "Farmers Seek Better Irrigation Facilities",
-    "summary": "Water availability remains a key concern."
-  },
-  {
-    "id": "erd-new22",
-    "featured": false,
-    "category": "Civic",
-    "date": "April 21, 2026",
-    "title": "Garbage Clearance Drives Intensified",
-    "summary": "Municipality improves sanitation efforts."
-  },
-  {
-    "id": "erd-new23",
-    "featured": false,
-    "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Heat Advisory Issued for Residents",
-    "summary": "People advised to stay hydrated during hot weather."
-  },
-  {
-    "id": "erd-new24",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Railway Stations See Passenger Rush",
-    "summary": "Increased travel reported due to elections."
-  },
-  {
-    "id": "erd-new25",
-    "featured": false,
-    "category": "Economy",
-    "date": "April 21, 2026",
-    "title": "Small Businesses Report Growth",
-    "summary": "Retail and local businesses see improved sales."
-  },
-
-  {
-    "id": "erd-new26",
-    "featured": false,
-    "category": "Education",
-    "date": "April 21, 2026",
-    "title": "Awareness Programs on Voting Conducted",
-    "summary": "Students educated about importance of voting."
-  },
-  {
-    "id": "erd-new27",
-    "featured": false,
-    "category": "Law",
-    "date": "April 21, 2026",
-    "title": "Model Code Violations Monitored",
-    "summary": "Election officials track violations strictly."
-  },
-  {
-    "id": "erd-new28",
-    "featured": false,
-    "category": "Environment",
-    "date": "April 21, 2026",
-    "title": "Water Body Cleanup Drives Continue",
-    "summary": "Volunteers clean lakes and ponds."
-  },
-  {
-    "id": "erd-new29",
-    "featured": false,
-    "category": "Energy",
-    "date": "April 21, 2026",
-    "title": "Power Consumption Rises",
-    "summary": "Electricity demand increases due to heat."
-  },
-  {
-    "id": "erd-new30",
-    "featured": false,
-    "category": "Sports",
-    "date": "April 21, 2026",
-    "title": "District-Level Sports Events Held",
-    "summary": "Students participate in competitions."
-  },
-
-  {
-    "id": "erd-new31",
-    "featured": false,
-    "category": "Startup",
-    "date": "April 21, 2026",
-    "title": "New Startup Initiatives Announced",
-    "summary": "Government promotes entrepreneurship programs."
-  },
-  {
-    "id": "erd-new32",
-    "featured": false,
-    "category": "Public",
-    "date": "April 21, 2026",
-    "title": "Voter Awareness Campaigns Intensify",
-    "summary": "Officials encourage higher voter turnout."
-  },
-  {
-    "id": "erd-new33",
-    "featured": false,
+    "id": "erd-eve4",
+    "featured": true,
     "category": "Security",
-    "date": "April 21, 2026",
-    "title": "Additional Police Forces Deployed",
-    "summary": "Security strengthened in key locations."
+    "date": "April 22, 2026",
+    "title": "Security Strengthened Across District",
+    "summary": "Security arrangements have been tightened across Erode with deployment of additional police personnel and central forces. Sensitive areas are under strict surveillance with checkposts, patrol teams, and CCTV monitoring. Control rooms have been established to handle emergencies and ensure peaceful polling."
   },
   {
-    "id": "erd-new34",
-    "featured": false,
-    "category": "Infrastructure",
-    "date": "April 21, 2026",
-    "title": "Bridge Maintenance Work in Progress",
-    "summary": "Authorities conduct structural inspections."
-  },
-  {
-    "id": "erd-new35",
-    "featured": false,
-    "category": "Retail",
-    "date": "April 21, 2026",
-    "title": "Retail Sales See Uptick",
-    "summary": "Shops report higher customer visits."
-  },
-
-  {
-    "id": "erd-new36",
-    "featured": false,
-    "category": "Technology",
-    "date": "April 21, 2026",
-    "title": "Digital Services Expand in District",
-    "summary": "Online services adoption increases."
-  },
-  {
-    "id": "erd-new37",
-    "featured": false,
+    "id": "erd-eve5",
+    "featured": true,
     "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Auto Drivers Demand Fare Revision",
-    "summary": "Drivers cite fuel cost increase."
-  },
-  {
-    "id": "erd-new38",
-    "featured": false,
-    "category": "Lifestyle",
-    "date": "April 21, 2026",
-    "title": "Fitness Awareness Growing",
-    "summary": "More youth join gyms and wellness centers."
-  },
-  {
-    "id": "erd-new39",
-    "featured": false,
-    "category": "Culture",
-    "date": "April 21, 2026",
-    "title": "Art Events Organized",
-    "summary": "Local artists showcase creative works."
-  },
-  {
-    "id": "erd-new40",
-    "featured": false,
-    "category": "Environment",
-    "date": "April 21, 2026",
-    "title": "Air Quality Remains Stable",
-    "summary": "Pollution levels under control in Erode."
+    "date": "April 22, 2026",
+    "title": "Transport Arrangements for Polling Staff",
+    "summary": "Special buses and vehicles have been arranged to transport polling staff and election materials across Erode district, including remote villages. Authorities ensured proper scheduling to avoid delays."
   },
 
   {
-    "id": "erd-new41",
-    "featured": false,
+    "id": "erd-eve6",
+    "featured": true,
     "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Hospitals Prepare for Summer Cases",
-    "summary": "Facilities ready for heat-related illnesses."
+    "date": "April 22, 2026",
+    "title": "Medical Facilities Strengthened for Poll Day",
+    "summary": "Medical teams, ambulances, and first-aid centers have been deployed near polling stations to handle emergencies, especially heat-related issues. Authorities advised voters to take necessary precautions."
   },
   {
-    "id": "erd-new42",
-    "featured": false,
-    "category": "Civic",
-    "date": "April 21, 2026",
-    "title": "Water Supply Monitoring Increased",
-    "summary": "Officials ensure steady supply."
+    "id": "erd-eve7",
+    "featured": true,
+    "category": "Weather",
+    "date": "April 22, 2026",
+    "title": "Heatwave Conditions Continue in Erode",
+    "summary": "High temperatures continue to affect daily life in Erode district. Officials advised voters to avoid peak afternoon hours and use shaded facilities at polling booths."
   },
   {
-    "id": "erd-new43",
-    "featured": false,
-    "category": "Business",
-    "date": "April 21, 2026",
-    "title": "SMEs Expand Production",
-    "summary": "Small industries scale up operations."
+    "id": "erd-eve8",
+    "featured": true,
+    "category": "Public",
+    "date": "April 22, 2026",
+    "title": "Voter Awareness Drives Intensified",
+    "summary": "Authorities conducted awareness campaigns through digital platforms, local outreach programs, and announcements to encourage voter participation."
   },
   {
-    "id": "erd-new44",
-    "featured": false,
-    "category": "Education",
-    "date": "April 21, 2026",
-    "title": "Skill Development Programs Launched",
-    "summary": "Youth trained in job-oriented courses."
+    "id": "erd-eve9",
+    "featured": true,
+    "category": "Election",
+    "date": "April 22, 2026",
+    "title": "Mock Polls Conducted Successfully",
+    "summary": "Election officials carried out mock polling exercises across booths to ensure proper functioning of EVMs and VVPAT systems."
   },
   {
-    "id": "erd-new45",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Bus Stands Witness Heavy Crowd",
-    "summary": "Passenger movement increases."
+    "id": "erd-eve10",
+    "featured": true,
+    "category": "Crime",
+    "date": "April 22, 2026",
+    "title": "Illegal Cash and Liquor Seized",
+    "summary": "Authorities seized unaccounted cash and illegal liquor during raids conducted to prevent election malpractices."
   },
 
   {
-    "id": "erd-new46",
-    "featured": false,
+    "id": "erd-eve11",
+    "featured": true,
+    "category": "Security",
+    "date": "April 22, 2026",
+    "title": "Night Patrols Intensified",
+    "summary": "Police increased night patrols in sensitive areas to maintain law and order before polling."
+  },
+  {
+    "id": "erd-eve12",
+    "featured": true,
     "category": "Agriculture",
-    "date": "April 21, 2026",
-    "title": "Farmers Discuss Crop Prices",
-    "summary": "Market rates remain a key concern."
+    "date": "April 22, 2026",
+    "title": "Farmers Continue Agricultural Work",
+    "summary": "Farmers continued irrigation and crop maintenance activities despite election preparations."
   },
   {
-    "id": "erd-new47",
-    "featured": false,
-    "category": "Market",
-    "date": "April 21, 2026",
-    "title": "Vegetable Prices Fluctuate",
-    "summary": "Daily market rates show variation."
+    "id": "erd-eve13",
+    "featured": true,
+    "category": "Civic",
+    "date": "April 22, 2026",
+    "title": "Sanitation Drives Conducted",
+    "summary": "Municipal teams cleaned roads and public areas near polling stations."
   },
   {
-    "id": "erd-new48",
-    "featured": false,
+    "id": "erd-eve14",
+    "featured": true,
+    "category": "Business",
+    "date": "April 22, 2026",
+    "title": "Textile Markets See Moderate Activity",
+    "summary": "Erode’s textile markets operated with moderate activity due to election focus."
+  },
+  {
+    "id": "erd-eve15",
+    "featured": true,
     "category": "Public Safety",
-    "date": "April 21, 2026",
-    "title": "Emergency Services Strengthened",
-    "summary": "Authorities prepare for election duties."
+    "date": "April 22, 2026",
+    "title": "Emergency Services on Alert",
+    "summary": "Emergency response teams were stationed across the district."
+  },
+
+  {
+    "id": "erd-eve16",
+    "featured": true,
+    "category": "Education",
+    "date": "April 22, 2026",
+    "title": "Schools Closed for Polling",
+    "summary": "Schools were declared holidays as they are being used as polling stations."
   },
   {
-    "id": "erd-new49",
-    "featured": false,
-    "category": "Tourism",
-    "date": "April 21, 2026",
-    "title": "Local Attractions See Weekend Rush",
-    "summary": "Tourist footfall increases in nearby areas."
+    "id": "erd-eve17",
+    "featured": true,
+    "category": "Market",
+    "date": "April 22, 2026",
+    "title": "Grocery Demand Increases",
+    "summary": "Residents stocked essentials ahead of polling day."
   },
   {
-    "id": "erd-new50",
-    "featured": false,
+    "id": "erd-eve18",
+    "featured": true,
+    "category": "Environment",
+    "date": "April 22, 2026",
+    "title": "Air Quality Remains Stable",
+    "summary": "Pollution levels remained within acceptable limits."
+  },
+  {
+    "id": "erd-eve19",
+    "featured": true,
+    "category": "Infrastructure",
+    "date": "April 22, 2026",
+    "title": "Streetlights and Roads Maintained",
+    "summary": "Maintenance work completed near polling zones."
+  },
+  {
+    "id": "erd-eve20",
+    "featured": true,
     "category": "Economy",
-    "date": "April 21, 2026",
-    "title": "Local Economy Shows Positive Trends",
-    "summary": "Business activities improve across sectors."
+    "date": "April 22, 2026",
+    "title": "Local Economy Shows Stability",
+    "summary": "Key sectors including textiles and agriculture remained stable."
+  },
+
+  {
+    "id": "erd-eve21",
+    "featured": true,
+    "category": "Technology",
+    "date": "April 22, 2026",
+    "title": "Online Monitoring Strengthened",
+    "summary": "Authorities monitored social media for election violations."
+  },
+  {
+    "id": "erd-eve22",
+    "featured": true,
+    "category": "Public",
+    "date": "April 22, 2026",
+    "title": "Residents Prepare for Voting",
+    "summary": "Citizens made arrangements for polling day."
+  },
+  {
+    "id": "erd-eve23",
+    "featured": true,
+    "category": "Transport",
+    "date": "April 22, 2026",
+    "title": "Bus Services Adjusted",
+    "summary": "Transport schedules modified to support election duties."
+  },
+  {
+    "id": "erd-eve24",
+    "featured": true,
+    "category": "Lifestyle",
+    "date": "April 22, 2026",
+    "title": "Indoor Activities Increase",
+    "summary": "Residents stayed indoors due to heat."
+  },
+  {
+    "id": "erd-eve25",
+    "featured": true,
+    "category": "Tourism",
+    "date": "April 22, 2026",
+    "title": "Tourism Activity Drops",
+    "summary": "Tourist footfall declined during election period."
+  },
+
+  {
+    "id": "erd-eve26",
+    "featured": true,
+    "category": "Health",
+    "date": "April 22, 2026",
+    "title": "Doctors Issue Health Advisory",
+    "summary": "Citizens advised to stay hydrated and avoid heat exposure."
+  },
+  {
+    "id": "erd-eve27",
+    "featured": true,
+    "category": "Civic",
+    "date": "April 22, 2026",
+    "title": "Water Supply Maintained",
+    "summary": "Authorities ensured uninterrupted water supply."
+  },
+  {
+    "id": "erd-eve28",
+    "featured": true,
+    "category": "Security",
+    "date": "April 22, 2026",
+    "title": "Checkposts Strengthened",
+    "summary": "Strict monitoring at district borders."
+  },
+  {
+    "id": "erd-eve29",
+    "featured": true,
+    "category": "Market",
+    "date": "April 22, 2026",
+    "title": "Vegetable Prices Fluctuate",
+    "summary": "Prices varied due to supply changes."
+  },
+  {
+    "id": "erd-eve30",
+    "featured": true,
+    "category": "Business",
+    "date": "April 22, 2026",
+    "title": "Small Businesses Operate Normally",
+    "summary": "Local shops continued operations with minor slowdown."
+  },
+
+  {
+    "id": "erd-eve31",
+    "featured": true,
+    "category": "Education",
+    "date": "April 22, 2026",
+    "title": "Students Continue Preparation",
+    "summary": "Students used holidays for exam preparation."
+  },
+  {
+    "id": "erd-eve32",
+    "featured": true,
+    "category": "Environment",
+    "date": "April 22, 2026",
+    "title": "Waste Management Activities Continue",
+    "summary": "Sanitation teams ensured cleanliness."
+  },
+  {
+    "id": "erd-eve33",
+    "featured": true,
+    "category": "Public Safety",
+    "date": "April 22, 2026",
+    "title": "Fire Services Ready",
+    "summary": "Fire and rescue units stationed strategically."
+  },
+  {
+    "id": "erd-eve34",
+    "featured": true,
+    "category": "Culture",
+    "date": "April 22, 2026",
+    "title": "Events Restricted",
+    "summary": "Public events limited due to election code."
+  },
+  {
+    "id": "erd-eve35",
+    "featured": true,
+    "category": "Infrastructure",
+    "date": "April 22, 2026",
+    "title": "Urban Works Continue",
+    "summary": "Infrastructure projects continued in select areas."
+  },
+
+  {
+    "id": "erd-eve36",
+    "featured": true,
+    "category": "Economy",
+    "date": "April 22, 2026",
+    "title": "Daily Wage Workers Affected",
+    "summary": "Temporary slowdown in work opportunities."
+  },
+  {
+    "id": "erd-eve37",
+    "featured": true,
+    "category": "Public",
+    "date": "April 22, 2026",
+    "title": "Election Discussions Continue",
+    "summary": "Residents discussed key local issues."
+  },
+  {
+    "id": "erd-eve38",
+    "featured": true,
+    "category": "Transport",
+    "date": "April 22, 2026",
+    "title": "Auto Drivers Demand Fare Revision",
+    "summary": "Drivers cited rising fuel costs."
+  },
+  {
+    "id": "erd-eve39",
+    "featured": true,
+    "category": "Retail",
+    "date": "April 22, 2026",
+    "title": "Evening Market Sales Improve",
+    "summary": "Footfall increased in evening hours."
+  },
+  {
+    "id": "erd-eve40",
+    "featured": true,
+    "category": "Tourism",
+    "date": "April 22, 2026",
+    "title": "Weekend Travel Plans Rise",
+    "summary": "Residents planned trips after polling."
+  },
+
+  {
+    "id": "erd-eve41",
+    "featured": true,
+    "category": "Health",
+    "date": "April 22, 2026",
+    "title": "Hospitals Prepare for Heat Cases",
+    "summary": "Healthcare facilities increased readiness."
+  },
+  {
+    "id": "erd-eve42",
+    "featured": true,
+    "category": "Civic",
+    "date": "April 22, 2026",
+    "title": "Drainage Cleaning Conducted",
+    "summary": "Authorities ensured proper drainage systems."
+  },
+  {
+    "id": "erd-eve43",
+    "featured": true,
+    "category": "Technology",
+    "date": "April 22, 2026",
+    "title": "EVM Security Strengthened",
+    "summary": "Voting machines secured under strict monitoring."
+  },
+  {
+    "id": "erd-eve44",
+    "featured": true,
+    "category": "Market",
+    "date": "April 22, 2026",
+    "title": "Commodity Prices Show Variation",
+    "summary": "Market fluctuations observed."
+  },
+  {
+    "id": "erd-eve45",
+    "featured": true,
+    "category": "Business",
+    "date": "April 22, 2026",
+    "title": "Commercial Areas See Moderate Activity",
+    "summary": "Business zones reported moderate customer flow."
+  },
+
+  {
+    "id": "erd-eve46",
+    "featured": true,
+    "category": "Public Safety",
+    "date": "April 22, 2026",
+    "title": "Emergency Units Fully Ready",
+    "summary": "All emergency teams remained alert."
+  },
+  {
+    "id": "erd-eve47",
+    "featured": true,
+    "category": "Environment",
+    "date": "April 22, 2026",
+    "title": "Pollution Levels Remain Low",
+    "summary": "Air and noise pollution levels stayed within limits."
+  },
+  {
+    "id": "erd-eve48",
+    "featured": true,
+    "category": "Education",
+    "date": "April 22, 2026",
+    "title": "Tuition Centers Continue Classes",
+    "summary": "Evening classes saw steady attendance."
+  },
+  {
+    "id": "erd-eve49",
+    "featured": true,
+    "category": "Infrastructure",
+    "date": "April 22, 2026",
+    "title": "Streetlight Maintenance Completed",
+    "summary": "Lighting improved near polling areas."
+  },
+  {
+    "id": "erd-eve50",
+    "featured": true,
+    "category": "Election",
+    "date": "April 22, 2026",
+    "title": "Officials Confident of Smooth Polling",
+    "summary": "District officials expressed confidence that all arrangements are in place for conducting peaceful and efficient polling across Erode district."
   }
 ]
