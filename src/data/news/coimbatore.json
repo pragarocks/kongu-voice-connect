@@ -1,411 +1,491 @@
 [
   {
-    "id": "cbe-eve1",
-    "featured": true,
-    "category": "Election",
-    "date": "April 23, 2026",
-    "title": "Polling Preparations Intensify Across Coimbatore",
-    "summary": "Authorities across Coimbatore have significantly intensified preparations for the upcoming polling day, ensuring that all logistical, administrative, and security arrangements are fully in place. Polling booths have been equipped with Electronic Voting Machines (EVMs), VVPAT units, drinking water facilities, shaded waiting areas, and special provisions for elderly and differently-abled voters. Officials conducted repeated inspections and coordination meetings to ensure seamless execution. The administration has emphasized transparency, safety, and voter convenience as top priorities."
-  },
-  {
-    "id": "cbe-eve2",
+    "id": "cbe-new1",
     "featured": true,
     "category": "Election",
     "date": "April 22, 2026",
-    "title": "Strict Monitoring on Cash Movement",
-    "summary": "Election flying squads and surveillance teams have intensified checks across highways, urban zones, and entry points to curb illegal cash distribution. Multiple vehicles were inspected, and suspicious transactions were flagged. Authorities seized unaccounted money suspected to be linked to voter inducement. Officials reiterated that strict action will be taken against violators and encouraged citizens to report any suspicious activities immediately."
+    "title": "Final Poll Readiness Review Completed",
+    "summary": "District administration confirmed full preparedness after conducting final inspections across polling stations."
   },
   {
-    "id": "cbe-eve3",
-    "featured": true,
-    "category": "Politics",
-    "date": "April 22, 2026",
-    "title": "Campaigning Ends with High-Intensity Rallies",
-    "summary": "Political parties concluded their campaigns with high-energy rallies, public meetings, and roadshows across Coimbatore. Leaders addressed key issues such as development, employment, and infrastructure while making final appeals to voters. The atmosphere remained charged as candidates made last-minute efforts to influence undecided voters before the enforcement of the silence period."
-  },
-  {
-    "id": "cbe-eve4",
+    "id": "cbe-new2",
     "featured": true,
     "category": "Security",
     "date": "April 22, 2026",
-    "title": "Multi-Layer Security Deployed Across City",
-    "summary": "Security has been significantly tightened with the deployment of central forces, additional police personnel, and surveillance systems in sensitive areas. Checkposts have been strengthened, and continuous monitoring is being carried out through CCTV cameras and patrol units. Authorities have set up control rooms to respond quickly to any incidents, ensuring a safe and peaceful voting environment."
+    "title": "Drone Surveillance Introduced",
+    "summary": "Police deployed drones in sensitive zones to enhance monitoring and prevent election violations."
   },
   {
-    "id": "cbe-eve5",
+    "id": "cbe-new3",
     "featured": true,
     "category": "Transport",
     "date": "April 22, 2026",
-    "title": "Traffic Diversions Announced for Poll Day",
-    "summary": "Traffic police have issued detailed diversion plans around polling booths and major junctions to ensure smooth movement of voters and officials. Several roads have been declared no-parking zones, and vehicle restrictions have been enforced. Public transport services have been optimized to accommodate increased movement on polling day."
-  },
-
-  {
-    "id": "cbe-eve6",
-    "featured": true,
-    "category": "Health",
-    "date": "April 22, 2026",
-    "title": "Healthcare Services Strengthened for Voters",
-    "summary": "Medical teams, ambulances, and first-aid units have been deployed at strategic locations near polling booths. With rising temperatures, authorities have taken steps to handle heatstroke cases and other emergencies. Special care arrangements have been made for senior citizens and vulnerable groups."
+    "title": "Rail Traffic Increases Ahead of Polling",
+    "summary": "Railway stations recorded higher footfall as voters traveled to participate in elections."
   },
   {
-    "id": "cbe-eve7",
+    "id": "cbe-new4",
     "featured": true,
     "category": "Weather",
     "date": "April 22, 2026",
-    "title": "Heatwave Conditions Impact Daily Life",
-    "summary": "The city continues to experience intense heat, affecting normal routines and election activities. Officials advised citizens to stay hydrated, avoid peak sunlight hours, and plan their voting time accordingly. Measures such as shaded waiting areas and water distribution have been implemented."
+    "title": "Heat Levels Rise Across City",
+    "summary": "Temperatures remained above average, prompting precautionary measures at polling booths."
   },
   {
-    "id": "cbe-eve8",
-    "featured": true,
-    "category": "Public",
-    "date": "April 22, 2026",
-    "title": "Awareness Drives Encourage Voter Participation",
-    "summary": "Authorities have intensified voter awareness campaigns through digital media, public announcements, and grassroots initiatives. Special focus has been placed on first-time voters and youth participation, highlighting the importance of democratic engagement."
-  },
-  {
-    "id": "cbe-eve9",
-    "featured": true,
-    "category": "Election",
-    "date": "April 22, 2026",
-    "title": "EVM and VVPAT Testing Completed",
-    "summary": "Mock polling exercises were conducted across multiple booths to ensure the proper functioning of voting machines. Election officials confirmed that all technical systems are ready and functioning without issues."
-  },
-  {
-    "id": "cbe-eve10",
-    "featured": true,
-    "category": "Crime",
-    "date": "April 22, 2026",
-    "title": "Crackdown on Election Violations",
-    "summary": "Police and enforcement agencies conducted raids and vehicle checks, resulting in the seizure of cash and materials linked to election malpractice. Strict legal actions are being initiated against offenders."
-  },
-
-  {
-    "id": "cbe-eve11",
-    "featured": true,
-    "category": "Security",
-    "date": "April 22, 2026",
-    "title": "Night Patrols Intensified",
-    "summary": "Police have increased night patrols and surveillance activities across sensitive areas to prevent any untoward incidents ahead of polling."
-  },
-  {
-    "id": "cbe-eve12",
-    "featured": true,
-    "category": "Transport",
-    "date": "April 22, 2026",
-    "title": "Special Transport Arranged for Poll Staff",
-    "summary": "Dedicated buses and vehicles have been arranged to transport polling officials and security personnel efficiently to their assigned locations."
-  },
-  {
-    "id": "cbe-eve13",
-    "featured": true,
-    "category": "Civic",
-    "date": "April 22, 2026",
-    "title": "Sanitation Drives Completed",
-    "summary": "Municipal teams conducted large-scale cleaning operations near polling stations to maintain hygiene and ensure a clean environment for voters."
-  },
-  {
-    "id": "cbe-eve14",
-    "featured": true,
-    "category": "Business",
-    "date": "April 22, 2026",
-    "title": "Retail Sector Sees Temporary Slowdown",
-    "summary": "Local businesses reported reduced activity due to election restrictions and shifting public focus towards voting."
-  },
-  {
-    "id": "cbe-eve15",
-    "featured": true,
-    "category": "Public Safety",
-    "date": "April 22, 2026",
-    "title": "Emergency Response Teams on Alert",
-    "summary": "Emergency services, including fire and medical teams, are on standby to respond to any incidents during polling."
-  },
-
-  {
-    "id": "cbe-eve16",
-    "featured": true,
-    "category": "Education",
-    "date": "April 22, 2026",
-    "title": "Schools Closed for Polling Activities",
-    "summary": "Several schools have been declared holidays as they are being used as polling booths, affecting regular academic schedules."
-  },
-  {
-    "id": "cbe-eve17",
-    "featured": true,
-    "category": "Market",
-    "date": "April 22, 2026",
-    "title": "Essential Commodities in Demand",
-    "summary": "Demand for groceries and essential items increased as residents prepared ahead of polling day restrictions."
-  },
-  {
-    "id": "cbe-eve18",
-    "featured": true,
-    "category": "Environment",
-    "date": "April 22, 2026",
-    "title": "Air Quality Remains Stable",
-    "summary": "Despite increased activity, air quality levels remained within acceptable limits across the city."
-  },
-  {
-    "id": "cbe-eve19",
-    "featured": true,
-    "category": "Infrastructure",
-    "date": "April 22, 2026",
-    "title": "Streetlight and Road Checks Completed",
-    "summary": "Authorities completed maintenance work on roads and streetlights near polling areas to enhance safety."
-  },
-  {
-    "id": "cbe-eve20",
-    "featured": true,
-    "category": "Economy",
-    "date": "April 22, 2026",
-    "title": "Economic Activity Shows Mixed Trends",
-    "summary": "While some sectors slowed due to election restrictions, essential services and industries maintained steady operations."
-  },
-
-  {
-    "id": "cbe-eve21",
-    "featured": true,
-    "category": "Technology",
-    "date": "April 22, 2026",
-    "title": "Digital Monitoring Strengthened",
-    "summary": "Authorities activated cyber monitoring teams to track misinformation and enforce election-related guidelines online."
-  },
-  {
-    "id": "cbe-eve22",
-    "featured": true,
-    "category": "Public",
-    "date": "April 22, 2026",
-    "title": "Residents Prepare for Voting Day",
-    "summary": "Citizens made necessary arrangements and discussed plans to participate in the upcoming election."
-  },
-  {
-    "id": "cbe-eve23",
-    "featured": true,
-    "category": "Tourism",
-    "date": "April 22, 2026",
-    "title": "Tourism Sees Temporary Dip",
-    "summary": "Tourist activity declined as focus shifted to election-related activities."
-  },
-  {
-    "id": "cbe-eve24",
-    "featured": true,
-    "category": "Lifestyle",
-    "date": "April 22, 2026",
-    "title": "Indoor Activities Increase Due to Heat",
-    "summary": "Residents preferred staying indoors during peak heat hours, reducing outdoor movement."
-  },
-  {
-    "id": "cbe-eve25",
-    "featured": true,
-    "category": "Transport",
-    "date": "April 22, 2026",
-    "title": "Bus Stations See Increased Movement",
-    "summary": "Public transport hubs witnessed steady passenger flow, especially with election staff travel."
-  },
-
-  {
-    "id": "cbe-eve26",
-    "featured": true,
-    "category": "Civic",
-    "date": "April 22, 2026",
-    "title": "Water Supply Maintained Smoothly",
-    "summary": "Authorities ensured uninterrupted water supply across residential areas during election preparations."
-  },
-  {
-    "id": "cbe-eve27",
+    "id": "cbe-new5",
     "featured": true,
     "category": "Health",
     "date": "April 22, 2026",
-    "title": "Doctors Issue Public Health Advisory",
-    "summary": "Medical professionals advised citizens to take precautions against heat-related illnesses while participating in voting."
+    "title": "Mobile Medical Units Activated",
+    "summary": "Health teams deployed across key locations to respond to heat-related emergencies."
   },
   {
-    "id": "cbe-eve28",
+    "id": "cbe-new6",
     "featured": true,
-    "category": "Security",
+    "category": "Civic",
     "date": "April 22, 2026",
-    "title": "Checkposts Strengthened Across City",
-    "summary": "Entry and exit points were placed under strict surveillance to prevent illegal activities."
+    "title": "Temporary Facilities Installed Near Booths",
+    "summary": "Water points and sanitation facilities were set up to improve voter comfort."
   },
   {
-    "id": "cbe-eve29",
+    "id": "cbe-new7",
+    "featured": true,
+    "category": "Technology",
+    "date": "April 22, 2026",
+    "title": "24-Hour Monitoring Control Rooms Active",
+    "summary": "Authorities launched round-the-clock monitoring systems for election supervision."
+  },
+  {
+    "id": "cbe-new8",
+    "featured": true,
+    "category": "Public",
+    "date": "April 22, 2026",
+    "title": "Youth Voters Show High Engagement",
+    "summary": "First-time voters expressed enthusiasm and participated actively in awareness drives."
+  },
+  {
+    "id": "cbe-new9",
     "featured": true,
     "category": "Market",
     "date": "April 22, 2026",
-    "title": "Vegetable Prices Fluctuate",
-    "summary": "Supply variations led to fluctuations in vegetable prices across local markets."
+    "title": "Fuel Demand Surges",
+    "summary": "Petrol stations reported increased demand as election-related travel intensified."
   },
   {
-    "id": "cbe-eve30",
+    "id": "cbe-new10",
     "featured": true,
     "category": "Business",
     "date": "April 22, 2026",
-    "title": "SMEs Continue Stable Operations",
-    "summary": "Small and medium enterprises maintained steady production levels despite election-related adjustments."
+    "title": "Industries Adjust Work Shifts",
+    "summary": "Factories revised schedules to allow employees to vote."
   },
 
   {
-    "id": "cbe-eve31",
+    "id": "cbe-new11",
+    "featured": true,
+    "category": "Public Safety",
+    "date": "April 22, 2026",
+    "title": "Emergency Teams on High Alert",
+    "summary": "Emergency services remained prepared to handle any incidents during polling."
+  },
+  {
+    "id": "cbe-new12",
     "featured": true,
     "category": "Education",
     "date": "April 22, 2026",
-    "title": "Students Adjust Study Routines",
-    "summary": "Students adapted their schedules due to polling-related holidays and changes."
+    "title": "Colleges Converted to Poll Centers",
+    "summary": "Educational institutions were utilized for election operations and material distribution."
   },
   {
-    "id": "cbe-eve32",
+    "id": "cbe-new13",
+    "featured": true,
+    "category": "Infrastructure",
+    "date": "April 22, 2026",
+    "title": "Directional Signboards Installed",
+    "summary": "Authorities placed signage across major roads to guide voters."
+  },
+  {
+    "id": "cbe-new14",
     "featured": true,
     "category": "Environment",
     "date": "April 22, 2026",
-    "title": "Waste Management Monitored",
-    "summary": "Authorities ensured proper waste management at key locations including dumping yards."
+    "title": "Eco-Friendly Polling Measures Introduced",
+    "summary": "Efforts made to reduce plastic use and promote sustainable practices."
   },
   {
-    "id": "cbe-eve33",
+    "id": "cbe-new15",
+    "featured": true,
+    "category": "Economy",
+    "date": "April 22, 2026",
+    "title": "Banking Activity Slows Slightly",
+    "summary": "Financial transactions dipped as focus shifted to elections."
+  },
+
+  {
+    "id": "cbe-new16",
+    "featured": true,
+    "category": "Transport",
+    "date": "April 22, 2026",
+    "title": "Extra Buses Deployed for Staff",
+    "summary": "Special buses arranged to transport polling personnel efficiently."
+  },
+  {
+    "id": "cbe-new17",
+    "featured": true,
+    "category": "Security",
+    "date": "April 22, 2026",
+    "title": "Additional Checkposts Installed",
+    "summary": "Security tightened with new checkpoints across entry and exit points."
+  },
+  {
+    "id": "cbe-new18",
+    "featured": true,
+    "category": "Health",
+    "date": "April 22, 2026",
+    "title": "Heat Advisory Issued",
+    "summary": "Doctors advised citizens to stay hydrated and avoid peak sunlight hours."
+  },
+  {
+    "id": "cbe-new19",
+    "featured": true,
+    "category": "Public",
+    "date": "April 22, 2026",
+    "title": "Residents Plan Voting Schedule",
+    "summary": "Citizens planned early voting to avoid heat and crowd."
+  },
+  {
+    "id": "cbe-new20",
+    "featured": true,
+    "category": "Market",
+    "date": "April 22, 2026",
+    "title": "Grocery Demand Rises",
+    "summary": "Essential goods saw increased demand ahead of polling restrictions."
+  },
+
+  {
+    "id": "cbe-new21",
+    "featured": true,
+    "category": "Civic",
+    "date": "April 22, 2026",
+    "title": "Waste Collection Intensified",
+    "summary": "Municipal teams cleared waste near polling areas."
+  },
+  {
+    "id": "cbe-new22",
+    "featured": true,
+    "category": "Infrastructure",
+    "date": "April 22, 2026",
+    "title": "Road Repairs Completed Near Booths",
+    "summary": "Authorities fixed roads to ensure smooth voter access."
+  },
+  {
+    "id": "cbe-new23",
+    "featured": true,
+    "category": "Technology",
+    "date": "April 22, 2026",
+    "title": "Cyber Monitoring Intensified",
+    "summary": "Teams monitored online platforms for misinformation."
+  },
+  {
+    "id": "cbe-new24",
     "featured": true,
     "category": "Public Safety",
     "date": "April 22, 2026",
     "title": "Fire Services Positioned Strategically",
-    "summary": "Fire and rescue units were deployed at critical points for emergency response."
+    "summary": "Fire units deployed at critical points for quick response."
   },
   {
-    "id": "cbe-eve34",
-    "featured": true,
-    "category": "Culture",
-    "date": "April 22, 2026",
-    "title": "Public Events Restricted",
-    "summary": "Cultural and entertainment events were limited due to election code enforcement."
-  },
-  {
-    "id": "cbe-eve35",
-    "featured": true,
-    "category": "Infrastructure",
-    "date": "April 22, 2026",
-    "title": "Urban Works Continue Selectively",
-    "summary": "Infrastructure projects continued in non-sensitive areas with minimal disruption."
-  },
-
-  {
-    "id": "cbe-eve36",
-    "featured": true,
-    "category": "Economy",
-    "date": "April 22, 2026",
-    "title": "Local Economy Shows Stability",
-    "summary": "Despite temporary disruptions, key economic sectors remained stable."
-  },
-  {
-    "id": "cbe-eve37",
-    "featured": true,
-    "category": "Public",
-    "date": "April 22, 2026",
-    "title": "Citizens Discuss Key Election Issues",
-    "summary": "Residents engaged in discussions about governance, development, and local concerns."
-  },
-  {
-    "id": "cbe-eve38",
+    "id": "cbe-new25",
     "featured": true,
     "category": "Transport",
     "date": "April 22, 2026",
-    "title": "Auto Drivers Raise Fare Concerns",
-    "summary": "Auto drivers expressed concerns over rising fuel costs and demanded fare revisions."
-  },
-  {
-    "id": "cbe-eve39",
-    "featured": true,
-    "category": "Retail",
-    "date": "April 22, 2026",
-    "title": "Evening Market Activity Improves",
-    "summary": "Some markets saw increased footfall during evening hours."
-  },
-  {
-    "id": "cbe-eve40",
-    "featured": true,
-    "category": "Tourism",
-    "date": "April 22, 2026",
-    "title": "Local Spots See Limited Visitors",
-    "summary": "Tourist spots experienced moderate activity due to election focus."
+    "title": "Auto Drivers Report Increased Trips",
+    "summary": "Auto services saw higher demand due to election travel."
   },
 
   {
-    "id": "cbe-eve41",
+    "id": "cbe-new26",
+    "featured": true,
+    "category": "Election",
+    "date": "April 22, 2026",
+    "title": "Polling Staff Briefing Completed",
+    "summary": "Officials trained polling staff on procedures and protocols."
+  },
+  {
+    "id": "cbe-new27",
+    "featured": true,
+    "category": "Security",
+    "date": "April 22, 2026",
+    "title": "Night Surveillance Intensified",
+    "summary": "Police increased patrols in sensitive areas overnight."
+  },
+  {
+    "id": "cbe-new28",
+    "featured": true,
+    "category": "Education",
+    "date": "April 22, 2026",
+    "title": "Schools Serve as Polling Stations",
+    "summary": "Many schools prepared to host voting booths."
+  },
+  {
+    "id": "cbe-new29",
+    "featured": true,
+    "category": "Business",
+    "date": "April 22, 2026",
+    "title": "Retailers Adjust Operating Hours",
+    "summary": "Shops modified timings in line with election guidelines."
+  },
+  {
+    "id": "cbe-new30",
+    "featured": true,
+    "category": "Environment",
+    "date": "April 22, 2026",
+    "title": "Green Cover Maintenance Continues",
+    "summary": "Parks and roadside greenery maintained despite election activity."
+  },
+
+  {
+    "id": "cbe-new31",
     "featured": true,
     "category": "Health",
     "date": "April 22, 2026",
-    "title": "Hospitals Prepare for Heat Cases",
-    "summary": "Hospitals readied additional staff and beds for heat-related illnesses."
+    "title": "Hospitals Increase Staffing",
+    "summary": "Medical facilities increased staff to handle emergencies."
   },
   {
-    "id": "cbe-eve42",
+    "id": "cbe-new32",
+    "featured": true,
+    "category": "Economy",
+    "date": "April 22, 2026",
+    "title": "Small Businesses Maintain Stability",
+    "summary": "Local enterprises continued steady operations."
+  },
+  {
+    "id": "cbe-new33",
+    "featured": true,
+    "category": "Transport",
+    "date": "April 22, 2026",
+    "title": "Bus Services Optimized",
+    "summary": "Additional services introduced for voter convenience."
+  },
+  {
+    "id": "cbe-new34",
+    "featured": true,
+    "category": "Public",
+    "date": "April 22, 2026",
+    "title": "Community Discussions Increase",
+    "summary": "Residents engaged in debates over local issues."
+  },
+  {
+    "id": "cbe-new35",
+    "featured": true,
+    "category": "Civic",
+    "date": "April 22, 2026",
+    "title": "Water Supply Maintained Without Disruption",
+    "summary": "Continuous water supply ensured across residential zones."
+  },
+
+  {
+    "id": "cbe-new36",
+    "featured": true,
+    "category": "Infrastructure",
+    "date": "April 22, 2026",
+    "title": "Streetlight Repairs Completed",
+    "summary": "Improved lighting ensured safety near polling booths."
+  },
+  {
+    "id": "cbe-new37",
+    "featured": true,
+    "category": "Market",
+    "date": "April 22, 2026",
+    "title": "Vegetable Prices Show Variation",
+    "summary": "Price fluctuations observed due to supply shifts."
+  },
+  {
+    "id": "cbe-new38",
+    "featured": true,
+    "category": "Public Safety",
+    "date": "April 22, 2026",
+    "title": "Emergency Helplines Activated",
+    "summary": "Authorities activated helplines for voter assistance."
+  },
+  {
+    "id": "cbe-new39",
+    "featured": true,
+    "category": "Technology",
+    "date": "April 22, 2026",
+    "title": "EVM Security Protocols Strengthened",
+    "summary": "Strict safeguards implemented to protect voting machines."
+  },
+  {
+    "id": "cbe-new40",
+    "featured": true,
+    "category": "Business",
+    "date": "April 22, 2026",
+    "title": "Commercial Zones See Moderate Activity",
+    "summary": "Business areas reported steady but reduced footfall."
+  },
+
+  {
+    "id": "cbe-new41",
+    "featured": true,
+    "category": "Tourism",
+    "date": "April 22, 2026",
+    "title": "Tourist Visits Decline Slightly",
+    "summary": "Election focus led to reduced tourist movement."
+  },
+  {
+    "id": "cbe-new42",
+    "featured": true,
+    "category": "Lifestyle",
+    "date": "April 22, 2026",
+    "title": "Indoor Activities Increase",
+    "summary": "Residents preferred indoor routines due to heat."
+  },
+  {
+    "id": "cbe-new43",
+    "featured": true,
+    "category": "Education",
+    "date": "April 22, 2026",
+    "title": "Students Adjust Study Timings",
+    "summary": "Academic schedules modified due to polling holidays."
+  },
+  {
+    "id": "cbe-new44",
+    "featured": true,
+    "category": "Environment",
+    "date": "April 22, 2026",
+    "title": "Air Quality Remains Stable",
+    "summary": "Pollution levels stayed within acceptable limits."
+  },
+  {
+    "id": "cbe-new45",
+    "featured": true,
+    "category": "Security",
+    "date": "April 22, 2026",
+    "title": "Rapid Response Teams Deployed",
+    "summary": "Quick response units positioned across key areas."
+  },
+
+  {
+    "id": "cbe-new46",
+    "featured": true,
+    "category": "Election",
+    "date": "April 22, 2026",
+    "title": "Mock Polling Exercises Successful",
+    "summary": "Trial runs conducted to ensure smooth EVM operations."
+  },
+  {
+    "id": "cbe-new47",
+    "featured": true,
+    "category": "Public",
+    "date": "April 22, 2026",
+    "title": "Citizens Express Voting Awareness",
+    "summary": "Awareness campaigns influenced higher voter intent."
+  },
+  {
+    "id": "cbe-new48",
     "featured": true,
     "category": "Civic",
     "date": "April 22, 2026",
     "title": "Drainage Systems Inspected",
-    "summary": "Authorities conducted inspections to prevent waterlogging issues."
+    "summary": "Authorities ensured no waterlogging issues near booths."
   },
   {
-    "id": "cbe-eve43",
+    "id": "cbe-new49",
     "featured": true,
-    "category": "Technology",
+    "category": "Transport",
     "date": "April 22, 2026",
-    "title": "EVM Security Strengthened",
-    "summary": "Electronic voting machines were secured under strict supervision."
+    "title": "Parking Restrictions Announced",
+    "summary": "No-parking zones declared near polling locations."
   },
   {
-    "id": "cbe-eve44",
+    "id": "cbe-new50",
     "featured": true,
-    "category": "Market",
+    "category": "Economy",
     "date": "April 22, 2026",
-    "title": "Commodity Prices Show Variation",
-    "summary": "Prices fluctuated due to supply-demand imbalances."
-  },
-  {
-    "id": "cbe-eve45",
-    "featured": true,
-    "category": "Business",
-    "date": "April 22, 2026",
-    "title": "Commercial Areas See Moderate Activity",
-    "summary": "Business zones reported moderate customer footfall."
+    "title": "Economic Activity Shows Mixed Trends",
+    "summary": "Some sectors slowed while essentials remained stable."
   },
 
   {
-    "id": "cbe-eve46",
+    "id": "cbe-new51",
+    "featured": true,
+    "category": "Health",
+    "date": "April 22, 2026",
+    "title": "First Aid Booths Installed",
+    "summary": "Basic medical facilities arranged near polling centers."
+  },
+  {
+    "id": "cbe-new52",
+    "featured": true,
+    "category": "Security",
+    "date": "April 22, 2026",
+    "title": "Sensitive Zones Under Watch",
+    "summary": "Extra vigilance maintained in identified areas."
+  },
+  {
+    "id": "cbe-new53",
+    "featured": true,
+    "category": "Business",
+    "date": "April 22, 2026",
+    "title": "SMEs Maintain Production Levels",
+    "summary": "Small industries continued operations steadily."
+  },
+  {
+    "id": "cbe-new54",
     "featured": true,
     "category": "Public Safety",
     "date": "April 22, 2026",
-    "title": "Emergency Units Fully Prepared",
-    "summary": "All emergency response teams remained fully operational and alert."
+    "title": "Ambulances Positioned Strategically",
+    "summary": "Emergency vehicles stationed near polling hubs."
   },
   {
-    "id": "cbe-eve47",
+    "id": "cbe-new55",
     "featured": true,
-    "category": "Environment",
+    "category": "Technology",
     "date": "April 22, 2026",
-    "title": "Pollution Levels Remain Low",
-    "summary": "Air and noise pollution levels stayed within acceptable limits."
+    "title": "Digital Complaint Systems Activated",
+    "summary": "Online portals enabled for voter complaints and queries."
   },
   {
-    "id": "cbe-eve48",
-    "featured": true,
-    "category": "Education",
-    "date": "April 22, 2026",
-    "title": "Tuition Centers Continue Classes",
-    "summary": "Evening tuition centers functioned with good attendance."
-  },
-  {
-    "id": "cbe-eve49",
+    "id": "cbe-new56",
     "featured": true,
     "category": "Infrastructure",
     "date": "April 22, 2026",
-    "title": "Streetlight Maintenance Completed",
-    "summary": "Maintenance work improved visibility in key areas."
+    "title": "Booth Accessibility Improved",
+    "summary": "Ramps and access paths created for differently-abled voters."
   },
   {
-    "id": "cbe-eve50",
+    "id": "cbe-new57",
+    "featured": true,
+    "category": "Environment",
+    "date": "April 22, 2026",
+    "title": "Tree Watering Drives Continue",
+    "summary": "Municipal teams maintained greenery amid heat conditions."
+  },
+  {
+    "id": "cbe-new58",
+    "featured": true,
+    "category": "Market",
+    "date": "April 22, 2026",
+    "title": "Evening Market Activity Improves",
+    "summary": "Markets saw higher activity during cooler hours."
+  },
+  {
+    "id": "cbe-new59",
     "featured": true,
     "category": "Election",
     "date": "April 22, 2026",
-    "title": "Officials Express Confidence in Smooth Polling",
-    "summary": "Election officials expressed confidence that all arrangements are in place for conducting peaceful and efficient polling across Coimbatore."
+    "title": "Officials Express Confidence",
+    "summary": "Authorities assured smooth and peaceful polling."
+  },
+  {
+    "id": "cbe-new60",
+    "featured": true,
+    "category": "Public",
+    "date": "April 22, 2026",
+    "title": "Community Volunteers Step Forward",
+    "summary": "Volunteers assisted in awareness and booth management activities."
   }
 ]
