@@ -1,411 +1,411 @@
 [
   {
-    "id": "dpm-new1",
+    "id": "dpm-eve1",
     "featured": true,
     "category": "Election",
-    "date": "April 21, 2026",
-    "title": "Election Campaigns Intensify Across Dharmapuri",
-    "summary": "Political parties have intensified their campaign efforts across Dharmapuri district with rallies, public meetings, and grassroots outreach. Leaders are focusing on rural voters and local development issues ahead of the upcoming elections."
+    "date": "April 22, 2026",
+    "title": "Polling Preparations Intensify in Dharmapuri",
+    "summary": "District authorities in Dharmapuri have intensified preparations for the upcoming polling day with a focus on ensuring smooth and peaceful elections. Polling booths have been equipped with EVMs, VVPAT machines, drinking water facilities, shaded waiting areas, and ramps for differently-abled voters. Officials conducted inspections across multiple constituencies and coordinated with various departments to finalize logistics. The administration emphasized voter convenience, transparency, and strict adherence to election guidelines."
   },
   {
-    "id": "dpm-new2",
-    "featured": false,
+    "id": "dpm-eve2",
+    "featured": true,
+    "category": "Election",
+    "date": "April 22, 2026",
+    "title": "Flying Squads Intensify Cash Checks",
+    "summary": "Election flying squads and surveillance teams have increased vehicle checks across Dharmapuri district to prevent illegal cash distribution. Several suspicious vehicles were intercepted and unaccounted cash was seized during inspections. Authorities warned that strict legal action will be taken against individuals involved in electoral malpractice and urged citizens to report suspicious activities."
+  },
+  {
+    "id": "dpm-eve3",
+    "featured": true,
     "category": "Politics",
-    "date": "April 21, 2026",
-    "title": "Dharmapuri Emerges as Key Electoral Battleground",
-    "summary": "Dharmapuri has become a crucial battleground with major political parties deploying senior leaders and strategies to secure voter support in the district."
+    "date": "April 22, 2026",
+    "title": "Campaigning Ends with Local Rallies",
+    "summary": "Political parties concluded their campaigns with rallies, public meetings, and door-to-door outreach programs across Dharmapuri. Candidates highlighted local issues such as water scarcity, agriculture, and employment. The final phase of campaigning witnessed increased public engagement before the enforcement of the silence period."
   },
   {
-    "id": "dpm-new3",
-    "featured": false,
-    "category": "Civic",
-    "date": "April 21, 2026",
-    "title": "Residents Raise Concerns Over Road Conditions",
-    "summary": "Residents have highlighted poor road conditions in several parts of Dharmapuri and urged authorities to take immediate action to improve infrastructure."
+    "id": "dpm-eve4",
+    "featured": true,
+    "category": "Security",
+    "date": "April 22, 2026",
+    "title": "Security Tightened Across Sensitive Areas",
+    "summary": "Police and central forces have been deployed in sensitive areas across Dharmapuri to maintain law and order during the election period. Checkposts have been strengthened, and surveillance has been increased through patrols and monitoring systems. Authorities have assured residents of a safe environment during polling."
   },
   {
-    "id": "dpm-new4",
-    "featured": false,
-    "category": "Agriculture",
-    "date": "April 21, 2026",
-    "title": "Mango Season Boosts Local Economy",
-    "summary": "Dharmapuri’s mango farmers are expecting a good harvest this season, boosting the local agricultural economy and market activity."
-  },
-  {
-    "id": "dpm-new5",
-    "featured": false,
-    "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Heatwave Advisory Issued",
-    "summary": "Authorities have issued a heatwave advisory as temperatures rise, advising residents to take precautions and avoid outdoor exposure during peak hours."
+    "id": "dpm-eve5",
+    "featured": true,
+    "category": "Transport",
+    "date": "April 22, 2026",
+    "title": "Transport Arrangements for Poll Staff",
+    "summary": "Special buses and vehicles have been arranged to transport polling officials and security personnel to designated polling booths across rural and urban areas of Dharmapuri."
   },
 
   {
-    "id": "dpm-new6",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Special Buses Deployed for Election Duty",
-    "summary": "Transport officials have arranged additional bus services to manage election-related travel and passenger demand."
+    "id": "dpm-eve6",
+    "featured": true,
+    "category": "Health",
+    "date": "April 22, 2026",
+    "title": "Medical Teams Deployed in Polling Areas",
+    "summary": "Healthcare teams and ambulances have been deployed near polling stations to handle medical emergencies, especially heat-related illnesses. Authorities advised voters to stay hydrated and take precautions."
   },
   {
-    "id": "dpm-new7",
-    "featured": false,
+    "id": "dpm-eve7",
+    "featured": true,
+    "category": "Weather",
+    "date": "April 22, 2026",
+    "title": "Heat Conditions Affect Rural Areas",
+    "summary": "Dharmapuri continues to experience high temperatures, impacting daily activities and election preparations. Officials advised early voting to avoid peak heat hours."
+  },
+  {
+    "id": "dpm-eve8",
+    "featured": true,
+    "category": "Public",
+    "date": "April 22, 2026",
+    "title": "Voter Awareness Campaigns Continue",
+    "summary": "Authorities conducted awareness drives in villages and towns to encourage maximum voter participation, especially among first-time voters."
+  },
+  {
+    "id": "dpm-eve9",
+    "featured": true,
+    "category": "Election",
+    "date": "April 22, 2026",
+    "title": "Mock Polls Conducted Successfully",
+    "summary": "Election officials conducted mock polling exercises to ensure EVM functionality and preparedness across all booths."
+  },
+  {
+    "id": "dpm-eve10",
+    "featured": true,
     "category": "Crime",
-    "date": "April 21, 2026",
-    "title": "Police Increase Security Ahead of Polls",
-    "summary": "Police have increased patrols and surveillance to maintain law and order during the election period."
-  },
-  {
-    "id": "dpm-new8",
-    "featured": false,
-    "category": "Market",
-    "date": "April 21, 2026",
-    "title": "Vegetable Prices Fluctuate",
-    "summary": "Vegetable prices are fluctuating in Dharmapuri markets due to supply variations, impacting local consumers."
-  },
-  {
-    "id": "dpm-new9",
-    "featured": false,
-    "category": "Education",
-    "date": "April 21, 2026",
-    "title": "Students Prepare for Exams",
-    "summary": "Students across Dharmapuri are preparing for upcoming examinations with revision sessions and guidance programs."
-  },
-  {
-    "id": "dpm-new10",
-    "featured": false,
-    "category": "Environment",
-    "date": "April 21, 2026",
-    "title": "Tree Plantation Drives Conducted",
-    "summary": "Tree plantation initiatives have been conducted to improve green cover and environmental awareness."
+    "date": "April 22, 2026",
+    "title": "Illegal Liquor Seized During Raids",
+    "summary": "Police seized illegal liquor during raids conducted in rural areas to prevent distribution ahead of polling."
   },
 
   {
-    "id": "dpm-new11",
-    "featured": false,
-    "category": "Infrastructure",
-    "date": "April 21, 2026",
-    "title": "Road Development Works Accelerated",
-    "summary": "Authorities have accelerated road construction and repair works across the district."
-  },
-  {
-    "id": "dpm-new12",
-    "featured": false,
-    "category": "Retail",
-    "date": "April 21, 2026",
-    "title": "Markets See Increased Footfall",
-    "summary": "Local markets are witnessing higher customer turnout due to increased economic activity."
-  },
-  {
-    "id": "dpm-new13",
-    "featured": false,
-    "category": "Tourism",
-    "date": "April 21, 2026",
-    "title": "Hogenakkal Falls Attract Tourists",
-    "summary": "Hogenakkal Falls is witnessing a surge in tourist arrivals, boosting local tourism and business."
-  },
-  {
-    "id": "dpm-new14",
-    "featured": false,
-    "category": "Public Safety",
-    "date": "April 21, 2026",
-    "title": "Fire Safety Inspections Conducted",
-    "summary": "Authorities have conducted fire safety inspections in public and commercial buildings."
-  },
-  {
-    "id": "dpm-new15",
-    "featured": false,
-    "category": "Economy",
-    "date": "April 21, 2026",
-    "title": "Local Economy Shows Growth",
-    "summary": "Economic activity is improving with growth in agriculture and small businesses."
-  },
-
-  {
-    "id": "dpm-new16",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Traffic Advisory Issued",
-    "summary": "Traffic police have issued advisories to manage congestion during election activities."
-  },
-  {
-    "id": "dpm-new17",
-    "featured": false,
-    "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Free Medical Camps Organized",
-    "summary": "Medical camps are being conducted in rural areas to provide healthcare services."
-  },
-  {
-    "id": "dpm-new18",
-    "featured": false,
-    "category": "Civic",
-    "date": "April 21, 2026",
-    "title": "Sanitation Drives Intensified",
-    "summary": "Municipal authorities have intensified cleanliness drives across the district."
-  },
-  {
-    "id": "dpm-new19",
-    "featured": false,
-    "category": "Industry",
-    "date": "April 21, 2026",
-    "title": "Small Industries Expand",
-    "summary": "Local industries are expanding operations to meet growing demand."
-  },
-  {
-    "id": "dpm-new20",
-    "featured": false,
-    "category": "Law",
-    "date": "April 21, 2026",
-    "title": "Election Code Monitoring Strengthened",
-    "summary": "Officials are monitoring election code violations strictly."
-  },
-
-  {
-    "id": "dpm-new21",
-    "featured": false,
-    "category": "Startup",
-    "date": "April 21, 2026",
-    "title": "Startup Initiatives Gain Momentum",
-    "summary": "Entrepreneurship is growing with new startup initiatives being introduced."
-  },
-  {
-    "id": "dpm-new22",
-    "featured": false,
-    "category": "Public",
-    "date": "April 21, 2026",
-    "title": "Voter Awareness Campaigns Increase",
-    "summary": "Campaigns are encouraging citizens to participate actively in voting."
-  },
-  {
-    "id": "dpm-new23",
-    "featured": false,
+    "id": "dpm-eve11",
+    "featured": true,
     "category": "Security",
-    "date": "April 21, 2026",
-    "title": "Additional Police Deployed",
-    "summary": "Extra police forces have been deployed to ensure safety."
+    "date": "April 22, 2026",
+    "title": "Night Patrols Increased in Villages",
+    "summary": "Police intensified night patrols in rural pockets to prevent disturbances and illegal activities before polling."
   },
   {
-    "id": "dpm-new24",
-    "featured": false,
-    "category": "Energy",
-    "date": "April 21, 2026",
-    "title": "Electricity Demand Increases",
-    "summary": "Electricity demand has increased due to rising temperatures."
-  },
-  {
-    "id": "dpm-new25",
-    "featured": false,
-    "category": "Sports",
-    "date": "April 21, 2026",
-    "title": "District Sports Events Conducted",
-    "summary": "Sports competitions are being held with active participation."
-  },
-
-  {
-    "id": "dpm-new26",
-    "featured": false,
-    "category": "Environment",
-    "date": "April 21, 2026",
-    "title": "Water Body Cleaning Initiatives Continue",
-    "summary": "Efforts are ongoing to clean lakes and ponds across Dharmapuri."
-  },
-  {
-    "id": "dpm-new27",
-    "featured": false,
-    "category": "Retail",
-    "date": "April 21, 2026",
-    "title": "Retail Sales Improve",
-    "summary": "Retail businesses are seeing improved sales due to increased demand."
-  },
-  {
-    "id": "dpm-new28",
-    "featured": false,
-    "category": "Technology",
-    "date": "April 21, 2026",
-    "title": "Digital Services Expand",
-    "summary": "Digital adoption is increasing across businesses and services."
-  },
-  {
-    "id": "dpm-new29",
-    "featured": false,
-    "category": "Lifestyle",
-    "date": "April 21, 2026",
-    "title": "Fitness Awareness Grows",
-    "summary": "Residents are increasingly focusing on fitness and healthy living."
-  },
-  {
-    "id": "dpm-new30",
-    "featured": false,
-    "category": "Culture",
-    "date": "April 21, 2026",
-    "title": "Cultural Events Attract Crowds",
-    "summary": "Cultural programs are drawing public participation."
-  },
-
-  {
-    "id": "dpm-new31",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Bus Stands See Passenger Rush",
-    "summary": "Passenger traffic has increased across bus stations."
-  },
-  {
-    "id": "dpm-new32",
-    "featured": false,
+    "id": "dpm-eve12",
+    "featured": true,
     "category": "Agriculture",
-    "date": "April 21, 2026",
-    "title": "Farmers Monitor Crop Prices",
-    "summary": "Farmers are tracking market trends for better returns."
+    "date": "April 22, 2026",
+    "title": "Farmers Continue Summer Crop Activities",
+    "summary": "Despite election activities, farmers continued irrigation and maintenance of summer crops across the district."
   },
   {
-    "id": "dpm-new33",
-    "featured": false,
-    "category": "Market",
-    "date": "April 21, 2026",
-    "title": "Fruit Prices Fluctuate",
-    "summary": "Fruit prices vary based on seasonal supply conditions."
-  },
-  {
-    "id": "dpm-new34",
-    "featured": false,
-    "category": "Public Safety",
-    "date": "April 21, 2026",
-    "title": "Emergency Services Prepared",
-    "summary": "Emergency teams are on standby for any incidents."
-  },
-  {
-    "id": "dpm-new35",
-    "featured": false,
-    "category": "Tourism",
-    "date": "April 21, 2026",
-    "title": "Local Attractions See Visitor Increase",
-    "summary": "Tourist spots are witnessing increased footfall."
-  },
-
-  {
-    "id": "dpm-new36",
-    "featured": false,
+    "id": "dpm-eve13",
+    "featured": true,
     "category": "Civic",
-    "date": "April 21, 2026",
-    "title": "Water Supply Monitoring Strengthened",
-    "summary": "Authorities are ensuring continuous water supply."
+    "date": "April 22, 2026",
+    "title": "Village Roads Cleaned Ahead of Polling",
+    "summary": "Local bodies carried out cleaning drives and minor repairs on village roads leading to polling booths."
   },
   {
-    "id": "dpm-new37",
-    "featured": false,
-    "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Hospitals Prepare for Summer Cases",
-    "summary": "Hospitals are ready to handle heat-related illnesses."
-  },
-  {
-    "id": "dpm-new38",
-    "featured": false,
+    "id": "dpm-eve14",
+    "featured": true,
     "category": "Business",
-    "date": "April 21, 2026",
-    "title": "SMEs Expand Production",
-    "summary": "Small businesses are increasing production capacity."
+    "date": "April 22, 2026",
+    "title": "Local Markets See Reduced Footfall",
+    "summary": "Weekly markets reported lower attendance as people focused on election-related activities."
   },
   {
-    "id": "dpm-new39",
-    "featured": false,
+    "id": "dpm-eve15",
+    "featured": true,
+    "category": "Public Safety",
+    "date": "April 22, 2026",
+    "title": "Emergency Services on Alert",
+    "summary": "Emergency response teams were placed on standby across the district."
+  },
+
+  {
+    "id": "dpm-eve16",
+    "featured": true,
     "category": "Education",
-    "date": "April 21, 2026",
-    "title": "Skill Training Programs Introduced",
-    "summary": "Skill development programs are helping youth employment."
+    "date": "April 22, 2026",
+    "title": "Schools Declared Holiday",
+    "summary": "Schools were closed as many buildings are used as polling stations."
   },
   {
-    "id": "dpm-new40",
-    "featured": false,
-    "category": "Infrastructure",
-    "date": "April 21, 2026",
-    "title": "Bridge Repairs Ongoing",
-    "summary": "Bridge repair works are being carried out."
-  },
-
-  {
-    "id": "dpm-new41",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Auto Drivers Demand Fare Revision",
-    "summary": "Auto drivers have demanded fare hikes due to fuel price increases."
-  },
-  {
-    "id": "dpm-new42",
-    "featured": false,
-    "category": "Environment",
-    "date": "April 21, 2026",
-    "title": "Air Quality Remains Stable",
-    "summary": "Air quality levels remain within acceptable limits."
-  },
-  {
-    "id": "dpm-new43",
-    "featured": false,
-    "category": "Retail",
-    "date": "April 21, 2026",
-    "title": "Shopping Activity Increases",
-    "summary": "Shopping activity has increased across markets."
-  },
-  {
-    "id": "dpm-new44",
-    "featured": false,
-    "category": "Public",
-    "date": "April 21, 2026",
-    "title": "Voting Awareness Improves",
-    "summary": "Voter awareness campaigns are gaining momentum."
-  },
-  {
-    "id": "dpm-new45",
-    "featured": false,
-    "category": "Security",
-    "date": "April 21, 2026",
-    "title": "Security Measures Strengthened",
-    "summary": "Security has been tightened across key areas."
-  },
-
-  {
-    "id": "dpm-new46",
-    "featured": false,
-    "category": "Economy",
-    "date": "April 21, 2026",
-    "title": "Economic Growth Continues",
-    "summary": "Economic growth continues with improvements in agriculture and trade."
-  },
-  {
-    "id": "dpm-new47",
-    "featured": false,
-    "category": "Culture",
-    "date": "April 21, 2026",
-    "title": "Festivals Attract Crowds",
-    "summary": "Local festivals are drawing large crowds."
-  },
-  {
-    "id": "dpm-new48",
-    "featured": false,
-    "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Heat Safety Advisory Issued",
-    "summary": "Residents are advised to follow safety measures during high temperatures."
-  },
-  {
-    "id": "dpm-new49",
-    "featured": false,
+    "id": "dpm-eve17",
+    "featured": true,
     "category": "Market",
-    "date": "April 21, 2026",
-    "title": "Commodity Prices Show Variation",
-    "summary": "Commodity prices continue to fluctuate based on market conditions."
+    "date": "April 22, 2026",
+    "title": "Essential Goods Demand Increases",
+    "summary": "Residents stocked groceries and essentials ahead of polling day."
   },
   {
-    "id": "dpm-new50",
-    "featured": false,
+    "id": "dpm-eve18",
+    "featured": true,
+    "category": "Environment",
+    "date": "April 22, 2026",
+    "title": "Air Quality Remains Stable",
+    "summary": "Pollution levels remained low across rural and urban areas."
+  },
+  {
+    "id": "dpm-eve19",
+    "featured": true,
+    "category": "Infrastructure",
+    "date": "April 22, 2026",
+    "title": "Streetlights Repaired in Key Areas",
+    "summary": "Authorities completed streetlight maintenance near polling zones."
+  },
+  {
+    "id": "dpm-eve20",
+    "featured": true,
+    "category": "Economy",
+    "date": "April 22, 2026",
+    "title": "Rural Economy Remains Stable",
+    "summary": "Agriculture and small businesses maintained steady activity."
+  },
+
+  {
+    "id": "dpm-eve21",
+    "featured": true,
+    "category": "Technology",
+    "date": "April 22, 2026",
+    "title": "Digital Monitoring Initiated",
+    "summary": "Authorities monitored social media for election violations."
+  },
+  {
+    "id": "dpm-eve22",
+    "featured": true,
+    "category": "Public",
+    "date": "April 22, 2026",
+    "title": "Villagers Discuss Election Issues",
+    "summary": "Public discussions focused on water, roads, and employment."
+  },
+  {
+    "id": "dpm-eve23",
+    "featured": true,
+    "category": "Transport",
+    "date": "April 22, 2026",
+    "title": "Bus Services Adjusted",
+    "summary": "Transport schedules modified to support election duties."
+  },
+  {
+    "id": "dpm-eve24",
+    "featured": true,
+    "category": "Lifestyle",
+    "date": "April 22, 2026",
+    "title": "Residents Avoid Afternoon Heat",
+    "summary": "People preferred indoor activities due to high temperatures."
+  },
+  {
+    "id": "dpm-eve25",
+    "featured": true,
     "category": "Tourism",
-    "date": "April 21, 2026",
-    "title": "Weekend Travel Demand Increases",
-    "summary": "Weekend travel has increased as people visit nearby attractions."
+    "date": "April 22, 2026",
+    "title": "Tourist Visits Decline",
+    "summary": "Local tourist spots saw fewer visitors during election period."
+  },
+
+  {
+    "id": "dpm-eve26",
+    "featured": true,
+    "category": "Health",
+    "date": "April 22, 2026",
+    "title": "Doctors Issue Heat Advisory",
+    "summary": "Medical experts advised precautions against dehydration."
+  },
+  {
+    "id": "dpm-eve27",
+    "featured": true,
+    "category": "Civic",
+    "date": "April 22, 2026",
+    "title": "Water Supply Maintained",
+    "summary": "Authorities ensured uninterrupted drinking water supply."
+  },
+  {
+    "id": "dpm-eve28",
+    "featured": true,
+    "category": "Security",
+    "date": "April 22, 2026",
+    "title": "Checkposts Strengthened",
+    "summary": "Strict checks at district borders to prevent illegal activities."
+  },
+  {
+    "id": "dpm-eve29",
+    "featured": true,
+    "category": "Market",
+    "date": "April 22, 2026",
+    "title": "Vegetable Prices Fluctuate",
+    "summary": "Prices varied due to supply changes."
+  },
+  {
+    "id": "dpm-eve30",
+    "featured": true,
+    "category": "Business",
+    "date": "April 22, 2026",
+    "title": "Small Shops Operate Normally",
+    "summary": "Local businesses continued operations with minor slowdown."
+  },
+
+  {
+    "id": "dpm-eve31",
+    "featured": true,
+    "category": "Education",
+    "date": "April 22, 2026",
+    "title": "Students Continue Exam Preparation",
+    "summary": "Students used time for revision despite holidays."
+  },
+  {
+    "id": "dpm-eve32",
+    "featured": true,
+    "category": "Environment",
+    "date": "April 22, 2026",
+    "title": "Waste Management Activities Continue",
+    "summary": "Sanitation teams ensured waste clearance in towns."
+  },
+  {
+    "id": "dpm-eve33",
+    "featured": true,
+    "category": "Public Safety",
+    "date": "April 22, 2026",
+    "title": "Fire Services on Standby",
+    "summary": "Fire and rescue units prepared for emergencies."
+  },
+  {
+    "id": "dpm-eve34",
+    "featured": true,
+    "category": "Culture",
+    "date": "April 22, 2026",
+    "title": "Local Events Limited",
+    "summary": "Public gatherings restricted due to election rules."
+  },
+  {
+    "id": "dpm-eve35",
+    "featured": true,
+    "category": "Infrastructure",
+    "date": "April 22, 2026",
+    "title": "Rural Roads Maintained",
+    "summary": "Authorities carried out minor repair works."
+  },
+
+  {
+    "id": "dpm-eve36",
+    "featured": true,
+    "category": "Economy",
+    "date": "April 22, 2026",
+    "title": "Daily Wage Workers Affected",
+    "summary": "Work opportunities reduced temporarily."
+  },
+  {
+    "id": "dpm-eve37",
+    "featured": true,
+    "category": "Public",
+    "date": "April 22, 2026",
+    "title": "Election Awareness Spreads in Villages",
+    "summary": "Community volunteers promoted voting awareness."
+  },
+  {
+    "id": "dpm-eve38",
+    "featured": true,
+    "category": "Transport",
+    "date": "April 22, 2026",
+    "title": "Auto Drivers Demand Fare Revision",
+    "summary": "Drivers cited fuel price increases."
+  },
+  {
+    "id": "dpm-eve39",
+    "featured": true,
+    "category": "Retail",
+    "date": "April 22, 2026",
+    "title": "Evening Sales Slightly Improve",
+    "summary": "Markets saw moderate footfall in evening hours."
+  },
+  {
+    "id": "dpm-eve40",
+    "featured": true,
+    "category": "Tourism",
+    "date": "April 22, 2026",
+    "title": "Weekend Travel Plans Increase",
+    "summary": "Residents planned short trips after polling."
+  },
+
+  {
+    "id": "dpm-eve41",
+    "featured": true,
+    "category": "Health",
+    "date": "April 22, 2026",
+    "title": "Hospitals Prepare for Heat Cases",
+    "summary": "Healthcare facilities increased readiness."
+  },
+  {
+    "id": "dpm-eve42",
+    "featured": true,
+    "category": "Civic",
+    "date": "April 22, 2026",
+    "title": "Drainage Cleaning Conducted",
+    "summary": "Authorities ensured proper drainage systems."
+  },
+  {
+    "id": "dpm-eve43",
+    "featured": true,
+    "category": "Technology",
+    "date": "April 22, 2026",
+    "title": "EVM Security Strengthened",
+    "summary": "Machines secured under strict monitoring."
+  },
+  {
+    "id": "dpm-eve44",
+    "featured": true,
+    "category": "Market",
+    "date": "April 22, 2026",
+    "title": "Commodity Prices Vary",
+    "summary": "Market fluctuations observed."
+  },
+  {
+    "id": "dpm-eve45",
+    "featured": true,
+    "category": "Business",
+    "date": "April 22, 2026",
+    "title": "Weekly Markets Function Normally",
+    "summary": "Markets operated with moderate activity."
+  },
+
+  {
+    "id": "dpm-eve46",
+    "featured": true,
+    "category": "Public Safety",
+    "date": "April 22, 2026",
+    "title": "Emergency Units Fully Ready",
+    "summary": "All emergency services remained active."
+  },
+  {
+    "id": "dpm-eve47",
+    "featured": true,
+    "category": "Environment",
+    "date": "April 22, 2026",
+    "title": "Pollution Levels Low",
+    "summary": "Air quality remained within safe limits."
+  },
+  {
+    "id": "dpm-eve48",
+    "featured": true,
+    "category": "Education",
+    "date": "April 22, 2026",
+    "title": "Tuition Centers Continue",
+    "summary": "Evening classes maintained attendance."
+  },
+  {
+    "id": "dpm-eve49",
+    "featured": true,
+    "category": "Infrastructure",
+    "date": "April 22, 2026",
+    "title": "Streetlight Maintenance Completed",
+    "summary": "Visibility improved in key locations."
+  },
+  {
+    "id": "dpm-eve50",
+    "featured": true,
+    "category": "Election",
+    "date": "April 22, 2026",
+    "title": "Officials Confident of Peaceful Polling",
+    "summary": "District officials expressed confidence in conducting smooth and incident-free elections across Dharmapuri."
   }
 ]
