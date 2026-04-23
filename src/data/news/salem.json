@@ -407,5 +407,53 @@
     "date": "April 21, 2026",
     "title": "Weekend Travel Demand Increases",
     "summary": "Weekend travel has increased with more visitors exploring Salem region."
+  },
+  {
+    "id": "slm-24-1",
+    "featured": true,
+    "category": "Politics",
+    "date": "April 24, 2026",
+    "title": "Salem Remains EPS Territory but DMK Pushing Harder than 2021",
+    "summary": "Reporting from district shows AIADMK trying to retain fortress while DMK uses ministers and local organisers to expand ground network. Result is sharper, more personal contest shaping wider western Tamil Nadu mood."
+  },
+  {
+    "id": "slm-24-2",
+    "featured": true,
+    "category": "Politics",
+    "date": "April 24, 2026",
+    "title": "TVK Faces Field Friction in Western Belt",
+    "summary": "Party changed candidates in Salem's Edappadi after scrutiny rejection. Setbacks show new entrant still lacks stable organisational footing in parts of Kongu."
+  },
+  {
+    "id": "slm-24-3",
+    "featured": true,
+    "category": "Civic",
+    "date": "April 24, 2026",
+    "title": "Sensitive Booths and Webcasting Major Election-Management Story",
+    "summary": "Officials identified 172 sensitive polling stations across 11 constituencies placed under live surveillance. Scale of monitoring reflects administration's concern about intimidation, money power, and booth-level disputes."
+  },
+  {
+    "id": "slm-24-4",
+    "featured": true,
+    "category": "Civic",
+    "date": "April 24, 2026",
+    "title": "Salem Election Machinery Running Under Unusually Tight Scrutiny",
+    "summary": "Booths under webcasting while officials deal with candidate scrutiny disputes and campaign-related misconduct complaints. Salem is one of clearest examples of how administration and politics now overlap at booth level."
+  },
+  {
+    "id": "slm-24-5",
+    "featured": true,
+    "category": "Infrastructure",
+    "date": "April 24, 2026",
+    "title": "Yercaud Hills Face Rain-Linked Transport Disruption",
+    "summary": "Heavy rain brought road restrictions on Yercaud route showing how quickly weather affects mobility and tourism. For residents, monsoon management remains practical governance test."
+  },
+  {
+    "id": "slm-24-6",
+    "featured": true,
+    "category": "Social",
+    "date": "April 24, 2026",
+    "title": "Erode's Political Messaging Increasingly Personal and Community-Focused",
+    "summary": "Sengottaiyan's comments on Vijay, separate district demands, and alliance loyalty show how public opinion is pulled by identity not ideology. Party loyalty now competes with local pride and generational change."
   }
 ]

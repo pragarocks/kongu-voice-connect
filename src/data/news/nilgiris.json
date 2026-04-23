@@ -407,5 +407,69 @@
     "date": "April 21, 2026",
     "title": "Tourism Revenue Expected to Rise",
     "summary": "Officials expect tourism revenue to increase significantly during the season."
+  },
+  {
+    "id": "ngl-24-1",
+    "featured": true,
+    "category": "Hailstorm",
+    "date": "April 24, 2026",
+    "title": "Hailstorm Damage Affects Crops Across Nilgiris",
+    "summary": "Thousands of acres hit with banana, coconut, and watermelon crops damaged at harvest stage. Unusual ice-pellet damage has become fresh warning about climate volatility in Kongu belt."
+  },
+  {
+    "id": "ngl-24-2",
+    "featured": true,
+    "category": "Wildlife",
+    "date": "April 24, 2026",
+    "title": "Forest-Edge Tourism Reshaped by Tiger Movement in Nilgiris",
+    "summary": "Four tigers spotted near Ooty's tea estates, forcing workers to stop and film before retreating. Episode underlines how climate, habitat, and human activity collide in hill district every season."
+  },
+  {
+    "id": "ngl-24-3",
+    "featured": true,
+    "category": "Infrastructure",
+    "date": "April 24, 2026",
+    "title": "Nilgiri Mountain Railway Offering Summer Special Services",
+    "summary": "Summer special service between Mettupalayam and Udhagamandalam meant to handle tourist rush and improve access to hill district. Transport planners using peak season to justify cleaner and more reliable mountain mobility."
+  },
+  {
+    "id": "ngl-24-4",
+    "featured": true,
+    "category": "Environment",
+    "date": "April 24, 2026",
+    "title": "Pykara Boating Moving Toward Electric Motors",
+    "summary": "TTDC's decision to procure electric outbound motors from Japan points to slow but visible shift in tourist infrastructure. Upgrade positioned as both environmental improvement and service reliability move."
+  },
+  {
+    "id": "ngl-24-5",
+    "featured": true,
+    "category": "Social",
+    "date": "April 24, 2026",
+    "title": "Tea Plantation Workers Alarmed by Tiger Sighting Near Ooty",
+    "summary": "Four tigers seen in plantation near Mynala village, sending tea pickers fleeing. For Nilgiris where agriculture and forest edges overlap, wildlife movement remains constant livelihood risk."
+  },
+  {
+    "id": "ngl-24-6",
+    "featured": true,
+    "category": "Health",
+    "date": "April 24, 2026",
+    "title": "Nilgiris Tourism Balancing Environmental Upgrades With Peak-Season Demand",
+    "summary": "Electric boat motors to summer special trains, district trying to reduce pressure on fragile hill ecosystems while serving tourists. Shift becoming more visible in public policy."
+  },
+  {
+    "id": "ngl-24-7",
+    "featured": true,
+    "category": "Health",
+    "date": "April 24, 2026",
+    "title": "Nilgiris Prison and Family-Feud Stories Put Mental Well-Being Under Lens",
+    "summary": "Reports of prison warder ending his life and separate campus tragedy reflect stressors not fitting standard crime reporting. In Nilgiris such stories often travel quickly through close-knit communities."
+  },
+  {
+    "id": "ngl-24-8",
+    "featured": true,
+    "category": "Health",
+    "date": "April 24, 2026",
+    "title": "Nilgiris Remains Vulnerable to Wildlife and Terrain-Related Medical Emergencies",
+    "summary": "Tigers near tea estates, steep road accidents, and tourist surges all add to district's medical risk profile. Hospitals in hill belt must be ready for delayed access and trauma cases more often than lowland facilities."
   }
 ]

@@ -407,5 +407,45 @@
     "date": "April 21, 2026",
     "title": "Weekend Travel Demand Increases",
     "summary": "Weekend travel has increased as people visit nearby attractions."
+  },
+  {
+    "id": "dpm-24-1",
+    "featured": true,
+    "category": "Politics",
+    "date": "April 24, 2026",
+    "title": "Dharmapuri Protest Politics Spills Directly Into Voting Day",
+    "summary": "Residents of K Eechampadi boycotted polling to protest school-relocation issue. Other villages threatened to stay away over roads to crematorium. Boycott sentiment shows how infrastructure neglect turns into electoral message."
+  },
+  {
+    "id": "dpm-24-2",
+    "featured": true,
+    "category": "Education",
+    "date": "April 24, 2026",
+    "title": "First-Time Voters Welcomed with Robots, Roses and Certificates",
+    "summary": "Erapatty booth included green and pink sections with women staff and seed-ball giveaways. Clear example of election outreach becoming civic education exercise."
+  },
+  {
+    "id": "dpm-24-3",
+    "featured": true,
+    "category": "Agriculture",
+    "date": "April 24, 2026",
+    "title": "Dharmapuri Agrarian Villages Mixing Civic Protest With Election Pressure",
+    "summary": "School-relocation boycott and crematorium-road boycott reflect long-standing frustration with stalled infrastructure. Agricultural communities making clear that water, roads, and access matter more than slogans."
+  },
+  {
+    "id": "dpm-24-4",
+    "featured": true,
+    "category": "Crime",
+    "date": "April 24, 2026",
+    "title": "Election Enforcement Aggressive as Cash Movements Watched Closely",
+    "summary": "Flying squads seized ₹22.03 lakh concealed in scooter in Harur. In tightly contested political climate, every seizure interpreted as evidence of hidden campaign spending."
+  },
+  {
+    "id": "dpm-24-5",
+    "featured": true,
+    "category": "Social",
+    "date": "April 24, 2026",
+    "title": "Environmental Politics Tied to Dignity and Access in Dharmapuri",
+    "summary": "Crematorium-road protests reminder that basic services in hill and rural communities linked to land use and environmental planning. Residents demanding state treat access roads as essential infrastructure."
   }
 ]
