@@ -1,66 +1,411 @@
 [
   {
-    "id": "nkl-24-14",
+    "id": "nkl-24-1",
     "featured": true,
     "category": "Election",
     "date": "April 24, 2026",
-    "title": "Record Voter Turnout Reported in Namakkal",
-    "summary": "Namakkal district recorded one of the highest voter turnouts in Tamil Nadu assembly elections with strong participation from women, youth, and first-time voters."
+    "title": "Record Voter Turnout in Namakkal",
+    "summary": "Namakkal recorded one of the highest voter turnouts in Tamil Nadu with strong participation from women and youth."
   },
   {
-    "id": "nkl-24-15",
+    "id": "nkl-24-2",
     "featured": true,
     "category": "Politics",
     "date": "April 24, 2026",
-    "title": "Polling Concludes Peacefully Across Namakkal",
-    "summary": "Election polling in Namakkal concluded largely peacefully with heavy security deployment, despite minor incidents reported in a few locations."
+    "title": "Polling Ends Peacefully",
+    "summary": "Election polling concluded peacefully across most parts of Namakkal with tight security arrangements."
   },
   {
-    "id": "nkl-24-16",
+    "id": "nkl-24-3",
     "featured": true,
     "category": "Security",
     "date": "April 24, 2026",
-    "title": "Security Tightened Post-Poll in Sensitive Areas",
-    "summary": "Police have intensified patrols and surveillance in sensitive zones of Namakkal to prevent post-election disturbances and ensure law and order."
+    "title": "Post-Poll Security Tightened",
+    "summary": "Police increased patrols in sensitive areas to maintain law and order after polling."
+  },
+  {
+    "id": "nkl-24-4",
+    "featured": true,
+    "category": "Civic",
+    "date": "April 24, 2026",
+    "title": "Water Supply Issues Trigger Protests",
+    "summary": "Residents protested over irregular water supply in rural parts of Namakkal."
+  },
+  {
+    "id": "nkl-24-5",
+    "featured": true,
+    "category": "Agriculture",
+    "date": "April 24, 2026",
+    "title": "Poultry Sector Faces Labour Shortage",
+    "summary": "Election activities have led to labour shortages affecting poultry production."
+  },
+
+  {
+    "id": "nkl-24-6",
+    "featured": false,
+    "category": "Health",
+    "date": "April 24, 2026",
+    "title": "Heatwave Advisory Issued",
+    "summary": "Authorities advised residents to take precautions due to rising temperatures."
+  },
+  {
+    "id": "nkl-24-7",
+    "featured": false,
+    "category": "Market",
+    "date": "April 24, 2026",
+    "title": "Gold Prices Show Variation",
+    "summary": "Gold prices fluctuated in local markets following national trends."
+  },
+  {
+    "id": "nkl-24-8",
+    "featured": false,
+    "category": "Market",
+    "date": "April 24, 2026",
+    "title": "Egg Prices Remain Unstable",
+    "summary": "Egg prices in Namakkal saw minor fluctuations due to supply-demand changes."
+  },
+  {
+    "id": "nkl-24-9",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 24, 2026",
+    "title": "Bus Services Return to Normal",
+    "summary": "Public transport resumed normal operations after election duty schedules."
+  },
+  {
+    "id": "nkl-24-10",
+    "featured": false,
+    "category": "Education",
+    "date": "April 24, 2026",
+    "title": "Students Resume Classes",
+    "summary": "Schools and colleges resumed normal academic schedules post-election."
+  },
+
+  {
+    "id": "nkl-24-11",
+    "featured": false,
+    "category": "Crime",
+    "date": "April 24, 2026",
+    "title": "Police Seize Election Materials",
+    "summary": "Authorities seized materials suspected to be used for voter inducement."
+  },
+  {
+    "id": "nkl-24-12",
+    "featured": false,
+    "category": "Civic",
+    "date": "April 24, 2026",
+    "title": "Sanitation Drives Conducted",
+    "summary": "Municipal workers cleared campaign waste and posters across the district."
+  },
+  {
+    "id": "nkl-24-13",
+    "featured": false,
+    "category": "Economy",
+    "date": "April 24, 2026",
+    "title": "Markets See Normal Activity",
+    "summary": "Local businesses resumed operations after election disruptions."
+  },
+  {
+    "id": "nkl-24-14",
+    "featured": false,
+    "category": "Health",
+    "date": "April 24, 2026",
+    "title": "Hospitals Prepared for Heat Cases",
+    "summary": "Hospitals are preparing for heat-related illnesses during summer."
+  },
+  {
+    "id": "nkl-24-15",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 24, 2026",
+    "title": "Water Bodies Cleaning Continues",
+    "summary": "Authorities continue efforts to clean lakes and ponds."
+  },
+
+  {
+    "id": "nkl-24-16",
+    "featured": false,
+    "category": "Retail",
+    "date": "April 24, 2026",
+    "title": "Retail Sales Increase",
+    "summary": "Retail shops saw improved sales after election-related slowdowns."
   },
   {
     "id": "nkl-24-17",
     "featured": false,
-    "category": "Market",
+    "category": "Infrastructure",
     "date": "April 24, 2026",
-    "title": "Gold and Silver Prices Fluctuate in Namakkal",
-    "summary": "Local bullion markets in Namakkal are witnessing daily fluctuations in gold and silver prices following national and global trends."
+    "title": "Road Repair Works Ongoing",
+    "summary": "Authorities accelerated road repair works in urban areas."
   },
   {
     "id": "nkl-24-18",
     "featured": false,
-    "category": "Health",
+    "category": "Public Safety",
     "date": "April 24, 2026",
-    "title": "Heatwave Precautions Issued for Residents",
-    "summary": "Authorities have advised people to avoid peak sunlight hours and stay hydrated as temperatures rise across Namakkal district."
+    "title": "Emergency Teams on Alert",
+    "summary": "Emergency response teams remain on standby post-election."
   },
   {
     "id": "nkl-24-19",
     "featured": false,
-    "category": "Transport",
+    "category": "Business",
     "date": "April 24, 2026",
-    "title": "Transport Services Resume Normal Operations",
-    "summary": "Bus and transport services have returned to normal schedules after heavy usage during election polling days."
+    "title": "Small Industries Resume Work",
+    "summary": "Local industries restarted production after labour shortages eased."
   },
   {
     "id": "nkl-24-20",
     "featured": false,
-    "category": "Civic",
+    "category": "Agriculture",
     "date": "April 24, 2026",
-    "title": "Cleaning Drives Conducted After Election Activities",
-    "summary": "Municipal teams have started cleanup operations to remove banners, posters, and waste generated during election campaigns."
+    "title": "Farmers Monitor Crop Prices",
+    "summary": "Farmers track market prices to decide selling strategies."
   },
+
   {
     "id": "nkl-24-21",
     "featured": false,
+    "category": "Technology",
+    "date": "April 24, 2026",
+    "title": "Digital Services Usage Rises",
+    "summary": "Online services adoption increased in public and private sectors."
+  },
+  {
+    "id": "nkl-24-22",
+    "featured": false,
+    "category": "Public",
+    "date": "April 24, 2026",
+    "title": "Voter Awareness Appreciated",
+    "summary": "Officials praised high voter awareness and participation."
+  },
+  {
+    "id": "nkl-24-23",
+    "featured": false,
+    "category": "Security",
+    "date": "April 24, 2026",
+    "title": "Additional Police Deployment Continues",
+    "summary": "Security forces remain deployed in key locations."
+  },
+  {
+    "id": "nkl-24-24",
+    "featured": false,
+    "category": "Energy",
+    "date": "April 24, 2026",
+    "title": "Electricity Demand Increases",
+    "summary": "Power consumption increased due to summer heat."
+  },
+  {
+    "id": "nkl-24-25",
+    "featured": false,
+    "category": "Sports",
+    "date": "April 24, 2026",
+    "title": "Local Sports Events Resume",
+    "summary": "Sports competitions resumed after election activities."
+  },
+
+  {
+    "id": "nkl-24-26",
+    "featured": false,
+    "category": "Tourism",
+    "date": "April 24, 2026",
+    "title": "Temple Visits Increase",
+    "summary": "Religious places saw increased visitors post-election."
+  },
+  {
+    "id": "nkl-24-27",
+    "featured": false,
+    "category": "Culture",
+    "date": "April 24, 2026",
+    "title": "Cultural Events Organized",
+    "summary": "Local cultural programs attracted public participation."
+  },
+  {
+    "id": "nkl-24-28",
+    "featured": false,
+    "category": "Lifestyle",
+    "date": "April 24, 2026",
+    "title": "Fitness Awareness Growing",
+    "summary": "Youth show increased interest in fitness activities."
+  },
+  {
+    "id": "nkl-24-29",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 24, 2026",
+    "title": "Traffic Flow Improves",
+    "summary": "Traffic conditions improved after election rallies ended."
+  },
+  {
+    "id": "nkl-24-30",
+    "featured": false,
+    "category": "Civic",
+    "date": "April 24, 2026",
+    "title": "Garbage Clearance Intensified",
+    "summary": "Sanitation teams increased waste removal operations."
+  },
+
+  {
+    "id": "nkl-24-31",
+    "featured": false,
+    "category": "Education",
+    "date": "April 24, 2026",
+    "title": "Exam Preparations Continue",
+    "summary": "Students focus on upcoming examinations."
+  },
+  {
+    "id": "nkl-24-32",
+    "featured": false,
+    "category": "Retail",
+    "date": "April 24, 2026",
+    "title": "Markets See More Footfall",
+    "summary": "Customer visits increased in local markets."
+  },
+  {
+    "id": "nkl-24-33",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 24, 2026",
+    "title": "Tree Plantation Drives Continue",
+    "summary": "Volunteers organized tree planting activities."
+  },
+  {
+    "id": "nkl-24-34",
+    "featured": false,
+    "category": "Public Safety",
+    "date": "April 24, 2026",
+    "title": "Fire Safety Checks Conducted",
+    "summary": "Officials inspected buildings for fire safety compliance."
+  },
+  {
+    "id": "nkl-24-35",
+    "featured": false,
+    "category": "Business",
+    "date": "April 24, 2026",
+    "title": "SMEs Expand Operations",
+    "summary": "Small businesses are expanding production capacity."
+  },
+
+  {
+    "id": "nkl-24-36",
+    "featured": false,
+    "category": "Agriculture",
+    "date": "April 24, 2026",
+    "title": "Livestock Monitoring Increased",
+    "summary": "Officials monitor poultry health to prevent disease outbreaks."
+  },
+  {
+    "id": "nkl-24-37",
+    "featured": false,
+    "category": "Market",
+    "date": "April 24, 2026",
+    "title": "Vegetable Prices Fluctuate",
+    "summary": "Vegetable prices changed due to supply variations."
+  },
+  {
+    "id": "nkl-24-38",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 24, 2026",
+    "title": "Passenger Traffic Stabilizes",
+    "summary": "Bus stands reported stable passenger movement."
+  },
+  {
+    "id": "nkl-24-39",
+    "featured": false,
     "category": "Economy",
     "date": "April 24, 2026",
-    "title": "Local Businesses Resume Post-Election Activity",
-    "summary": "Shops and small businesses in Namakkal are returning to regular operations after temporary slowdowns during election campaigning."
+    "title": "Economic Activity Picks Up",
+    "summary": "Trade and commerce show signs of recovery."
+  },
+  {
+    "id": "nkl-24-40",
+    "featured": false,
+    "category": "Public",
+    "date": "April 24, 2026",
+    "title": "Community Programs Conducted",
+    "summary": "Community engagement programs saw good participation."
+  },
+
+  {
+    "id": "nkl-24-41",
+    "featured": false,
+    "category": "Infrastructure",
+    "date": "April 24, 2026",
+    "title": "Bridge Maintenance Work Continues",
+    "summary": "Repair works ongoing to ensure safe transportation."
+  },
+  {
+    "id": "nkl-24-42",
+    "featured": false,
+    "category": "Security",
+    "date": "April 24, 2026",
+    "title": "Monitoring of Sensitive Areas Ongoing",
+    "summary": "Authorities keep surveillance in key locations."
+  },
+  {
+    "id": "nkl-24-43",
+    "featured": false,
+    "category": "Culture",
+    "date": "April 24, 2026",
+    "title": "Festivals Attract Crowds",
+    "summary": "Local festivals witnessed large gatherings."
+  },
+  {
+    "id": "nkl-24-44",
+    "featured": false,
+    "category": "Health",
+    "date": "April 24, 2026",
+    "title": "Public Advised on Hydration",
+    "summary": "Doctors advise drinking water regularly during heat."
+  },
+  {
+    "id": "nkl-24-45",
+    "featured": false,
+    "category": "Industry",
+    "date": "April 24, 2026",
+    "title": "Industrial Output Stabilizes",
+    "summary": "Factories return to normal production levels."
+  },
+
+  {
+    "id": "nkl-24-46",
+    "featured": false,
+    "category": "Startup",
+    "date": "April 24, 2026",
+    "title": "Youth Startups Growing",
+    "summary": "Entrepreneurship among youth continues to rise."
+  },
+  {
+    "id": "nkl-24-47",
+    "featured": false,
+    "category": "Law",
+    "date": "April 24, 2026",
+    "title": "Election Code Enforcement Continues",
+    "summary": "Authorities monitor compliance with election rules."
+  },
+  {
+    "id": "nkl-24-48",
+    "featured": false,
+    "category": "Public",
+    "date": "April 24, 2026",
+    "title": "Awareness Campaigns Continue",
+    "summary": "Officials continue civic awareness programs."
+  },
+  {
+    "id": "nkl-24-49",
+    "featured": false,
+    "category": "Tourism",
+    "date": "April 24, 2026",
+    "title": "Weekend Travel Increases",
+    "summary": "Tourist visits increased in nearby attractions."
+  },
+  {
+    "id": "nkl-24-50",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 24, 2026",
+    "title": "Air Quality Remains Stable",
+    "summary": "Air quality levels remain within safe limits."
   }
 ]
