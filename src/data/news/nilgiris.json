@@ -1,475 +1,82 @@
 [
   {
-    "id": "ngl-new1",
-    "featured": true,
-    "category": "Tourism",
-    "date": "April 21, 2026",
-    "title": "Tourist Inflow Increases in Ooty Ahead of Summer",
-    "summary": "The Nilgiris district is witnessing a significant rise in tourist arrivals as the summer season begins. Popular destinations like Ooty and Coonoor are experiencing high occupancy rates in hotels and resorts, boosting the local tourism economy."
-  },
-  {
-    "id": "ngl-new2",
-    "featured": false,
-    "category": "Weather",
-    "date": "April 21, 2026",
-    "title": "Pleasant Climate Continues Across Nilgiris",
-    "summary": "The Nilgiris continue to enjoy cool and pleasant weather conditions, attracting tourists from across the state. The moderate temperatures provide relief from the heat experienced in plains."
-  },
-  {
-    "id": "ngl-new3",
-    "featured": false,
-    "category": "Environment",
-    "date": "April 21, 2026",
-    "title": "Forest Officials Intensify Wildlife Monitoring",
-    "summary": "Forest department officials have intensified wildlife monitoring activities in the Nilgiris to ensure safety and prevent human-animal conflicts during peak tourist season."
-  },
-  {
-    "id": "ngl-new4",
-    "featured": false,
-    "category": "Tourism",
-    "date": "April 21, 2026",
-    "title": "Botanical Garden Sees Heavy Visitor Footfall",
-    "summary": "The Government Botanical Garden in Ooty is witnessing heavy footfall as tourists flock to enjoy seasonal flowers and scenic landscapes."
-  },
-  {
-    "id": "ngl-new5",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Special Buses Operated to Hill Stations",
-    "summary": "Transport authorities have introduced additional bus services to manage the surge in tourists traveling to hill stations in the Nilgiris."
-  },
-
-  {
-    "id": "ngl-new6",
-    "featured": false,
-    "category": "Civic",
-    "date": "April 21, 2026",
-    "title": "Cleanliness Drives Conducted in Tourist Areas",
-    "summary": "Local bodies have initiated cleanliness drives in key tourist locations to maintain hygiene and improve visitor experience."
-  },
-  {
-    "id": "ngl-new7",
-    "featured": false,
-    "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Medical Camps Organized for Tribal Communities",
-    "summary": "Health authorities have conducted medical camps in tribal regions, providing essential healthcare services to remote communities."
-  },
-  {
-    "id": "ngl-new8",
-    "featured": false,
-    "category": "Infrastructure",
-    "date": "April 21, 2026",
-    "title": "Road Repairs Taken Up in Ghat Sections",
-    "summary": "Road repair works are underway in ghat sections to ensure safer travel for tourists and residents."
-  },
-  {
-    "id": "ngl-new9",
-    "featured": false,
-    "category": "Tourism",
-    "date": "April 21, 2026",
-    "title": "Toy Train Bookings Increase Sharply",
-    "summary": "Bookings for the Nilgiri Mountain Railway have surged due to increased tourist demand during the holiday season."
-  },
-  {
-    "id": "ngl-new10",
-    "featured": false,
-    "category": "Environment",
-    "date": "April 21, 2026",
-    "title": "Plastic Ban Enforcement Strengthened",
-    "summary": "Authorities have intensified enforcement of plastic bans in the Nilgiris to protect the fragile ecosystem."
-  },
-
-  {
-    "id": "ngl-new11",
-    "featured": false,
-    "category": "Tourism",
-    "date": "April 21, 2026",
-    "title": "Tea Estates Attract Visitors",
-    "summary": "Tourists are visiting tea estates to experience scenic landscapes and learn about tea production."
-  },
-  {
-    "id": "ngl-new12",
-    "featured": false,
-    "category": "Agriculture",
-    "date": "April 21, 2026",
-    "title": "Tea Production Remains Stable",
-    "summary": "Tea plantations in the Nilgiris report stable production levels despite climate variations."
-  },
-  {
-    "id": "ngl-new13",
-    "featured": false,
-    "category": "Wildlife",
-    "date": "April 21, 2026",
-    "title": "Elephant Movement Alerts Issued",
-    "summary": "Forest officials have issued alerts in areas witnessing elephant movement to ensure public safety."
-  },
-  {
-    "id": "ngl-new14",
-    "featured": false,
-    "category": "Tourism",
-    "date": "April 21, 2026",
-    "title": "Coonoor Sees Rise in Tourist Visits",
-    "summary": "Coonoor is witnessing increased tourist footfall due to its scenic attractions and pleasant weather."
-  },
-  {
-    "id": "ngl-new15",
-    "featured": false,
-    "category": "Public Safety",
-    "date": "April 21, 2026",
-    "title": "Emergency Teams on Standby for Tourist Season",
-    "summary": "Emergency response teams have been placed on alert to handle any incidents during the peak tourist season."
-  },
-
-  {
-    "id": "ngl-new16",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Traffic Regulations Enforced in Ooty",
-    "summary": "Traffic regulations have been tightened to manage congestion caused by increased tourist vehicles."
-  },
-  {
-    "id": "ngl-new17",
-    "featured": false,
-    "category": "Retail",
-    "date": "April 21, 2026",
-    "title": "Local Markets See Increased Sales",
-    "summary": "Local shops and markets are benefiting from higher tourist spending."
-  },
-  {
-    "id": "ngl-new18",
-    "featured": false,
-    "category": "Culture",
-    "date": "April 21, 2026",
-    "title": "Cultural Programs Organized for Tourists",
-    "summary": "Cultural events are being conducted to showcase local traditions to visitors."
-  },
-  {
-    "id": "ngl-new19",
-    "featured": false,
-    "category": "Environment",
-    "date": "April 21, 2026",
-    "title": "Lake Cleaning Initiatives Continue",
-    "summary": "Authorities continue efforts to clean and maintain lakes in the region."
-  },
-  {
-    "id": "ngl-new20",
-    "featured": false,
-    "category": "Economy",
-    "date": "April 21, 2026",
-    "title": "Tourism Boosts Local Economy",
-    "summary": "The tourism sector continues to play a major role in supporting the Nilgiris economy."
-  },
-
-  {
-    "id": "ngl-new21",
-    "featured": false,
-    "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Hospitals Prepare for Tourist Influx",
-    "summary": "Healthcare facilities are prepared to handle increased patient inflow during peak season."
-  },
-  {
-    "id": "ngl-new22",
-    "featured": false,
-    "category": "Civic",
-    "date": "April 21, 2026",
-    "title": "Water Supply Monitoring Strengthened",
-    "summary": "Authorities are ensuring uninterrupted water supply for residents and tourists."
-  },
-  {
-    "id": "ngl-new23",
-    "featured": false,
-    "category": "Infrastructure",
-    "date": "April 21, 2026",
-    "title": "Bridge Maintenance Works Underway",
-    "summary": "Bridge repair works are being carried out to ensure safe travel."
-  },
-  {
-    "id": "ngl-new24",
-    "featured": false,
-    "category": "Security",
-    "date": "April 21, 2026",
-    "title": "Police Deployment Increased",
-    "summary": "Police presence has been increased in tourist areas for safety."
-  },
-  {
-    "id": "ngl-new25",
-    "featured": false,
-    "category": "Education",
-    "date": "April 21, 2026",
-    "title": "Students Participate in Eco Awareness Programs",
-    "summary": "Students are actively involved in environmental awareness activities."
-  },
-
-  {
-    "id": "ngl-new26",
-    "featured": false,
-    "category": "Environment",
-    "date": "April 21, 2026",
-    "title": "Forest Fire Prevention Measures Strengthened",
-    "summary": "Authorities have stepped up forest fire prevention efforts during dry conditions."
-  },
-  {
-    "id": "ngl-new27",
-    "featured": false,
-    "category": "Tourism",
-    "date": "April 21, 2026",
-    "title": "Resort Bookings Reach Peak Levels",
-    "summary": "Hotels and resorts report full occupancy due to tourist demand."
-  },
-  {
-    "id": "ngl-new28",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Taxi Services See Increased Demand",
-    "summary": "Taxi operators are experiencing higher demand from tourists."
-  },
-  {
-    "id": "ngl-new29",
-    "featured": false,
-    "category": "Agriculture",
-    "date": "April 21, 2026",
-    "title": "Vegetable Farming Supports Local Supply",
-    "summary": "Local farms continue to supply fresh vegetables to markets."
-  },
-  {
-    "id": "ngl-new30",
-    "featured": false,
-    "category": "Market",
-    "date": "April 21, 2026",
-    "title": "Handicraft Sales Increase",
-    "summary": "Handicraft items are seeing increased sales among tourists."
-  },
-
-  {
-    "id": "ngl-new31",
-    "featured": false,
-    "category": "Lifestyle",
-    "date": "April 21, 2026",
-    "title": "Adventure Tourism Gains Popularity",
-    "summary": "Adventure activities such as trekking are gaining popularity among visitors."
-  },
-  {
-    "id": "ngl-new32",
-    "featured": false,
-    "category": "Public",
-    "date": "April 21, 2026",
-    "title": "Public Awareness on Eco Protection Grows",
-    "summary": "Residents and tourists are becoming more aware of environmental protection."
-  },
-  {
-    "id": "ngl-new33",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Parking Facilities Expanded",
-    "summary": "Authorities have expanded parking facilities to handle tourist vehicles."
-  },
-  {
-    "id": "ngl-new34",
-    "featured": false,
-    "category": "Tourism",
-    "date": "April 21, 2026",
-    "title": "Flower Shows Preparation Begins",
-    "summary": "Preparations for the annual flower show have begun in Ooty."
-  },
-  {
-    "id": "ngl-new35",
-    "featured": false,
-    "category": "Culture",
-    "date": "April 21, 2026",
-    "title": "Local Festivals Attract Visitors",
-    "summary": "Traditional festivals are drawing both locals and tourists."
-  },
-
-  {
-    "id": "ngl-new36",
-    "featured": false,
-    "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Cold Weather Health Advisory Issued",
-    "summary": "Visitors are advised to take precautions against cold weather conditions."
-  },
-  {
-    "id": "ngl-new37",
-    "featured": false,
-    "category": "Economy",
-    "date": "April 21, 2026",
-    "title": "Local Businesses Benefit from Tourism",
-    "summary": "Small businesses are benefiting from increased tourist spending."
-  },
-  {
-    "id": "ngl-new38",
-    "featured": false,
-    "category": "Infrastructure",
-    "date": "April 21, 2026",
-    "title": "Hill Road Safety Measures Improved",
-    "summary": "Safety measures have been enhanced on hill roads to prevent accidents."
-  },
-  {
-    "id": "ngl-new39",
-    "featured": false,
-    "category": "Security",
-    "date": "April 21, 2026",
-    "title": "Tourist Safety Patrols Increased",
-    "summary": "Police patrols have been increased to ensure tourist safety."
-  },
-  {
-    "id": "ngl-new40",
-    "featured": false,
-    "category": "Retail",
-    "date": "April 21, 2026",
-    "title": "Souvenir Shops Report High Sales",
-    "summary": "Souvenir shops are experiencing increased sales during peak season."
-  },
-
-  {
-    "id": "ngl-new41",
-    "featured": false,
-    "category": "Environment",
-    "date": "April 21, 2026",
-    "title": "Waste Management Efforts Strengthened",
-    "summary": "Authorities are improving waste management systems to handle tourist waste."
-  },
-  {
-    "id": "ngl-new42",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Bus Services Extended to Remote Areas",
-    "summary": "Transport services have been expanded to improve accessibility."
-  },
-  {
-    "id": "ngl-new43",
-    "featured": false,
-    "category": "Education",
-    "date": "April 21, 2026",
-    "title": "Schools Conduct Nature Awareness Programs",
-    "summary": "Schools are organizing programs to educate students about nature conservation."
-  },
-  {
-    "id": "ngl-new44",
-    "featured": false,
-    "category": "Agriculture",
-    "date": "April 21, 2026",
-    "title": "Tea Prices Remain Stable",
-    "summary": "Tea prices remain stable, supporting local plantation economy."
-  },
-  {
-    "id": "ngl-new45",
-    "featured": false,
-    "category": "Public Safety",
-    "date": "April 21, 2026",
-    "title": "Disaster Response Teams on Alert",
-    "summary": "Disaster management teams are on alert to respond to emergencies."
-  },
-
-  {
-    "id": "ngl-new46",
-    "featured": false,
-    "category": "Tourism",
-    "date": "April 21, 2026",
-    "title": "Camping Activities Attract Youth",
-    "summary": "Camping and outdoor activities are becoming popular among young tourists."
-  },
-  {
-    "id": "ngl-new47",
-    "featured": false,
-    "category": "Market",
-    "date": "April 21, 2026",
-    "title": "Local Produce Sales Increase",
-    "summary": "Sales of locally grown produce have increased in markets."
-  },
-  {
-    "id": "ngl-new48",
-    "featured": false,
-    "category": "Culture",
-    "date": "April 21, 2026",
-    "title": "Music Events Held for Visitors",
-    "summary": "Music events are being organized to entertain tourists."
-  },
-  {
-    "id": "ngl-new49",
-    "featured": false,
-    "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Emergency Medical Services Strengthened",
-    "summary": "Emergency medical services have been strengthened for tourist safety."
-  },
-  {
-    "id": "ngl-new50",
-    "featured": false,
-    "category": "Economy",
-    "date": "April 21, 2026",
-    "title": "Tourism Revenue Expected to Rise",
-    "summary": "Officials expect tourism revenue to increase significantly during the season."
-  },
-  {
     "id": "ngl-24-1",
     "featured": true,
-    "category": "Hailstorm",
+    "category": "Agriculture",
     "date": "April 24, 2026",
-    "title": "Hailstorm Damage Affects Crops Across Nilgiris",
-    "summary": "Thousands of acres hit with banana, coconut, and watermelon crops damaged at harvest stage. Unusual ice-pellet damage has become fresh warning about climate volatility in Kongu belt."
+    "title": "Hailstorm Damages Crops in Nilgiris",
+    "summary": "Recent hailstorms have damaged banana, coconut, and other crops across parts of the Nilgiris, raising concerns among farmers about climate instability."
   },
   {
     "id": "ngl-24-2",
     "featured": true,
     "category": "Wildlife",
     "date": "April 24, 2026",
-    "title": "Forest-Edge Tourism Reshaped by Tiger Movement in Nilgiris",
-    "summary": "Four tigers spotted near Ooty's tea estates, forcing workers to stop and film before retreating. Episode underlines how climate, habitat, and human activity collide in hill district every season."
+    "title": "Large Python Rescued and Released into Forest",
+    "summary": "Forest officials safely rescued a 15.5-foot python from a field and released it back into the wild, highlighting frequent human-wildlife interactions in the region."
   },
   {
     "id": "ngl-24-3",
     "featured": true,
-    "category": "Infrastructure",
+    "category": "Tourism",
     "date": "April 24, 2026",
-    "title": "Nilgiri Mountain Railway Offering Summer Special Services",
-    "summary": "Summer special service between Mettupalayam and Udhagamandalam meant to handle tourist rush and improve access to hill district. Transport planners using peak season to justify cleaner and more reliable mountain mobility."
+    "title": "Tourist Rush Peaks in Ooty and Coonoor",
+    "summary": "The Nilgiris is witnessing a major surge in tourists during the summer season, with hotels and transport services operating at near full capacity."
   },
   {
     "id": "ngl-24-4",
     "featured": true,
-    "category": "Environment",
+    "category": "Infrastructure",
     "date": "April 24, 2026",
-    "title": "Pykara Boating Moving Toward Electric Motors",
-    "summary": "TTDC's decision to procure electric outbound motors from Japan points to slow but visible shift in tourist infrastructure. Upgrade positioned as both environmental improvement and service reliability move."
+    "title": "Nilgiri Mountain Railway Runs Summer Specials",
+    "summary": "Special train services have been introduced between Mettupalayam and Ooty to manage increased tourist demand during the peak summer season."
   },
   {
     "id": "ngl-24-5",
     "featured": true,
-    "category": "Social",
+    "category": "Environment",
     "date": "April 24, 2026",
-    "title": "Tea Plantation Workers Alarmed by Tiger Sighting Near Ooty",
-    "summary": "Four tigers seen in plantation near Mynala village, sending tea pickers fleeing. For Nilgiris where agriculture and forest edges overlap, wildlife movement remains constant livelihood risk."
+    "title": "Electric Boats Planned for Pykara Lake",
+    "summary": "Authorities are introducing electric motors for boating at Pykara Lake to reduce pollution and promote eco-friendly tourism."
   },
   {
     "id": "ngl-24-6",
     "featured": true,
-    "category": "Health",
+    "category": "Civic",
     "date": "April 24, 2026",
-    "title": "Nilgiris Tourism Balancing Environmental Upgrades With Peak-Season Demand",
-    "summary": "Electric boat motors to summer special trains, district trying to reduce pressure on fragile hill ecosystems while serving tourists. Shift becoming more visible in public policy."
+    "title": "Villagers Protest Land Issues with NOTA Votes",
+    "summary": "Residents in parts of Ooty protested land disputes by initially boycotting elections and later voting NOTA, highlighting long-standing grievances."
   },
   {
     "id": "ngl-24-7",
-    "featured": true,
-    "category": "Health",
+    "featured": false,
+    "category": "Governance",
     "date": "April 24, 2026",
-    "title": "Nilgiris Prison and Family-Feud Stories Put Mental Well-Being Under Lens",
-    "summary": "Reports of prison warder ending his life and separate campus tragedy reflect stressors not fitting standard crime reporting. In Nilgiris such stories often travel quickly through close-knit communities."
+    "title": "Action Continues Against Illegal Resorts",
+    "summary": "Authorities are proceeding with sealing unauthorized resorts and homestays following court support for enforcement measures."
   },
   {
     "id": "ngl-24-8",
-    "featured": true,
+    "featured": false,
+    "category": "Wildlife",
+    "date": "April 24, 2026",
+    "title": "Tiger Sightings Near Tea Estates Raise Concerns",
+    "summary": "Recent tiger sightings near plantation areas have raised safety concerns among workers and residents in the Nilgiris."
+  },
+  {
+    "id": "ngl-24-9",
+    "featured": false,
     "category": "Health",
     "date": "April 24, 2026",
-    "title": "Nilgiris Remains Vulnerable to Wildlife and Terrain-Related Medical Emergencies",
-    "summary": "Tigers near tea estates, steep road accidents, and tourist surges all add to district's medical risk profile. Hospitals in hill belt must be ready for delayed access and trauma cases more often than lowland facilities."
+    "title": "Hospitals Prepare for Tourist Season Emergencies",
+    "summary": "Healthcare facilities are on alert to handle increased cases due to tourist influx, road accidents, and wildlife-related incidents."
+  },
+  {
+    "id": "ngl-24-10",
+    "featured": false,
+    "category": "Transport",
+    "date": "April 24, 2026",
+    "title": "Traffic Regulations Tightened in Ooty",
+    "summary": "Authorities have implemented stricter traffic control measures to manage congestion caused by the heavy tourist influx."
   }
 ]
