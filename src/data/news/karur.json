@@ -1,411 +1,165 @@
 [
   {
-    "id": "kar-new1",
+    "id": "kar-today1",
     "featured": true,
     "category": "Election",
-    "date": "2026-04-21",
-    "title": "Election Campaigns Intensify Across Karur",
-    "summary": "Political parties have stepped up campaign activities across Karur district with rallies, public meetings, and voter outreach programs. Leaders are focusing on local issues to gain voter support ahead of the elections."
+    "date": "April 24, 2026",
+    "title": "Record Voter Turnout Reported in Karur",
+    "summary": "Karur district recorded one of the highest voter turnouts in Tamil Nadu during the 2026 Assembly elections, reflecting strong public participation across both urban and rural areas."
   },
   {
-    "id": "kar-new2",
-    "featured": false,
+    "id": "kar-today2",
+    "featured": true,
+    "category": "Election",
+    "date": "April 24, 2026",
+    "title": "Kongu Region Leads in Polling Percentage",
+    "summary": "The Kongu region, including Karur, reported the highest voter turnout in the state, indicating heightened political engagement among residents."
+  },
+  {
+    "id": "kar-today3",
+    "featured": true,
     "category": "Politics",
-    "date": "2026-04-21",
-    "title": "Karur Emerges as Key Electoral Battleground",
-    "summary": "Karur has become a significant electoral battleground as major parties compete aggressively to secure votes."
+    "date": "April 24, 2026",
+    "title": "Political Attention Focuses on Karur Results",
+    "summary": "Karur has emerged as a key district being closely watched by major political parties due to its high turnout and strategic importance in the election."
   },
   {
-    "id": "kar-new3",
-    "featured": false,
-    "category": "Civic",
-    "date": "2026-04-21",
-    "title": "Residents Demand Better Road Conditions",
-    "summary": "Residents have raised concerns about poor road conditions and are urging authorities to improve infrastructure."
+    "id": "kar-today4",
+    "featured": true,
+    "category": "Public",
+    "date": "April 24, 2026",
+    "title": "‘Vote Not for Sale’ Campaign Gains Attention",
+    "summary": "Residents in Karur displayed awareness messages outside homes discouraging vote-buying, reflecting growing voter awareness and civic responsibility."
   },
   {
-    "id": "kar-new4",
-    "featured": false,
-    "category": "Business",
-    "date": "2026-04-21",
-    "title": "Textile Industry Sees Growth in Karur",
-    "summary": "Karur’s textile industry continues to grow with increased domestic and export demand."
-  },
-  {
-    "id": "kar-new5",
-    "featured": false,
-    "category": "Health",
-    "date": "2026-04-21",
-    "title": "Heatwave Advisory Issued in Karur",
-    "summary": "Authorities advise residents to take precautions due to rising temperatures."
+    "id": "kar-today5",
+    "featured": true,
+    "category": "Politics",
+    "date": "April 24, 2026",
+    "title": "Debate Arises Over Leader Skipping Vote",
+    "summary": "Discussions have emerged after a senior political leader associated with the region reportedly did not cast a vote, drawing public and media attention."
   },
 
   {
-    "id": "kar-new6",
-    "featured": false,
+    "id": "kar-today6",
+    "featured": true,
+    "category": "Security",
+    "date": "April 24, 2026",
+    "title": "Tight Security Maintained During Polling",
+    "summary": "Police and security forces ensured peaceful polling across Karur with patrols, surveillance, and monitoring of sensitive areas."
+  },
+  {
+    "id": "kar-today7",
+    "featured": true,
+    "category": "Public",
+    "date": "April 24, 2026",
+    "title": "First-Time Voters Show Strong Participation",
+    "summary": "Young and first-time voters actively participated in the election process despite high temperatures."
+  },
+  {
+    "id": "kar-today8",
+    "featured": true,
+    "category": "Health",
+    "date": "April 24, 2026",
+    "title": "Heat Advisory Continues in Karur",
+    "summary": "Authorities advised residents to take precautions as high temperatures persist during the election period."
+  },
+  {
+    "id": "kar-today9",
+    "featured": true,
     "category": "Transport",
-    "date": "2026-04-21",
-    "title": "Special Buses Deployed for Election Duty",
-    "summary": "Transport department has deployed special buses to manage election-related travel."
+    "date": "April 24, 2026",
+    "title": "Transport Services Manage Poll Day Rush",
+    "summary": "Public transport services handled increased passenger traffic as voters traveled to polling booths."
   },
   {
-    "id": "kar-new7",
-    "featured": false,
+    "id": "kar-today10",
+    "featured": true,
     "category": "Crime",
-    "date": "2026-04-21",
-    "title": "Police Increase Security Ahead of Polls",
-    "summary": "Security measures have been intensified to ensure peaceful elections."
+    "date": "April 24, 2026",
+    "title": "Minor Election Violations Reported",
+    "summary": "Authorities reported minor violations during polling but confirmed overall peaceful conduct across the district."
   },
+
   {
-    "id": "kar-new8",
+    "id": "kar-today11",
     "featured": false,
     "category": "Market",
-    "date": "2026-04-21",
-    "title": "Commodity Prices Fluctuate",
-    "summary": "Local markets are seeing price changes due to supply and demand."
+    "date": "April 24, 2026",
+    "title": "Silver Prices Fluctuate in Karur",
+    "summary": "Silver prices in Karur markets showed fluctuations, reflecting broader commodity market trends."
   },
   {
-    "id": "kar-new9",
+    "id": "kar-today12",
     "featured": false,
-    "category": "Education",
-    "date": "2026-04-21",
-    "title": "Students Prepare for Exams",
-    "summary": "Students are preparing for upcoming exams with revision sessions."
+    "category": "Business",
+    "date": "April 24, 2026",
+    "title": "Local Businesses Resume Activity",
+    "summary": "Shops and businesses began returning to normal operations after election-related slowdowns."
   },
   {
-    "id": "kar-new10",
-    "featured": false,
-    "category": "Environment",
-    "date": "2026-04-21",
-    "title": "Tree Plantation Drives Conducted",
-    "summary": "Environmental groups are promoting green cover through plantation drives."
-  },
-
-  {
-    "id": "kar-new11",
-    "featured": false,
-    "category": "Infrastructure",
-    "date": "2026-04-21",
-    "title": "Road Development Projects Accelerated",
-    "summary": "Authorities are speeding up road projects to improve connectivity."
-  },
-  {
-    "id": "kar-new12",
-    "featured": false,
-    "category": "Retail",
-    "date": "2026-04-21",
-    "title": "Markets Witness Increased Footfall",
-    "summary": "Shops are seeing higher customer traffic due to seasonal demand."
-  },
-  {
-    "id": "kar-new13",
-    "featured": false,
-    "category": "Tourism",
-    "date": "2026-04-21",
-    "title": "Temple Tourism Sees Growth",
-    "summary": "More visitors are arriving at temples boosting local tourism."
-  },
-  {
-    "id": "kar-new14",
-    "featured": false,
-    "category": "Public Safety",
-    "date": "2026-04-21",
-    "title": "Fire Safety Inspections Conducted",
-    "summary": "Authorities ensure compliance with fire safety norms."
-  },
-  {
-    "id": "kar-new15",
-    "featured": false,
-    "category": "Economy",
-    "date": "2026-04-21",
-    "title": "Local Economy Shows Positive Trends",
-    "summary": "Economic activity is improving across multiple sectors."
-  },
-
-  {
-    "id": "kar-new16",
-    "featured": false,
-    "category": "Transport",
-    "date": "2026-04-21",
-    "title": "Traffic Advisory Issued",
-    "summary": "Traffic police issued guidelines to manage congestion."
-  },
-  {
-    "id": "kar-new17",
-    "featured": false,
-    "category": "Health",
-    "date": "2026-04-21",
-    "title": "Free Medical Camps Organized",
-    "summary": "Medical camps are providing free healthcare services."
-  },
-  {
-    "id": "kar-new18",
+    "id": "kar-today13",
     "featured": false,
     "category": "Civic",
-    "date": "2026-04-21",
-    "title": "Garbage Clearance Drives Intensified",
-    "summary": "Municipal authorities are improving sanitation."
+    "date": "April 24, 2026",
+    "title": "Post-Poll Clean-Up Drives Conducted",
+    "summary": "Municipal workers carried out cleaning activities near polling stations and public areas."
   },
   {
-    "id": "kar-new19",
-    "featured": false,
-    "category": "Industry",
-    "date": "2026-04-21",
-    "title": "Small Industries Expand Production",
-    "summary": "Small-scale industries are increasing production capacity."
-  },
-  {
-    "id": "kar-new20",
-    "featured": false,
-    "category": "Law",
-    "date": "2026-04-21",
-    "title": "Election Code Monitoring Strengthened",
-    "summary": "Officials ensure adherence to election rules."
-  },
-
-  {
-    "id": "kar-new21",
-    "featured": false,
-    "category": "Startup",
-    "date": "2026-04-21",
-    "title": "Startup Ecosystem Gains Momentum",
-    "summary": "New startups are emerging with government support."
-  },
-  {
-    "id": "kar-new22",
-    "featured": false,
-    "category": "Public",
-    "date": "2026-04-21",
-    "title": "Voter Awareness Campaigns Increase",
-    "summary": "Campaigns encourage higher voter participation."
-  },
-  {
-    "id": "kar-new23",
-    "featured": false,
-    "category": "Security",
-    "date": "2026-04-21",
-    "title": "Additional Police Deployed",
-    "summary": "Extra police forces ensure law and order."
-  },
-  {
-    "id": "kar-new24",
-    "featured": false,
-    "category": "Energy",
-    "date": "2026-04-21",
-    "title": "Electricity Demand Rises",
-    "summary": "Power usage increases due to summer heat."
-  },
-  {
-    "id": "kar-new25",
-    "featured": false,
-    "category": "Sports",
-    "date": "2026-04-21",
-    "title": "District Sports Events Held",
-    "summary": "Students actively participate in sports events."
-  },
-
-  {
-    "id": "kar-new26",
+    "id": "kar-today14",
     "featured": false,
     "category": "Environment",
-    "date": "2026-04-21",
-    "title": "Water Body Cleaning Drives Continue",
-    "summary": "Efforts to restore lakes and ponds are ongoing."
+    "date": "April 24, 2026",
+    "title": "Air Quality Remains Stable",
+    "summary": "Air quality levels across Karur remained within acceptable limits despite increased activity."
   },
   {
-    "id": "kar-new27",
+    "id": "kar-today15",
+    "featured": false,
+    "category": "Infrastructure",
+    "date": "April 24, 2026",
+    "title": "Road Conditions Monitored After Polling",
+    "summary": "Authorities inspected roads and public infrastructure following heavy election-day usage."
+  },
+
+  {
+    "id": "kar-today16",
+    "featured": false,
+    "category": "Public Safety",
+    "date": "April 24, 2026",
+    "title": "Emergency Teams Remain on Alert",
+    "summary": "Emergency services continued to stay alert for any post-election incidents."
+  },
+  {
+    "id": "kar-today17",
+    "featured": false,
+    "category": "Education",
+    "date": "April 24, 2026",
+    "title": "Schools Resume After Polling",
+    "summary": "Schools reopened after being used as polling centers."
+  },
+  {
+    "id": "kar-today18",
     "featured": false,
     "category": "Retail",
-    "date": "2026-04-21",
-    "title": "Retail Sales Increase",
-    "summary": "Retail businesses report improved sales."
+    "date": "April 24, 2026",
+    "title": "Markets See Gradual Increase in Footfall",
+    "summary": "Retail activity increased as normal routines resumed."
   },
   {
-    "id": "kar-new28",
+    "id": "kar-today19",
     "featured": false,
     "category": "Technology",
-    "date": "2026-04-21",
-    "title": "Digital Services Adoption Expands",
-    "summary": "More sectors are adopting digital solutions."
+    "date": "April 24, 2026",
+    "title": "EVMs Secured for Counting Phase",
+    "summary": "Electronic Voting Machines have been securely stored under strict supervision ahead of counting."
   },
   {
-    "id": "kar-new29",
-    "featured": false,
-    "category": "Lifestyle",
-    "date": "2026-04-21",
-    "title": "Fitness Awareness Rises",
-    "summary": "Residents show interest in healthy lifestyles."
-  },
-  {
-    "id": "kar-new30",
-    "featured": false,
-    "category": "Culture",
-    "date": "2026-04-21",
-    "title": "Cultural Events Draw Crowds",
-    "summary": "Public participation in cultural events increases."
-  },
-
-  {
-    "id": "kar-new31",
-    "featured": false,
-    "category": "Transport",
-    "date": "2026-04-21",
-    "title": "Bus Stands Witness Heavy Rush",
-    "summary": "Passenger traffic increases significantly."
-  },
-  {
-    "id": "kar-new32",
-    "featured": false,
-    "category": "Agriculture",
-    "date": "2026-04-21",
-    "title": "Farmers Monitor Market Trends",
-    "summary": "Farmers track trends for better returns."
-  },
-  {
-    "id": "kar-new33",
-    "featured": false,
-    "category": "Market",
-    "date": "2026-04-21",
-    "title": "Vegetable Prices Fluctuate",
-    "summary": "Supply changes affect vegetable pricing."
-  },
-  {
-    "id": "kar-new34",
-    "featured": false,
-    "category": "Public Safety",
-    "date": "2026-04-21",
-    "title": "Emergency Services Prepared",
-    "summary": "Emergency teams remain on standby."
-  },
-  {
-    "id": "kar-new35",
-    "featured": false,
-    "category": "Tourism",
-    "date": "2026-04-21",
-    "title": "Local Attractions See Visitor Increase",
-    "summary": "Tourist spots are seeing higher footfall."
-  },
-
-  {
-    "id": "kar-new36",
-    "featured": false,
-    "category": "Civic",
-    "date": "2026-04-21",
-    "title": "Water Supply Monitoring Strengthened",
-    "summary": "Authorities ensure steady water supply."
-  },
-  {
-    "id": "kar-new37",
-    "featured": false,
-    "category": "Health",
-    "date": "2026-04-21",
-    "title": "Hospitals Prepare for Summer Cases",
-    "summary": "Hospitals prepare for heat-related illnesses."
-  },
-  {
-    "id": "kar-new38",
-    "featured": false,
-    "category": "Business",
-    "date": "2026-04-21",
-    "title": "SMEs Expand Capacity",
-    "summary": "Small businesses are scaling operations."
-  },
-  {
-    "id": "kar-new39",
-    "featured": false,
-    "category": "Education",
-    "date": "2026-04-21",
-    "title": "Skill Training Programs Introduced",
-    "summary": "Programs aim to improve youth employment."
-  },
-  {
-    "id": "kar-new40",
-    "featured": false,
-    "category": "Infrastructure",
-    "date": "2026-04-21",
-    "title": "Bridge Maintenance Works Ongoing",
-    "summary": "Repairs are underway to ensure safety."
-  },
-
-  {
-    "id": "kar-new41",
-    "featured": false,
-    "category": "Transport",
-    "date": "2026-04-21",
-    "title": "Auto Drivers Seek Fare Revision",
-    "summary": "Drivers request fare hikes due to fuel prices."
-  },
-  {
-    "id": "kar-new42",
-    "featured": false,
-    "category": "Environment",
-    "date": "2026-04-21",
-    "title": "Air Quality Remains Stable",
-    "summary": "Air quality levels remain within safe limits."
-  },
-  {
-    "id": "kar-new43",
-    "featured": false,
-    "category": "Retail",
-    "date": "2026-04-21",
-    "title": "Shopping Activity Picks Up",
-    "summary": "Consumer activity increases in markets."
-  },
-  {
-    "id": "kar-new44",
-    "featured": false,
-    "category": "Public",
-    "date": "2026-04-21",
-    "title": "Voting Awareness Improves",
-    "summary": "Awareness drives boost voter turnout."
-  },
-  {
-    "id": "kar-new45",
-    "featured": false,
-    "category": "Security",
-    "date": "2026-04-21",
-    "title": "Security Strengthened in Sensitive Areas",
-    "summary": "Security tightened in key locations."
-  },
-
-  {
-    "id": "kar-new46",
+    "id": "kar-today20",
     "featured": false,
     "category": "Economy",
-    "date": "2026-04-21",
-    "title": "Industrial Growth Continues",
-    "summary": "Industrial activity supports economic growth."
-  },
-  {
-    "id": "kar-new47",
-    "featured": false,
-    "category": "Culture",
-    "date": "2026-04-21",
-    "title": "Festivals Attract Large Crowds",
-    "summary": "Festivals draw large public gatherings."
-  },
-  {
-    "id": "kar-new48",
-    "featured": false,
-    "category": "Health",
-    "date": "2026-04-21",
-    "title": "Heat Safety Advisory Issued",
-    "summary": "Residents advised to follow safety measures."
-  },
-  {
-    "id": "kar-new49",
-    "featured": false,
-    "category": "Market",
-    "date": "2026-04-21",
-    "title": "Commodity Prices Show Variation",
-    "summary": "Prices vary based on market trends."
-  },
-  {
-    "id": "kar-new50",
-    "featured": false,
-    "category": "Tourism",
-    "date": "2026-04-21",
-    "title": "Weekend Travel Demand Increases",
-    "summary": "More people travel during weekends."
+    "date": "April 24, 2026",
+    "title": "Economic Activity Picks Up Post Polls",
+    "summary": "Economic activities began picking up pace after the completion of polling."
   }
 ]
