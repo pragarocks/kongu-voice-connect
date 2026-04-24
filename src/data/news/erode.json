@@ -1,411 +1,418 @@
 [
   {
-    "id": "dpm-new1",
+    "id": "erd-eve1",
     "featured": true,
-    "category": "Election",
+    "category": "Election (Govt)",
     "date": "April 24, 2026",
-    "title": "Polling Sees Strong Turnout in Erode",
-    "summary": "Erode district recorded a high voter turnout with smooth polling reported across urban and rural constituencies."
+    "title": "Polling completed smoothly across Erode",
+    "summary": "District administration confirmed peaceful polling across all constituencies with strong voter turnout and minimal disruptions reported."
   },
   {
-    "id": "dpm-new2",
-    "featured": false,
-    "category": "Politics",
+    "id": "erd-eve2",
+    "featured": true,
+    "category": "Crime/Politics",
     "date": "April 24, 2026",
-    "title": "Political Leaders Assess Poll Performance",
-    "summary": "Party leaders are reviewing booth-level performance and voter trends after polling concluded."
+    "title": "Post-poll cash monitoring continues",
+    "summary": "Authorities continue strict monitoring of illegal cash movement even after polling, with multiple checks across district borders."
   },
   {
-    "id": "dpm-new3",
-    "featured": false,
-    "category": "Civic",
+    "id": "erd-eve3",
+    "featured": true,
+    "category": "Election (Security)",
     "date": "April 24, 2026",
-    "title": "Residents Highlight Road Maintenance Issues",
-    "summary": "Citizens in several areas have raised concerns about damaged roads and pending repairs."
+    "title": "Security remains tight after polling",
+    "summary": "Paramilitary and state police continue security deployment at counting centers and sensitive zones following polling completion."
   },
   {
-    "id": "dpm-new4",
-    "featured": false,
-    "category": "Agriculture",
+    "id": "erd-eve4",
+    "featured": true,
+    "category": "Election (Logistics)",
     "date": "April 24, 2026",
-    "title": "Turmeric Farmers Expect Good Returns",
-    "summary": "Erode’s turmeric farmers anticipate better prices due to strong demand in domestic markets."
+    "title": "EVMs secured under surveillance",
+    "summary": "Electronic voting machines have been safely transported and stored in strong rooms under CCTV monitoring and police security."
   },
   {
-    "id": "dpm-new5",
-    "featured": false,
-    "category": "Health",
-    "date": "April 24, 2026",
-    "title": "Heatwave Alert Issued for Erode",
-    "summary": "Authorities have issued advisories urging residents to stay hydrated and avoid peak sun hours."
-  },
-
-  {
-    "id": "dpm-new6",
-    "featured": false,
+    "id": "erd-eve5",
+    "featured": true,
     "category": "Transport",
     "date": "April 24, 2026",
-    "title": "Special Bus Services Continue",
-    "summary": "Additional buses remain in operation to handle increased passenger demand."
+    "title": "Traffic restrictions eased on NH-948",
+    "summary": "Heavy vehicle restrictions on the Sathyamangalam–Bannari ghat stretch have been lifted after completion of election logistics."
   },
   {
-    "id": "dpm-new7",
-    "featured": false,
+    "id": "erd-eve6",
+    "featured": true,
+    "category": "Govt Notification",
+    "date": "April 24, 2026",
+    "title": "Liquor shops reopen after poll closure",
+    "summary": "TASMAC outlets and licensed bars resumed operations following the end of election-related restrictions."
+  },
+  {
+    "id": "erd-eve7",
+    "featured": true,
+    "category": "Business",
+    "date": "April 24, 2026",
+    "title": "Jewellery market activity resumes",
+    "summary": "Trading activity in Erode jewellery market improved as out-of-state traders returned after election checks eased."
+  },
+  {
+    "id": "erd-eve8",
+    "featured": true,
     "category": "Crime",
     "date": "April 24, 2026",
-    "title": "Police Step Up Patrols Across City",
-    "summary": "Security has been tightened with increased police presence in key areas."
+    "title": "Police continue crackdown on theft cases",
+    "summary": "Law enforcement intensified patrols and solved multiple minor theft cases reported in suburban areas."
   },
   {
-    "id": "dpm-new8",
-    "featured": false,
-    "category": "Market",
+    "id": "erd-eve9",
+    "featured": true,
+    "category": "Market/Agriculture",
     "date": "April 24, 2026",
-    "title": "Vegetable Prices Show Slight Increase",
-    "summary": "Local markets report a marginal rise in vegetable prices due to supply fluctuations."
+    "title": "Agricultural trading remains strong",
+    "summary": "Local regulated markets continue to report steady trading volumes for coconut, copra, and castor."
   },
   {
-    "id": "dpm-new9",
+    "id": "erd-eve10",
+    "featured": true,
+    "category": "Market (Precious)",
+    "date": "April 24, 2026",
+    "title": "Gold prices show minor recovery",
+    "summary": "Gold prices in Erode market saw slight upward movement after recent decline amid global market changes."
+  },
+  {
+    "id": "erd-eve11",
+    "featured": true,
+    "category": "Market (Precious)",
+    "date": "April 24, 2026",
+    "title": "Silver prices remain stable",
+    "summary": "Silver prices continue to remain steady with minimal fluctuations in local trading."
+  },
+  {
+    "id": "erd-eve12",
+    "featured": false,
+    "category": "Market (Agriculture)",
+    "date": "April 24, 2026",
+    "title": "Turmeric prices hold steady",
+    "summary": "Turmeric rates in Erode mandi remain stable with consistent demand from traders."
+  },
+  {
+    "id": "erd-eve13",
+    "featured": true,
+    "category": "Weather",
+    "date": "April 24, 2026",
+    "title": "Heatwave conditions persist",
+    "summary": "Temperatures remain high across Erode with clear skies and no rainfall expected."
+  },
+  {
+    "id": "erd-eve14",
     "featured": false,
     "category": "Education",
     "date": "April 24, 2026",
-    "title": "Students Intensify Exam Preparation",
-    "summary": "Schools and colleges conduct revision sessions ahead of upcoming examinations."
+    "title": "Schools resume after election holiday",
+    "summary": "Educational institutions reopened after remaining closed for polling day."
   },
   {
-    "id": "dpm-new10",
-    "featured": false,
-    "category": "Environment",
-    "date": "April 24, 2026",
-    "title": "Tree Plantation Drives Gain Momentum",
-    "summary": "Green initiatives are being expanded to improve environmental sustainability."
-  },
-
-  {
-    "id": "dpm-new11",
-    "featured": false,
-    "category": "Infrastructure",
-    "date": "April 24, 2026",
-    "title": "Road Repair Works Accelerated",
-    "summary": "Authorities have increased the pace of road repair projects across the district."
-  },
-  {
-    "id": "dpm-new12",
-    "featured": false,
-    "category": "Retail",
-    "date": "April 24, 2026",
-    "title": "Textile Markets See High Activity",
-    "summary": "Erode’s textile sector witnesses increased business with steady customer demand."
-  },
-  {
-    "id": "dpm-new13",
-    "featured": false,
-    "category": "Tourism",
-    "date": "April 24, 2026",
-    "title": "Bhavani Sangameswarar Temple Draws Devotees",
-    "summary": "Pilgrimage tourism increases as devotees visit the famous temple."
-  },
-  {
-    "id": "dpm-new14",
-    "featured": false,
-    "category": "Public Safety",
-    "date": "April 24, 2026",
-    "title": "Fire Safety Checks Conducted",
-    "summary": "Officials carry out inspections in commercial buildings to ensure compliance."
-  },
-  {
-    "id": "dpm-new15",
-    "featured": false,
-    "category": "Economy",
-    "date": "April 24, 2026",
-    "title": "Local Trade Activity Remains Strong",
-    "summary": "Business activity continues to improve across retail and wholesale sectors."
-  },
-
-  {
-    "id": "dpm-new16",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 24, 2026",
-    "title": "Traffic Advisory Issued in Busy Areas",
-    "summary": "Traffic police regulate congestion in key junctions across the city."
-  },
-  {
-    "id": "dpm-new17",
+    "id": "erd-eve15",
     "featured": false,
     "category": "Health",
     "date": "April 24, 2026",
-    "title": "Free Medical Camps Organized",
-    "summary": "Health teams conduct camps providing free checkups in rural areas."
+    "title": "Hospitals monitor heat-related cases",
+    "summary": "Healthcare centers report a slight increase in heat-related illnesses."
   },
   {
-    "id": "dpm-new18",
+    "id": "erd-eve16",
     "featured": false,
-    "category": "Civic",
+    "category": "Civic Services",
     "date": "April 24, 2026",
-    "title": "Sanitation Drives Continue",
-    "summary": "Municipal teams intensify cleanliness operations across Erode."
+    "title": "Water supply continues without disruption",
+    "summary": "Municipal authorities confirm regular water distribution across all areas."
   },
   {
-    "id": "dpm-new19",
+    "id": "erd-eve17",
     "featured": false,
-    "category": "Industry",
+    "category": "Utilities",
     "date": "April 24, 2026",
-    "title": "Textile Units Increase Production",
-    "summary": "Garment and textile units expand production to meet rising demand."
+    "title": "Power supply remains stable",
+    "summary": "Electricity supply continues normally with no major outages reported."
   },
   {
-    "id": "dpm-new20",
+    "id": "erd-eve18",
     "featured": false,
-    "category": "Law",
+    "category": "Community/Social",
     "date": "April 24, 2026",
-    "title": "Election Code Enforcement Continues",
-    "summary": "Authorities monitor adherence to election guidelines."
+    "title": "Social media discussions continue post-poll",
+    "summary": "Residents share reactions and feedback about polling experiences online."
   },
-
   {
-    "id": "dpm-new21",
+    "id": "erd-eve19",
     "featured": false,
-    "category": "Startup",
+    "category": "Culture/Arts",
     "date": "April 24, 2026",
-    "title": "Startup Ecosystem Expands in Erode",
-    "summary": "Young entrepreneurs are launching new ventures with local support."
+    "title": "Local cultural activities resume",
+    "summary": "Routine cultural and community events continue after election-related pause."
   },
   {
-    "id": "dpm-new22",
-    "featured": false,
-    "category": "Public",
-    "date": "April 24, 2026",
-    "title": "Civic Awareness Campaigns Increase",
-    "summary": "Public engagement initiatives continue across the district."
-  },
-  {
-    "id": "dpm-new23",
-    "featured": false,
-    "category": "Security",
-    "date": "April 24, 2026",
-    "title": "Security Measures Strengthened",
-    "summary": "Authorities maintain vigilance across sensitive areas."
-  },
-  {
-    "id": "dpm-new24",
-    "featured": false,
-    "category": "Energy",
-    "date": "April 24, 2026",
-    "title": "Electricity Demand Rises in Summer",
-    "summary": "Power consumption increases due to high temperatures."
-  },
-  {
-    "id": "dpm-new25",
+    "id": "erd-eve20",
     "featured": false,
     "category": "Sports",
     "date": "April 24, 2026",
-    "title": "District-Level Sports Events Held",
-    "summary": "Sports competitions see active participation from youth."
-  },
-
-  {
-    "id": "dpm-new26",
-    "featured": false,
-    "category": "Environment",
-    "date": "April 24, 2026",
-    "title": "Water Conservation Efforts Continue",
-    "summary": "Campaigns promote efficient water usage among residents."
+    "title": "Local sports activities continue",
+    "summary": "Regular sports events and practice sessions resumed across the district."
   },
   {
-    "id": "dpm-new27",
-    "featured": false,
-    "category": "Retail",
-    "date": "April 24, 2026",
-    "title": "Retail Sales Show Growth",
-    "summary": "Local shops report steady increase in customer purchases."
-  },
-  {
-    "id": "dpm-new28",
-    "featured": false,
-    "category": "Technology",
-    "date": "April 24, 2026",
-    "title": "Digital Payments Adoption Rises",
-    "summary": "More businesses shift to online transactions and services."
-  },
-  {
-    "id": "dpm-new29",
-    "featured": false,
-    "category": "Lifestyle",
-    "date": "April 24, 2026",
-    "title": "Fitness Awareness Increases",
-    "summary": "Residents show growing interest in health and wellness activities."
-  },
-  {
-    "id": "dpm-new30",
-    "featured": false,
-    "category": "Culture",
-    "date": "April 24, 2026",
-    "title": "Cultural Events Draw Public Interest",
-    "summary": "Programs and festivals attract audiences across Erode."
-  },
-
-  {
-    "id": "dpm-new31",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 24, 2026",
-    "title": "Bus Stands See Increased Passenger Flow",
-    "summary": "Passenger traffic remains steady at major transport hubs."
-  },
-  {
-    "id": "dpm-new32",
-    "featured": false,
-    "category": "Agriculture",
-    "date": "April 24, 2026",
-    "title": "Farmers Monitor Turmeric Prices",
-    "summary": "Producers track market rates to maximize profits."
-  },
-  {
-    "id": "dpm-new33",
-    "featured": false,
-    "category": "Market",
-    "date": "April 24, 2026",
-    "title": "Fruit Market Shows Price Variation",
-    "summary": "Seasonal supply leads to fluctuations in fruit pricing."
-  },
-  {
-    "id": "dpm-new34",
-    "featured": false,
-    "category": "Public Safety",
-    "date": "April 24, 2026",
-    "title": "Emergency Teams Remain Prepared",
-    "summary": "Authorities ensure readiness to handle emergencies."
-  },
-  {
-    "id": "dpm-new35",
-    "featured": false,
-    "category": "Tourism",
-    "date": "April 24, 2026",
-    "title": "Tourist Spots See Weekend Rush",
-    "summary": "Local attractions witness increased visitor numbers."
-  },
-
-  {
-    "id": "dpm-new36",
-    "featured": false,
-    "category": "Civic",
-    "date": "April 24, 2026",
-    "title": "Water Supply Monitoring Improved",
-    "summary": "Authorities ensure steady water distribution across the city."
-  },
-  {
-    "id": "dpm-new37",
+    "id": "erd-eve21",
     "featured": false,
     "category": "Health",
     "date": "April 24, 2026",
-    "title": "Hospitals Prepare for Heat Cases",
-    "summary": "Medical teams gear up for treating heat-related illnesses."
+    "title": "No major disease outbreaks reported",
+    "summary": "Health department confirms no significant increase in infectious diseases."
   },
   {
-    "id": "dpm-new38",
-    "featured": false,
-    "category": "Business",
-    "date": "April 24, 2026",
-    "title": "Small Businesses Expand Operations",
-    "summary": "Entrepreneurs scale up business activities amid demand growth."
-  },
-  {
-    "id": "dpm-new39",
-    "featured": false,
-    "category": "Education",
-    "date": "April 24, 2026",
-    "title": "Skill Development Programs Continue",
-    "summary": "Youth participate in training programs to enhance employability."
-  },
-  {
-    "id": "dpm-new40",
+    "id": "erd-eve22",
     "featured": false,
     "category": "Infrastructure",
     "date": "April 24, 2026",
-    "title": "Bridge Repair Works Progress",
-    "summary": "Ongoing infrastructure works aim to improve connectivity."
+    "title": "Ongoing infrastructure works continue",
+    "summary": "Road and civic works proceed as scheduled across Erode."
   },
-
   {
-    "id": "dpm-new41",
+    "id": "erd-eve23",
     "featured": false,
     "category": "Transport",
     "date": "April 24, 2026",
-    "title": "Auto Drivers Demand Fare Revision",
-    "summary": "Auto drivers seek fare hikes citing increased fuel prices."
+    "title": "Traffic conditions return to normal",
+    "summary": "Traffic flow stabilizes after the completion of election movements."
   },
   {
-    "id": "dpm-new42",
+    "id": "erd-eve24",
+    "featured": false,
+    "category": "Business",
+    "date": "April 24, 2026",
+    "title": "Business activity normalizes",
+    "summary": "Local businesses resume normal operations after election-related slowdowns."
+  },
+  {
+    "id": "erd-eve25",
+    "featured": false,
+    "category": "Market (Commodities)",
+    "date": "April 24, 2026",
+    "title": "Vegetable prices remain steady",
+    "summary": "Market rates for vegetables show stability with consistent supply."
+  },
+  {
+    "id": "erd-eve26",
+    "featured": false,
+    "category": "Market (Fuel)",
+    "date": "April 24, 2026",
+    "title": "Fuel prices unchanged",
+    "summary": "Petrol and diesel prices remain stable with no recent changes."
+  },
+  {
+    "id": "erd-eve27",
     "featured": false,
     "category": "Environment",
     "date": "April 24, 2026",
-    "title": "Air Quality Remains Within Limits",
-    "summary": "Environmental monitoring shows stable air quality levels."
+    "title": "Air quality remains moderate",
+    "summary": "Environmental data indicates stable air quality with no major concerns."
   },
   {
-    "id": "dpm-new43",
+    "id": "erd-eve28",
     "featured": false,
-    "category": "Retail",
+    "category": "Community/Social",
     "date": "April 24, 2026",
-    "title": "Shopping Activity Continues to Grow",
-    "summary": "Retail outlets experience increased consumer engagement."
+    "title": "Public cautioned about misinformation",
+    "summary": "Officials warn residents to avoid spreading unverified information on social media."
   },
   {
-    "id": "dpm-new44",
+    "id": "erd-eve29",
+    "featured": true,
+    "category": "Govt Services",
+    "date": "April 24, 2026",
+    "title": "Election administration shifts to counting phase",
+    "summary": "Authorities begin preparations for vote counting with strict security measures."
+  },
+  {
+    "id": "erd-eve30",
+    "featured": true,
+    "category": "Election (Setup)",
+    "date": "April 24, 2026",
+    "title": "Post-poll procedures underway",
+    "summary": "Officials complete documentation and secure handling of election materials."
+  },
+  {
+    "id": "erd-eve31",
+    "featured": true,
+    "category": "Election (Security)",
+    "date": "April 24, 2026",
+    "title": "Counting centers under heavy security",
+    "summary": "Security tightened at counting centers ahead of result day."
+  },
+  {
+    "id": "erd-eve32",
+    "featured": true,
+    "category": "Crime/Election",
+    "date": "April 24, 2026",
+    "title": "Monitoring of election violations continues",
+    "summary": "Authorities review complaints and cases related to election violations."
+  },
+  {
+    "id": "erd-eve33",
+    "featured": true,
+    "category": "Transport",
+    "date": "April 24, 2026",
+    "title": "Public transport services normalized",
+    "summary": "Bus and transport services resume regular schedules across the district."
+  },
+  {
+    "id": "erd-eve34",
+    "featured": true,
+    "category": "Govt Notice",
+    "date": "April 24, 2026",
+    "title": "Election restrictions lifted",
+    "summary": "Most election-related restrictions have been withdrawn after polling completion."
+  },
+  {
+    "id": "erd-eve35",
+    "featured": true,
+    "category": "Business/Market",
+    "date": "April 24, 2026",
+    "title": "Market activity improves post-election",
+    "summary": "Traders report improved business conditions after easing of restrictions."
+  },
+  {
+    "id": "erd-eve36",
+    "featured": true,
+    "category": "Crime",
+    "date": "April 24, 2026",
+    "title": "Police maintain vigilance in rural areas",
+    "summary": "Additional patrols deployed in villages to ensure peace."
+  },
+  {
+    "id": "erd-eve37",
+    "featured": true,
+    "category": "Market/Agriculture",
+    "date": "April 24, 2026",
+    "title": "Farmers continue trading produce",
+    "summary": "Agricultural markets report consistent inflow of produce and steady pricing."
+  },
+  {
+    "id": "erd-eve38",
+    "featured": true,
+    "category": "Market/Prices",
+    "date": "April 24, 2026",
+    "title": "Gold market shows minor fluctuation",
+    "summary": "Gold prices fluctuate slightly based on international trends."
+  },
+  {
+    "id": "erd-eve39",
+    "featured": true,
+    "category": "Market/Prices",
+    "date": "April 24, 2026",
+    "title": "Silver trading remains stable",
+    "summary": "Silver prices continue steady trading in local markets."
+  },
+  {
+    "id": "erd-eve40",
     "featured": false,
-    "category": "Public",
+    "category": "Market/Agri",
     "date": "April 24, 2026",
-    "title": "Public Participation in Programs Rises",
-    "summary": "Citizens actively engage in community and civic initiatives."
+    "title": "Turmeric demand remains strong",
+    "summary": "Demand for turmeric remains consistent among buyers."
   },
   {
-    "id": "dpm-new45",
+    "id": "erd-eve41",
+    "featured": true,
+    "category": "Weather",
+    "date": "April 24, 2026",
+    "title": "Hot weather continues",
+    "summary": "Clear skies and high temperatures persist across Erode district."
+  },
+  {
+    "id": "erd-eve42",
     "featured": false,
-    "category": "Security",
+    "category": "Education",
     "date": "April 24, 2026",
-    "title": "Security Monitoring Intensified",
-    "summary": "Authorities increase surveillance in key areas."
-  },
-
-  {
-    "id": "dpm-new46",
-    "featured": false,
-    "category": "Economy",
-    "date": "April 24, 2026",
-    "title": "Economic Growth Remains Steady",
-    "summary": "Growth continues across trade, agriculture, and industry sectors."
+    "title": "Schools resume normal schedule",
+    "summary": "Classes continue as usual after election holidays."
   },
   {
-    "id": "dpm-new47",
-    "featured": false,
-    "category": "Culture",
-    "date": "April 24, 2026",
-    "title": "Festivals Attract Large Crowds",
-    "summary": "Local festivals draw strong public participation."
-  },
-  {
-    "id": "dpm-new48",
+    "id": "erd-eve43",
     "featured": false,
     "category": "Health",
     "date": "April 24, 2026",
-    "title": "Heat Safety Awareness Campaigns Expand",
-    "summary": "Officials emphasize preventive measures against heat-related issues."
+    "title": "Hospitals handle seasonal cases",
+    "summary": "Doctors report mild increase in dehydration and heat exhaustion cases."
   },
   {
-    "id": "dpm-new49",
+    "id": "erd-eve44",
     "featured": false,
-    "category": "Market",
+    "category": "Civic Services",
     "date": "April 24, 2026",
-    "title": "Commodity Prices Show Mixed Trends",
-    "summary": "Market fluctuations continue due to changing supply conditions."
+    "title": "Water services stable",
+    "summary": "Municipal supply continues without major complaints."
   },
   {
-    "id": "dpm-new50",
+    "id": "erd-eve45",
     "featured": false,
-    "category": "Tourism",
+    "category": "Utilities",
     "date": "April 24, 2026",
-    "title": "Weekend Travel Demand Increases",
-    "summary": "Residents travel to nearby destinations during weekends."
+    "title": "Electricity supply uninterrupted",
+    "summary": "Power distribution remains steady across all areas."
+  },
+  {
+    "id": "erd-eve46",
+    "featured": false,
+    "category": "Community/Social",
+    "date": "April 24, 2026",
+    "title": "Public discussions shift to results",
+    "summary": "Residents discuss expected outcomes ahead of counting day."
+  },
+  {
+    "id": "erd-eve47",
+    "featured": false,
+    "category": "Culture",
+    "date": "April 24, 2026",
+    "title": "Cultural life returns to normal",
+    "summary": "Routine cultural activities resume across communities."
+  },
+  {
+    "id": "erd-eve48",
+    "featured": false,
+    "category": "Sports",
+    "date": "April 24, 2026",
+    "title": "Local sports resume",
+    "summary": "Regular sporting activities and matches continue."
+  },
+  {
+    "id": "erd-eve49",
+    "featured": false,
+    "category": "Environment",
+    "date": "April 24, 2026",
+    "title": "Environmental conditions stable",
+    "summary": "No significant environmental issues reported."
+  },
+  {
+    "id": "erd-eve50",
+    "featured": false,
+    "category": "Traffic/Transport",
+    "date": "April 24, 2026",
+    "title": "Traffic remains smooth",
+    "summary": "Road conditions are clear with normal traffic movement."
+  },
+  {
+    "id": "erd-eve51",
+    "featured": false,
+    "category": "Infrastructure",
+    "date": "April 24, 2026",
+    "title": "No new infrastructure announcements",
+    "summary": "Ongoing projects continue without new developments."
+  },
+  {
+    "id": "erd-eve52",
+    "featured": false,
+    "category": "Business",
+    "date": "April 24, 2026",
+    "title": "Shops operate normally",
+    "summary": "Retail and wholesale markets function as usual after elections."
   }
 ]
