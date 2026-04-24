@@ -1,515 +1,66 @@
 [
   {
-    "id": "nkl-new1",
+    "id": "nkl-24-14",
     "featured": true,
     "category": "Election",
-    "date": "April 21, 2026",
-    "title": "Election Campaigns Intensify Across Namakkal",
-    "summary": "Political parties have intensified their campaign activities across Namakkal district with rallies, public meetings, and voter outreach programs. Candidates are focusing on key local issues to attract voters ahead of the upcoming elections."
+    "date": "April 24, 2026",
+    "title": "Record Voter Turnout Reported in Namakkal",
+    "summary": "Namakkal district recorded one of the highest voter turnouts in Tamil Nadu assembly elections with strong participation from women, youth, and first-time voters."
   },
   {
-    "id": "nkl-new2",
-    "featured": false,
+    "id": "nkl-24-15",
+    "featured": true,
     "category": "Politics",
-    "date": "April 21, 2026",
-    "title": "Namakkal Emerges as Key Electoral Battleground",
-    "summary": "Namakkal has become a crucial electoral battleground with major political parties deploying senior leaders and strategists to secure voter support in the region."
+    "date": "April 24, 2026",
+    "title": "Polling Concludes Peacefully Across Namakkal",
+    "summary": "Election polling in Namakkal concluded largely peacefully with heavy security deployment, despite minor incidents reported in a few locations."
   },
   {
-    "id": "nkl-new3",
-    "featured": false,
-    "category": "Civic",
-    "date": "April 21, 2026",
-    "title": "Residents Demand Road Repairs",
-    "summary": "Residents in several parts of Namakkal have raised concerns over damaged roads and poor infrastructure, urging authorities to take immediate action to improve commuting conditions."
+    "id": "nkl-24-16",
+    "featured": true,
+    "category": "Security",
+    "date": "April 24, 2026",
+    "title": "Security Tightened Post-Poll in Sensitive Areas",
+    "summary": "Police have intensified patrols and surveillance in sensitive zones of Namakkal to prevent post-election disturbances and ensure law and order."
   },
   {
-    "id": "nkl-new4",
-    "featured": false,
-    "category": "Agriculture",
-    "date": "April 21, 2026",
-    "title": "Poultry Industry Shows Steady Growth",
-    "summary": "Namakkal’s poultry industry continues to grow steadily with increased production and demand, reinforcing its reputation as a major poultry hub in Tamil Nadu."
-  },
-  {
-    "id": "nkl-new5",
-    "featured": false,
-    "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Heatwave Advisory Issued",
-    "summary": "Authorities have issued a heatwave advisory as temperatures rise across Namakkal, urging residents to take precautions and stay hydrated."
-  },
-
-  {
-    "id": "nkl-new6",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Special Buses Arranged for Election Duty",
-    "summary": "Transport department has arranged special bus services to handle increased passenger flow and election-related travel across the district."
-  },
-  {
-    "id": "nkl-new7",
-    "featured": false,
-    "category": "Crime",
-    "date": "April 21, 2026",
-    "title": "Police Tighten Security Ahead of Polls",
-    "summary": "Police have strengthened security arrangements with increased patrols and checkpoints to ensure peaceful elections in Namakkal."
-  },
-  {
-    "id": "nkl-new8",
+    "id": "nkl-24-17",
     "featured": false,
     "category": "Market",
-    "date": "April 21, 2026",
-    "title": "Egg Prices Fluctuate in Namakkal",
-    "summary": "Egg prices in Namakkal markets are witnessing fluctuations due to changes in demand and supply conditions, impacting poultry traders."
+    "date": "April 24, 2026",
+    "title": "Gold and Silver Prices Fluctuate in Namakkal",
+    "summary": "Local bullion markets in Namakkal are witnessing daily fluctuations in gold and silver prices following national and global trends."
   },
   {
-    "id": "nkl-new9",
+    "id": "nkl-24-18",
     "featured": false,
-    "category": "Education",
-    "date": "April 21, 2026",
-    "title": "Students Prepare for Exams",
-    "summary": "Students across Namakkal district are actively preparing for upcoming examinations with revision sessions and academic guidance."
+    "category": "Health",
+    "date": "April 24, 2026",
+    "title": "Heatwave Precautions Issued for Residents",
+    "summary": "Authorities have advised people to avoid peak sunlight hours and stay hydrated as temperatures rise across Namakkal district."
   },
   {
-    "id": "nkl-new10",
+    "id": "nkl-24-19",
     "featured": false,
-    "category": "Environment",
-    "date": "April 21, 2026",
-    "title": "Tree Plantation Drives Conducted",
-    "summary": "Environmental groups and volunteers have conducted tree plantation drives to improve green cover in the district."
+    "category": "Transport",
+    "date": "April 24, 2026",
+    "title": "Transport Services Resume Normal Operations",
+    "summary": "Bus and transport services have returned to normal schedules after heavy usage during election polling days."
   },
-
   {
-    "id": "nkl-new11",
+    "id": "nkl-24-20",
     "featured": false,
-    "category": "Infrastructure",
-    "date": "April 21, 2026",
-    "title": "Road Development Projects Accelerated",
-    "summary": "Authorities have accelerated road development works to improve connectivity across urban and rural areas."
+    "category": "Civic",
+    "date": "April 24, 2026",
+    "title": "Cleaning Drives Conducted After Election Activities",
+    "summary": "Municipal teams have started cleanup operations to remove banners, posters, and waste generated during election campaigns."
   },
   {
-    "id": "nkl-new12",
-    "featured": false,
-    "category": "Retail",
-    "date": "April 21, 2026",
-    "title": "Markets Witness Increased Footfall",
-    "summary": "Local markets are witnessing increased customer footfall due to election-related activities and seasonal shopping."
-  },
-  {
-    "id": "nkl-new13",
-    "featured": false,
-    "category": "Tourism",
-    "date": "April 21, 2026",
-    "title": "Namakkal Temple Sees More Visitors",
-    "summary": "Namakkal Anjaneyar Temple is witnessing increased visitor turnout, especially during weekends and holidays."
-  },
-  {
-    "id": "nkl-new14",
-    "featured": false,
-    "category": "Public Safety",
-    "date": "April 21, 2026",
-    "title": "Fire Safety Inspections Conducted",
-    "summary": "Officials have conducted fire safety inspections in commercial establishments to ensure compliance with safety norms."
-  },
-  {
-    "id": "nkl-new15",
+    "id": "nkl-24-21",
     "featured": false,
     "category": "Economy",
-    "date": "April 21, 2026",
-    "title": "Local Economy Shows Growth",
-    "summary": "Economic activity in Namakkal is showing positive signs with growth in agriculture and trade sectors."
-  },
-
-  {
-    "id": "nkl-new16",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Traffic Advisory Issued",
-    "summary": "Traffic police have issued advisories to manage congestion during campaign rallies and public gatherings."
-  },
-  {
-    "id": "nkl-new17",
-    "featured": false,
-    "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Free Medical Camps Organized",
-    "summary": "Medical camps are being organized in rural areas to provide healthcare services to underserved communities."
-  },
-  {
-    "id": "nkl-new18",
-    "featured": false,
-    "category": "Civic",
-    "date": "April 21, 2026",
-    "title": "Garbage Clearance Drives Intensified",
-    "summary": "Municipal authorities have intensified sanitation efforts to maintain cleanliness in towns and villages."
-  },
-  {
-    "id": "nkl-new19",
-    "featured": false,
-    "category": "Industry",
-    "date": "April 21, 2026",
-    "title": "Small Industries Expand Operations",
-    "summary": "Local industries are expanding production capacity to meet growing demand in various sectors."
-  },
-  {
-    "id": "nkl-new20",
-    "featured": false,
-    "category": "Law",
-    "date": "April 21, 2026",
-    "title": "Election Code Monitoring Strengthened",
-    "summary": "Authorities are closely monitoring adherence to election code of conduct to ensure fair practices."
-  },
-
-  {
-    "id": "nkl-new21",
-    "featured": false,
-    "category": "Startup",
-    "date": "April 21, 2026",
-    "title": "Startup Initiatives Gain Momentum",
-    "summary": "New startup initiatives are being introduced to encourage entrepreneurship among youth in Namakkal."
-  },
-  {
-    "id": "nkl-new22",
-    "featured": false,
-    "category": "Public",
-    "date": "April 21, 2026",
-    "title": "Voter Awareness Campaigns Increase",
-    "summary": "Officials are conducting campaigns to increase voter awareness and turnout."
-  },
-  {
-    "id": "nkl-new23",
-    "featured": false,
-    "category": "Security",
-    "date": "April 21, 2026",
-    "title": "Additional Police Deployment",
-    "summary": "Additional police forces have been deployed in sensitive areas for election security."
-  },
-  {
-    "id": "nkl-new24",
-    "featured": false,
-    "category": "Energy",
-    "date": "April 21, 2026",
-    "title": "Electricity Demand Rises",
-    "summary": "Power consumption has increased due to rising temperatures across the district."
-  },
-  {
-    "id": "nkl-new25",
-    "featured": false,
-    "category": "Sports",
-    "date": "April 21, 2026",
-    "title": "District Sports Events Conducted",
-    "summary": "Various sports competitions are being held with participation from schools and colleges."
-  },
-
-  {
-    "id": "nkl-new26",
-    "featured": false,
-    "category": "Environment",
-    "date": "April 21, 2026",
-    "title": "Water Body Cleaning Initiatives Continue",
-    "summary": "Authorities are continuing efforts to clean and restore lakes and ponds."
-  },
-  {
-    "id": "nkl-new27",
-    "featured": false,
-    "category": "Retail",
-    "date": "April 21, 2026",
-    "title": "Retail Sales Improve",
-    "summary": "Retail businesses are seeing improved sales with increased consumer activity."
-  },
-  {
-    "id": "nkl-new28",
-    "featured": false,
-    "category": "Technology",
-    "date": "April 21, 2026",
-    "title": "Digital Services Adoption Increases",
-    "summary": "Digital services are being widely adopted across businesses and public services."
-  },
-  {
-    "id": "nkl-new29",
-    "featured": false,
-    "category": "Lifestyle",
-    "date": "April 21, 2026",
-    "title": "Fitness Awareness Among Youth Rises",
-    "summary": "Young people are increasingly focusing on fitness and healthy living."
-  },
-  {
-    "id": "nkl-new30",
-    "featured": false,
-    "category": "Culture",
-    "date": "April 21, 2026",
-    "title": "Cultural Programs Draw Participation",
-    "summary": "Cultural events are attracting participation from local communities."
-  },
-
-  {
-    "id": "nkl-new31",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Bus Stands See Heavy Passenger Movement",
-    "summary": "Passenger traffic has increased significantly in bus stands across Namakkal."
-  },
-  {
-    "id": "nkl-new32",
-    "featured": false,
-    "category": "Agriculture",
-    "date": "April 21, 2026",
-    "title": "Farmers Monitor Market Prices",
-    "summary": "Farmers are closely watching market trends to maximize profits."
-  },
-  {
-    "id": "nkl-new33",
-    "featured": false,
-    "category": "Market",
-    "date": "April 21, 2026",
-    "title": "Vegetable Prices Show Variation",
-    "summary": "Vegetable prices are fluctuating due to supply and demand changes."
-  },
-  {
-    "id": "nkl-new34",
-    "featured": false,
-    "category": "Public Safety",
-    "date": "April 21, 2026",
-    "title": "Emergency Services Prepared",
-    "summary": "Emergency response teams are on standby to handle any incidents."
-  },
-  {
-    "id": "nkl-new35",
-    "featured": false,
-    "category": "Tourism",
-    "date": "April 21, 2026",
-    "title": "Local Attractions See Visitor Rise",
-    "summary": "Tourist spots in Namakkal are seeing increased visitor numbers."
-  },
-
-  {
-    "id": "nkl-new36",
-    "featured": false,
-    "category": "Civic",
-    "date": "April 21, 2026",
-    "title": "Water Supply Monitoring Strengthened",
-    "summary": "Authorities are ensuring continuous water supply across towns and villages."
-  },
-  {
-    "id": "nkl-new37",
-    "featured": false,
-    "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Hospitals Prepare for Summer Cases",
-    "summary": "Hospitals are preparing to handle heat-related health issues."
-  },
-  {
-    "id": "nkl-new38",
-    "featured": false,
-    "category": "Business",
-    "date": "April 21, 2026",
-    "title": "SMEs Expand Production",
-    "summary": "Small businesses are increasing production capacity to meet demand."
-  },
-  {
-    "id": "nkl-new39",
-    "featured": false,
-    "category": "Education",
-    "date": "April 21, 2026",
-    "title": "Skill Development Programs Introduced",
-    "summary": "Skill development programs are helping youth gain employment opportunities."
-  },
-  {
-    "id": "nkl-new40",
-    "featured": false,
-    "category": "Infrastructure",
-    "date": "April 21, 2026",
-    "title": "Bridge Maintenance Works Ongoing",
-    "summary": "Bridge repair works are being carried out to ensure safe travel."
-  },
-
-  {
-    "id": "nkl-new41",
-    "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Auto Drivers Demand Fare Revision",
-    "summary": "Auto drivers have requested fare hikes due to rising fuel costs."
-  },
-  {
-    "id": "nkl-new42",
-    "featured": false,
-    "category": "Environment",
-    "date": "April 21, 2026",
-    "title": "Air Quality Remains Stable",
-    "summary": "Air quality levels remain within acceptable limits across Namakkal."
-  },
-  {
-    "id": "nkl-new43",
-    "featured": false,
-    "category": "Retail",
-    "date": "April 21, 2026",
-    "title": "Shopping Activity Increases",
-    "summary": "Shopping activity has increased in markets due to seasonal demand."
-  },
-  {
-    "id": "nkl-new44",
-    "featured": false,
-    "category": "Public",
-    "date": "April 21, 2026",
-    "title": "Public Awareness on Voting Improves",
-    "summary": "Voter awareness campaigns are encouraging higher participation."
-  },
-  {
-    "id": "nkl-new45",
-    "featured": false,
-    "category": "Security",
-    "date": "April 21, 2026",
-    "title": "Security Measures Strengthened",
-    "summary": "Security has been tightened across sensitive areas ahead of elections."
-  },
-
-  {
-    "id": "nkl-new46",
-    "featured": false,
-    "category": "Economy",
-    "date": "April 21, 2026",
-    "title": "Industrial Growth Continues",
-    "summary": "Industrial activity continues to support economic development in Namakkal."
-  },
-  {
-    "id": "nkl-new47",
-    "featured": false,
-    "category": "Culture",
-    "date": "April 21, 2026",
-    "title": "Local Festivals Attract Crowds",
-    "summary": "Festivals and cultural events are drawing large crowds."
-  },
-  {
-    "id": "nkl-new48",
-    "featured": false,
-    "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Public Advised on Heat Safety",
-    "summary": "Residents are advised to follow safety guidelines during high temperatures."
-  },
-  {
-    "id": "nkl-new49",
-    "featured": false,
-    "category": "Market",
-    "date": "April 21, 2026",
-    "title": "Commodity Prices Fluctuate",
-    "summary": "Commodity prices are fluctuating due to market dynamics."
-  },
-  {
-    "id": "nkl-new50",
-    "featured": false,
-    "category": "Tourism",
-    "date": "April 21, 2026",
-    "title": "Weekend Travel Sees Increase",
-    "summary": "Weekend travel has increased with more people visiting nearby attractions."
-  },
-  {
-    "id": "nkl-24-1",
-    "featured": true,
-    "category": "Politics",
     "date": "April 24, 2026",
-    "title": "Namakkal Election Narrative Shaped by Women, Workers, Unrest",
-    "summary": "A bedridden woman taken by ambulance to vote, a bride casting ballot before leaving for Tiruppur, and seized saris linked to voter inducement. Election shaped by labourers leaving work for political meetings."
-  },
-  {
-    "id": "nkl-24-2",
-    "featured": true,
-    "category": "Politics",
-    "date": "April 24, 2026",
-    "title": "BJP Makes Women's Empowerment Core Election Theme in Kongu",
-    "summary": "Campaign speeches in Namakkal repeatedly targeted DMK on women's representation. National and state leaders argue ordinary women need stronger path into power in area where women voters are highly influential."
-  },
-  {
-    "id": "nkl-24-3",
-    "featured": true,
-    "category": "Civic",
-    "date": "April 24, 2026",
-    "title": "Civic Anger Over Water Supply Erupts in Namakkal Villages",
-    "summary": "Women blocked Namakkal-Thuraiyur Road after six months of irregular drinking water supply and repeated unanswered petitions. Protest is reminder that basic utilities remain major electoral issue in rural Kongu."
-  },
-  {
-    "id": "nkl-24-4",
-    "featured": true,
-    "category": "Business",
-    "date": "April 24, 2026",
-    "title": "Namakkal Poultry Economy Disrupted by Campaign Wages",
-    "summary": "Labourers skipping work to join political meetings due to attractive short campaign shifts. Result is delayed consignments and production halts showing how election seasons spill directly into district-level trade."
-  },
-  {
-    "id": "nkl-24-5",
-    "featured": true,
-    "category": "Agriculture",
-    "date": "April 24, 2026",
-    "title": "Namakkal Drinking-Water Crisis Turns Into Rural Protest Wave",
-    "summary": "Residents used empty pots to underline six months of irregular supply and demand regular tank and pipeline service. The local issue often decides how villages vote long after campaign speeches fade."
-  },
-  {
-    "id": "nkl-24-6",
-    "featured": true,
-    "category": "Agriculture",
-    "date": "April 24, 2026",
-    "title": "Bird Flu Fears Return to Namakkal Poultry Belt",
-    "summary": "Thousands of chickens died at farm near Rasipuram, officials asked to inspect urgently. In a district whose economy depends heavily on poultry, even suspected outbreak can rattle markets."
-  },
-  {
-    "id": "nkl-24-7",
-    "featured": true,
-    "category": "Education",
-    "date": "April 24, 2026",
-    "title": "Namakkal Labour Market Bending Under Election Mobilisation",
-    "summary": "Factory workers leaving poultry sheds and export units to join campaign work for attractive short-term cash. Labour gap affecting production, shipments, and district credibility with buyers."
-  },
-  {
-    "id": "nkl-24-8",
-    "featured": true,
-    "category": "Education",
-    "date": "April 24, 2026",
-    "title": "Namakkal Sets Voter-Awareness World Record",
-    "summary": "District formed the largest human formation for electoral awareness, turning civic participation into public spectacle. Shows how school and college communities are being used to build turnout culture."
-  },
-  {
-    "id": "nkl-24-9",
-    "featured": true,
-    "category": "Crime",
-    "date": "April 24, 2026",
-    "title": "Election-Code Enforcement Sees Sari Seizure in Namakkal",
-    "summary": "Officials seized 100 saris in Tiruchengode and booked DMK functionary, treating items as possible voter gifts. Case now part of wider conversation on inducement and booth-level malpractice."
-  },
-  {
-    "id": "nkl-24-10",
-    "featured": true,
-    "category": "Health",
-    "date": "April 24, 2026",
-    "title": "Bedridden Woman in Namakkal Brought by Ambulance to Vote",
-    "summary": "Kamala of Kaveri RS, recovering from stroke, insisted on casting ballot. Family arranged ambulance making it happen. Incident highlighted both voter commitment and practical role of relatives and emergency services."
-  },
-  {
-    "id": "nkl-24-11",
-    "featured": true,
-    "category": "Health",
-    "date": "April 24, 2026",
-    "title": "Women's Health and Mobility Central to Kongu Election Stories",
-    "summary": "From bride voting before wedding travel to women leading water protest, region is seeing female participation that is both public and practical. Visibility is shaping how parties frame empowerment."
-  },
-  {
-    "id": "nkl-24-12",
-    "featured": true,
-    "category": "Social",
-    "date": "April 24, 2026",
-    "title": "Rural Water Supply Defines Political Temperature in Namakkal",
-    "summary": "Women who blocked the road said repeated petitions had failed. In Kongu belt, a dry tap often becomes a bigger political story than party manifestos."
-  },
-  {
-    "id": "nkl-24-13",
-    "featured": true,
-    "category": "Social",
-    "date": "April 24, 2026",
-    "title": "Women's Reservation and Representation Major Campaign Flashpoint",
-    "summary": "Leaders across Kongu using issue to attack opponents with accusations that major parties failed ordinary women. Argument resonates in region where women voters have been highly active and politically consequential."
+    "title": "Local Businesses Resume Post-Election Activity",
+    "summary": "Shops and small businesses in Namakkal are returning to regular operations after temporary slowdowns during election campaigning."
   }
 ]
