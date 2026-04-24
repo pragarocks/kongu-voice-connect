@@ -3,457 +3,409 @@
     "id": "slm-new1",
     "featured": true,
     "category": "Election",
-    "date": "April 21, 2026",
+    "date": "April 24, 2026",
     "title": "Election Campaigns Intensify Across Salem",
-    "summary": "Political parties have intensified their campaign efforts across Salem with rallies, public meetings, and door-to-door outreach. Leaders are focusing on key voter groups and local issues as the election date approaches, making Salem a highly active political zone."
+    "summary": "Political parties are increasing rallies, outreach programs, and voter engagement across Salem as elections approach."
   },
   {
     "id": "slm-new2",
-    "featured": false,
+    "featured": true,
     "category": "Politics",
-    "date": "April 21, 2026",
-    "title": "Salem Emerges as Crucial Electoral Battleground",
-    "summary": "Salem has emerged as an important electoral battleground due to its strategic voter base and political significance. Major parties are deploying senior leaders and resources to secure voter support in the district."
+    "date": "April 24, 2026",
+    "title": "Salem Remains Key Political Battleground",
+    "summary": "Major parties are focusing heavily on Salem due to its strategic importance in western Tamil Nadu politics."
   },
   {
     "id": "slm-new3",
-    "featured": false,
+    "featured": true,
     "category": "Civic",
-    "date": "April 21, 2026",
-    "title": "Residents Demand Better Road Infrastructure",
-    "summary": "Residents in several parts of Salem have raised concerns over damaged roads and poor maintenance. They are urging authorities to take immediate steps to improve infrastructure and ensure safer commuting."
+    "date": "April 24, 2026",
+    "title": "Sensitive Booths Under Surveillance",
+    "summary": "Authorities have identified sensitive polling stations and deployed webcasting systems to ensure transparency."
   },
   {
     "id": "slm-new4",
-    "featured": false,
-    "category": "Business",
-    "date": "April 21, 2026",
-    "title": "Steel Industry in Salem Shows Signs of Recovery",
-    "summary": "The steel industry in Salem has shown positive signs of recovery with increased production and demand. Local industries are optimistic about continued growth in the coming months."
+    "featured": true,
+    "category": "Civic",
+    "date": "April 24, 2026",
+    "title": "Election Monitoring Tightened",
+    "summary": "Officials are closely tracking election violations and ensuring strict compliance with rules."
   },
   {
     "id": "slm-new5",
-    "featured": false,
-    "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Heatwave Advisory Issued in Salem",
-    "summary": "Authorities have issued a heatwave advisory as temperatures rise across Salem. Residents are advised to stay hydrated and avoid outdoor activities during peak hours."
+    "featured": true,
+    "category": "Infrastructure",
+    "date": "April 24, 2026",
+    "title": "Rain Disrupts Yercaud Transport",
+    "summary": "Heavy rainfall has caused temporary transport disruptions in hill areas affecting commuters and tourists."
   },
 
   {
     "id": "slm-new6",
     "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Special Buses Arranged for Election Duty",
-    "summary": "Transport authorities have arranged special buses to manage increased travel demand and facilitate election duties across Salem district."
+    "category": "Politics",
+    "date": "April 23, 2026",
+    "title": "Leaders Intensify Campaign Visits",
+    "summary": "Senior political leaders continue aggressive campaigning across Salem district."
   },
   {
     "id": "slm-new7",
     "featured": false,
-    "category": "Crime",
-    "date": "April 21, 2026",
-    "title": "Police Tighten Security Ahead of Elections",
-    "summary": "Police have stepped up security arrangements with increased patrols and surveillance to ensure peaceful elections in Salem."
+    "category": "Transport",
+    "date": "April 23, 2026",
+    "title": "Special Buses Deployed",
+    "summary": "Transport services have been expanded to support election duties and passenger demand."
   },
   {
     "id": "slm-new8",
     "featured": false,
-    "category": "Market",
-    "date": "April 21, 2026",
-    "title": "Vegetable Prices Rise in Salem Markets",
-    "summary": "Vegetable prices in Salem markets have increased due to supply shortages, affecting daily household expenses."
+    "category": "Crime",
+    "date": "April 23, 2026",
+    "title": "Police Security Increased",
+    "summary": "Police have stepped up surveillance and patrols to maintain law and order."
   },
   {
     "id": "slm-new9",
     "featured": false,
-    "category": "Education",
-    "date": "April 21, 2026",
-    "title": "Students Begin Exam Preparations",
-    "summary": "Students across Salem are preparing for upcoming exams with revision sessions and academic support programs."
+    "category": "Market",
+    "date": "April 23, 2026",
+    "title": "Vegetable Prices Increase",
+    "summary": "Market prices for vegetables have surged due to supply shortages."
   },
   {
     "id": "slm-new10",
     "featured": false,
-    "category": "Environment",
-    "date": "April 21, 2026",
-    "title": "Tree Plantation Drives Gain Momentum",
-    "summary": "Tree plantation drives are being conducted across Salem to improve green cover and environmental awareness."
+    "category": "Education",
+    "date": "April 23, 2026",
+    "title": "Students Prepare for Exams",
+    "summary": "Schools and colleges are focusing on revision sessions and preparation programs."
   },
 
   {
     "id": "slm-new11",
     "featured": false,
-    "category": "Infrastructure",
-    "date": "April 21, 2026",
-    "title": "Road Repair Works Accelerated",
-    "summary": "Authorities have accelerated road repair works to improve connectivity and address commuter concerns."
+    "category": "Environment",
+    "date": "April 23, 2026",
+    "title": "Tree Plantation Drives Expand",
+    "summary": "Green initiatives are gaining momentum across Salem."
   },
   {
     "id": "slm-new12",
     "featured": false,
-    "category": "Retail",
-    "date": "April 21, 2026",
-    "title": "Markets Witness Heavy Crowds",
-    "summary": "Local markets are witnessing heavy crowds due to increased shopping activity ahead of elections."
+    "category": "Infrastructure",
+    "date": "April 23, 2026",
+    "title": "Road Repairs Accelerated",
+    "summary": "Authorities have intensified road repair works in key areas."
   },
   {
     "id": "slm-new13",
     "featured": false,
-    "category": "Tourism",
-    "date": "April 21, 2026",
-    "title": "Yercaud Attracts Weekend Tourists",
-    "summary": "Tourists are visiting Yercaud in large numbers, boosting local tourism and business activity."
+    "category": "Retail",
+    "date": "April 23, 2026",
+    "title": "Markets See Heavy Crowds",
+    "summary": "Shopping activity increases due to election season."
   },
   {
     "id": "slm-new14",
     "featured": false,
-    "category": "Public Safety",
-    "date": "April 21, 2026",
-    "title": "Fire Safety Checks Conducted",
-    "summary": "Fire safety inspections have been conducted in commercial establishments to ensure compliance."
+    "category": "Tourism",
+    "date": "April 23, 2026",
+    "title": "Yercaud Tourism Increases",
+    "summary": "Tourist footfall rises in hill stations boosting local economy."
   },
   {
     "id": "slm-new15",
     "featured": false,
-    "category": "Economy",
-    "date": "April 21, 2026",
-    "title": "Local Economy Shows Improvement",
-    "summary": "Salem’s economy is showing improvement with increased activity in trade and industry sectors."
+    "category": "Health",
+    "date": "April 23, 2026",
+    "title": "Heatwave Advisory Issued",
+    "summary": "Authorities advise residents to stay hydrated and avoid peak heat."
   },
 
   {
     "id": "slm-new16",
     "featured": false,
-    "category": "Transport",
-    "date": "April 21, 2026",
-    "title": "Traffic Advisory Issued in City",
-    "summary": "Traffic police have issued advisories to manage congestion during campaign activities."
+    "category": "Economy",
+    "date": "April 22, 2026",
+    "title": "Local Economy Shows Growth",
+    "summary": "Trade and industrial activity are showing steady improvement."
   },
   {
     "id": "slm-new17",
     "featured": false,
-    "category": "Health",
-    "date": "April 21, 2026",
-    "title": "Free Health Camps Organized",
-    "summary": "Free health camps are being conducted to provide medical support to rural populations."
+    "category": "Startup",
+    "date": "April 22, 2026",
+    "title": "Startup Ecosystem Expands",
+    "summary": "New startups are emerging with government support."
   },
   {
     "id": "slm-new18",
     "featured": false,
-    "category": "Civic",
-    "date": "April 21, 2026",
-    "title": "Garbage Clearance Drives Intensified",
-    "summary": "Municipal workers have intensified cleaning operations across the city."
+    "category": "Public",
+    "date": "April 22, 2026",
+    "title": "Voter Awareness Campaigns Increase",
+    "summary": "Authorities encourage higher voter turnout."
   },
   {
     "id": "slm-new19",
     "featured": false,
-    "category": "Industry",
-    "date": "April 21, 2026",
-    "title": "Small Industries Expand Operations",
-    "summary": "Local industries are expanding production to meet growing demand."
+    "category": "Security",
+    "date": "April 22, 2026",
+    "title": "Additional Police Deployed",
+    "summary": "Extra forces deployed in sensitive areas."
   },
   {
     "id": "slm-new20",
     "featured": false,
-    "category": "Law",
-    "date": "April 21, 2026",
-    "title": "Election Code Violations Monitored",
-    "summary": "Officials are closely monitoring election code violations to ensure fairness."
+    "category": "Energy",
+    "date": "April 22, 2026",
+    "title": "Power Demand Rises",
+    "summary": "Electricity usage increases due to summer heat."
   },
 
   {
     "id": "slm-new21",
     "featured": false,
-    "category": "Startup",
-    "date": "April 21, 2026",
-    "title": "Startup Ecosystem Expands in Salem",
-    "summary": "New startups are emerging in Salem, supported by government initiatives and funding opportunities."
+    "category": "Sports",
+    "date": "April 22, 2026",
+    "title": "Sports Events Conducted",
+    "summary": "District-level competitions see active participation."
   },
   {
     "id": "slm-new22",
     "featured": false,
-    "category": "Public",
-    "date": "April 21, 2026",
-    "title": "Voter Awareness Campaigns Increase",
-    "summary": "Authorities are encouraging citizens to participate actively in voting."
+    "category": "Environment",
+    "date": "April 22, 2026",
+    "title": "Water Body Cleanup Continues",
+    "summary": "Authorities clean lakes and ponds."
   },
   {
     "id": "slm-new23",
     "featured": false,
-    "category": "Security",
-    "date": "April 21, 2026",
-    "title": "Additional Police Deployed",
-    "summary": "Extra police personnel have been deployed to maintain law and order."
+    "category": "Technology",
+    "date": "April 22, 2026",
+    "title": "Digital Services Grow",
+    "summary": "Businesses adopt digital platforms rapidly."
   },
   {
     "id": "slm-new24",
     "featured": false,
-    "category": "Energy",
-    "date": "April 21, 2026",
-    "title": "Power Demand Increases",
-    "summary": "Electricity demand has risen due to summer heat conditions."
+    "category": "Lifestyle",
+    "date": "April 22, 2026",
+    "title": "Fitness Awareness Rises",
+    "summary": "Youth increasingly focus on health and fitness."
   },
   {
     "id": "slm-new25",
     "featured": false,
-    "category": "Sports",
-    "date": "April 21, 2026",
-    "title": "District-Level Sports Events Held",
-    "summary": "Sports competitions are being conducted with active participation."
+    "category": "Culture",
+    "date": "April 22, 2026",
+    "title": "Cultural Events Attract Crowds",
+    "summary": "Public participation in cultural programs increases."
   },
 
   {
     "id": "slm-new26",
     "featured": false,
-    "category": "Environment",
+    "category": "Transport",
     "date": "April 21, 2026",
-    "title": "Water Bodies Cleaning Drive Continues",
-    "summary": "Efforts to clean lakes and ponds are ongoing in Salem."
+    "title": "Bus Stands See Rush",
+    "summary": "Passenger movement rises across terminals."
   },
   {
     "id": "slm-new27",
     "featured": false,
-    "category": "Retail",
+    "category": "Agriculture",
     "date": "April 21, 2026",
-    "title": "Retail Sales See Growth",
-    "summary": "Retail sales have increased with improved consumer spending."
+    "title": "Farmers Track Market Trends",
+    "summary": "Farmers monitor crop prices closely."
   },
   {
     "id": "slm-new28",
     "featured": false,
-    "category": "Technology",
+    "category": "Market",
     "date": "April 21, 2026",
-    "title": "Digital Services Expand Rapidly",
-    "summary": "Digital adoption continues to rise across businesses and services."
+    "title": "Fruit Prices Fluctuate",
+    "summary": "Supply variations affect fruit pricing."
   },
   {
     "id": "slm-new29",
     "featured": false,
-    "category": "Lifestyle",
+    "category": "Public Safety",
     "date": "April 21, 2026",
-    "title": "Fitness Awareness Grows Among Youth",
-    "summary": "Young people are increasingly focusing on fitness and health."
+    "title": "Emergency Teams Ready",
+    "summary": "Authorities remain prepared for election-related incidents."
   },
   {
     "id": "slm-new30",
     "featured": false,
-    "category": "Culture",
+    "category": "Tourism",
     "date": "April 21, 2026",
-    "title": "Cultural Events Draw Large Crowds",
-    "summary": "Cultural programs have attracted significant public participation."
+    "title": "Tourism Activity Increases",
+    "summary": "Visitor numbers grow across Salem region."
   },
 
   {
     "id": "slm-new31",
     "featured": false,
-    "category": "Transport",
+    "category": "Civic",
     "date": "April 21, 2026",
-    "title": "Bus Stands Witness Heavy Rush",
-    "summary": "Passenger movement has increased significantly across bus terminals."
+    "title": "Water Supply Maintained",
+    "summary": "Authorities ensure uninterrupted water distribution."
   },
   {
     "id": "slm-new32",
     "featured": false,
-    "category": "Agriculture",
+    "category": "Health",
     "date": "April 21, 2026",
-    "title": "Farmers Track Market Prices",
-    "summary": "Farmers are closely monitoring agricultural market trends."
+    "title": "Hospitals Prepare for Summer",
+    "summary": "Facilities ready for heat-related illnesses."
   },
   {
     "id": "slm-new33",
     "featured": false,
-    "category": "Market",
+    "category": "Business",
     "date": "April 21, 2026",
-    "title": "Fruit Prices Fluctuate",
-    "summary": "Fruit prices continue to fluctuate based on supply conditions."
+    "title": "SMEs Expand Operations",
+    "summary": "Small businesses increase production capacity."
   },
   {
     "id": "slm-new34",
     "featured": false,
-    "category": "Public Safety",
+    "category": "Education",
     "date": "April 21, 2026",
-    "title": "Emergency Teams on Standby",
-    "summary": "Emergency services are prepared to handle any incidents during elections."
+    "title": "Skill Programs Introduced",
+    "summary": "Youth gain new training opportunities."
   },
   {
     "id": "slm-new35",
     "featured": false,
-    "category": "Tourism",
+    "category": "Infrastructure",
     "date": "April 21, 2026",
-    "title": "Tourist Footfall Increases",
-    "summary": "Tourism activity has picked up in Salem and nearby regions."
+    "title": "Bridge Maintenance Ongoing",
+    "summary": "Repair works continue across key bridges."
   },
 
   {
     "id": "slm-new36",
     "featured": false,
-    "category": "Civic",
+    "category": "Transport",
     "date": "April 21, 2026",
-    "title": "Water Supply Monitoring Strengthened",
-    "summary": "Authorities are ensuring uninterrupted water supply across Salem."
+    "title": "Auto Drivers Demand Fare Hike",
+    "summary": "Drivers cite rising fuel costs."
   },
   {
     "id": "slm-new37",
     "featured": false,
-    "category": "Health",
+    "category": "Environment",
     "date": "April 21, 2026",
-    "title": "Hospitals Ready for Summer Cases",
-    "summary": "Hospitals are prepared for an increase in heat-related illnesses."
+    "title": "Air Quality Stable",
+    "summary": "Pollution levels remain within safe limits."
   },
   {
     "id": "slm-new38",
     "featured": false,
-    "category": "Business",
+    "category": "Retail",
     "date": "April 21, 2026",
-    "title": "SMEs Increase Production Capacity",
-    "summary": "Small businesses are expanding production to meet growing demand."
+    "title": "Shopping Activity Picks Up",
+    "summary": "Malls and markets see higher footfall."
   },
   {
     "id": "slm-new39",
     "featured": false,
-    "category": "Education",
+    "category": "Public",
     "date": "April 21, 2026",
-    "title": "Skill Development Programs Introduced",
-    "summary": "New skill development programs are helping youth improve employability."
+    "title": "Voting Awareness Improves",
+    "summary": "Public participation campaigns show results."
   },
   {
     "id": "slm-new40",
     "featured": false,
-    "category": "Infrastructure",
+    "category": "Security",
     "date": "April 21, 2026",
-    "title": "Bridge Maintenance Work Ongoing",
-    "summary": "Bridge repair and maintenance works are being carried out."
+    "title": "Security Strengthened",
+    "summary": "Measures enhanced across sensitive zones."
   },
 
   {
     "id": "slm-new41",
     "featured": false,
-    "category": "Transport",
+    "category": "Economy",
     "date": "April 21, 2026",
-    "title": "Auto Drivers Demand Fare Revision",
-    "summary": "Auto drivers have demanded fare hikes citing rising fuel costs."
+    "title": "Industrial Growth Continues",
+    "summary": "Industry supports economic expansion."
   },
   {
     "id": "slm-new42",
     "featured": false,
-    "category": "Environment",
+    "category": "Culture",
     "date": "April 21, 2026",
-    "title": "Air Quality Remains Stable",
-    "summary": "Air quality levels remain within safe limits across Salem."
+    "title": "Festivals Draw Crowds",
+    "summary": "Local events see strong participation."
   },
   {
     "id": "slm-new43",
     "featured": false,
-    "category": "Retail",
+    "category": "Health",
     "date": "April 21, 2026",
-    "title": "Shopping Activity Picks Up",
-    "summary": "Shopping activity has increased in malls and markets."
+    "title": "Heat Safety Guidelines Issued",
+    "summary": "Public advised to avoid extreme temperatures."
   },
   {
     "id": "slm-new44",
     "featured": false,
-    "category": "Public",
+    "category": "Market",
     "date": "April 21, 2026",
-    "title": "Public Awareness on Voting Grows",
-    "summary": "Efforts to improve voter turnout are gaining momentum."
+    "title": "Commodity Prices Fluctuate",
+    "summary": "Prices vary based on supply-demand trends."
   },
   {
     "id": "slm-new45",
     "featured": false,
-    "category": "Security",
+    "category": "Tourism",
     "date": "April 21, 2026",
-    "title": "Security Measures Strengthened",
-    "summary": "Security arrangements have been strengthened across sensitive zones."
+    "title": "Weekend Travel Demand Rises",
+    "summary": "More visitors explore Salem region."
   },
 
   {
     "id": "slm-new46",
     "featured": false,
-    "category": "Economy",
+    "category": "Civic",
     "date": "April 21, 2026",
-    "title": "Industrial Activity Expands",
-    "summary": "Industrial growth continues to support Salem’s economic development."
+    "title": "Garbage Clearance Drives Intensified",
+    "summary": "Municipal cleaning operations expanded."
   },
   {
     "id": "slm-new47",
     "featured": false,
-    "category": "Culture",
+    "category": "Industry",
     "date": "April 21, 2026",
-    "title": "Local Festivals Attract Crowds",
-    "summary": "Festivals and events have drawn large public participation."
+    "title": "Industrial Output Expands",
+    "summary": "Factories increase production capacity."
   },
   {
     "id": "slm-new48",
     "featured": false,
-    "category": "Health",
+    "category": "Retail",
     "date": "April 21, 2026",
-    "title": "Public Advised on Heat Safety",
-    "summary": "Authorities have issued guidelines to stay safe during high temperatures."
+    "title": "Retail Sales Increase",
+    "summary": "Consumer spending shows improvement."
   },
   {
     "id": "slm-new49",
     "featured": false,
-    "category": "Market",
+    "category": "Public Safety",
     "date": "April 21, 2026",
-    "title": "Commodity Prices Show Variation",
-    "summary": "Commodity prices are fluctuating based on supply-demand conditions."
+    "title": "Fire Safety Inspections Conducted",
+    "summary": "Authorities check compliance in commercial areas."
   },
   {
     "id": "slm-new50",
     "featured": false,
-    "category": "Tourism",
-    "date": "April 21, 2026",
-    "title": "Weekend Travel Demand Increases",
-    "summary": "Weekend travel has increased with more visitors exploring Salem region."
-  },
-  {
-    "id": "slm-24-1",
-    "featured": true,
-    "category": "Politics",
-    "date": "April 24, 2026",
-    "title": "Salem Remains EPS Territory but DMK Pushing Harder than 2021",
-    "summary": "Reporting from district shows AIADMK trying to retain fortress while DMK uses ministers and local organisers to expand ground network. Result is sharper, more personal contest shaping wider western Tamil Nadu mood."
-  },
-  {
-    "id": "slm-24-2",
-    "featured": true,
-    "category": "Politics",
-    "date": "April 24, 2026",
-    "title": "TVK Faces Field Friction in Western Belt",
-    "summary": "Party changed candidates in Salem's Edappadi after scrutiny rejection. Setbacks show new entrant still lacks stable organisational footing in parts of Kongu."
-  },
-  {
-    "id": "slm-24-3",
-    "featured": true,
-    "category": "Civic",
-    "date": "April 24, 2026",
-    "title": "Sensitive Booths and Webcasting Major Election-Management Story",
-    "summary": "Officials identified 172 sensitive polling stations across 11 constituencies placed under live surveillance. Scale of monitoring reflects administration's concern about intimidation, money power, and booth-level disputes."
-  },
-  {
-    "id": "slm-24-4",
-    "featured": true,
-    "category": "Civic",
-    "date": "April 24, 2026",
-    "title": "Salem Election Machinery Running Under Unusually Tight Scrutiny",
-    "summary": "Booths under webcasting while officials deal with candidate scrutiny disputes and campaign-related misconduct complaints. Salem is one of clearest examples of how administration and politics now overlap at booth level."
-  },
-  {
-    "id": "slm-24-5",
-    "featured": true,
-    "category": "Infrastructure",
-    "date": "April 24, 2026",
-    "title": "Yercaud Hills Face Rain-Linked Transport Disruption",
-    "summary": "Heavy rain brought road restrictions on Yercaud route showing how quickly weather affects mobility and tourism. For residents, monsoon management remains practical governance test."
-  },
-  {
-    "id": "slm-24-6",
-    "featured": true,
     "category": "Social",
-    "date": "April 24, 2026",
-    "title": "Erode's Political Messaging Increasingly Personal and Community-Focused",
-    "summary": "Sengottaiyan's comments on Vijay, separate district demands, and alliance loyalty show how public opinion is pulled by identity not ideology. Party loyalty now competes with local pride and generational change."
+    "date": "April 21, 2026",
+    "title": "Community Programs Expand",
+    "summary": "Social initiatives gain participation across Salem."
   }
 ]
