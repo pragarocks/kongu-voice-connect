@@ -4,406 +4,408 @@
     "featured": true,
     "category": "Election",
     "date": "April 24, 2026",
-    "title": "Election Campaigns Peak Across Dharmapuri",
-    "summary": "Political parties intensify outreach efforts targeting rural and urban voters."
+    "title": "Polling Concludes with High Turnout in Dharmapuri",
+    "summary": "Voting concluded peacefully across Dharmapuri with a high turnout, as authorities reported strong participation from rural and urban voters."
   },
   {
     "id": "dpm-new2",
-    "featured": true,
+    "featured": false,
     "category": "Politics",
     "date": "April 24, 2026",
-    "title": "Senior Leaders Campaign in Key Areas",
-    "summary": "Top political leaders visit constituencies to boost party visibility."
+    "title": "Leaders Review Campaign Performance",
+    "summary": "Political leaders are reviewing campaign strategies and voter response following the completion of polling."
   },
   {
     "id": "dpm-new3",
-    "featured": true,
-    "category": "Security",
+    "featured": false,
+    "category": "Civic",
     "date": "April 24, 2026",
-    "title": "Security Tightened Ahead of Polling",
-    "summary": "Police increase surveillance and checkpoints across the district."
+    "title": "Residents Demand Immediate Road Repairs",
+    "summary": "Citizens continue to raise concerns over damaged roads and urge quick action from local authorities."
   },
   {
     "id": "dpm-new4",
-    "featured": true,
-    "category": "Transport",
+    "featured": false,
+    "category": "Agriculture",
     "date": "April 24, 2026",
-    "title": "Special Buses Arranged for Voters",
-    "summary": "Transport services expanded to ease election-related travel."
+    "title": "Mango Harvest Season Peaks",
+    "summary": "Farmers report increased activity as mango harvesting reaches peak season across the district."
   },
   {
     "id": "dpm-new5",
-    "featured": true,
+    "featured": false,
     "category": "Health",
     "date": "April 24, 2026",
-    "title": "Heatwave Advisory Issued",
-    "summary": "Residents advised to stay indoors during peak temperature hours."
+    "title": "Heatwave Precautions Intensified",
+    "summary": "Health officials have stepped up awareness campaigns to protect residents from rising temperatures."
   },
+
   {
     "id": "dpm-new6",
-    "featured": true,
-    "category": "Civic",
+    "featured": false,
+    "category": "Transport",
     "date": "April 24, 2026",
-    "title": "Road Repair Works Accelerated",
-    "summary": "Authorities fast-track infrastructure improvements."
+    "title": "Extra Buses Continue for Public Convenience",
+    "summary": "Transport services remain expanded to manage increased travel demand after election activities."
   },
   {
     "id": "dpm-new7",
-    "featured": true,
-    "category": "Agriculture",
+    "featured": false,
+    "category": "Crime",
     "date": "April 24, 2026",
-    "title": "Mango Harvest Brings Optimism",
-    "summary": "Farmers expect strong yields boosting income."
+    "title": "Police Maintain Tight Security",
+    "summary": "Security remains high across key locations as authorities ensure law and order post-election."
   },
   {
     "id": "dpm-new8",
-    "featured": true,
+    "featured": false,
     "category": "Market",
     "date": "April 24, 2026",
-    "title": "Vegetable Prices Continue to Fluctuate",
-    "summary": "Supply variations impact local market prices."
+    "title": "Vegetable Prices Stabilize",
+    "summary": "Market reports indicate stabilization in vegetable prices after recent fluctuations."
   },
   {
     "id": "dpm-new9",
-    "featured": true,
+    "featured": false,
     "category": "Education",
     "date": "April 24, 2026",
-    "title": "Students Prepare for Exams",
-    "summary": "Schools conduct revision sessions and coaching."
+    "title": "Exam Preparations Continue in Schools",
+    "summary": "Students are actively preparing for upcoming exams with additional support from teachers."
   },
   {
     "id": "dpm-new10",
-    "featured": true,
+    "featured": false,
     "category": "Environment",
     "date": "April 24, 2026",
-    "title": "Tree Plantation Drives Expand",
-    "summary": "Efforts increase to boost green cover."
+    "title": "Green Initiatives Expand in Villages",
+    "summary": "Tree plantation drives continue to improve environmental awareness in rural areas."
   },
 
   {
     "id": "dpm-new11",
-    "featured": true,
+    "featured": false,
     "category": "Infrastructure",
     "date": "April 24, 2026",
-    "title": "Bridge Repairs Progress",
-    "summary": "Ongoing repair works improve connectivity."
+    "title": "Road Works Progress in Key Areas",
+    "summary": "Authorities report steady progress in ongoing road construction and maintenance projects."
   },
   {
     "id": "dpm-new12",
-    "featured": true,
+    "featured": false,
     "category": "Retail",
     "date": "April 24, 2026",
-    "title": "Markets See Higher Footfall",
-    "summary": "Increased activity boosts local economy."
+    "title": "Markets Witness Steady Customer Flow",
+    "summary": "Local markets continue to see consistent footfall as economic activity improves."
   },
   {
     "id": "dpm-new13",
-    "featured": true,
+    "featured": false,
     "category": "Tourism",
     "date": "April 24, 2026",
-    "title": "Hogenakkal Falls Draws Tourists",
-    "summary": "Tourist inflow boosts local businesses."
+    "title": "Tourist Visits Increase at Hogenakkal",
+    "summary": "Hogenakkal Falls sees a steady rise in visitor numbers during the weekend."
   },
   {
     "id": "dpm-new14",
-    "featured": true,
+    "featured": false,
     "category": "Public Safety",
     "date": "April 24, 2026",
-    "title": "Fire Safety Checks Conducted",
-    "summary": "Authorities inspect commercial buildings."
+    "title": "Fire Safety Checks Continue",
+    "summary": "Authorities continue inspections to ensure compliance with fire safety regulations."
   },
   {
     "id": "dpm-new15",
-    "featured": true,
+    "featured": false,
     "category": "Economy",
     "date": "April 24, 2026",
-    "title": "Local Economy Shows Growth",
-    "summary": "Agriculture and retail sectors expand."
+    "title": "Local Trade Activity Strengthens",
+    "summary": "Trade and small businesses show steady improvement in economic performance."
   },
+
   {
     "id": "dpm-new16",
-    "featured": true,
+    "featured": false,
     "category": "Transport",
     "date": "April 24, 2026",
-    "title": "Traffic Advisory Issued",
-    "summary": "Measures taken to reduce congestion."
+    "title": "Traffic Flow Normalizes",
+    "summary": "Traffic conditions return to normal following the conclusion of election-related movement."
   },
   {
     "id": "dpm-new17",
-    "featured": true,
+    "featured": false,
     "category": "Health",
     "date": "April 24, 2026",
-    "title": "Free Medical Camps Organized",
-    "summary": "Healthcare services reach rural areas."
+    "title": "Medical Camps Continue in Rural Areas",
+    "summary": "Healthcare teams conduct outreach programs providing free medical services."
   },
   {
     "id": "dpm-new18",
-    "featured": true,
+    "featured": false,
     "category": "Civic",
     "date": "April 24, 2026",
-    "title": "Sanitation Drives Intensified",
-    "summary": "Cleanliness initiatives expanded."
+    "title": "Sanitation Drives Continue Across District",
+    "summary": "Municipal teams continue cleaning and waste management initiatives."
   },
   {
     "id": "dpm-new19",
-    "featured": true,
+    "featured": false,
     "category": "Industry",
     "date": "April 24, 2026",
-    "title": "Small Industries Expand",
-    "summary": "Production capacity increases."
+    "title": "Small Industries See Production Rise",
+    "summary": "Local industries report increased production due to higher demand."
   },
   {
     "id": "dpm-new20",
-    "featured": true,
+    "featured": false,
     "category": "Law",
     "date": "April 24, 2026",
-    "title": "Election Code Monitoring Strengthened",
-    "summary": "Officials ensure compliance."
+    "title": "Election Code Enforcement Continues",
+    "summary": "Officials continue monitoring adherence to election regulations."
   },
 
   {
     "id": "dpm-new21",
-    "featured": true,
+    "featured": false,
     "category": "Startup",
     "date": "April 24, 2026",
-    "title": "Startup Culture Gains Momentum",
-    "summary": "New initiatives support entrepreneurs."
+    "title": "Startup Ecosystem Expands",
+    "summary": "New startup initiatives are emerging, supporting entrepreneurship in the district."
   },
   {
     "id": "dpm-new22",
-    "featured": true,
+    "featured": false,
     "category": "Public",
     "date": "April 24, 2026",
-    "title": "Voter Awareness Campaigns Increase",
-    "summary": "Citizens encouraged to vote."
+    "title": "Citizens Encouraged to Stay Engaged",
+    "summary": "Officials urge continued civic participation beyond elections."
   },
   {
     "id": "dpm-new23",
-    "featured": true,
+    "featured": false,
     "category": "Security",
     "date": "April 24, 2026",
-    "title": "Additional Police Deployed",
-    "summary": "Security strengthened in key areas."
+    "title": "Security Presence Remains Strong",
+    "summary": "Authorities maintain vigilance in sensitive areas across Dharmapuri."
   },
   {
     "id": "dpm-new24",
-    "featured": true,
+    "featured": false,
     "category": "Energy",
     "date": "April 24, 2026",
-    "title": "Electricity Demand Rises",
-    "summary": "High temperatures increase usage."
+    "title": "Power Demand Peaks During Summer",
+    "summary": "Electricity usage rises due to increased cooling needs in hot weather."
   },
   {
     "id": "dpm-new25",
-    "featured": true,
+    "featured": false,
     "category": "Sports",
     "date": "April 24, 2026",
-    "title": "District Sports Events Held",
-    "summary": "Athletes participate actively."
+    "title": "Local Sports Events Draw Participation",
+    "summary": "Youth actively participate in district-level sports competitions."
   },
 
   {
     "id": "dpm-new26",
-    "featured": true,
+    "featured": false,
     "category": "Environment",
     "date": "April 24, 2026",
-    "title": "Water Body Cleaning Continues",
-    "summary": "Efforts to restore lakes ongoing."
+    "title": "Lake Cleaning Drives Continue",
+    "summary": "Efforts to restore water bodies are ongoing in several areas."
   },
   {
     "id": "dpm-new27",
-    "featured": true,
+    "featured": false,
     "category": "Retail",
     "date": "April 24, 2026",
-    "title": "Retail Sales Improve",
-    "summary": "Businesses report better performance."
+    "title": "Retail Sector Shows Growth",
+    "summary": "Retail businesses continue to benefit from increased consumer demand."
   },
   {
     "id": "dpm-new28",
-    "featured": true,
+    "featured": false,
     "category": "Technology",
     "date": "April 24, 2026",
-    "title": "Digital Services Expand",
-    "summary": "Adoption of technology increases."
+    "title": "Digital Services Adoption Rises",
+    "summary": "More businesses adopt digital platforms for services and payments."
   },
   {
     "id": "dpm-new29",
-    "featured": true,
+    "featured": false,
     "category": "Lifestyle",
     "date": "April 24, 2026",
-    "title": "Fitness Awareness Grows",
-    "summary": "Residents adopt healthier lifestyles."
+    "title": "Health Awareness Among Residents Increases",
+    "summary": "People are focusing more on fitness and preventive healthcare."
   },
   {
     "id": "dpm-new30",
-    "featured": true,
+    "featured": false,
     "category": "Culture",
     "date": "April 24, 2026",
-    "title": "Cultural Events Attract Crowds",
-    "summary": "Public participation increases."
+    "title": "Cultural Programs Continue to Attract Crowds",
+    "summary": "Local events are drawing audiences and promoting cultural heritage."
   },
 
   {
     "id": "dpm-new31",
-    "featured": true,
+    "featured": false,
     "category": "Transport",
     "date": "April 24, 2026",
-    "title": "Bus Stands See Passenger Rush",
-    "summary": "High travel demand observed."
+    "title": "Bus Stations Experience Moderate Rush",
+    "summary": "Passenger movement remains steady across transport hubs."
   },
   {
     "id": "dpm-new32",
-    "featured": true,
+    "featured": false,
     "category": "Agriculture",
     "date": "April 24, 2026",
-    "title": "Farmers Track Crop Prices",
-    "summary": "Market trends closely monitored."
+    "title": "Farmers Track Market Prices Closely",
+    "summary": "Producers monitor trends to secure better returns for crops."
   },
   {
     "id": "dpm-new33",
-    "featured": true,
+    "featured": false,
     "category": "Market",
     "date": "April 24, 2026",
-    "title": "Fruit Prices Fluctuate",
-    "summary": "Seasonal supply affects pricing."
+    "title": "Fruit Prices Show Minor Changes",
+    "summary": "Seasonal supply causes slight variations in fruit prices."
   },
   {
     "id": "dpm-new34",
-    "featured": true,
+    "featured": false,
     "category": "Public Safety",
     "date": "April 24, 2026",
-    "title": "Emergency Services Ready",
-    "summary": "Teams prepared for incidents."
+    "title": "Emergency Services Remain Alert",
+    "summary": "Emergency response teams stay prepared for incidents."
   },
   {
     "id": "dpm-new35",
-    "featured": true,
+    "featured": false,
     "category": "Tourism",
     "date": "April 24, 2026",
-    "title": "Tourist Visits Increase",
-    "summary": "Local attractions gain popularity."
+    "title": "Tourist Spots Maintain Steady Footfall",
+    "summary": "Popular attractions continue to draw visitors."
   },
 
   {
     "id": "dpm-new36",
-    "featured": true,
+    "featured": false,
     "category": "Civic",
     "date": "April 24, 2026",
     "title": "Water Supply Monitoring Strengthened",
-    "summary": "Continuous supply ensured."
+    "summary": "Authorities ensure consistent water distribution in urban and rural areas."
   },
   {
     "id": "dpm-new37",
-    "featured": true,
+    "featured": false,
     "category": "Health",
     "date": "April 24, 2026",
-    "title": "Hospitals Prepare for Summer Cases",
-    "summary": "Heat-related illness readiness improved."
+    "title": "Hospitals Ready for Summer Cases",
+    "summary": "Medical facilities prepare for heat-related illnesses."
   },
   {
     "id": "dpm-new38",
-    "featured": true,
+    "featured": false,
     "category": "Business",
     "date": "April 24, 2026",
-    "title": "SMEs Expand Production",
-    "summary": "Small businesses scale operations."
+    "title": "Small Businesses Expand Operations",
+    "summary": "Entrepreneurs scale up to meet growing local demand."
   },
   {
     "id": "dpm-new39",
-    "featured": true,
+    "featured": false,
     "category": "Education",
     "date": "April 24, 2026",
-    "title": "Skill Training Programs Introduced",
-    "summary": "Youth employment initiatives rise."
+    "title": "Skill Training Programs Continue",
+    "summary": "Youth engage in skill development initiatives to improve employment prospects."
   },
   {
     "id": "dpm-new40",
-    "featured": true,
+    "featured": false,
     "category": "Infrastructure",
     "date": "April 24, 2026",
-    "title": "Bridge Maintenance Ongoing",
-    "summary": "Repairs enhance transport safety."
+    "title": "Bridge Maintenance Works Progress",
+    "summary": "Ongoing repairs aim to improve transport safety."
   },
 
   {
     "id": "dpm-new41",
-    "featured": true,
+    "featured": false,
     "category": "Transport",
     "date": "April 24, 2026",
-    "title": "Auto Drivers Demand Fare Revision",
-    "summary": "Fuel prices drive fare discussions."
+    "title": "Auto Drivers Raise Fare Concerns",
+    "summary": "Drivers request fare adjustments citing rising fuel costs."
   },
   {
     "id": "dpm-new42",
-    "featured": true,
+    "featured": false,
     "category": "Environment",
     "date": "April 24, 2026",
     "title": "Air Quality Remains Stable",
-    "summary": "Pollution levels within limits."
+    "summary": "Environmental reports show air quality within acceptable levels."
   },
   {
     "id": "dpm-new43",
-    "featured": true,
+    "featured": false,
     "category": "Retail",
     "date": "April 24, 2026",
-    "title": "Shopping Activity Increases",
-    "summary": "Consumer demand rises."
+    "title": "Shopping Activity Continues to Rise",
+    "summary": "Retail outlets see steady increase in customer purchases."
   },
   {
     "id": "dpm-new44",
-    "featured": true,
+    "featured": false,
     "category": "Public",
     "date": "April 24, 2026",
-    "title": "Voting Awareness Improves",
-    "summary": "Participation campaigns succeed."
+    "title": "Public Participation in Civic Programs Increases",
+    "summary": "Citizens actively engage in awareness and community initiatives."
   },
   {
     "id": "dpm-new45",
-    "featured": true,
+    "featured": false,
     "category": "Security",
     "date": "April 24, 2026",
-    "title": "Security Measures Strengthened",
-    "summary": "Key locations under watch."
+    "title": "Monitoring Intensified in Key Zones",
+    "summary": "Security agencies continue surveillance in sensitive locations."
   },
 
   {
     "id": "dpm-new46",
-    "featured": true,
+    "featured": false,
     "category": "Economy",
     "date": "April 24, 2026",
-    "title": "Economic Growth Continues",
-    "summary": "Trade and agriculture boost economy."
+    "title": "Economic Momentum Sustained",
+    "summary": "Growth trends remain stable across agriculture and trade sectors."
   },
   {
     "id": "dpm-new47",
-    "featured": true,
+    "featured": false,
     "category": "Culture",
     "date": "April 24, 2026",
-    "title": "Festivals Draw Crowds",
-    "summary": "Public celebrations increase."
+    "title": "Festival Celebrations Continue",
+    "summary": "Local festivals maintain strong public participation."
   },
   {
     "id": "dpm-new48",
-    "featured": true,
+    "featured": false,
     "category": "Health",
     "date": "April 24, 2026",
-    "title": "Heat Safety Advisory Reissued",
-    "summary": "Residents urged to take precautions."
+    "title": "Heat Safety Awareness Expanded",
+    "summary": "Authorities emphasize precautions to prevent heat-related issues."
   },
   {
     "id": "dpm-new49",
-    "featured": true,
+    "featured": false,
     "category": "Market",
     "date": "April 24, 2026",
-    "title": "Commodity Prices Vary",
-    "summary": "Market trends remain unstable."
+    "title": "Commodity Prices Show Mixed Trends",
+    "summary": "Market conditions lead to fluctuations in commodity prices."
   },
   {
     "id": "dpm-new50",
-    "featured": true,
+    "featured": false,
     "category": "Tourism",
     "date": "April 24, 2026",
-    "title": "Weekend Travel Demand Rises",
-    "summary": "Tourist activity increases across attractions."
+    "title": "Weekend Travel Activity Increases",
+    "summary": "Residents and visitors continue weekend travel to nearby attractions."
   }
 ]
