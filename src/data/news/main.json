@@ -1,8 +1,8 @@
 {
   "featured": {
     "id": "main-fresh-1",
-    "title": "Poll Results Show Close Three-Way Race Across Kongu Belt",
-    "summary": "Election results on April 25, 2026 reveal a competitive battle with NDA, ADMK and DMK vying for seats across the eight Kongu districts with surprising leads in key constituencies.",
+    "title": "Kongu Region's Election Results Show Dramatic Three-Way Battle",
+    "summary": "April 25, 2026 election results reveal a competitive contest with surprising upsets across eight districts. NDA, DMK, and ADMK in neck-and-neck competition for dominance.",
     "category": "Election",
     "date": "April 25, 2026",
     "featured": true
@@ -10,24 +10,24 @@
   "sideNews": [
     {
       "id": "main-fresh-2",
-      "title": "Coimbatore Votes Record 72% Turnout; Counting Underway",
-      "summary": "Coimbatore recorded the highest voter participation in 25 years with 72% turnout as election commission officials count ballots through the night.",
+      "title": "Counting Underway: Coimbatore Records 73% Turnout",
+      "summary": "Highest voter participation in two decades drives election commission officials to count through the night. Industrial sector shows strong engagement.",
       "category": "Election",
       "date": "April 25, 2026",
       "featured": false
     },
     {
       "id": "main-fresh-3",
-      "title": "Erode's Independent Candidates Emerge as Dark Horses in Results",
-      "summary": "Preliminary counts show unprecedented success for independent candidates in Erode, signalling voter frustration with traditional parties.",
-      "category": "Election",
+      "title": "Erode's Independent Surge Shocks Political Establishment",
+      "summary": "Preliminary counts show unprecedented success for independent candidates in Erode, signalling voter shift away from traditional parties.",
+      "category": "Politics",
       "date": "April 25, 2026",
       "featured": false
     },
     {
       "id": "main-fresh-4",
-      "title": "Salem-Namakkal Constituency Heads to Photo Finish; Victory Margin Below 500 Votes",
-      "summary": "Salem-Namakkal contest remains too close to call with final count expected by evening, with less than 500 votes separating the top two contenders.",
+      "title": "Salem-Namakkal Contest Reaches Thriller Finish",
+      "summary": "Final count expected by evening with victory margin likely under 1000 votes. Election officials verify every vote in tight race.",
       "category": "Election",
       "date": "April 25, 2026",
       "featured": false
@@ -36,32 +36,32 @@
   "gridNews": [
     {
       "id": "main-fresh-5",
-      "title": "Tiruppur's Market Buzz: Exit Polls and Stock Rally on Pro-Business Vibes",
-      "summary": "Exit polls suggesting pro-business policies have sparked a rally in Tiruppur's textile and manufacturing stocks as industry leaders await final results.",
+      "title": "Tiruppur Textile Sector Celebrates Pro-Business Exit Polls",
+      "summary": "Exit polls suggesting business-friendly policies trigger rally in manufacturing stocks. Industry leaders prepare investment strategies.",
       "category": "Business",
       "date": "April 25, 2026",
       "featured": false
     },
     {
       "id": "main-fresh-6",
-      "title": "Election Day Traffic: Kongu Highways See Reduced Congestion Post-Polls",
-      "summary": "With voting concluded, major highways across Coimbatore, Erode and Salem report smooth traffic flow as rally barricades are dismantled.",
-      "category": "Awareness",
+      "title": "Election Day Traffic: Kongu Highways Now Clear",
+      "summary": "With voting concluded, major highways across region see smooth traffic flow as campaign barricades are dismantled.",
+      "category": "Transport",
       "date": "April 25, 2026",
       "featured": false
     },
     {
       "id": "main-fresh-7",
-      "title": "Nilgiris Celebrates Historic Turnout; Remote Villages Record 65% Participation",
-      "summary": "Nilgiris district achieved remarkable polling participation from remote hill villages, with special polling stations set up in tribal settlements.",
-      "category": "Awareness",
+      "title": "Nilgiris Achieves Historic Tribal Village Turnout",
+      "summary": "Remote hill villages in Nilgiris record 68% participation with special polling stations set up in tribal settlements.",
+      "category": "Civic",
       "date": "April 25, 2026",
       "featured": false
     },
     {
       "id": "main-fresh-8",
-      "title": "Karur and Dharmapuri Exit Polls Predict Surprise Winners",
-      "summary": "Early exit polls from Karur and Dharmapuri districts are indicating unexpected winners, challenging pre-election predictions from political analysts.",
+      "title": "Karur and Dharmapuri Deliver Shocking Results",
+      "summary": "Early exit polls from agricultural districts indicate surprising electoral shifts challenging pre-election political forecasts.",
       "category": "Election",
       "date": "April 25, 2026",
       "featured": false

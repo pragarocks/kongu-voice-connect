@@ -1,165 +1,34 @@
 [
   {
-    "id": "kar-today1",
+    "id": "kar-25-1",
     "featured": true,
     "category": "Election",
-    "date": "April 24, 2026",
-    "title": "Record Voter Turnout Reported in Karur",
-    "summary": "Karur district recorded one of the highest voter turnouts in Tamil Nadu during the 2026 Assembly elections, reflecting strong public participation across both urban and rural areas."
+    "date": "April 25, 2026",
+    "title": "Karur Jewelry Hub Records Surprising 70% Turnout",
+    "summary": "Small-scale industrial district delivers strong participation. Jewelry and textile workers show unified voting patterns based on business concerns."
   },
   {
-    "id": "kar-today2",
+    "id": "kar-25-2",
     "featured": true,
-    "category": "Election",
-    "date": "April 24, 2026",
-    "title": "Kongu Region Leads in Polling Percentage",
-    "summary": "The Kongu region, including Karur, reported the highest voter turnout in the state, indicating heightened political engagement among residents."
-  },
-  {
-    "id": "kar-today3",
-    "featured": true,
-    "category": "Politics",
-    "date": "April 24, 2026",
-    "title": "Political Attention Focuses on Karur Results",
-    "summary": "Karur has emerged as a key district being closely watched by major political parties due to its high turnout and strategic importance in the election."
-  },
-  {
-    "id": "kar-today4",
-    "featured": true,
-    "category": "Public",
-    "date": "April 24, 2026",
-    "title": "‘Vote Not for Sale’ Campaign Gains Attention",
-    "summary": "Residents in Karur displayed awareness messages outside homes discouraging vote-buying, reflecting growing voter awareness and civic responsibility."
-  },
-  {
-    "id": "kar-today5",
-    "featured": true,
-    "category": "Politics",
-    "date": "April 24, 2026",
-    "title": "Debate Arises Over Leader Skipping Vote",
-    "summary": "Discussions have emerged after a senior political leader associated with the region reportedly did not cast a vote, drawing public and media attention."
-  },
-
-  {
-    "id": "kar-today6",
-    "featured": true,
-    "category": "Security",
-    "date": "April 24, 2026",
-    "title": "Tight Security Maintained During Polling",
-    "summary": "Police and security forces ensured peaceful polling across Karur with patrols, surveillance, and monitoring of sensitive areas."
-  },
-  {
-    "id": "kar-today7",
-    "featured": true,
-    "category": "Public",
-    "date": "April 24, 2026",
-    "title": "First-Time Voters Show Strong Participation",
-    "summary": "Young and first-time voters actively participated in the election process despite high temperatures."
-  },
-  {
-    "id": "kar-today8",
-    "featured": true,
-    "category": "Health",
-    "date": "April 24, 2026",
-    "title": "Heat Advisory Continues in Karur",
-    "summary": "Authorities advised residents to take precautions as high temperatures persist during the election period."
-  },
-  {
-    "id": "kar-today9",
-    "featured": true,
-    "category": "Transport",
-    "date": "April 24, 2026",
-    "title": "Transport Services Manage Poll Day Rush",
-    "summary": "Public transport services handled increased passenger traffic as voters traveled to polling booths."
-  },
-  {
-    "id": "kar-today10",
-    "featured": true,
-    "category": "Crime",
-    "date": "April 24, 2026",
-    "title": "Minor Election Violations Reported",
-    "summary": "Authorities reported minor violations during polling but confirmed overall peaceful conduct across the district."
-  },
-
-  {
-    "id": "kar-today11",
-    "featured": false,
-    "category": "Market",
-    "date": "April 24, 2026",
-    "title": "Silver Prices Fluctuate in Karur",
-    "summary": "Silver prices in Karur markets showed fluctuations, reflecting broader commodity market trends."
-  },
-  {
-    "id": "kar-today12",
-    "featured": false,
     "category": "Business",
-    "date": "April 24, 2026",
-    "title": "Local Businesses Resume Activity",
-    "summary": "Shops and businesses began returning to normal operations after election-related slowdowns."
+    "date": "April 25, 2026",
+    "title": "Gold Merchants' Association Influences Karur Results",
+    "summary": "Organized jewelry sector delivers strategic voting block supporting candidates committed to MSME growth and export incentives."
   },
   {
-    "id": "kar-today13",
-    "featured": false,
+    "id": "kar-25-3",
+    "featured": true,
+    "category": "Politics",
+    "date": "April 25, 2026",
+    "title": "Youth Leadership Challenges Senior Candidates in Karur",
+    "summary": "Younger candidates with business backgrounds surprisingly lead in early counts, signalling generational shift in voter preferences."
+  },
+  {
+    "id": "kar-25-4",
+    "featured": true,
     "category": "Civic",
-    "date": "April 24, 2026",
-    "title": "Post-Poll Clean-Up Drives Conducted",
-    "summary": "Municipal workers carried out cleaning activities near polling stations and public areas."
-  },
-  {
-    "id": "kar-today14",
-    "featured": false,
-    "category": "Environment",
-    "date": "April 24, 2026",
-    "title": "Air Quality Remains Stable",
-    "summary": "Air quality levels across Karur remained within acceptable limits despite increased activity."
-  },
-  {
-    "id": "kar-today15",
-    "featured": false,
-    "category": "Infrastructure",
-    "date": "April 24, 2026",
-    "title": "Road Conditions Monitored After Polling",
-    "summary": "Authorities inspected roads and public infrastructure following heavy election-day usage."
-  },
-
-  {
-    "id": "kar-today16",
-    "featured": false,
-    "category": "Public Safety",
-    "date": "April 24, 2026",
-    "title": "Emergency Teams Remain on Alert",
-    "summary": "Emergency services continued to stay alert for any post-election incidents."
-  },
-  {
-    "id": "kar-today17",
-    "featured": false,
-    "category": "Education",
-    "date": "April 24, 2026",
-    "title": "Schools Resume After Polling",
-    "summary": "Schools reopened after being used as polling centers."
-  },
-  {
-    "id": "kar-today18",
-    "featured": false,
-    "category": "Retail",
-    "date": "April 24, 2026",
-    "title": "Markets See Gradual Increase in Footfall",
-    "summary": "Retail activity increased as normal routines resumed."
-  },
-  {
-    "id": "kar-today19",
-    "featured": false,
-    "category": "Technology",
-    "date": "April 24, 2026",
-    "title": "EVMs Secured for Counting Phase",
-    "summary": "Electronic Voting Machines have been securely stored under strict supervision ahead of counting."
-  },
-  {
-    "id": "kar-today20",
-    "featured": false,
-    "category": "Economy",
-    "date": "April 24, 2026",
-    "title": "Economic Activity Picks Up Post Polls",
-    "summary": "Economic activities began picking up pace after the completion of polling."
+    "date": "April 25, 2026",
+    "title": "Karur's Progressive Voters Demand Inclusive Development",
+    "summary": "Social welfare and equitable development emerge as priority issues, influencing results in urban constituencies."
   }
 ]
