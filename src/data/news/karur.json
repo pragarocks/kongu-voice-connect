@@ -1,34 +1,60 @@
 [
   {
-    "id": "kar-25-1",
+    "id": "karur-27-1",
     "featured": true,
     "category": "Election",
-    "date": "April 25, 2026",
-    "title": "Karur Jewelry Hub Records Surprising 70% Turnout",
-    "summary": "Small-scale industrial district delivers strong participation. Jewelry and textile workers show unified voting patterns based on business concerns."
+    "date": "April 27, 2026",
+    "title": "Karur Records Highest TN Turnout: 92.65% Polling Achieved",
+    "summary": "Karur district recorded 92.65% voter participation, 7.55% above state average, demonstrating exceptional democratic engagement."
   },
   {
-    "id": "kar-25-2",
+    "id": "karur-27-2",
     "featured": true,
-    "category": "Business",
-    "date": "April 25, 2026",
-    "title": "Gold Merchants' Association Influences Karur Results",
-    "summary": "Organized jewelry sector delivers strategic voting block supporting candidates committed to MSME growth and export incentives."
+    "category": "Election",
+    "date": "April 27, 2026",
+    "title": "Karur Constituency Tops Tamil Nadu with 93.41% Turnout",
+    "summary": "Karur constituency achieved 93.41% polling, the highest in Tamil Nadu, the same area that witnessed Vijay's stampede in September 2025."
   },
   {
-    "id": "kar-25-3",
-    "featured": true,
+    "id": "karur-27-3",
     "category": "Politics",
-    "date": "April 25, 2026",
-    "title": "Youth Leadership Challenges Senior Candidates in Karur",
-    "summary": "Younger candidates with business backgrounds surprisingly lead in early counts, signalling generational shift in voter preferences."
+    "date": "April 27, 2026",
+    "title": "IT Department Raids on Senthil Balaji Associates During Elections",
+    "summary": "Income Tax Department conducted searches on premises of state minister Senthil Balaji's associates in Karur during election period."
   },
   {
-    "id": "kar-25-4",
-    "featured": true,
-    "category": "Civic",
-    "date": "April 25, 2026",
-    "title": "Karur's Progressive Voters Demand Inclusive Development",
-    "summary": "Social welfare and equitable development emerge as priority issues, influencing results in urban constituencies."
+    "id": "karur-27-4",
+    "category": "Crime",
+    "date": "April 27, 2026",
+    "title": "Seven Injured in Property Clash at Vennaimalai",
+    "summary": "Seven people sustained injuries in a violent property dispute at Vennaimalai. Police intervened and brought situation under control."
+  },
+  {
+    "id": "karur-27-5",
+    "category": "Election",
+    "date": "April 27, 2026",
+    "title": "EVMs Stored at Karur Counting Centre Under Heavy Security",
+    "summary": "Electronic voting machines secured at Karur counting centre with multiple layers of security for vote counting process."
+  },
+  {
+    "id": "karur-27-6",
+    "category": "Tender",
+    "date": "April 27, 2026",
+    "title": "Hydraulic Equipment Repair Tender Notice Closing April 27",
+    "summary": "Public tender for repair of hydraulic equipment closing on April 27 as per government procurement procedures."
+  },
+  {
+    "id": "karur-27-7",
+    "category": "Weather",
+    "date": "April 27, 2026",
+    "title": "Heavy Rainfall Expected Later This Week to Relieve Heat",
+    "summary": "IMD forecasts heavy rainfall in coming days bringing welcome relief from the intense heatwave affecting Karur region."
+  },
+  {
+    "id": "karur-27-8",
+    "category": "Election",
+    "date": "April 27, 2026",
+    "title": "Kongu Belt Records 85% Average Turnout; Karur Leads State",
+    "summary": "Kongu region recorded over 85% average voter turnout across all districts, with Karur topping Tamil Nadu at 92.65%."
   }
 ]
