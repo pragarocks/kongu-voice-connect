@@ -1,34 +1,53 @@
 [
   {
-    "id": "nam-25-1",
+    "id": "namakkal-27-1",
     "featured": true,
-    "category": "Election",
-    "date": "April 25, 2026",
-    "title": "Namakkal Poultry Belt Records 68% Voting; Close Results Anticipated",
-    "summary": "Agricultural district with poultry industry shows strong participation. Early trends indicate tight three-way contest in multiple constituencies."
+    "category": "Labour",
+    "date": "April 27, 2026",
+    "title": "Nearly 100 Migrant Workers Escape Namakkal Textile Factory",
+    "summary": "Approximately 100 workers from Jharkhand fled a textile factory alleging regular beatings, confinement, and non-payment of wages."
   },
   {
-    "id": "nam-25-2",
+    "id": "namakkal-27-2",
     "featured": true,
-    "category": "Agriculture",
-    "date": "April 25, 2026",
-    "title": "Poultry Farmers' Votes Drive New Political Alignment",
-    "summary": "Organized farming sector delivers unified vote based on industry-specific manifesto promises from competing parties."
+    "category": "Labour",
+    "date": "April 27, 2026",
+    "title": "Escaped Workers Allege Beatings and Unlawful Confinement",
+    "summary": "Migrant workers reported being slapped, locked inside, and threatened not to leave. Jharkhand CM Soren intervened after reports surfaced."
   },
   {
-    "id": "nam-25-3",
-    "featured": true,
+    "id": "namakkal-27-3",
+    "category": "Law & Order",
+    "date": "April 27, 2026",
+    "title": "Madras High Court Orders Education Loan Disbursement for MBBS Student",
+    "summary": "Court ordered Tamil Nadu government to disburse ₹30 lakh education loan to a Namakkal MBBS student studying in the Philippines."
+  },
+  {
+    "id": "namakkal-27-4",
     "category": "Politics",
-    "date": "April 25, 2026",
-    "title": "DMK-ADMK Split Redivides Namakkal Constituencies",
-    "summary": "Major party schism reverberates through rural Namakkal with candidate cross-overs influencing voter preferences significantly."
+    "date": "April 27, 2026",
+    "title": "AIADMK Internal Conflict: Former MLA Protests Against Party Leadership",
+    "summary": "Former MLA K.P.P. Baskar staged protest against ex-Minister P. Thangamani over denial of party ticket for election."
   },
   {
-    "id": "nam-25-4",
-    "featured": true,
-    "category": "Civic",
-    "date": "April 25, 2026",
-    "title": "Women's Groups Achieve Record 76% Voting Participation",
-    "summary": "Namakkal women voters exceed national averages, with self-help groups mobilizing unprecedented participation across villages."
+    "id": "namakkal-27-5",
+    "category": "Election",
+    "date": "April 27, 2026",
+    "title": "Namakkal District Records Over 90% Voter Turnout",
+    "summary": "Namakkal district exceeded 90% polling percentage, demonstrating strong democratic participation across all constituencies."
+  },
+  {
+    "id": "namakkal-27-6",
+    "category": "Weather",
+    "date": "April 27, 2026",
+    "title": "Moderate to Heavy Rain Forecast for April 30 to May 2",
+    "summary": "IMD predicts moderate to heavy rainfall in Namakkal from April 30 to May 2, bringing relief from ongoing heatwave."
+  },
+  {
+    "id": "namakkal-27-7",
+    "category": "Election",
+    "date": "April 27, 2026",
+    "title": "EVMs Secured in Strong Rooms with Multi-Layer Guard Deployment",
+    "summary": "Election Commission implemented stringent security with electronic voting machines placed in strong rooms under round-the-clock armed guards."
   }
 ]
