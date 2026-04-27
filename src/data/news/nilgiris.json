@@ -1,34 +1,74 @@
 [
   {
-    "id": "nil-25-1",
+    "id": "nilgiris-27-1",
     "featured": true,
-    "category": "Election",
-    "date": "April 25, 2026",
-    "title": "Nilgiris Hill District Celebrates 68% Tribal Participation",
-    "summary": "Remote villages in Nilgiris achieve remarkable turnout with special polling stations in tribal settlements. Election commission hails civic participation."
+    "category": "Disaster",
+    "date": "April 27, 2026",
+    "title": "Parsons Valley Forest Fire Rages Since April 15: Thousands of Hectares Burnt",
+    "summary": "Devastating forest fire in Parsons Valley continues to burn since April 15, consuming thousands of hectares across the mountain region."
   },
   {
-    "id": "nil-25-2",
+    "id": "nilgiris-27-2",
     "featured": true,
-    "category": "Civic",
-    "date": "April 25, 2026",
-    "title": "Tribal Communities Vote in Record Numbers",
-    "summary": "Special initiatives to include remote tribal settlements result in 68% participation, highest in district history."
+    "category": "Disaster",
+    "date": "April 27, 2026",
+    "title": "IAF Helicopters Grounded: High Winds Halt Aerial Firefighting",
+    "summary": "Strong wind conditions have forced Indian Air Force helicopters to suspend aerial firefighting operations in the Nilgiris fire zone."
   },
   {
-    "id": "nil-25-3",
-    "featured": true,
-    "category": "Politics",
-    "date": "April 25, 2026",
-    "title": "Environmental Issues Drive Nilgiris Voting Patterns",
-    "summary": "Tribal voters prioritize environmental protection and forest conservation policies, with eco-friendly candidates showing strong leads."
+    "id": "nilgiris-27-3",
+    "category": "Disaster",
+    "date": "April 27, 2026",
+    "title": "Over 400 Personnel Deployed from Five Districts to Fight Fire",
+    "summary": "Multi-district firefighting task force with 400+ personnel mobilized to combat the Parsons Valley blaze using ground operations."
   },
   {
-    "id": "nil-25-4",
-    "featured": true,
+    "id": "nilgiris-27-4",
+    "category": "Wildlife",
+    "date": "April 27, 2026",
+    "title": "Elephant Attack Claims Youth in Gudalur's O-Valley Area",
+    "summary": "A young man was fatally attacked by a wild elephant in the O-Valley area of Gudalur in a tragic human-wildlife conflict incident."
+  },
+  {
+    "id": "nilgiris-27-5",
+    "category": "Protests",
+    "date": "April 27, 2026",
+    "title": "Six Forest Staff Injured During Violent Elephant Attack Protest",
+    "summary": "Six temporary forest workers sustained injuries when protests over the elephant-related death turned violent in Gudalur."
+  },
+  {
+    "id": "nilgiris-27-6",
+    "category": "Wildlife",
+    "date": "April 27, 2026",
+    "title": "Nilgiri Tahr Survey Completed: Third Synchronized Count Wrapped Up",
+    "summary": "Third synchronized census of Nilgiri Tahr mountain ungulates concluded using the innovative 'Varudai' mobile app for population analysis."
+  },
+  {
+    "id": "nilgiris-27-7",
+    "category": "Technology",
+    "date": "April 27, 2026",
+    "title": "New 'Varudai' Mobile App Revolutionizes Tahr Population Tracking",
+    "summary": "Wildlife researchers deployed cutting-edge 'Varudai' mobile application to digitally track and analyze Nilgiri Tahr population data."
+  },
+  {
+    "id": "nilgiris-27-8",
     "category": "Environment",
-    "date": "April 25, 2026",
-    "title": "Forest Conservation Emerges as Key Election Issue",
-    "summary": "Nilgiris voters give priority to biodiversity protection and tribal land rights over traditional economic development promises."
+    "date": "April 27, 2026",
+    "title": "Madras High Court Maintains Pykara Boating Ban Pending Water Tests",
+    "summary": "Madras High Court refused to lift boating restrictions on Pykara Lake, pending completion of soil and water quality test reports."
+  },
+  {
+    "id": "nilgiris-27-9",
+    "category": "Tourism",
+    "date": "April 27, 2026",
+    "title": "Forest Department Closes Tourist Attractions Due to Fire and Heat",
+    "summary": "Forest Department shut down popular tourist destinations in Nilgiris as precaution during forest fire and peak summer season."
+  },
+  {
+    "id": "nilgiris-27-10",
+    "category": "Weather",
+    "date": "April 27, 2026",
+    "title": "Thunderstorm Warning: Heavy Rain and Gusty Winds from April 30 to May 2",
+    "summary": "IMD warns of moderate to heavy rainfall with gusty winds expected in Nilgiris from April 30 through May 2."
   }
 ]
