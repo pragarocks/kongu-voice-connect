@@ -1,34 +1,74 @@
 [
   {
-    "id": "erd-25-1",
+    "id": "erode-27-1",
     "featured": true,
-    "category": "Election",
-    "date": "April 25, 2026",
-    "title": "Erode Records Strong 71% Turnout; Independent Surge Shocks Parties",
-    "summary": "Agricultural district shows record participation. Independent candidates leading in early counts across three constituencies, challenging traditional party dominance."
+    "category": "Accident",
+    "date": "April 27, 2026",
+    "title": "Mini Lift Collapse Claims Two Lives at Construction Site",
+    "summary": "A 44-year-old mason and a 55-year-old woman worker died when a mini lift collapsed at a construction site in Erode. Investigation underway."
   },
   {
-    "id": "erd-25-2",
+    "id": "erode-27-2",
     "featured": true,
-    "category": "Politics",
-    "date": "April 25, 2026",
-    "title": "Farmer-Backed Independent Wins Big in Perundurai",
-    "summary": "Candidate backed by agricultural unions leads significantly in early tallies, indicating strong rural voter preference for new leadership."
+    "category": "Accident",
+    "date": "April 27, 2026",
+    "title": "Two Class 12 Students Killed in Truck Collision Near Anthiyur",
+    "summary": "Two Class 12 students died and one remains critical after a truck hit their two-wheeler near Anthiyur in a tragic road accident."
   },
   {
-    "id": "erd-25-3",
-    "featured": true,
-    "category": "Election",
-    "date": "April 25, 2026",
-    "title": "Counting Progresses Smoothly; Minimal Complaints Reported",
-    "summary": "Erode district administration reports peaceful counting process with strong security deployment and transparent verification procedures."
+    "id": "erode-27-3",
+    "category": "Community",
+    "date": "April 27, 2026",
+    "title": "Annavaasal Community Kitchen Completes 1000 Days of Service",
+    "summary": "Community kitchen reaches historic 1,000-day milestone of feeding the hungry, having served over 2.5 lakh meals to underprivileged."
   },
   {
-    "id": "erd-25-4",
-    "featured": true,
+    "id": "erode-27-4",
     "category": "Agriculture",
-    "date": "April 25, 2026",
-    "title": "Agricultural Issues Dominate Campaign Results",
-    "summary": "Water management and irrigation concerns proved decisive in voter preferences across rural constituencies."
+    "date": "April 27, 2026",
+    "title": "Farmers Protest Over Low Dairy Procurement Prices",
+    "summary": "Dairy farmers organized a protest by pouring milk on roads demanding higher procurement prices from government-run cooperative agencies."
+  },
+  {
+    "id": "erode-27-5",
+    "category": "Election",
+    "date": "April 27, 2026",
+    "title": "Erode District Crosses 90% Voter Turnout Milestone",
+    "summary": "Erode district achieved over 90% polling percentage, demonstrating strong democratic participation across all constituencies."
+  },
+  {
+    "id": "erode-27-6",
+    "category": "Politics",
+    "date": "April 27, 2026",
+    "title": "MNM Supports DMK-Congress Alliance in Erode East Bypoll",
+    "summary": "Kamal Haasan's Makkal Needhi Maiam extends support to DMK-Congress coalition candidate for Erode East assembly bypoll."
+  },
+  {
+    "id": "erode-27-7",
+    "category": "Election",
+    "date": "April 27, 2026",
+    "title": "Remote Chennampatti Forest Villages Record 80% Plus Turnout",
+    "summary": "Hill villages in Chennampatti forest region showed exceptional civic participation with turnout exceeding 80% despite remote location."
+  },
+  {
+    "id": "erode-27-8",
+    "category": "Politics",
+    "date": "April 27, 2026",
+    "title": "AIADMK Candidate Holds Prayer Session Before Campaigning",
+    "summary": "AIADMK candidate Prabhu conducted prayers at Kondathukali Amman temple before launching intensive roadshows across Erode."
+  },
+  {
+    "id": "erode-27-9",
+    "category": "Weather",
+    "date": "April 27, 2026",
+    "title": "Heatwave Persists; Moderate to Heavy Rain Expected from April 30",
+    "summary": "Erode faces extreme temperatures currently with IMD forecasting moderate to heavy rainfall starting April 30 to provide relief."
+  },
+  {
+    "id": "erode-27-10",
+    "category": "Business",
+    "date": "April 27, 2026",
+    "title": "Anandhaas Sweet Chain Opens First Erode Outlet with 200+ Varieties",
+    "summary": "Famous Coimbatore confectionery brand Anandhaas inaugurated its first store in Erode featuring 200+ sweet varieties."
   }
 ]
