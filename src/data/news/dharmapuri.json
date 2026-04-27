@@ -1,34 +1,67 @@
 [
   {
-    "id": "dha-25-1",
-    "featured": true,
-    "category": "Election",
-    "date": "April 25, 2026",
-    "title": "Dharmapuri Agricultural District Votes 66%; Results Show Agrarian Focus",
-    "summary": "Farming-dominated district records strong turnout with agricultural issues dominating electoral outcome across constituencies."
-  },
-  {
-    "id": "dha-25-2",
+    "id": "dharmapuri-27-1",
     "featured": true,
     "category": "Agriculture",
-    "date": "April 25, 2026",
-    "title": "Farmers' Collective Delivers Bloc Vote in Dharmapuri",
-    "summary": "Organized agricultural groups mobilize strong support for candidates advocating minimum support prices and irrigation guarantees."
+    "date": "April 27, 2026",
+    "title": "Tomato Price Surge: ₹40-44 Per Kg, Expected to Hit ₹60",
+    "summary": "Tomato prices in Dharmapuri jumped from ₹18-20 to ₹40-44 per kg. Expected to reach ₹60/kg due to heatwave destroying crops in Palacode and Rayakottai."
   },
   {
-    "id": "dha-25-3",
+    "id": "dharmapuri-27-2",
     "featured": true,
+    "category": "Public Health",
+    "date": "April 27, 2026",
+    "title": "Rabid Dog Attack: 15 Persons Including Children Injured",
+    "summary": "Fifteen people including children sustained injuries from a rabid dog attack in the old Harijan colony of Dharmapuri."
+  },
+  {
+    "id": "dharmapuri-27-3",
+    "category": "Health",
+    "date": "April 27, 2026",
+    "title": "Health Camp Finally Held at Karapadi After Long Demand",
+    "summary": "Medical health camp was conducted at Karapadi following prolonged demands from residents for basic healthcare services."
+  },
+  {
+    "id": "dharmapuri-27-4",
+    "category": "Health",
+    "date": "April 27, 2026",
+    "title": "Anganwadi at Karapadi Remains Non-Functional",
+    "summary": "Despite health camp, the Anganwadi (nutrition and early learning centre) in Karapadi continues to remain non-operational."
+  },
+  {
+    "id": "dharmapuri-27-5",
+    "category": "Election",
+    "date": "April 27, 2026",
+    "title": "Dharmapuri Records 90.14% Turnout: Among Top Five TN Districts",
+    "summary": "Dharmapuri achieved 90.14% voter participation, ranking among the top five districts in Tamil Nadu for polling percentage."
+  },
+  {
+    "id": "dharmapuri-27-6",
     "category": "Politics",
-    "date": "April 25, 2026",
-    "title": "Mango Farmers' Issues Shape Dharmapuri Election",
-    "summary": "Horticulture sector demands for export facilitation and crop insurance strongly influence voter choices in southern constituencies."
+    "date": "April 27, 2026",
+    "title": "Former DMK MP's Temple Visit: Religious Shift in Political Career",
+    "summary": "S. Senthil Kumar, former DMK MP who once opposed Hindu rituals, visited temple after receiving Palacode assembly ticket."
   },
   {
-    "id": "dha-25-4",
-    "featured": true,
-    "category": "Civic",
-    "date": "April 25, 2026",
-    "title": "Rural Development Pledges Mobilize Dharmapuri Voters",
-    "summary": "Infrastructure and connectivity promises resonate strongly with rural populations driving results across farming constituencies."
+    "id": "dharmapuri-27-7",
+    "category": "Politics",
+    "date": "April 27, 2026",
+    "title": "PMK Candidate Sowmiya Anbumani to Contest Dharmapuri Assembly Seat",
+    "summary": "Pattali Makkal Katchi (PMK) nominated Sowmiya Anbumani as candidate for Dharmapuri assembly constituency in 2026 elections."
+  },
+  {
+    "id": "dharmapuri-27-8",
+    "category": "Governance",
+    "date": "April 27, 2026",
+    "title": "Echambadi Dam Delay: Villagers Threatened to Boycott Elections",
+    "summary": "Villagers affected by Echambadi dam project had threatened election boycott over prolonged delays in project implementation."
+  },
+  {
+    "id": "dharmapuri-27-9",
+    "category": "Weather",
+    "date": "April 27, 2026",
+    "title": "Heavy Rain Warning for May 1-2 with Gusty Winds",
+    "summary": "IMD warns of heavy rainfall with gusty winds expected in Dharmapuri on May 1-2, bringing relief from extreme heat."
   }
 ]
