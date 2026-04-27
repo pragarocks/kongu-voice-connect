@@ -1,34 +1,74 @@
 [
   {
-    "id": "sal-25-1",
+    "id": "salem-27-1",
     "featured": true,
     "category": "Election",
-    "date": "April 25, 2026",
-    "title": "Salem Results Show Photo Finish; Final Count Neck-and-Neck",
-    "summary": "Industrial district records 69% turnout. Three constituencies showing razor-thin victory margins, with final results expected only after detailed verification."
+    "date": "April 27, 2026",
+    "title": "Salem Records 90.13% Turnout: Highest in Kongu Region",
+    "summary": "Salem district achieved 90.13% voter participation, the highest in Kongu belt, with Veerapandi and Sankari crossing 90% individually."
   },
   {
-    "id": "sal-25-2",
+    "id": "salem-27-2",
     "featured": true,
+    "category": "Election",
+    "date": "April 27, 2026",
+    "title": "Counting Centre Bans Mobile Phones Inside Halls on May 4",
+    "summary": "Strict security protocols implemented for election counting with complete mobile phone ban inside counting halls on May 4."
+  },
+  {
+    "id": "salem-27-3",
     "category": "Politics",
-    "date": "April 25, 2026",
-    "title": "Salem City Delivers Surprising Results in Steel Belt",
-    "summary": "Steel industry workers' votes show unexpected pattern, breaking pre-election predictions and surprising political analysts."
+    "date": "April 27, 2026",
+    "title": "Annamalai Appeals to Christian and Muslim Voters in Salem",
+    "summary": "Former BJP state chief K. Annamalai appealed to Christian and Muslim communities citing concerns over 275% property tax hike in Salem corporation."
   },
   {
-    "id": "sal-25-3",
-    "featured": true,
-    "category": "Infrastructure",
-    "date": "April 25, 2026",
-    "title": "Water Project Promises Influence Salem Voting Patterns",
-    "summary": "€456-million water concession becomes key electoral issue with urban voters supporting infrastructure-focused candidates."
+    "id": "salem-27-4",
+    "category": "Tragedy",
+    "date": "April 27, 2026",
+    "title": "DMK Worker Dies on Election Duty; Mother Passes Away Next Day",
+    "summary": "A DMK party worker collapsed and died while performing election duties. His mother passed away the following day, compounding family tragedy."
   },
   {
-    "id": "sal-25-4",
-    "featured": true,
-    "category": "Civic",
-    "date": "April 25, 2026",
-    "title": "First-Time Voters Shape Salem's Electoral Outcome",
-    "summary": "Record participation from youth voters (18-25) demonstrates strong civic engagement and new voter consciousness in Salem district."
+    "id": "salem-27-5",
+    "category": "Crime",
+    "date": "April 27, 2026",
+    "title": "Woman Arrested for Killing Son and Burying Body in Areca Farm",
+    "summary": "Police arrested a woman from Vazhapadi Belur for allegedly murdering her son and hiding the body in an areca nut farm."
+  },
+  {
+    "id": "salem-27-6",
+    "category": "Crime",
+    "date": "April 27, 2026",
+    "title": "Decomposed Woman's Body Found in Suitcase in Salem District",
+    "summary": "Police discovered the remains of a woman's body packed in a suitcase within Salem district. Investigation into circumstances ongoing."
+  },
+  {
+    "id": "salem-27-7",
+    "category": "Accident",
+    "date": "April 27, 2026",
+    "title": "Two Schoolboys Killed in Truck-Bike Collision Near Anthiyur",
+    "summary": "Two young students died when a truck collided with their two-wheeler near Anthiyur in a fatal accident on district roads."
+  },
+  {
+    "id": "salem-27-8",
+    "category": "Weather",
+    "date": "April 27, 2026",
+    "title": "IMD Issues Heavy Rain Alert for May 1-2",
+    "summary": "India Meteorological Department warns of intense rainfall expected for May 1-2, bringing relief from extreme heat conditions."
+  },
+  {
+    "id": "salem-27-9",
+    "category": "Governance",
+    "date": "April 27, 2026",
+    "title": "Residents Protest 275% Property Tax Hike Without Matching Development",
+    "summary": "Salem corporation residents allege massive 275% property tax increase without corresponding improvements in civic infrastructure and services."
+  },
+  {
+    "id": "salem-27-10",
+    "category": "Weather",
+    "date": "April 27, 2026",
+    "title": "Temperatures Soar Above 100°F Across Salem District",
+    "summary": "Salem district experiencing extreme heatwave conditions with temperatures consistently exceeding 100°F (37.8°C) daily."
   }
 ]
