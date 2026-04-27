@@ -1,34 +1,74 @@
 [
   {
-    "id": "tpr-25-1",
+    "id": "tiruppur-27-1",
     "featured": true,
+    "category": "Agriculture",
+    "date": "April 27, 2026",
+    "title": "Fake Onion Seeds Spell Disaster for Tiruppur Farmers",
+    "summary": "Hundreds of acres of small onion crops failed after farmers purchased substandard seeds from a private company. Farmers demanding compensation."
+  },
+  {
+    "id": "tiruppur-27-2",
+    "featured": true,
+    "category": "Disaster",
+    "date": "April 27, 2026",
+    "title": "Tiruppur Fire Crews Rush to Nilgiris Parsons Valley Blaze",
+    "summary": "Fire personnel from Tiruppur joined firefighting efforts to battle the Parsons Valley forest fire that has been raging since April 15."
+  },
+  {
+    "id": "tiruppur-27-3",
     "category": "Business",
-    "date": "April 25, 2026",
-    "title": "Tiruppur Textile Hub Celebrates Pro-Business Exit Polls",
-    "summary": "Knitwear and garment industry celebrates exit polls predicting business-friendly government. Stock indices surge 2.3% on optimism."
+    "date": "April 27, 2026",
+    "title": "Tiruppur Apparel Exports Rise 6.4% and 5.6% in Feb-March",
+    "summary": "Tiruppur apparel sector showed strong growth with exports rising 6.4% in February and 5.6% in March year-on-year despite global headwinds."
   },
   {
-    "id": "tpr-25-2",
-    "featured": true,
-    "category": "Election",
-    "date": "April 25, 2026",
-    "title": "67% Voter Turnout Recorded; Industry Leaders Vote in Significant Numbers",
-    "summary": "Strong participation from textile sector employees and management demonstrates unified business sector engagement with electoral process."
+    "id": "tiruppur-27-4",
+    "category": "Economy",
+    "date": "April 27, 2026",
+    "title": "US Tariffs Trigger 15% Order Drop in Textile Sector",
+    "summary": "Tiruppur textile industry faces significant challenges with 15% decline in export orders due to US inflation and rising tariff pressures."
   },
   {
-    "id": "tpr-25-3",
-    "featured": true,
-    "category": "Politics",
-    "date": "April 25, 2026",
-    "title": "Business-Friendly Candidates Lead in Tiruppur Constituencies",
-    "summary": "Pro-industry candidates show commanding leads in early counting trends across urban and industrial areas of Tiruppur district."
+    "id": "tiruppur-27-5",
+    "category": "Economy",
+    "date": "April 27, 2026",
+    "title": "Industry Seeks RBI Support to Reach ₹1 Lakh Crore Export Goal",
+    "summary": "Tiruppur textile exporters appeal to Reserve Bank of India to ease credit and funding constraints to achieve ₹1 lakh crore export target."
   },
   {
-    "id": "tpr-25-4",
-    "featured": true,
-    "category": "Business",
-    "date": "April 25, 2026",
-    "title": "Garment Exporters Prepare for Trade Expansion",
-    "summary": "Industry associations draft expansion proposals based on election outcome predictions, targeting 25% growth in next fiscal year."
+    "id": "tiruppur-27-6",
+    "category": "Law & Order",
+    "date": "April 27, 2026",
+    "title": "Bar Council Elections: Counting Completed in Tiruppur",
+    "summary": "Bar Council elections were held in Tiruppur with counting process now complete, determining new council leadership for legal fraternity."
+  },
+  {
+    "id": "tiruppur-27-7",
+    "category": "Transport",
+    "date": "April 27, 2026",
+    "title": "TNSTC Runs Special Post-Election Buses from Trichy Region",
+    "summary": "TNSTC operated special buses from Trichy region to handle increased passenger movement following election day activities."
+  },
+  {
+    "id": "tiruppur-27-8",
+    "category": "Culture",
+    "date": "April 27, 2026",
+    "title": "Legendary Photographer Raghu Rai Passes Away at Age 83",
+    "summary": "Renowned photographer Raghu Rai, known for capturing India's defining moments, passed away at the age of 83."
+  },
+  {
+    "id": "tiruppur-27-9",
+    "category": "Culture",
+    "date": "April 27, 2026",
+    "title": "Madurai Chithirai Festival Day 8: Meenakshi Pattabhishegam Ceremony",
+    "summary": "Madurai's annual Chithirai festival reached its eighth day featuring the significant Meenakshi Pattabhishegam procession and rituals."
+  },
+  {
+    "id": "tiruppur-27-10",
+    "category": "Weather",
+    "date": "April 27, 2026",
+    "title": "Heavy Rainfall Expected from April 30 to Relieve Heatwave",
+    "summary": "IMD forecasts heavy rainfall likely from April 30, bringing much-needed relief from the ongoing heatwave across Tiruppur."
   }
 ]
