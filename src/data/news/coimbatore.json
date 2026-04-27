@@ -1,34 +1,74 @@
 [
   {
-    "id": "cbe-25-1",
+    "id": "cbe-27-1",
     "featured": true,
-    "category": "Election",
-    "date": "April 25, 2026",
-    "title": "Coimbatore Reports 73% Turnout; Early Leads Show Tight Race",
-    "summary": "The industrial city recorded its highest voter participation in 24 years. Early counting trends show intense competition between NDA and ADMK in most constituencies."
+    "category": "Crime",
+    "date": "April 27, 2026",
+    "title": "Burglary at Rathinapuri: 10 Sovereigns of Gold Stolen",
+    "summary": "Unknown thieves broke into a residential property and stole 10 sovereigns of gold and cash. Police investigating the high-profile burglary case."
   },
   {
-    "id": "cbe-25-2",
+    "id": "cbe-27-2",
     "featured": true,
-    "category": "Politics",
-    "date": "April 25, 2026",
-    "title": "Textile Magnates' Preferred Candidates Lead in Initial Counts",
-    "summary": "Business-friendly candidates from industrial elite show strong performance in Coimbatore city limits as counting progresses."
+    "category": "Law & Order",
+    "date": "April 27, 2026",
+    "title": "Five Convicted for Job Fraud: 14 Years Imprisonment",
+    "summary": "Five perpetrators sentenced to 14 years rigorous imprisonment for cheating job seekers with fake foreign employment offers across multiple states."
   },
   {
-    "id": "cbe-25-3",
-    "featured": true,
-    "category": "Election",
-    "date": "April 25, 2026",
-    "title": "Women Voters' Participation Crosses 75%",
-    "summary": "Record female voter turnout demonstrates strong political engagement in the industrial hub, exceeding national average significantly."
+    "id": "cbe-27-3",
+    "category": "Crime",
+    "date": "April 27, 2026",
+    "title": "Bengaluru Dacoity Link: Six Coimbatore Residents Arrested",
+    "summary": "Six residents arrested for involvement in a Bengaluru robbery. Police seized bikes, phones, and laptops worth ₹3 lakh from the accused."
   },
   {
-    "id": "cbe-25-4",
-    "featured": true,
+    "id": "cbe-27-4",
+    "category": "Sports",
+    "date": "April 27, 2026",
+    "title": "State-Level Junior Hockey Tournament Kicks Off Tomorrow",
+    "summary": "U-19 junior hockey championship beginning in Coimbatore and Udumalpet with 700 players from 35 teams competing for state honors."
+  },
+  {
+    "id": "cbe-27-5",
+    "category": "Sports",
+    "date": "April 27, 2026",
+    "title": "Indian Women's Badminton Team Beats Ukraine at Uber Cup",
+    "summary": "Indian women's team secures a crucial victory against Ukraine to remain in the Uber Cup tournament with strong playoff chances."
+  },
+  {
+    "id": "cbe-27-6",
     "category": "Business",
-    "date": "April 25, 2026",
-    "title": "Stock Market Reacts Positively to Exit Polls",
-    "summary": "Coimbatore textile and manufacturing indices surge following exit polls suggesting business-friendly government formation."
+    "date": "April 27, 2026",
+    "title": "L&T Enters B2B Electronics Market with New Coimbatore Facility",
+    "summary": "Larsen & Toubro opens new facility in Coimbatore to tap growing B2B electronics market. Expected to create 500+ jobs in region."
+  },
+  {
+    "id": "cbe-27-7",
+    "category": "Entertainment",
+    "date": "April 27, 2026",
+    "title": "Actor Dhanush Draws Massive Crowds for Film 'Kara' Promotion",
+    "summary": "Superstar Dhanush visited Coimbatore to promote his latest film 'Kara', attracting thousands of fans and media attention."
+  },
+  {
+    "id": "cbe-27-8",
+    "category": "Transport",
+    "date": "April 27, 2026",
+    "title": "TNSTC Operates 70 Extra Buses to Chennai Post-Poll",
+    "summary": "TNSTC added 70 special buses from Coimbatore to Chennai and 898 buses to other destinations to handle post-election travel surge."
+  },
+  {
+    "id": "cbe-27-9",
+    "category": "Weather",
+    "date": "April 27, 2026",
+    "title": "IMD Issues Heavy Rainfall Warning from May 1",
+    "summary": "India Meteorological Department warns of heavy rainfall expected from Friday (May 1) for at least three days, bringing relief from heatwave."
+  },
+  {
+    "id": "cbe-27-10",
+    "category": "Politics",
+    "date": "April 27, 2026",
+    "title": "BJP's Annamalai Predicts DMK Defeat in Coimbatore",
+    "summary": "BJP leader K. Annamalai claimed DMK will face defeat in Coimbatore and criticised state minister Senthilbalaji's schemes."
   }
 ]
