@@ -1,53 +1,352 @@
 [
   {
-    "id": "namakkal-27-1",
-    "featured": true,
-    "category": "Labour",
-    "date": "April 27, 2026",
-    "title": "Nearly 100 Migrant Workers Escape Namakkal Textile Factory",
-    "summary": "Approximately 100 workers from Jharkhand fled a textile factory alleging regular beatings, confinement, and non-payment of wages."
+    "id": "namakkal-28-1",
+    "category": "Election",
+    "date": "April 28, 2026",
+    "title": "Namakkal sees high voter turnout",
+    "summary": "Namakkal recorded one of Tamil Nadu’s highest early voting percentages during assembly elections, reflecting strong civic participation across rural and urban polling stations."
   },
   {
-    "id": "namakkal-27-2",
-    "featured": true,
-    "category": "Labour",
-    "date": "April 27, 2026",
-    "title": "Escaped Workers Allege Beatings and Unlawful Confinement",
-    "summary": "Migrant workers reported being slapped, locked inside, and threatened not to leave. Jharkhand CM Soren intervened after reports surfaced."
-  },
-  {
-    "id": "namakkal-27-3",
-    "category": "Law & Order",
-    "date": "April 27, 2026",
-    "title": "Madras High Court Orders Education Loan Disbursement for MBBS Student",
-    "summary": "Court ordered Tamil Nadu government to disburse ₹30 lakh education loan to a Namakkal MBBS student studying in the Philippines."
-  },
-  {
-    "id": "namakkal-27-4",
+    "id": "namakkal-28-2",
     "category": "Politics",
-    "date": "April 27, 2026",
-    "title": "AIADMK Internal Conflict: Former MLA Protests Against Party Leadership",
-    "summary": "Former MLA K.P.P. Baskar staged protest against ex-Minister P. Thangamani over denial of party ticket for election."
+    "date": "April 28, 2026",
+    "title": "Campaign activity slows post polling",
+    "summary": "Political campaign activity in Namakkal has reduced significantly following polling completion, with parties shifting focus to counting preparations and result monitoring strategies."
   },
   {
-    "id": "namakkal-27-5",
-    "category": "Election",
-    "date": "April 27, 2026",
-    "title": "Namakkal District Records Over 90% Voter Turnout",
-    "summary": "Namakkal district exceeded 90% polling percentage, demonstrating strong democratic participation across all constituencies."
+    "id": "namakkal-28-3",
+    "category": "Civic",
+    "date": "April 28, 2026",
+    "title": "Power maintenance announced in rural blocks",
+    "summary": "Scheduled power outages announced across select Namakkal rural blocks for maintenance work, with electricity board urging residents to plan usage accordingly."
   },
   {
-    "id": "namakkal-27-6",
+    "id": "namakkal-28-4",
+    "category": "Transport",
+    "date": "April 28, 2026",
+    "title": "Extra buses withdrawn after polling",
+    "summary": "Temporary additional buses deployed for election day transportation in Namakkal have been withdrawn, restoring regular transport schedules across district routes."
+  },
+  {
+    "id": "namakkal-28-5",
+    "category": "Market",
+    "date": "April 28, 2026",
+    "title": "Silver prices remain stable locally",
+    "summary": "Silver prices in Namakkal remained unchanged compared to previous day, maintaining steady trading activity in local jewelry and bullion markets."
+  },
+  {
+    "id": "namakkal-28-6",
+    "category": "Agriculture",
+    "date": "April 28, 2026",
+    "title": "Poultry supply stabilizes post elections",
+    "summary": "Namakkal poultry sector reports gradual normalization of workforce availability after election disruptions, helping resume production and export activities."
+  },
+  {
+    "id": "namakkal-28-7",
     "category": "Weather",
-    "date": "April 27, 2026",
-    "title": "Moderate to Heavy Rain Forecast for April 30 to May 2",
-    "summary": "IMD predicts moderate to heavy rainfall in Namakkal from April 30 to May 2, bringing relief from ongoing heatwave."
+    "date": "April 28, 2026",
+    "title": "Heatwave conditions persist",
+    "summary": "High daytime temperatures continue across Namakkal district, with health officials advising hydration and limiting outdoor activity during peak afternoon hours."
   },
   {
-    "id": "namakkal-27-7",
-    "category": "Election",
-    "date": "April 27, 2026",
-    "title": "EVMs Secured in Strong Rooms with Multi-Layer Guard Deployment",
-    "summary": "Election Commission implemented stringent security with electronic voting machines placed in strong rooms under round-the-clock armed guards."
+    "id": "namakkal-28-8",
+    "category": "Health",
+    "date": "April 28, 2026",
+    "title": "Health department issues heat advisory",
+    "summary": "District health officials issued advisories urging precautions against heat-related illnesses, especially for elderly, children, and outdoor workers in Namakkal."
+  },
+  {
+    "id": "namakkal-28-9",
+    "category": "Civic",
+    "date": "April 28, 2026",
+    "title": "Water supply interruptions reported",
+    "summary": "Temporary water supply disruptions reported in parts of Namakkal due to pipeline repair works, with authorities promising restoration within scheduled timelines."
+  },
+  {
+    "id": "namakkal-28-10",
+    "category": "Infrastructure",
+    "date": "April 28, 2026",
+    "title": "Road repair works begin post elections",
+    "summary": "Local authorities resumed pending road repair projects across Namakkal following completion of election activities, aiming to improve connectivity in key areas."
+  },
+  {
+    "id": "namakkal-28-11",
+    "category": "Security",
+    "date": "April 28, 2026",
+    "title": "Police maintain alert after polls",
+    "summary": "Police continue heightened security deployment across Namakkal to prevent post-election disturbances and ensure public safety during counting period preparations."
+  },
+  {
+    "id": "namakkal-28-12",
+    "category": "Public",
+    "date": "April 28, 2026",
+    "title": "Public gatherings decline post polling",
+    "summary": "Crowds at public spaces and political gatherings reduced significantly after polling, with normal daily activities resuming across Namakkal district."
+  },
+  {
+    "id": "namakkal-28-13",
+    "category": "Education",
+    "date": "April 28, 2026",
+    "title": "Schools reopen after election break",
+    "summary": "Educational institutions in Namakkal resumed regular classes after being temporarily closed or repurposed as polling stations during elections."
+  },
+  {
+    "id": "namakkal-28-14",
+    "category": "Transport",
+    "date": "April 28, 2026",
+    "title": "Traffic normalizes across town",
+    "summary": "Traffic flow across Namakkal returned to normal levels after election day restrictions and diversions were lifted by local authorities."
+  },
+  {
+    "id": "namakkal-28-15",
+    "category": "Economy",
+    "date": "April 28, 2026",
+    "title": "Local businesses reopen fully",
+    "summary": "Retail shops and small businesses resumed full operations following polling holiday, with increased customer footfall reported in urban Namakkal areas."
+  },
+  {
+    "id": "namakkal-28-16",
+    "category": "Agriculture",
+    "date": "April 28, 2026",
+    "title": "Farm activity resumes post election",
+    "summary": "Farmers in Namakkal returned to agricultural activities after participating in elections, focusing on irrigation and crop maintenance tasks."
+  },
+  {
+    "id": "namakkal-28-17",
+    "category": "Civic",
+    "date": "April 28, 2026",
+    "title": "Sanitation drives restart",
+    "summary": "Municipal sanitation teams resumed routine cleaning drives in Namakkal after election duties, focusing on markets and residential areas."
+  },
+  {
+    "id": "namakkal-28-18",
+    "category": "Business",
+    "date": "April 28, 2026",
+    "title": "Poultry export shipments resume",
+    "summary": "Delayed poultry export consignments from Namakkal are gradually resuming as workforce availability improves following election-related disruptions."
+  },
+  {
+    "id": "namakkal-28-19",
+    "category": "Security",
+    "date": "April 28, 2026",
+    "title": "Checkposts remain active",
+    "summary": "Election-related checkposts continue functioning across Namakkal to monitor movement of goods and prevent illegal activities during counting period."
+  },
+  {
+    "id": "namakkal-28-20",
+    "category": "Public",
+    "date": "April 28, 2026",
+    "title": "Voter awareness praised locally",
+    "summary": "Officials praised Namakkal residents for high voter turnout and peaceful polling, highlighting strong public engagement in democratic processes."
+  },
+  {
+    "id": "namakkal-28-21",
+    "category": "Weather",
+    "date": "April 28, 2026",
+    "title": "Dry weather forecast continues",
+    "summary": "Meteorological reports indicate continued dry and hot weather conditions in Namakkal with no immediate rainfall expected in coming days."
+  },
+  {
+    "id": "namakkal-28-22",
+    "category": "Health",
+    "date": "April 28, 2026",
+    "title": "Hospitals report heat cases",
+    "summary": "Local hospitals reported minor increase in heat-related illnesses, including dehydration and fatigue, amid rising temperatures across Namakkal district."
+  },
+  {
+    "id": "namakkal-28-23",
+    "category": "Transport",
+    "date": "April 28, 2026",
+    "title": "Bus services run regular schedules",
+    "summary": "State transport services resumed normal frequency across Namakkal routes after temporary election arrangements concluded successfully."
+  },
+  {
+    "id": "namakkal-28-24",
+    "category": "Infrastructure",
+    "date": "April 28, 2026",
+    "title": "Minor bridge repair underway",
+    "summary": "Repair works initiated on a small bridge near rural Namakkal to improve safety, with temporary traffic diversions implemented."
+  },
+  {
+    "id": "namakkal-28-25",
+    "category": "Environment",
+    "date": "April 28, 2026",
+    "title": "Water conservation appeal issued",
+    "summary": "Authorities urged residents to conserve water amid rising summer demand, highlighting need for efficient usage across Namakkal households."
+  },
+  {
+    "id": "namakkal-28-26",
+    "category": "Lifestyle",
+    "date": "April 28, 2026",
+    "title": "Summer sales increase in markets",
+    "summary": "Retail outlets reported increased sales of cooling appliances and beverages as temperatures rise across Namakkal district."
+  },
+  {
+    "id": "namakkal-28-27",
+    "category": "Public",
+    "date": "April 28, 2026",
+    "title": "Residents resume daily routines",
+    "summary": "Daily routines resumed across Namakkal after election activities concluded, with normal movement observed in markets and workplaces."
+  },
+  {
+    "id": "namakkal-28-28",
+    "category": "Security",
+    "date": "April 28, 2026",
+    "title": "Police patrol intensified at night",
+    "summary": "Night patrol intensified across Namakkal to ensure law and order stability during post-election period and safeguard public peace."
+  },
+  {
+    "id": "namakkal-28-29",
+    "category": "Business",
+    "date": "April 28, 2026",
+    "title": "Small vendors report steady sales",
+    "summary": "Street vendors in Namakkal reported stable business following election day slowdown, with customers returning to regular purchasing patterns."
+  },
+  {
+    "id": "namakkal-28-30",
+    "category": "Agriculture",
+    "date": "April 28, 2026",
+    "title": "Irrigation checks conducted",
+    "summary": "Agriculture officials conducted inspections of irrigation systems in Namakkal to ensure adequate water supply for crops during summer season."
+  },
+  {
+    "id": "namakkal-28-31",
+    "category": "Civic",
+    "date": "April 28, 2026",
+    "title": "Waste clearance improves",
+    "summary": "Municipal teams cleared accumulated waste near polling booths and public areas, restoring cleanliness in Namakkal after election usage."
+  },
+  {
+    "id": "namakkal-28-32",
+    "category": "Transport",
+    "date": "April 28, 2026",
+    "title": "Auto services normalize",
+    "summary": "Auto-rickshaw services in Namakkal returned to regular availability after increased demand during election day transportation needs."
+  },
+  {
+    "id": "namakkal-28-33",
+    "category": "Education",
+    "date": "April 28, 2026",
+    "title": "Exam schedules unaffected",
+    "summary": "Schools confirmed no disruption to upcoming examinations in Namakkal despite election-related closures earlier this week."
+  },
+  {
+    "id": "namakkal-28-34",
+    "category": "Public",
+    "date": "April 28, 2026",
+    "title": "Polling staff return to departments",
+    "summary": "Government staff deployed for election duties in Namakkal resumed regular administrative work after completion of polling responsibilities."
+  },
+  {
+    "id": "namakkal-28-35",
+    "category": "Health",
+    "date": "April 28, 2026",
+    "title": "Medical camps planned",
+    "summary": "Health department planning summer medical camps across Namakkal to address seasonal illnesses and promote preventive healthcare awareness."
+  },
+  {
+    "id": "namakkal-28-36",
+    "category": "Infrastructure",
+    "date": "April 28, 2026",
+    "title": "Streetlight repairs initiated",
+    "summary": "Maintenance teams initiated repairs of faulty streetlights across Namakkal to improve nighttime visibility and safety in residential areas."
+  },
+  {
+    "id": "namakkal-28-37",
+    "category": "Environment",
+    "date": "April 28, 2026",
+    "title": "Tree planting planned",
+    "summary": "Local bodies announced plans for tree plantation drives to combat rising temperatures and improve environmental conditions in Namakkal."
+  },
+  {
+    "id": "namakkal-28-38",
+    "category": "Market",
+    "date": "April 28, 2026",
+    "title": "Vegetable prices fluctuate",
+    "summary": "Vegetable prices in Namakkal markets showed slight fluctuations due to supply variations following election disruptions and transport adjustments."
+  },
+  {
+    "id": "namakkal-28-39",
+    "category": "Economy",
+    "date": "April 28, 2026",
+    "title": "Local trade activity steady",
+    "summary": "Trade activity across Namakkal remained stable with gradual normalization after election-related slowdown in commercial operations."
+  },
+  {
+    "id": "namakkal-28-40",
+    "category": "Security",
+    "date": "April 28, 2026",
+    "title": "Election materials secured",
+    "summary": "Authorities secured EVMs and polling materials in strong rooms across Namakkal under tight security ahead of vote counting."
+  },
+  {
+    "id": "namakkal-28-41",
+    "category": "Public",
+    "date": "April 28, 2026",
+    "title": "Community meetings resume",
+    "summary": "Local community meetings and social gatherings resumed across Namakkal following completion of election-related restrictions."
+  },
+  {
+    "id": "namakkal-28-42",
+    "category": "Lifestyle",
+    "date": "April 28, 2026",
+    "title": "Outdoor activity declines in heat",
+    "summary": "Residents reduced outdoor activities during peak hours due to intense heat conditions affecting Namakkal district."
+  },
+  {
+    "id": "namakkal-28-43",
+    "category": "Tourism",
+    "date": "April 28, 2026",
+    "title": "Local tourist spots see visitors",
+    "summary": "Nearby hill areas and tourist spots reported moderate visitor turnout as residents seek relief from heat in Namakkal region."
+  },
+  {
+    "id": "namakkal-28-44",
+    "category": "Civic",
+    "date": "April 28, 2026",
+    "title": "Drain cleaning operations begin",
+    "summary": "Pre-monsoon drain cleaning operations started in Namakkal to prevent waterlogging issues during upcoming rainy season."
+  },
+  {
+    "id": "namakkal-28-45",
+    "category": "Agriculture",
+    "date": "April 28, 2026",
+    "title": "Farmers monitor water usage",
+    "summary": "Farmers in Namakkal monitoring water usage closely due to rising temperatures and limited irrigation supply during summer period."
+  },
+  {
+    "id": "namakkal-28-46",
+    "category": "Business",
+    "date": "April 28, 2026",
+    "title": "Retail footfall increases",
+    "summary": "Retail markets in Namakkal observed increased customer footfall after election holidays, boosting daily sales for small traders."
+  },
+  {
+    "id": "namakkal-28-47",
+    "category": "Transport",
+    "date": "April 28, 2026",
+    "title": "Fuel demand stabilizes",
+    "summary": "Fuel demand in Namakkal stabilized after election travel surge, with petrol bunks reporting regular daily consumption levels."
+  },
+  {
+    "id": "namakkal-28-48",
+    "category": "Health",
+    "date": "April 28, 2026",
+    "title": "Awareness on dehydration spreads",
+    "summary": "Health workers conducted awareness campaigns on preventing dehydration and heatstroke among vulnerable groups in Namakkal."
+  },
+  {
+    "id": "namakkal-28-49",
+    "category": "Infrastructure",
+    "date": "April 28, 2026",
+    "title": "Public building inspections done",
+    "summary": "Officials inspected public buildings used as polling stations to assess maintenance needs before resuming normal public service usage."
+  },
+  {
+    "id": "namakkal-28-50",
+    "category": "Public",
+    "date": "April 28, 2026",
+    "title": "Peaceful post-election atmosphere",
+    "summary": "Namakkal reported peaceful conditions following polling, with no major law and order issues and normalcy returning across the district."
   }
 ]
