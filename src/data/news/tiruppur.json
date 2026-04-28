@@ -1,74 +1,352 @@
 [
   {
-    "id": "tiruppur-27-1",
-    "featured": true,
-    "category": "Agriculture",
-    "date": "April 27, 2026",
-    "title": "Fake Onion Seeds Spell Disaster for Tiruppur Farmers",
-    "summary": "Hundreds of acres of small onion crops failed after farmers purchased substandard seeds from a private company. Farmers demanding compensation."
-  },
-  {
-    "id": "tiruppur-27-2",
-    "featured": true,
-    "category": "Disaster",
-    "date": "April 27, 2026",
-    "title": "Tiruppur Fire Crews Rush to Nilgiris Parsons Valley Blaze",
-    "summary": "Fire personnel from Tiruppur joined firefighting efforts to battle the Parsons Valley forest fire that has been raging since April 15."
-  },
-  {
-    "id": "tiruppur-27-3",
+    "id": "tiruppur-28-1",
     "category": "Business",
-    "date": "April 27, 2026",
-    "title": "Tiruppur Apparel Exports Rise 6.4% and 5.6% in Feb-March",
-    "summary": "Tiruppur apparel sector showed strong growth with exports rising 6.4% in February and 5.6% in March year-on-year despite global headwinds."
+    "date": "April 28, 2026",
+    "title": "Karur Vysya Bank opens divisional office",
+    "summary": "Karur Vysya Bank inaugurated a new divisional office in Tiruppur to strengthen credit operations and support local textile industry growth."
   },
   {
-    "id": "tiruppur-27-4",
-    "category": "Economy",
-    "date": "April 27, 2026",
-    "title": "US Tariffs Trigger 15% Order Drop in Textile Sector",
-    "summary": "Tiruppur textile industry faces significant challenges with 15% decline in export orders due to US inflation and rising tariff pressures."
-  },
-  {
-    "id": "tiruppur-27-5",
-    "category": "Economy",
-    "date": "April 27, 2026",
-    "title": "Industry Seeks RBI Support to Reach ₹1 Lakh Crore Export Goal",
-    "summary": "Tiruppur textile exporters appeal to Reserve Bank of India to ease credit and funding constraints to achieve ₹1 lakh crore export target."
-  },
-  {
-    "id": "tiruppur-27-6",
-    "category": "Law & Order",
-    "date": "April 27, 2026",
-    "title": "Bar Council Elections: Counting Completed in Tiruppur",
-    "summary": "Bar Council elections were held in Tiruppur with counting process now complete, determining new council leadership for legal fraternity."
-  },
-  {
-    "id": "tiruppur-27-7",
+    "id": "tiruppur-28-2",
     "category": "Transport",
-    "date": "April 27, 2026",
-    "title": "TNSTC Runs Special Post-Election Buses from Trichy Region",
-    "summary": "TNSTC operated special buses from Trichy region to handle increased passenger movement following election day activities."
+    "date": "April 28, 2026",
+    "title": "Special buses connect Tiruppur post-election",
+    "summary": "TNSTC operated special buses connecting Tiruppur with major cities after election weekend, easing passenger congestion and ensuring smoother intercity travel."
   },
   {
-    "id": "tiruppur-27-8",
-    "category": "Culture",
-    "date": "April 27, 2026",
-    "title": "Legendary Photographer Raghu Rai Passes Away at Age 83",
-    "summary": "Renowned photographer Raghu Rai, known for capturing India's defining moments, passed away at the age of 83."
+    "id": "tiruppur-28-3",
+    "category": "Election",
+    "date": "April 28, 2026",
+    "title": "High voter turnout recorded across district",
+    "summary": "Tiruppur district witnessed among highest voter turnout in Tamil Nadu, driven by worker participation and paid leave by textile factories."
   },
   {
-    "id": "tiruppur-27-9",
-    "category": "Culture",
-    "date": "April 27, 2026",
-    "title": "Madurai Chithirai Festival Day 8: Meenakshi Pattabhishegam Ceremony",
-    "summary": "Madurai's annual Chithirai festival reached its eighth day featuring the significant Meenakshi Pattabhishegam procession and rituals."
-  },
-  {
-    "id": "tiruppur-27-10",
+    "id": "tiruppur-28-4",
     "category": "Weather",
-    "date": "April 27, 2026",
-    "title": "Heavy Rainfall Expected from April 30 to Relieve Heatwave",
-    "summary": "IMD forecasts heavy rainfall likely from April 30, bringing much-needed relief from the ongoing heatwave across Tiruppur."
+    "date": "April 28, 2026",
+    "title": "Heatwave conditions continue in Tiruppur",
+    "summary": "Day temperatures remain high across Tiruppur, impacting outdoor work and prompting health advisories for residents and factory workers."
+  },
+  {
+    "id": "tiruppur-28-5",
+    "category": "Business",
+    "date": "April 28, 2026",
+    "title": "Textile units report rising power costs",
+    "summary": "Local textile entrepreneurs highlight increasing electricity tariffs affecting production costs and competitiveness in Tiruppur’s garment export sector."
+  },
+  {
+    "id": "tiruppur-28-6",
+    "category": "Civic",
+    "date": "April 28, 2026",
+    "title": "Garbage management concerns persist",
+    "summary": "Residents raise concerns over waste dumping in outskirts, urging authorities to implement sustainable garbage management solutions in Tiruppur."
+  },
+  {
+    "id": "tiruppur-28-7",
+    "category": "Infrastructure",
+    "date": "April 28, 2026",
+    "title": "Road repair works intensify post-election",
+    "summary": "Municipal teams resumed road repair works across key stretches in Tiruppur following election-related restrictions on civic activities."
+  },
+  {
+    "id": "tiruppur-28-8",
+    "category": "Transport",
+    "date": "April 28, 2026",
+    "title": "Bus stands see moderate passenger flow",
+    "summary": "Tiruppur bus terminals reported moderate passenger footfall after election weekend, with authorities monitoring crowd levels."
+  },
+  {
+    "id": "tiruppur-28-9",
+    "category": "Health",
+    "date": "April 28, 2026",
+    "title": "Heat-related illness cases reported",
+    "summary": "Hospitals in Tiruppur reported rise in dehydration and heat exhaustion cases amid ongoing high temperature conditions."
+  },
+  {
+    "id": "tiruppur-28-10",
+    "category": "Economy",
+    "date": "April 28, 2026",
+    "title": "Garment exports show cautious recovery",
+    "summary": "Exporters indicate gradual improvement in garment orders, though margins remain under pressure due to rising input costs."
+  },
+  {
+    "id": "tiruppur-28-11",
+    "category": "Public",
+    "date": "April 28, 2026",
+    "title": "Workers return after polling holiday",
+    "summary": "Textile workers resumed operations in Tiruppur factories after polling day leave, restoring industrial activity levels."
+  },
+  {
+    "id": "tiruppur-28-12",
+    "category": "Security",
+    "date": "April 28, 2026",
+    "title": "Police maintain post-election vigilance",
+    "summary": "Police continued monitoring sensitive zones in Tiruppur to ensure peace after polling across constituencies."
+  },
+  {
+    "id": "tiruppur-28-13",
+    "category": "Education",
+    "date": "April 28, 2026",
+    "title": "Schools reopen after polling break",
+    "summary": "Educational institutions resumed classes in Tiruppur following temporary closures for election arrangements."
+  },
+  {
+    "id": "tiruppur-28-14",
+    "category": "Infrastructure",
+    "date": "April 28, 2026",
+    "title": "Water supply complaints in outskirts",
+    "summary": "Residents in suburban Tiruppur reported irregular water supply, urging municipal intervention for consistent distribution."
+  },
+  {
+    "id": "tiruppur-28-15",
+    "category": "Environment",
+    "date": "April 28, 2026",
+    "title": "Groundwater concerns raised again",
+    "summary": "Environmental groups flagged groundwater contamination risks in areas affected by industrial waste dumping near Tiruppur."
+  },
+  {
+    "id": "tiruppur-28-16",
+    "category": "Business",
+    "date": "April 28, 2026",
+    "title": "Small units seek policy support",
+    "summary": "Small textile units demanded targeted schemes to support production amid cost pressures and fluctuating export demand."
+  },
+  {
+    "id": "tiruppur-28-17",
+    "category": "Transport",
+    "date": "April 28, 2026",
+    "title": "Railway station crowd steady",
+    "summary": "Passenger movement at Tiruppur railway station remained steady, with no major disruptions reported post-election."
+  },
+  {
+    "id": "tiruppur-28-18",
+    "category": "Weather",
+    "date": "April 28, 2026",
+    "title": "Humidity adds to heat discomfort",
+    "summary": "Rising humidity levels intensified discomfort for Tiruppur residents, especially affecting outdoor laborers and daily commuters."
+  },
+  {
+    "id": "tiruppur-28-19",
+    "category": "Public",
+    "date": "April 28, 2026",
+    "title": "Market activity resumes gradually",
+    "summary": "Retail markets in Tiruppur reopened with moderate customer turnout after election-related slowdown in commercial activities."
+  },
+  {
+    "id": "tiruppur-28-20",
+    "category": "Civic",
+    "date": "April 28, 2026",
+    "title": "Streetlight repairs underway",
+    "summary": "Municipal workers initiated repairs of faulty streetlights across several wards to improve nighttime safety."
+  },
+  {
+    "id": "tiruppur-28-21",
+    "category": "Health",
+    "date": "April 28, 2026",
+    "title": "Hospitals issue heat safety advisory",
+    "summary": "Doctors advised residents to stay hydrated and avoid peak sun hours amid persistent heatwave conditions in Tiruppur."
+  },
+  {
+    "id": "tiruppur-28-22",
+    "category": "Economy",
+    "date": "April 28, 2026",
+    "title": "Input costs pressure garment sector",
+    "summary": "Rising yarn and dye prices continue to strain Tiruppur’s garment manufacturers, affecting profit margins."
+  },
+  {
+    "id": "tiruppur-28-23",
+    "category": "Infrastructure",
+    "date": "April 28, 2026",
+    "title": "Drainage cleaning resumes",
+    "summary": "Corporation resumed drainage cleaning operations in key areas to prevent waterlogging ahead of seasonal rains."
+  },
+  {
+    "id": "tiruppur-28-24",
+    "category": "Public",
+    "date": "April 28, 2026",
+    "title": "Banks witness higher transactions",
+    "summary": "Local banks in Tiruppur reported increased transactions as businesses resumed full operations post-election."
+  },
+  {
+    "id": "tiruppur-28-25",
+    "category": "Technology",
+    "date": "April 28, 2026",
+    "title": "Digital payments rise in markets",
+    "summary": "Traders reported growing use of digital payment platforms among customers in Tiruppur’s retail markets."
+  },
+  {
+    "id": "tiruppur-28-26",
+    "category": "Transport",
+    "date": "April 28, 2026",
+    "title": "Auto fares stable after election",
+    "summary": "Auto-rickshaw fares in Tiruppur remained stable with no surge reported after election travel demand subsided."
+  },
+  {
+    "id": "tiruppur-28-27",
+    "category": "Business",
+    "date": "April 28, 2026",
+    "title": "Exporters optimistic on new orders",
+    "summary": "Garment exporters expressed cautious optimism about upcoming international orders despite ongoing economic challenges."
+  },
+  {
+    "id": "tiruppur-28-28",
+    "category": "Civic",
+    "date": "April 28, 2026",
+    "title": "Waste clearance drives intensified",
+    "summary": "Municipal teams intensified garbage clearance drives in busy commercial zones of Tiruppur."
+  },
+  {
+    "id": "tiruppur-28-29",
+    "category": "Security",
+    "date": "April 28, 2026",
+    "title": "Police deploy additional patrols",
+    "summary": "Additional police patrols deployed in Tiruppur to ensure safety in crowded commercial and residential areas."
+  },
+  {
+    "id": "tiruppur-28-30",
+    "category": "Environment",
+    "date": "April 28, 2026",
+    "title": "Air quality remains moderate",
+    "summary": "Air quality levels in Tiruppur remained moderate despite industrial activity resuming after election break."
+  },
+  {
+    "id": "tiruppur-28-31",
+    "category": "Lifestyle",
+    "date": "April 28, 2026",
+    "title": "Evening parks see increased visitors",
+    "summary": "Public parks in Tiruppur saw higher evening footfall as residents avoided daytime heat."
+  },
+  {
+    "id": "tiruppur-28-32",
+    "category": "Education",
+    "date": "April 28, 2026",
+    "title": "Exam preparations intensify",
+    "summary": "Students resumed exam preparations as schools reopened after polling-related closures in Tiruppur."
+  },
+  {
+    "id": "tiruppur-28-33",
+    "category": "Public",
+    "date": "April 28, 2026",
+    "title": "Retail textile sales steady",
+    "summary": "Local textile retail shops reported steady sales with moderate customer turnout after election lull."
+  },
+  {
+    "id": "tiruppur-28-34",
+    "category": "Infrastructure",
+    "date": "April 28, 2026",
+    "title": "Construction works restart",
+    "summary": "Construction activities resumed across Tiruppur after temporary halt during election enforcement period."
+  },
+  {
+    "id": "tiruppur-28-35",
+    "category": "Transport",
+    "date": "April 28, 2026",
+    "title": "Traffic flow normal in city roads",
+    "summary": "Traffic movement across Tiruppur returned to normal levels following election-related restrictions."
+  },
+  {
+    "id": "tiruppur-28-36",
+    "category": "Health",
+    "date": "April 28, 2026",
+    "title": "Medical camps planned for summer",
+    "summary": "Health authorities planned summer medical camps to address heat-related illnesses in Tiruppur."
+  },
+  {
+    "id": "tiruppur-28-37",
+    "category": "Economy",
+    "date": "April 28, 2026",
+    "title": "Labour demand rises in factories",
+    "summary": "Factories in Tiruppur reported increased demand for labor as production resumes after election slowdown."
+  },
+  {
+    "id": "tiruppur-28-38",
+    "category": "Civic",
+    "date": "April 28, 2026",
+    "title": "Public grievance meetings resume",
+    "summary": "Local authorities restarted grievance redressal meetings for residents in Tiruppur after election pause."
+  },
+  {
+    "id": "tiruppur-28-39",
+    "category": "Weather",
+    "date": "April 28, 2026",
+    "title": "No rainfall forecast for district",
+    "summary": "Weather forecasts indicate dry conditions continuing in Tiruppur with no immediate rainfall expected."
+  },
+  {
+    "id": "tiruppur-28-40",
+    "category": "Business",
+    "date": "April 28, 2026",
+    "title": "Dyeing units face compliance checks",
+    "summary": "Authorities conducted inspections in dyeing units to ensure adherence to environmental and pollution norms."
+  },
+  {
+    "id": "tiruppur-28-41",
+    "category": "Security",
+    "date": "April 28, 2026",
+    "title": "CCTV monitoring expanded",
+    "summary": "Police expanded CCTV surveillance coverage in busy areas of Tiruppur to enhance security measures."
+  },
+  {
+    "id": "tiruppur-28-42",
+    "category": "Public",
+    "date": "April 28, 2026",
+    "title": "Voters await result announcement",
+    "summary": "Residents in Tiruppur are awaiting official election results after high participation in polling."
+  },
+  {
+    "id": "tiruppur-28-43",
+    "category": "Agriculture",
+    "date": "April 28, 2026",
+    "title": "Farmers express water concerns",
+    "summary": "Farmers in Tiruppur district raised concerns about water availability for irrigation amid ongoing dry conditions."
+  },
+  {
+    "id": "tiruppur-28-44",
+    "category": "Environment",
+    "date": "April 28, 2026",
+    "title": "Pollution monitoring intensified",
+    "summary": "Pollution control officials increased monitoring of industrial emissions across Tiruppur."
+  },
+  {
+    "id": "tiruppur-28-45",
+    "category": "Lifestyle",
+    "date": "April 28, 2026",
+    "title": "Summer demand rises for cooling products",
+    "summary": "Retailers reported increased sales of cooling appliances and beverages amid rising temperatures."
+  },
+  {
+    "id": "tiruppur-28-46",
+    "category": "Tourism",
+    "date": "April 28, 2026",
+    "title": "Nearby attractions see weekend visitors",
+    "summary": "Tourist spots near Tiruppur recorded moderate weekend footfall despite hot weather conditions."
+  },
+  {
+    "id": "tiruppur-28-47",
+    "category": "Infrastructure",
+    "date": "April 28, 2026",
+    "title": "Electricity supply stable in city",
+    "summary": "Power supply remained stable in Tiruppur despite increased summer demand, officials confirmed."
+  },
+  {
+    "id": "tiruppur-28-48",
+    "category": "Market",
+    "date": "April 28, 2026",
+    "title": "Yarn prices remain volatile",
+    "summary": "Yarn prices fluctuated in Tiruppur markets, impacting garment production planning for manufacturers."
+  },
+  {
+    "id": "tiruppur-28-49",
+    "category": "Public",
+    "date": "April 28, 2026",
+    "title": "Community events resume slowly",
+    "summary": "Local community and cultural events resumed gradually in Tiruppur after election restrictions lifted."
+  },
+  {
+    "id": "tiruppur-28-50",
+    "category": "Transport",
+    "date": "April 28, 2026",
+    "title": "Logistics movement picks up",
+    "summary": "Goods transportation activity increased in Tiruppur as textile shipments resumed after polling disruptions."
   }
 ]
