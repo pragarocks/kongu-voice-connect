@@ -1,60 +1,352 @@
 [
   {
-    "id": "karur-27-1",
-    "featured": true,
-    "category": "Election",
-    "date": "April 27, 2026",
-    "title": "Karur Records Highest TN Turnout: 92.65% Polling Achieved",
-    "summary": "Karur district recorded 92.65% voter participation, 7.55% above state average, demonstrating exceptional democratic engagement."
-  },
-  {
-    "id": "karur-27-2",
-    "featured": true,
-    "category": "Election",
-    "date": "April 27, 2026",
-    "title": "Karur Constituency Tops Tamil Nadu with 93.41% Turnout",
-    "summary": "Karur constituency achieved 93.41% polling, the highest in Tamil Nadu, the same area that witnessed Vijay's stampede in September 2025."
-  },
-  {
-    "id": "karur-27-3",
-    "category": "Politics",
-    "date": "April 27, 2026",
-    "title": "IT Department Raids on Senthil Balaji Associates During Elections",
-    "summary": "Income Tax Department conducted searches on premises of state minister Senthil Balaji's associates in Karur during election period."
-  },
-  {
-    "id": "karur-27-4",
-    "category": "Crime",
-    "date": "April 27, 2026",
-    "title": "Seven Injured in Property Clash at Vennaimalai",
-    "summary": "Seven people sustained injuries in a violent property dispute at Vennaimalai. Police intervened and brought situation under control."
-  },
-  {
-    "id": "karur-27-5",
-    "category": "Election",
-    "date": "April 27, 2026",
-    "title": "EVMs Stored at Karur Counting Centre Under Heavy Security",
-    "summary": "Electronic voting machines secured at Karur counting centre with multiple layers of security for vote counting process."
-  },
-  {
-    "id": "karur-27-6",
-    "category": "Tender",
-    "date": "April 27, 2026",
-    "title": "Hydraulic Equipment Repair Tender Notice Closing April 27",
-    "summary": "Public tender for repair of hydraulic equipment closing on April 27 as per government procurement procedures."
-  },
-  {
-    "id": "karur-27-7",
+    "id": "karur-28-1",
     "category": "Weather",
-    "date": "April 27, 2026",
-    "title": "Heavy Rainfall Expected Later This Week to Relieve Heat",
-    "summary": "IMD forecasts heavy rainfall in coming days bringing welcome relief from the intense heatwave affecting Karur region."
+    "date": "April 28, 2026",
+    "title": "Karur records high summer temperature",
+    "summary": "Karur continues to experience temperatures above 40°C, with heatwave conditions intensifying across interior Tamil Nadu districts, officials warn residents to take precautions."
   },
   {
-    "id": "karur-27-8",
-    "category": "Election",
-    "date": "April 27, 2026",
-    "title": "Kongu Belt Records 85% Average Turnout; Karur Leads State",
-    "summary": "Kongu region recorded over 85% average voter turnout across all districts, with Karur topping Tamil Nadu at 92.65%."
+    "id": "karur-28-2",
+    "category": "Weather",
+    "date": "April 28, 2026",
+    "title": "IMD warns of hotter days ahead",
+    "summary": "Meteorological department forecasts rising temperatures in early May, with Karur likely to face continued heatwave days and minimal rainfall relief."
+  },
+  {
+    "id": "karur-28-3",
+    "category": "Politics",
+    "date": "April 28, 2026",
+    "title": "Post-election political activity continues",
+    "summary": "Political parties in Karur continue internal discussions and voter feedback reviews following recently concluded assembly election polling in the region."
+  },
+  {
+    "id": "karur-28-4",
+    "category": "Civic",
+    "date": "April 28, 2026",
+    "title": "Water supply monitored amid summer demand",
+    "summary": "Municipal authorities intensify monitoring of drinking water supply as demand rises sharply due to extreme heat conditions across Karur."
+  },
+  {
+    "id": "karur-28-5",
+    "category": "Health",
+    "date": "April 28, 2026",
+    "title": "Heat-related illness cases increase",
+    "summary": "Local hospitals report a rise in dehydration and heat exhaustion cases as temperatures remain above seasonal averages in Karur district."
+  },
+  {
+    "id": "karur-28-6",
+    "category": "Transport",
+    "date": "April 28, 2026",
+    "title": "Traffic slows during peak heat hours",
+    "summary": "Traffic movement across Karur town slows during midday hours as commuters avoid travel under extreme summer heat conditions."
+  },
+  {
+    "id": "karur-28-7",
+    "category": "Agriculture",
+    "date": "April 28, 2026",
+    "title": "Farmers worry over water scarcity",
+    "summary": "Farmers in Karur express concerns over irrigation shortages as rising temperatures increase water demand for standing crops."
+  },
+  {
+    "id": "karur-28-8",
+    "category": "Business",
+    "date": "April 28, 2026",
+    "title": "Textile sector sees steady activity",
+    "summary": "Karur’s textile and home furnishing units continue stable operations, with summer export orders maintaining moderate business momentum."
+  },
+  {
+    "id": "karur-28-9",
+    "category": "Public",
+    "date": "April 28, 2026",
+    "title": "Public avoids outdoor gatherings",
+    "summary": "Residents limit outdoor activities during daytime hours due to intense heat, impacting local markets and public spaces attendance."
+  },
+  {
+    "id": "karur-28-10",
+    "category": "Infrastructure",
+    "date": "April 28, 2026",
+    "title": "Road repair works progress slowly",
+    "summary": "Ongoing road repair works in parts of Karur face delays as high temperatures affect labor conditions and work schedules."
+  },
+  {
+    "id": "karur-28-11",
+    "category": "Education",
+    "date": "April 28, 2026",
+    "title": "Schools adjust timings due to heat",
+    "summary": "Several schools in Karur adjust class timings and reduce outdoor activities to protect students from heat exposure."
+  },
+  {
+    "id": "karur-28-12",
+    "category": "Environment",
+    "date": "April 28, 2026",
+    "title": "Water bodies show declining levels",
+    "summary": "Local lakes and reservoirs in Karur report reduced water levels as evaporation increases under prolonged summer heat conditions."
+  },
+  {
+    "id": "karur-28-13",
+    "category": "Civic",
+    "date": "April 28, 2026",
+    "title": "Municipality intensifies tanker services",
+    "summary": "Authorities deploy additional water tankers to meet increased demand in residential areas facing supply shortages."
+  },
+  {
+    "id": "karur-28-14",
+    "category": "Health",
+    "date": "April 28, 2026",
+    "title": "Doctors advise hydration measures",
+    "summary": "Health officials urge residents to stay hydrated, avoid direct sunlight, and monitor symptoms of heatstroke during ongoing heatwave."
+  },
+  {
+    "id": "karur-28-15",
+    "category": "Market",
+    "date": "April 28, 2026",
+    "title": "Vegetable prices fluctuate locally",
+    "summary": "Vegetable prices in Karur markets show minor fluctuations due to supply variations caused by heat-affected agricultural production."
+  },
+  {
+    "id": "karur-28-16",
+    "category": "Transport",
+    "date": "April 28, 2026",
+    "title": "Bus services operate normally",
+    "summary": "Public transport services continue without disruption, though passenger numbers drop during peak afternoon heat hours."
+  },
+  {
+    "id": "karur-28-17",
+    "category": "Public",
+    "date": "April 28, 2026",
+    "title": "Parks see reduced visitor numbers",
+    "summary": "Public parks in Karur witness fewer visitors during daytime, with most footfall shifting to early morning and evening hours."
+  },
+  {
+    "id": "karur-28-18",
+    "category": "Economy",
+    "date": "April 28, 2026",
+    "title": "Small businesses adapt working hours",
+    "summary": "Local traders adjust shop timings to early mornings and late evenings to cope with reduced daytime customer activity."
+  },
+  {
+    "id": "karur-28-19",
+    "category": "Security",
+    "date": "April 28, 2026",
+    "title": "Police increase patrols in town",
+    "summary": "Police conduct regular patrols in commercial areas to ensure safety as reduced foot traffic alters usual activity patterns."
+  },
+  {
+    "id": "karur-28-20",
+    "category": "Civic",
+    "date": "April 28, 2026",
+    "title": "Waste collection schedules maintained",
+    "summary": "Municipal workers continue regular waste collection despite extreme heat, with modified working hours to ensure worker safety."
+  },
+  {
+    "id": "karur-28-21",
+    "category": "Infrastructure",
+    "date": "April 28, 2026",
+    "title": "Power demand rises across district",
+    "summary": "Electricity consumption increases significantly as residents rely heavily on cooling appliances amid ongoing heatwave conditions."
+  },
+  {
+    "id": "karur-28-22",
+    "category": "Civic",
+    "date": "April 28, 2026",
+    "title": "Authorities monitor power supply stability",
+    "summary": "Officials closely monitor power infrastructure to prevent outages as electricity demand peaks during high-temperature periods."
+  },
+  {
+    "id": "karur-28-23",
+    "category": "Agriculture",
+    "date": "April 28, 2026",
+    "title": "Livestock affected by heat stress",
+    "summary": "Farmers report stress among livestock due to extreme temperatures, prompting increased water and shelter arrangements."
+  },
+  {
+    "id": "karur-28-24",
+    "category": "Public",
+    "date": "April 28, 2026",
+    "title": "Community water points crowded",
+    "summary": "Public drinking water points witness increased usage as residents seek relief from heat and limited household supply."
+  },
+  {
+    "id": "karur-28-25",
+    "category": "Health",
+    "date": "April 28, 2026",
+    "title": "Pharmacies report higher ORS sales",
+    "summary": "Demand for oral rehydration solutions and cooling products rises sharply across medical stores in Karur."
+  },
+  {
+    "id": "karur-28-26",
+    "category": "Business",
+    "date": "April 28, 2026",
+    "title": "Cooling appliance sales increase",
+    "summary": "Retailers report strong sales of fans, air coolers, and air conditioners amid sustained high temperatures."
+  },
+  {
+    "id": "karur-28-27",
+    "category": "Education",
+    "date": "April 28, 2026",
+    "title": "Exams continue under heat precautions",
+    "summary": "Schools and colleges implement heat safety measures as ongoing examinations take place during peak summer conditions."
+  },
+  {
+    "id": "karur-28-28",
+    "category": "Environment",
+    "date": "April 28, 2026",
+    "title": "Dust levels rise in dry conditions",
+    "summary": "Dry weather and reduced vegetation contribute to increased dust levels across urban and rural areas in Karur."
+  },
+  {
+    "id": "karur-28-29",
+    "category": "Transport",
+    "date": "April 28, 2026",
+    "title": "Auto drivers report reduced trips",
+    "summary": "Auto-rickshaw drivers note fewer daytime trips as residents avoid travel during peak heat hours."
+  },
+  {
+    "id": "karur-28-30",
+    "category": "Market",
+    "date": "April 28, 2026",
+    "title": "Fruit demand surges locally",
+    "summary": "Sales of watermelon, tender coconut, and citrus fruits increase significantly as residents seek hydration options."
+  },
+  {
+    "id": "karur-28-31",
+    "category": "Public",
+    "date": "April 28, 2026",
+    "title": "Evening markets see higher footfall",
+    "summary": "Markets experience increased activity during evenings as temperatures drop, attracting more shoppers."
+  },
+  {
+    "id": "karur-28-32",
+    "category": "Infrastructure",
+    "date": "April 28, 2026",
+    "title": "Construction activities slow down",
+    "summary": "Extreme heat conditions reduce construction activity, with workers shifting to early morning shifts."
+  },
+  {
+    "id": "karur-28-33",
+    "category": "Health",
+    "date": "April 28, 2026",
+    "title": "Hospitals extend emergency readiness",
+    "summary": "Healthcare facilities remain alert for heatstroke emergencies as temperature levels remain consistently high."
+  },
+  {
+    "id": "karur-28-34",
+    "category": "Civic",
+    "date": "April 28, 2026",
+    "title": "Public advised to conserve water",
+    "summary": "Authorities urge residents to use water responsibly to avoid shortages during peak summer demand."
+  },
+  {
+    "id": "karur-28-35",
+    "category": "Agriculture",
+    "date": "April 28, 2026",
+    "title": "Irrigation schedules adjusted",
+    "summary": "Farmers adjust irrigation timings to early morning and night hours to minimize water loss due to evaporation."
+  },
+  {
+    "id": "karur-28-36",
+    "category": "Economy",
+    "date": "April 28, 2026",
+    "title": "Local economy shows steady movement",
+    "summary": "Despite weather challenges, Karur’s core industries maintain stable operations with moderate trade activity."
+  },
+  {
+    "id": "karur-28-37",
+    "category": "Public",
+    "date": "April 28, 2026",
+    "title": "Residents rely on indoor activities",
+    "summary": "Indoor recreational activities increase as residents avoid prolonged outdoor exposure during daytime heat."
+  },
+  {
+    "id": "karur-28-38",
+    "category": "Security",
+    "date": "April 28, 2026",
+    "title": "Authorities ensure safety at water points",
+    "summary": "Officials monitor crowded water distribution points to maintain order and prevent disputes during supply shortages."
+  },
+  {
+    "id": "karur-28-39",
+    "category": "Transport",
+    "date": "April 28, 2026",
+    "title": "Highways remain clear during midday",
+    "summary": "Reduced vehicular movement observed on highways passing through Karur during peak heat hours."
+  },
+  {
+    "id": "karur-28-40",
+    "category": "Environment",
+    "date": "April 28, 2026",
+    "title": "Tree shade becomes vital refuge",
+    "summary": "Residents increasingly gather under shaded areas and roadside trees to escape intense sunlight."
+  },
+  {
+    "id": "karur-28-41",
+    "category": "Lifestyle",
+    "date": "April 28, 2026",
+    "title": "Cooling beverages gain popularity",
+    "summary": "Juice shops and beverage stalls report higher sales as people seek quick relief from heat."
+  },
+  {
+    "id": "karur-28-42",
+    "category": "Civic",
+    "date": "April 28, 2026",
+    "title": "Street vendors alter working hours",
+    "summary": "Street vendors shift operations to evenings due to declining daytime sales caused by extreme temperatures."
+  },
+  {
+    "id": "karur-28-43",
+    "category": "Health",
+    "date": "April 28, 2026",
+    "title": "Officials warn against sun exposure",
+    "summary": "Health departments advise avoiding direct sun exposure between late morning and afternoon to prevent heat-related illness."
+  },
+  {
+    "id": "karur-28-44",
+    "category": "Public",
+    "date": "April 28, 2026",
+    "title": "Religious places see steady turnout",
+    "summary": "Temples and places of worship maintain steady visitor numbers, especially during early hours."
+  },
+  {
+    "id": "karur-28-45",
+    "category": "Tourism",
+    "date": "April 28, 2026",
+    "title": "Tourist activity remains limited",
+    "summary": "Tourist visits remain low due to extreme heat, with most travelers preferring cooler destinations."
+  },
+  {
+    "id": "karur-28-46",
+    "category": "Business",
+    "date": "April 28, 2026",
+    "title": "Retail footfall declines midday",
+    "summary": "Retail stores report reduced customer visits during peak afternoon hours amid ongoing heatwave conditions."
+  },
+  {
+    "id": "karur-28-47",
+    "category": "Infrastructure",
+    "date": "April 28, 2026",
+    "title": "Water pipeline checks intensified",
+    "summary": "Municipal teams inspect pipelines to prevent leaks and ensure efficient water distribution during peak demand."
+  },
+  {
+    "id": "karur-28-48",
+    "category": "Agriculture",
+    "date": "April 28, 2026",
+    "title": "Crop yield concerns rise",
+    "summary": "Farmers anticipate potential crop stress and reduced yields if high temperatures persist into May."
+  },
+  {
+    "id": "karur-28-49",
+    "category": "Civic",
+    "date": "April 28, 2026",
+    "title": "Public grievance calls increase",
+    "summary": "Authorities receive more complaints regarding water shortages and heat-related civic issues across Karur."
+  },
+  {
+    "id": "karur-28-50",
+    "category": "Weather",
+    "date": "April 28, 2026",
+    "title": "Light rain unlikely to bring relief",
+    "summary": "Forecasts suggest minimal rainfall in coming days, offering little respite from prevailing high temperatures in Karur region."
   }
 ]
