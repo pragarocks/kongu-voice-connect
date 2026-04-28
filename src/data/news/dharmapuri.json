@@ -1,67 +1,72 @@
 [
   {
-    "id": "dharmapuri-27-1",
-    "featured": true,
-    "category": "Agriculture",
-    "date": "April 27, 2026",
-    "title": "Tomato Price Surge: ₹40-44 Per Kg, Expected to Hit ₹60",
-    "summary": "Tomato prices in Dharmapuri jumped from ₹18-20 to ₹40-44 per kg. Expected to reach ₹60/kg due to heatwave destroying crops in Palacode and Rayakottai."
+    "id": "dharmapuri-28-1",
+    "category": "Civic",
+    "date": "April 28, 2026",
+    "title": "Villagers demand mobile towers",
+    "summary": "Residents in Molaiyanur panchayat demand mobile towers citing poor signal affecting education access and emergency communication in multiple remote villages."
   },
   {
-    "id": "dharmapuri-27-2",
-    "featured": true,
-    "category": "Public Health",
-    "date": "April 27, 2026",
-    "title": "Rabid Dog Attack: 15 Persons Including Children Injured",
-    "summary": "Fifteen people including children sustained injuries from a rabid dog attack in the old Harijan colony of Dharmapuri."
+    "id": "dharmapuri-28-2",
+    "category": "Crime",
+    "date": "April 28, 2026",
+    "title": "Illegal liquor shops vandalised",
+    "summary": "Villagers in Bodur near Pennagaram vandalised illegal liquor outlets after repeated complaints, leading to police arrests and investigation into unauthorized alcohol sales."
   },
   {
-    "id": "dharmapuri-27-3",
+    "id": "dharmapuri-28-3",
     "category": "Health",
-    "date": "April 27, 2026",
-    "title": "Health Camp Finally Held at Karapadi After Long Demand",
-    "summary": "Medical health camp was conducted at Karapadi following prolonged demands from residents for basic healthcare services."
+    "date": "April 26, 2026",
+    "title": "Health camp held after demand",
+    "summary": "Authorities conducted a health camp in Karapadi village following prolonged public demand, providing first-time medical consultations amid lack of functioning anganwadi services."
   },
   {
-    "id": "dharmapuri-27-4",
-    "category": "Health",
-    "date": "April 27, 2026",
-    "title": "Anganwadi at Karapadi Remains Non-Functional",
-    "summary": "Despite health camp, the Anganwadi (nutrition and early learning centre) in Karapadi continues to remain non-operational."
-  },
-  {
-    "id": "dharmapuri-27-5",
+    "id": "dharmapuri-28-4",
     "category": "Election",
-    "date": "April 27, 2026",
-    "title": "Dharmapuri Records 90.14% Turnout: Among Top Five TN Districts",
-    "summary": "Dharmapuri achieved 90.14% voter participation, ranking among the top five districts in Tamil Nadu for polling percentage."
+    "date": "April 24, 2026",
+    "title": "Election contest intensifies locally",
+    "summary": "Dharmapuri constituency witnesses intensified political activity as major candidates campaign actively, highlighting caste dynamics and regional voter mobilization strategies."
   },
   {
-    "id": "dharmapuri-27-6",
-    "category": "Politics",
-    "date": "April 27, 2026",
-    "title": "Former DMK MP's Temple Visit: Religious Shift in Political Career",
-    "summary": "S. Senthil Kumar, former DMK MP who once opposed Hindu rituals, visited temple after receiving Palacode assembly ticket."
+    "id": "dharmapuri-28-5",
+    "category": "Economy",
+    "date": "April 28, 2026",
+    "title": "Fuel prices rise in district",
+    "summary": "Petrol price in Dharmapuri increased to around ₹102.29 per litre, reflecting ongoing fuel cost fluctuations impacting daily commuters and local transportation expenses."
   },
   {
-    "id": "dharmapuri-27-7",
-    "category": "Politics",
-    "date": "April 27, 2026",
-    "title": "PMK Candidate Sowmiya Anbumani to Contest Dharmapuri Assembly Seat",
-    "summary": "Pattali Makkal Katchi (PMK) nominated Sowmiya Anbumani as candidate for Dharmapuri assembly constituency in 2026 elections."
+    "id": "dharmapuri-28-6",
+    "category": "Election",
+    "date": "April 24, 2026",
+    "title": "Village boycotts polling",
+    "summary": "Residents of K Eechampadi village boycotted assembly elections protesting delay in relocating a government school despite repeated appeals to authorities."
   },
   {
-    "id": "dharmapuri-27-8",
-    "category": "Governance",
-    "date": "April 27, 2026",
-    "title": "Echambadi Dam Delay: Villagers Threatened to Boycott Elections",
-    "summary": "Villagers affected by Echambadi dam project had threatened election boycott over prolonged delays in project implementation."
+    "id": "dharmapuri-28-7",
+    "category": "Technology",
+    "date": "April 24, 2026",
+    "title": "Robots assist first-time voters",
+    "summary": "Innovative robots welcomed and guided first-time voters at a Dharmapuri polling booth, improving engagement and awareness during recent assembly election process."
   },
   {
-    "id": "dharmapuri-27-9",
+    "id": "dharmapuri-28-8",
     "category": "Weather",
-    "date": "April 27, 2026",
-    "title": "Heavy Rain Warning for May 1-2 with Gusty Winds",
-    "summary": "IMD warns of heavy rainfall with gusty winds expected in Dharmapuri on May 1-2, bringing relief from extreme heat."
+    "date": "April 28, 2026",
+    "title": "Rain forecast for western TN",
+    "summary": "Weather department forecasts heavy rain and strong winds across western Tamil Nadu, potentially affecting Dharmapuri region with localized showers and changing conditions."
+  },
+  {
+    "id": "dharmapuri-28-9",
+    "category": "Infrastructure",
+    "date": "April 28, 2026",
+    "title": "Connectivity concerns raised",
+    "summary": "Poor telecom infrastructure in rural Dharmapuri continues to disrupt online education and emergency response, prompting renewed calls for infrastructure upgrades."
+  },
+  {
+    "id": "dharmapuri-28-10",
+    "category": "Public",
+    "date": "April 28, 2026",
+    "title": "Public unrest over liquor issue",
+    "summary": "Growing frustration over illegal liquor sales triggered community action in rural Dharmapuri, highlighting enforcement gaps and rising public dissatisfaction with authorities."
   }
 ]
