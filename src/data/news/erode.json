@@ -1,352 +1,142 @@
 [
   {
-    "id": "erode-28-1",
-    "category": "Crime",
-    "date": "April 28, 2026",
-    "title": "Two workers killed in lift accident",
-    "summary": "Two construction workers died after a mini lift snapped and fell at a building site in Solar near Erode, triggering safety concerns."
-  },
-  {
-    "id": "erode-28-2",
-    "category": "Crime",
-    "date": "April 28, 2026",
-    "title": "Students killed in road accident near Anthiyur",
-    "summary": "Two Class XII students died and another youth was injured after a truck hit motorcycles near Anthiyur, raising road safety alarms."
-  },
-  {
-    "id": "erode-28-3",
-    "category": "Weather",
-    "date": "April 28, 2026",
-    "title": "Heat crosses 40°C in Erode region",
-    "summary": "Interior districts including Erode recorded temperatures above 40°C, with officials warning of continued heatwave conditions and health precautions."
-  },
-  {
-    "id": "erode-28-4",
-    "category": "Weather",
-    "date": "April 28, 2026",
-    "title": "Rain forecast for western Tamil Nadu",
-    "summary": "Meteorological department predicts rainfall and strong winds in Erode region from April 30, offering relief but warning of possible disruptions."
-  },
-  {
-    "id": "erode-28-5",
-    "category": "Election",
-    "date": "April 28, 2026",
-    "title": "Post-poll political activity intensifies",
-    "summary": "Political parties continue outreach in Erode after assembly polling, focusing on voter engagement ahead of counting scheduled in early May."
-  },
-  {
-    "id": "erode-28-6",
-    "category": "Civic",
-    "date": "April 28, 2026",
-    "title": "Municipal cleaning drives increase",
-    "summary": "Erode Corporation intensified sanitation drives in markets and residential areas to manage waste amid rising summer temperatures."
-  },
-  {
-    "id": "erode-28-7",
-    "category": "Health",
-    "date": "April 28, 2026",
-    "title": "Hospitals report heat-related cases",
-    "summary": "Local hospitals in Erode report increase in dehydration and heatstroke cases as temperatures remain above seasonal averages."
-  },
-  {
-    "id": "erode-28-8",
-    "category": "Transport",
-    "date": "April 28, 2026",
-    "title": "Traffic checks intensified on highways",
-    "summary": "Police stepped up vehicle inspections on Erode highways following recent fatal accidents, focusing on speed violations and helmet enforcement."
-  },
-  {
-    "id": "erode-28-9",
-    "category": "Infrastructure",
-    "date": "April 28, 2026",
-    "title": "Road repair works underway in city",
-    "summary": "Local authorities initiated patchwork repairs on damaged roads across Erode to improve commuter safety before monsoon season."
-  },
-  {
-    "id": "erode-28-10",
-    "category": "Public",
-    "date": "April 28, 2026",
-    "title": "Public parks see increased footfall",
-    "summary": "Morning and evening crowds increased in Erode parks as residents avoid daytime heat and adopt outdoor fitness routines."
-  },
-  {
-    "id": "erode-28-11",
-    "category": "Business",
-    "date": "April 28, 2026",
-    "title": "Textile traders report moderate demand",
-    "summary": "Erode textile markets show steady but cautious business activity, with traders awaiting post-election economic clarity."
-  },
-  {
-    "id": "erode-28-12",
-    "category": "Market",
-    "date": "April 28, 2026",
-    "title": "Turmeric prices fluctuate locally",
-    "summary": "Erode turmeric market witnessed minor price fluctuations due to supply variations and export demand uncertainties."
-  },
-  {
-    "id": "erode-28-13",
-    "category": "Agriculture",
-    "date": "April 28, 2026",
-    "title": "Farmers await rainfall for crops",
-    "summary": "Farmers in Erode district anticipate upcoming rains to support summer crops, especially turmeric and banana cultivation."
-  },
-  {
-    "id": "erode-28-14",
-    "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Water levels drop in local tanks",
-    "summary": "Water levels in Erode tanks and ponds have declined due to heat, prompting conservation measures by local authorities."
-  },
-  {
-    "id": "erode-28-15",
-    "category": "Education",
-    "date": "April 28, 2026",
-    "title": "Schools begin exam evaluations",
-    "summary": "Evaluation of answer sheets for state board exams commenced in Erode, with teachers deployed across multiple centers."
-  },
-  {
-    "id": "erode-28-16",
+    "id": "erode-29-1",
     "category": "Security",
-    "date": "April 28, 2026",
-    "title": "Police increase night patrols",
-    "summary": "Erode police intensified night patrols in residential areas to prevent thefts and ensure public safety."
+    "date": "April 29, 2026",
+    "title": "Bomb threat at Erode collectorate sparks panic",
+    "summary": "Erode collector office received hoax bomb threat email; police and bomb squad conducted full search operations, no explosives found, investigation ongoing. :contentReference[oaicite:0]{index=0}"
   },
   {
-    "id": "erode-28-17",
-    "category": "Transport",
-    "date": "April 28, 2026",
-    "title": "Bus services see summer surge",
-    "summary": "State transport buses in Erode report higher passenger volumes as seasonal travel increases during school holidays."
-  },
-  {
-    "id": "erode-28-18",
+    "id": "erode-29-2",
     "category": "Health",
-    "date": "April 28, 2026",
-    "title": "Health camps organized in rural areas",
-    "summary": "Medical camps conducted in rural Erode villages to address heat-related illnesses and provide basic health screenings."
+    "date": "April 29, 2026",
+    "title": "Special heatstroke wards opened",
+    "summary": "Dedicated heatstroke treatment wards opened at Erode Government Medical College Hospital due to rising temperature-related illnesses across the region. :contentReference[oaicite:1]{index=1}"
   },
   {
-    "id": "erode-28-19",
-    "category": "Infrastructure",
-    "date": "April 28, 2026",
-    "title": "Power demand rises amid heatwave",
-    "summary": "Electricity consumption surged in Erode due to increased use of cooling appliances, with officials monitoring grid stability."
-  },
-  {
-    "id": "erode-28-20",
-    "category": "Civic",
-    "date": "April 28, 2026",
-    "title": "Drinking water supply monitored",
-    "summary": "Authorities in Erode reviewing drinking water distribution schedules to manage shortages during peak summer demand."
-  },
-  {
-    "id": "erode-28-21",
-    "category": "Lifestyle",
-    "date": "April 28, 2026",
-    "title": "Summer beverage sales increase",
-    "summary": "Local vendors report rising sales of juices and cool drinks as residents seek relief from high temperatures."
-  },
-  {
-    "id": "erode-28-22",
-    "category": "Tourism",
-    "date": "April 28, 2026",
-    "title": "Nearby hill stations attract visitors",
-    "summary": "Residents from Erode travel to nearby hill stations for cooler weather, boosting regional tourism activity."
-  },
-  {
-    "id": "erode-28-23",
+    "id": "erode-29-3",
     "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Tree plantation plans announced",
-    "summary": "Local groups preparing tree plantation drives in Erode to improve urban greenery and mitigate heat effects."
+    "date": "April 29, 2026",
+    "title": "Severe drought impacts forest areas",
+    "summary": "Forest areas in Erode face severe drought conditions with water sources drying up, affecting wildlife and increasing risk of animal movement toward human settlements. :contentReference[oaicite:2]{index=2}"
   },
   {
-    "id": "erode-28-24",
-    "category": "Public",
-    "date": "April 28, 2026",
-    "title": "Water tankers deployed in suburbs",
-    "summary": "Municipality deployed additional water tankers in suburban Erode areas facing supply shortages."
+    "id": "erode-29-4",
+    "category": "Environment",
+    "date": "April 29, 2026",
+    "title": "Water filled at 58 forest locations",
+    "summary": "Forest department supplying water in 58 locations across Erode and Tiruppur divisions to prevent wildlife migration due to extreme summer dryness. :contentReference[oaicite:3]{index=3}"
   },
   {
-    "id": "erode-28-25",
-    "category": "Transport",
-    "date": "April 28, 2026",
-    "title": "Rail passengers increase in Erode junction",
-    "summary": "Erode railway station reported increased passenger movement during holiday season, prompting additional monitoring."
+    "id": "erode-29-5",
+    "category": "Weather",
+    "date": "April 29, 2026",
+    "title": "Temperature hits 41°C in Erode",
+    "summary": "Erode recorded temperatures around 41°C, among highest in Tamil Nadu, intensifying heatwave conditions and increasing public health risks. :contentReference[oaicite:4]{index=4}"
   },
   {
-    "id": "erode-28-26",
-    "category": "Business",
-    "date": "April 28, 2026",
-    "title": "Retail stores see summer demand rise",
-    "summary": "Retail outlets in Erode witnessed increased demand for cooling appliances, fans, and air conditioners."
-  },
-  {
-    "id": "erode-28-27",
+    "id": "erode-29-6",
     "category": "Health",
-    "date": "April 28, 2026",
+    "date": "April 29, 2026",
+    "title": "Heat-related illness cases increase",
+    "summary": "Hospitals in Erode witnessing rise in dehydration and heatstroke cases as extreme summer temperatures persist across the district."
+  },
+  {
+    "id": "erode-29-7",
+    "category": "Civic",
+    "date": "April 29, 2026",
+    "title": "Water scarcity concerns intensify",
+    "summary": "Urban and rural areas in Erode report declining water levels, prompting authorities to monitor supply and deploy additional tanker services."
+  },
+  {
+    "id": "erode-29-8",
+    "category": "Agriculture",
+    "date": "April 29, 2026",
+    "title": "Farmers worried over irrigation shortages",
+    "summary": "Farmers in Erode express concern about irrigation water availability as reservoirs and canals show reduced levels amid heatwave."
+  },
+  {
+    "id": "erode-29-9",
+    "category": "Security",
+    "date": "April 29, 2026",
+    "title": "Police tighten security at offices",
+    "summary": "Security increased at government offices in Erode following bomb threat incident, with routine checks and surveillance strengthened."
+  },
+  {
+    "id": "erode-29-10",
+    "category": "Public",
+    "date": "April 29, 2026",
+    "title": "Residents shift to early routines",
+    "summary": "People in Erode adjusting daily schedules to early mornings and evenings to avoid exposure to extreme daytime heat."
+  },
+  {
+    "id": "erode-29-11",
+    "category": "Transport",
+    "date": "April 29, 2026",
+    "title": "Traffic monitoring increased in city",
+    "summary": "Traffic police intensify monitoring at key junctions in Erode to manage congestion and improve safety during peak hours."
+  },
+  {
+    "id": "erode-29-12",
+    "category": "Infrastructure",
+    "date": "April 29, 2026",
+    "title": "Power demand surges amid heat",
+    "summary": "Electricity usage rises sharply in Erode due to increased use of cooling appliances, with authorities monitoring grid load."
+  },
+  {
+    "id": "erode-29-13",
+    "category": "Market",
+    "date": "April 29, 2026",
+    "title": "Fruit demand spikes in markets",
+    "summary": "Demand for watermelon, mango, and tender coconut increases significantly in Erode markets as residents seek relief from heat."
+  },
+  {
+    "id": "erode-29-14",
+    "category": "Business",
+    "date": "April 29, 2026",
+    "title": "Cooling appliance sales rise",
+    "summary": "Retailers in Erode report increased sales of fans, coolers, and air conditioners amid continuing heatwave conditions."
+  },
+  {
+    "id": "erode-29-15",
+    "category": "Health",
+    "date": "April 29, 2026",
     "title": "Doctors advise hydration precautions",
-    "summary": "Medical professionals urge Erode residents to stay hydrated and avoid peak sun exposure during ongoing heatwave."
+    "summary": "Medical experts urge Erode residents to stay hydrated, avoid midday exposure, and monitor symptoms of heat exhaustion."
   },
   {
-    "id": "erode-28-28",
-    "category": "Education",
-    "date": "April 28, 2026",
-    "title": "Summer camps announced for students",
-    "summary": "Educational institutions in Erode plan summer camps focusing on sports, arts, and skill development."
-  },
-  {
-    "id": "erode-28-29",
-    "category": "Security",
-    "date": "April 28, 2026",
-    "title": "Election-related security continues",
-    "summary": "Security personnel remain deployed in Erode following polling to maintain order until vote counting concludes."
-  },
-  {
-    "id": "erode-28-30",
-    "category": "Economy",
-    "date": "April 28, 2026",
-    "title": "Small businesses await policy clarity",
-    "summary": "Local entrepreneurs in Erode delay expansion plans pending clarity on state policies after elections."
-  },
-  {
-    "id": "erode-28-31",
-    "category": "Market",
-    "date": "April 28, 2026",
-    "title": "Vegetable prices rise in markets",
-    "summary": "Erode markets reported increase in vegetable prices due to supply constraints caused by heat conditions."
-  },
-  {
-    "id": "erode-28-32",
-    "category": "Agriculture",
-    "date": "April 28, 2026",
-    "title": "Irrigation concerns among farmers",
-    "summary": "Farmers expressed concerns over irrigation water availability as reservoirs show declining levels."
-  },
-  {
-    "id": "erode-28-33",
-    "category": "Infrastructure",
-    "date": "April 28, 2026",
-    "title": "Drain cleaning works intensified",
-    "summary": "Civic bodies began clearing drains in Erode to prepare for expected rainfall and prevent waterlogging."
-  },
-  {
-    "id": "erode-28-34",
-    "category": "Public",
-    "date": "April 28, 2026",
-    "title": "Residents shift routines due to heat",
-    "summary": "People in Erode increasingly adjust daily schedules to early mornings and late evenings to avoid heat exposure."
-  },
-  {
-    "id": "erode-28-35",
-    "category": "Lifestyle",
-    "date": "April 28, 2026",
-    "title": "Gyms report lower daytime attendance",
-    "summary": "Fitness centers in Erode see reduced daytime attendance as customers prefer cooler hours for workouts."
-  },
-  {
-    "id": "erode-28-36",
-    "category": "Transport",
-    "date": "April 28, 2026",
-    "title": "Helmet checks intensified in city",
-    "summary": "Traffic police in Erode enforced stricter helmet rules following recent fatal accidents involving two-wheeler riders."
-  },
-  {
-    "id": "erode-28-37",
+    "id": "erode-29-16",
     "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Air quality remains moderate",
-    "summary": "Air quality levels in Erode remained moderate despite rising temperatures, with no major pollution alerts issued."
+    "date": "April 29, 2026",
+    "title": "Water bodies continue to dry up",
+    "summary": "Lakes and ponds in Erode district showing reduced water levels, impacting both agriculture and groundwater recharge."
   },
   {
-    "id": "erode-28-38",
-    "category": "Technology",
-    "date": "April 28, 2026",
-    "title": "Digital payment usage rises locally",
-    "summary": "Small vendors in Erode report increased adoption of digital payments as cashless transactions gain popularity."
+    "id": "erode-29-17",
+    "category": "Transport",
+    "date": "April 29, 2026",
+    "title": "Bus travel increases in summer",
+    "summary": "State transport buses in Erode experiencing increased passenger numbers as seasonal travel peaks during holidays."
   },
   {
-    "id": "erode-28-39",
+    "id": "erode-29-18",
     "category": "Public",
-    "date": "April 28, 2026",
-    "title": "Community events planned post-election",
-    "summary": "Local organizations in Erode plan cultural and social events after election activities conclude."
+    "date": "April 29, 2026",
+    "title": "Public parks crowded during evenings",
+    "summary": "Erode parks see higher evening footfall as residents avoid daytime heat and seek outdoor activities after sunset."
   },
   {
-    "id": "erode-28-40",
-    "category": "Health",
-    "date": "April 28, 2026",
-    "title": "Ambulance services on alert",
-    "summary": "Emergency services in Erode remain on alert for heatstroke and accident cases amid extreme weather conditions."
-  },
-  {
-    "id": "erode-28-41",
+    "id": "erode-29-19",
     "category": "Civic",
-    "date": "April 28, 2026",
-    "title": "Garbage clearance frequency increased",
-    "summary": "Municipal teams increased garbage collection frequency in Erode to maintain hygiene during summer months."
+    "date": "April 29, 2026",
+    "title": "Sanitation drives intensified",
+    "summary": "Municipal authorities increase garbage collection and sanitation work across Erode to maintain hygiene during hot weather."
   },
   {
-    "id": "erode-28-42",
-    "category": "Economy",
-    "date": "April 28, 2026",
-    "title": "Daily wage workers affected by heat",
-    "summary": "Construction and outdoor workers in Erode face reduced working hours due to extreme daytime temperatures."
-  },
-  {
-    "id": "erode-28-43",
-    "category": "Infrastructure",
-    "date": "April 28, 2026",
-    "title": "Streetlight maintenance ongoing",
-    "summary": "Erode Corporation carried out maintenance of streetlights to improve night visibility and safety."
-  },
-  {
-    "id": "erode-28-44",
-    "category": "Public",
-    "date": "April 28, 2026",
-    "title": "Crowds increase in temples",
-    "summary": "Local temples in Erode witnessed higher footfall as residents participated in seasonal religious activities."
-  },
-  {
-    "id": "erode-28-45",
-    "category": "Tourism",
-    "date": "April 28, 2026",
-    "title": "Short trips gain popularity locally",
-    "summary": "Erode residents increasingly opting for short weekend trips to nearby attractions amid summer holidays."
-  },
-  {
-    "id": "erode-28-46",
-    "category": "Security",
-    "date": "April 28, 2026",
-    "title": "Police monitor accident-prone zones",
-    "summary": "Authorities identified and monitored accident-prone areas in Erode to prevent further road mishaps."
-  },
-  {
-    "id": "erode-28-47",
+    "id": "erode-29-20",
     "category": "Agriculture",
-    "date": "April 28, 2026",
+    "date": "April 29, 2026",
     "title": "Livestock affected by heat stress",
-    "summary": "Farmers report livestock health concerns due to prolonged heat, prompting veterinary advisories in Erode district."
-  },
-  {
-    "id": "erode-28-48",
-    "category": "Market",
-    "date": "April 28, 2026",
-    "title": "Fruit demand rises in city markets",
-    "summary": "Demand for fruits like watermelon and mango increased significantly in Erode markets during peak summer."
-  },
-  {
-    "id": "erode-28-49",
-    "category": "Civic",
-    "date": "April 28, 2026",
-    "title": "Public urged to conserve water",
-    "summary": "Officials advised residents in Erode to reduce water wastage as supply pressures increase during summer months."
-  },
-  {
-    "id": "erode-28-50",
-    "category": "Weather",
-    "date": "April 28, 2026",
-    "title": "Wind alerts issued for region",
-    "summary": "Weather department issued advisory for strong winds in Erode district along with upcoming rainfall system."
+    "summary": "Farmers report livestock health issues in Erode due to prolonged exposure to high temperatures and limited water availability."
   }
 ]
