@@ -1,352 +1,177 @@
 [
   {
-    "id": "salem-28-1",
-    "category": "Election",
-    "date": "April 28, 2026",
-    "title": "EVMs secured under tight guard in Salem",
-    "summary": "Sealed EVMs and VVPATs moved to strong rooms with three-layer security and CCTV monitoring ahead of counting scheduled on May 4."
+    "id": "salem-29-1",
+    "category": "Security",
+    "date": "April 29, 2026",
+    "title": "Hoax bomb threat triggers search at Salem collectorate",
+    "summary": "Salem collector office received hoax bomb threat email; police and bomb squad conducted intensive searches with sniffer dogs, no explosives found."
   },
   {
-    "id": "salem-28-2",
-    "category": "Election",
-    "date": "April 28, 2026",
-    "title": "High voter turnout recorded across Salem district",
-    "summary": "Officials reported around 90% voter turnout in Salem constituencies, reflecting strong public participation during recent Tamil Nadu assembly elections."
+    "id": "salem-29-2",
+    "category": "Security",
+    "date": "April 29, 2026",
+    "title": "Fourth bomb threat reported this year in Salem",
+    "summary": "Authorities confirmed repeated hoax threats targeting Salem collectorate this year, prompting heightened vigilance and ongoing investigation into the source."
   },
   {
-    "id": "salem-28-3",
+    "id": "salem-29-3",
+    "category": "Security",
+    "date": "April 29, 2026",
+    "title": "Bomb disposal squads deployed after threat alert",
+    "summary": "Specialized bomb detection teams and sniffer dogs were deployed across Salem collectorate premises following threat, ensuring safety and clearing sensitive zones."
+  },
+  {
+    "id": "salem-29-4",
+    "category": "Infrastructure",
+    "date": "April 29, 2026",
+    "title": "Collector inspects counting centre arrangements",
+    "summary": "Salem district collector conducted inspection of vote counting centers, reviewing infrastructure, security arrangements and logistics ahead of counting process."
+  },
+  {
+    "id": "salem-29-5",
+    "category": "Election",
+    "date": "April 29, 2026",
+    "title": "Final phase polling concludes across Tamil Nadu",
+    "summary": "Voting concludes statewide including Salem constituencies, marking end of polling phase with focus shifting to counting preparations and political analysis."
+  },
+  {
+    "id": "salem-29-6",
     "category": "Politics",
-    "date": "April 28, 2026",
-    "title": "EPS meets candidates in Salem post polling",
-    "summary": "AIADMK leader Edappadi Palaniswami met Salem candidates, reviewed campaign efforts and discussed alliance coordination following completion of polling."
+    "date": "April 29, 2026",
+    "title": "Exit polls generate buzz across Salem",
+    "summary": "Exit poll discussions dominate Salem political circles, indicating competitive race between major alliances and possible shifts in traditional voting patterns."
   },
   {
-    "id": "salem-28-4",
-    "category": "Security",
-    "date": "April 28, 2026",
-    "title": "Multi-layer security deployed at counting centers",
-    "summary": "Central forces and state police deployed across Salem strong rooms with strict entry protocols and continuous surveillance until vote counting concludes."
+    "id": "salem-29-7",
+    "category": "Politics",
+    "date": "April 29, 2026",
+    "title": "AIADMK faces crucial test in western districts",
+    "summary": "Western Tamil Nadu including Salem seen as key battleground where AIADMK performance will influence overall state election outcome."
   },
   {
-    "id": "salem-28-5",
-    "category": "Crime",
-    "date": "April 28, 2026",
-    "title": "Polling booth clash investigated by police",
-    "summary": "Authorities continue inquiry into altercation between party agents and voters during polling at a Salem booth, ensuring election code compliance."
+    "id": "salem-29-8",
+    "category": "Politics",
+    "date": "April 29, 2026",
+    "title": "DMK alliance shows edge in projections",
+    "summary": "Early exit poll trends suggest advantage for DMK-led alliance, though local factors in Salem may influence final results significantly."
   },
   {
-    "id": "salem-28-6",
-    "category": "Weather",
-    "date": "April 28, 2026",
-    "title": "Heatwave concerns rise across Salem region",
-    "summary": "Rising temperatures nearing 40°C raise public health concerns, with officials advising precautions during peak summer conditions in interior Tamil Nadu districts."
-  },
-  {
-    "id": "salem-28-7",
-    "category": "Health",
-    "date": "April 28, 2026",
-    "title": "Heat stress risks flagged during election season",
-    "summary": "Experts warn prolonged outdoor exposure during election activities increases heatstroke risks, urging better public safety measures in hot conditions."
-  },
-  {
-    "id": "salem-28-8",
-    "category": "Security",
-    "date": "April 28, 2026",
-    "title": "Police honor officer who died on poll duty",
-    "summary": "Special Sub-Inspector from Salem district who collapsed during election duty was honored with full state police rites."
-  },
-  {
-    "id": "salem-28-9",
-    "category": "Civic",
-    "date": "April 28, 2026",
-    "title": "Traffic movement monitored during EVM transport",
-    "summary": "Authorities tracked convoy movement transporting voting machines across Salem using GPS and ensured uninterrupted traffic flow during operations."
-  },
-  {
-    "id": "salem-28-10",
-    "category": "Infrastructure",
-    "date": "April 28, 2026",
-    "title": "Strong rooms equipped with surveillance systems",
-    "summary": "Salem counting centers installed high-security cameras and floodlighting systems to maintain strict monitoring and prevent tampering of election materials."
-  },
-  {
-    "id": "salem-28-11",
-    "category": "Public",
-    "date": "April 28, 2026",
-    "title": "Political activity slows after campaign period",
-    "summary": "Following end of election campaigning, Salem city witnessed reduced political gatherings as mandated silence period was enforced."
-  },
-  {
-    "id": "salem-28-12",
-    "category": "Transport",
-    "date": "April 28, 2026",
-    "title": "Police escort ensures safe transport of EVMs",
-    "summary": "Armed police escorted EVM convoys across Salem district to prevent disruptions and ensure secure transfer to counting centers."
-  },
-  {
-    "id": "salem-28-13",
-    "category": "Civic",
-    "date": "April 28, 2026",
-    "title": "Election officials maintain entry logs at centers",
-    "summary": "Authorities implemented strict entry and exit logs at Salem strong rooms to monitor all personnel accessing secured election storage facilities."
-  },
-  {
-    "id": "salem-28-14",
-    "category": "Security",
-    "date": "April 28, 2026",
-    "title": "Political party agents monitor strong rooms",
-    "summary": "Representatives from major parties stationed outside Salem counting centers to oversee safety and transparency of stored voting machines."
-  },
-  {
-    "id": "salem-28-15",
+    "id": "salem-29-9",
     "category": "Election",
-    "date": "April 28, 2026",
-    "title": "Counting preparations underway in Salem",
-    "summary": "District officials finalize arrangements for vote counting scheduled in early May with strict adherence to election commission protocols."
+    "date": "April 29, 2026",
+    "title": "Strict monitoring continues at EVM strong rooms",
+    "summary": "Round-the-clock security continues at Salem EVM storage centers with CCTV surveillance and restricted access until counting day."
   },
   {
-    "id": "salem-28-16",
+    "id": "salem-29-10",
+    "category": "Security",
+    "date": "April 29, 2026",
+    "title": "Police increase surveillance after threat incident",
+    "summary": "Following bomb threat, Salem police intensified surveillance across government offices and key installations to prevent potential security risks."
+  },
+  {
+    "id": "salem-29-11",
     "category": "Weather",
-    "date": "April 28, 2026",
-    "title": "Humidity adds to heat discomfort in Salem",
-    "summary": "High humidity levels combined with rising temperatures intensify discomfort for residents across Salem and surrounding interior districts."
+    "date": "April 29, 2026",
+    "title": "Heatwave conditions persist in Salem region",
+    "summary": "Salem continues to experience high temperatures nearing 40°C, raising health concerns and affecting daily routines across the district."
   },
   {
-    "id": "salem-28-17",
-    "category": "Public",
-    "date": "April 28, 2026",
-    "title": "Residents advised to avoid peak sun hours",
-    "summary": "Health officials urge Salem residents to limit outdoor exposure during midday hours due to increasing risk of heat-related illnesses."
-  },
-  {
-    "id": "salem-28-18",
-    "category": "Economy",
-    "date": "April 28, 2026",
-    "title": "Local businesses observe post-election lull",
-    "summary": "Retail and commercial activity in Salem slows slightly after elections as political spending and campaign-related demand decline."
-  },
-  {
-    "id": "salem-28-19",
-    "category": "Public",
-    "date": "April 28, 2026",
-    "title": "Public gatherings decrease after polling",
-    "summary": "Salem witnesses reduced crowd movement and quieter streets following completion of election activities across the district."
-  },
-  {
-    "id": "salem-28-20",
-    "category": "Infrastructure",
-    "date": "April 28, 2026",
-    "title": "Floodlights installed at security zones",
-    "summary": "Authorities installed floodlights at Salem election storage facilities to ensure continuous visibility and enhanced nighttime monitoring."
-  },
-  {
-    "id": "salem-28-21",
-    "category": "Security",
-    "date": "April 28, 2026",
-    "title": "CCTV monitoring intensified at key locations",
-    "summary": "Continuous CCTV surveillance activated at Salem counting centers to ensure transparency and prevent unauthorized access."
-  },
-  {
-    "id": "salem-28-22",
-    "category": "Transport",
-    "date": "April 28, 2026",
-    "title": "Vehicle checks increased across Salem routes",
-    "summary": "Police heightened vehicle inspections in Salem to ensure law and order during post-election period and prevent illegal transport."
-  },
-  {
-    "id": "salem-28-23",
-    "category": "Security",
-    "date": "April 28, 2026",
-    "title": "Armed patrols deployed near election centers",
-    "summary": "Security personnel conduct regular patrols around Salem counting centers to deter any untoward incidents."
-  },
-  {
-    "id": "salem-28-24",
+    "id": "salem-29-12",
     "category": "Health",
-    "date": "April 28, 2026",
-    "title": "Doctors warn of rising heatstroke cases",
-    "summary": "Medical professionals in Salem caution increasing heatstroke risks as temperatures rise, urging hydration and precautionary measures."
+    "date": "April 29, 2026",
+    "title": "Heat-related illness risk rises in Salem",
+    "summary": "Medical experts warn of increasing heatstroke cases due to prolonged exposure, advising hydration and limiting outdoor activities during peak hours."
   },
   {
-    "id": "salem-28-25",
-    "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Heat conditions impact daily routines",
-    "summary": "Extreme heat affects outdoor work schedules and daily routines in Salem, prompting adjustments by workers and businesses."
-  },
-  {
-    "id": "salem-28-26",
+    "id": "salem-29-13",
     "category": "Public",
-    "date": "April 28, 2026",
-    "title": "Early morning activity increases in city",
-    "summary": "Residents shift outdoor activities to early mornings and evenings to avoid intense daytime heat across Salem."
+    "date": "April 29, 2026",
+    "title": "Residents adjust routines amid extreme heat",
+    "summary": "People in Salem shift daily schedules to early mornings and evenings to avoid harsh afternoon temperatures."
   },
   {
-    "id": "salem-28-27",
+    "id": "salem-29-14",
+    "category": "Transport",
+    "date": "April 29, 2026",
+    "title": "Traffic monitored near collectorate after alert",
+    "summary": "Traffic movement around Salem collector office regulated temporarily during security checks following bomb threat to ensure smooth operations."
+  },
+  {
+    "id": "salem-29-15",
+    "category": "Civic",
+    "date": "April 29, 2026",
+    "title": "Authorities issue caution after hoax threat",
+    "summary": "Officials urge public to remain calm and avoid panic after confirmation that bomb threat at Salem collectorate was a hoax."
+  },
+  {
+    "id": "salem-29-16",
     "category": "Security",
-    "date": "April 28, 2026",
-    "title": "Restricted access enforced at strong rooms",
-    "summary": "Only authorized officials allowed entry into Salem election storage areas under strict supervision and verification protocols."
+    "date": "April 29, 2026",
+    "title": "Investigation launched into email threat source",
+    "summary": "Cyber teams begin investigation to trace origin of threatening email sent to Salem collector office as part of ongoing security probe."
   },
   {
-    "id": "salem-28-28",
+    "id": "salem-29-17",
+    "category": "Public",
+    "date": "April 29, 2026",
+    "title": "Government offices resume normal operations",
+    "summary": "After security clearance, Salem collectorate resumed regular operations with reinforced monitoring and precautionary measures."
+  },
+  {
+    "id": "salem-29-18",
+    "category": "Infrastructure",
+    "date": "April 29, 2026",
+    "title": "Security systems reviewed at key offices",
+    "summary": "Authorities review surveillance and emergency response systems at Salem government buildings following repeated threat incidents."
+  },
+  {
+    "id": "salem-29-19",
+    "category": "Security",
+    "date": "April 29, 2026",
+    "title": "Sniffer dogs deployed across premises",
+    "summary": "Specially trained sniffer dogs conducted thorough checks at Salem collectorate premises ensuring no suspicious objects remained after threat alert."
+  },
+  {
+    "id": "salem-29-20",
     "category": "Election",
-    "date": "April 28, 2026",
-    "title": "Party cadres stationed outside centers",
-    "summary": "Political party members remain stationed outside counting centers in Salem to observe handling of EVMs."
+    "date": "April 29, 2026",
+    "title": "Focus shifts to vote counting preparations",
+    "summary": "With polling completed, Salem district officials focus on final preparations for vote counting scheduled in early May."
   },
   {
-    "id": "salem-28-29",
-    "category": "Civic",
-    "date": "April 28, 2026",
-    "title": "Officials maintain transparency measures",
-    "summary": "Election authorities in Salem implement strict protocols to ensure transparency and accountability in post-poll processes."
+    "id": "salem-29-21",
+    "category": "Politics",
+    "date": "April 29, 2026",
+    "title": "Regional leaders await exit poll outcomes",
+    "summary": "Political leaders in Salem closely monitor exit poll results to assess performance and plan next steps ahead of official counting."
   },
   {
-    "id": "salem-28-30",
-    "category": "Weather",
-    "date": "April 28, 2026",
-    "title": "Interior districts face rising temperatures",
-    "summary": "Salem and nearby districts experience increasing temperatures, with forecasts indicating further heat escalation in coming days."
-  },
-  {
-    "id": "salem-28-31",
-    "category": "Public",
-    "date": "April 28, 2026",
-    "title": "Citizens advised hydration amid heat",
-    "summary": "Health authorities emphasize importance of hydration and protective measures for Salem residents during hot weather conditions."
-  },
-  {
-    "id": "salem-28-32",
-    "category": "Infrastructure",
-    "date": "April 28, 2026",
-    "title": "Security barricades installed near centers",
-    "summary": "Barricades placed around Salem counting locations to regulate movement and maintain secure perimeters."
-  },
-  {
-    "id": "salem-28-33",
-    "category": "Transport",
-    "date": "April 28, 2026",
-    "title": "Movement restrictions near election zones",
-    "summary": "Traffic restrictions implemented around Salem counting centers to ensure safety and smooth operations."
-  },
-  {
-    "id": "salem-28-34",
+    "id": "salem-29-22",
     "category": "Security",
-    "date": "April 28, 2026",
-    "title": "Three-tier security system activated",
-    "summary": "Central forces, state police and local personnel form layered security system at Salem election storage facilities."
+    "date": "April 29, 2026",
+    "title": "Police maintain high alert across district",
+    "summary": "High alert continues across Salem with increased patrolling and monitoring at sensitive locations after threat incident."
   },
   {
-    "id": "salem-28-35",
-    "category": "Public",
-    "date": "April 28, 2026",
-    "title": "Post-election calm returns to Salem",
-    "summary": "City returns to routine activities after intense election period, with reduced political gatherings and quieter public spaces."
-  },
-  {
-    "id": "salem-28-36",
-    "category": "Economy",
-    "date": "April 28, 2026",
-    "title": "Small vendors report reduced sales",
-    "summary": "Street vendors in Salem report slight drop in sales after election-related spending and campaign activities concluded."
-  },
-  {
-    "id": "salem-28-37",
-    "category": "Lifestyle",
-    "date": "April 28, 2026",
-    "title": "Residents adapt to summer routines",
-    "summary": "People adjust daily schedules, opting for indoor activities during peak heat hours across Salem city."
-  },
-  {
-    "id": "salem-28-38",
-    "category": "Health",
-    "date": "April 28, 2026",
-    "title": "Hospitals prepare for summer cases",
-    "summary": "Healthcare facilities in Salem ready to handle increase in heat-related illnesses as temperatures continue rising."
-  },
-  {
-    "id": "salem-28-39",
+    "id": "salem-29-23",
     "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Extreme heat affects outdoor workers",
-    "summary": "Construction and daily wage workers in Salem face challenges due to high temperatures and prolonged sun exposure."
+    "date": "April 29, 2026",
+    "title": "Rising temperatures impact outdoor workers",
+    "summary": "Extreme heat conditions continue to affect construction and daily wage workers across Salem, reducing productivity during daytime hours."
   },
   {
-    "id": "salem-28-40",
+    "id": "salem-29-24",
+    "category": "Health",
+    "date": "April 29, 2026",
+    "title": "Hospitals stay prepared for summer surge",
+    "summary": "Healthcare facilities in Salem remain on alert for increased cases of dehydration and heat-related illnesses during peak summer days."
+  },
+  {
+    "id": "salem-29-25",
     "category": "Civic",
-    "date": "April 28, 2026",
-    "title": "Authorities issue heat safety advisories",
-    "summary": "Local administration advises precautionary measures including hydration, protective clothing and avoiding direct sunlight exposure."
-  },
-  {
-    "id": "salem-28-41",
-    "category": "Public",
-    "date": "April 28, 2026",
-    "title": "Evening markets see higher footfall",
-    "summary": "Markets in Salem witness increased evening activity as residents avoid daytime heat and prefer cooler hours."
-  },
-  {
-    "id": "salem-28-42",
-    "category": "Transport",
-    "date": "April 28, 2026",
-    "title": "Public transport usage shifts timing",
-    "summary": "Commuters in Salem adjust travel schedules, preferring early morning and late evening public transport services."
-  },
-  {
-    "id": "salem-28-43",
-    "category": "Security",
-    "date": "April 28, 2026",
-    "title": "Round-the-clock monitoring continues",
-    "summary": "Security agencies maintain continuous monitoring of election storage facilities in Salem until counting process concludes."
-  },
-  {
-    "id": "salem-28-44",
-    "category": "Public",
-    "date": "April 28, 2026",
-    "title": "Residents remain alert post elections",
-    "summary": "Public urged to report any suspicious activity around election centers to maintain peaceful environment in Salem."
-  },
-  {
-    "id": "salem-28-45",
-    "category": "Infrastructure",
-    "date": "April 28, 2026",
-    "title": "Temporary facilities set up for counting",
-    "summary": "Authorities establish temporary infrastructure at Salem counting centers to manage personnel and election logistics efficiently."
-  },
-  {
-    "id": "salem-28-46",
-    "category": "Education",
-    "date": "April 28, 2026",
-    "title": "Schools used as election storage sites",
-    "summary": "Several educational institutions in Salem repurposed as secure storage locations for EVMs and election materials."
-  },
-  {
-    "id": "salem-28-47",
-    "category": "Security",
-    "date": "April 28, 2026",
-    "title": "Police maintain strict vigilance",
-    "summary": "Law enforcement agencies in Salem continue heightened vigilance to ensure peaceful post-election environment."
-  },
-  {
-    "id": "salem-28-48",
-    "category": "Public",
-    "date": "April 28, 2026",
-    "title": "Community resumes normal activities",
-    "summary": "Residents gradually return to routine life after election period, with reduced political presence across Salem neighborhoods."
-  },
-  {
-    "id": "salem-28-49",
-    "category": "Weather",
-    "date": "April 28, 2026",
-    "title": "Forecast indicates hotter days ahead",
-    "summary": "Meteorological predictions suggest Salem may experience further rise in temperatures entering early May period."
-  },
-  {
-    "id": "salem-28-50",
-    "category": "Public",
-    "date": "April 28, 2026",
-    "title": "Authorities stress calm and vigilance",
-    "summary": "Officials urge Salem residents to maintain calm and cooperate with security measures during post-election period."
+    "date": "April 29, 2026",
+    "title": "Officials stress emergency preparedness",
+    "summary": "District administration emphasizes readiness for emergencies and urges departments to respond swiftly to any security or weather-related incidents."
   }
 ]
