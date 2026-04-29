@@ -1,72 +1,107 @@
 [
   {
-    "id": "dharmapuri-28-1",
-    "category": "Civic",
-    "date": "April 28, 2026",
-    "title": "Villagers demand mobile towers",
-    "summary": "Residents in Molaiyanur panchayat demand mobile towers citing poor signal affecting education access and emergency communication in multiple remote villages."
+    "id": "dharmapuri-29-1",
+    "category": "Transport",
+    "date": "April 29, 2026",
+    "title": "Tree falls on bus, traffic hit",
+    "summary": "A tamarind tree fell on a government bus near Uppalam, damaging the vehicle and blocking Dharmapuri–Palacode road traffic for over two hours."
   },
   {
-    "id": "dharmapuri-28-2",
+    "id": "dharmapuri-29-2",
+    "category": "Politics",
+    "date": "April 29, 2026",
+    "title": "Anbumani slams liquor inaction",
+    "summary": "PMK leader Anbumani Ramadoss criticised government inaction on illegal liquor shops after villagers attacked outlets in Podur near Pennagaram."
+  },
+  {
+    "id": "dharmapuri-29-3",
     "category": "Crime",
+    "date": "April 29, 2026",
+    "title": "Villagers target illicit liquor outlets",
+    "summary": "Residents vandalised multiple illegal liquor shops in Podur village, exposing long-standing enforcement gaps and triggering fresh police monitoring in the region."
+  },
+  {
+    "id": "dharmapuri-29-4",
+    "category": "Education",
     "date": "April 28, 2026",
-    "title": "Illegal liquor shops vandalised",
-    "summary": "Villagers in Bodur near Pennagaram vandalised illegal liquor outlets after repeated complaints, leading to police arrests and investigation into unauthorized alcohol sales."
+    "title": "Child injured in wall collapse",
+    "summary": "A three-year-old girl was seriously injured after a damaged school compound wall collapsed in Vellichandai, raising concerns over rural school infrastructure safety."
   },
   {
-    "id": "dharmapuri-28-3",
-    "category": "Health",
-    "date": "April 26, 2026",
-    "title": "Health camp held after demand",
-    "summary": "Authorities conducted a health camp in Karapadi village following prolonged public demand, providing first-time medical consultations amid lack of functioning anganwadi services."
+    "id": "dharmapuri-29-5",
+    "category": "Civic",
+    "date": "April 29, 2026",
+    "title": "Traffic restored after obstruction",
+    "summary": "Local residents cleared a fallen tree blocking a key route, restoring normal vehicle movement after hours of disruption in Dharmapuri district."
   },
   {
-    "id": "dharmapuri-28-4",
-    "category": "Election",
-    "date": "April 24, 2026",
-    "title": "Election contest intensifies locally",
-    "summary": "Dharmapuri constituency witnesses intensified political activity as major candidates campaign actively, highlighting caste dynamics and regional voter mobilization strategies."
+    "id": "dharmapuri-29-6",
+    "category": "Security",
+    "date": "April 29, 2026",
+    "title": "Police increase vigilance",
+    "summary": "Police intensified monitoring in Pennagaram region following unrest over illicit liquor shops and growing public pressure for strict enforcement actions."
   },
   {
-    "id": "dharmapuri-28-5",
-    "category": "Economy",
-    "date": "April 28, 2026",
-    "title": "Fuel prices rise in district",
-    "summary": "Petrol price in Dharmapuri increased to around ₹102.29 per litre, reflecting ongoing fuel cost fluctuations impacting daily commuters and local transportation expenses."
+    "id": "dharmapuri-29-7",
+    "category": "Public",
+    "date": "April 29, 2026",
+    "title": "Public anger over liquor trade",
+    "summary": "Continued illegal liquor sales triggered widespread anger among villagers, who demanded stronger government intervention and stricter local enforcement."
   },
   {
-    "id": "dharmapuri-28-6",
-    "category": "Election",
-    "date": "April 24, 2026",
-    "title": "Village boycotts polling",
-    "summary": "Residents of K Eechampadi village boycotted assembly elections protesting delay in relocating a government school despite repeated appeals to authorities."
-  },
-  {
-    "id": "dharmapuri-28-7",
-    "category": "Technology",
-    "date": "April 24, 2026",
-    "title": "Robots assist first-time voters",
-    "summary": "Innovative robots welcomed and guided first-time voters at a Dharmapuri polling booth, improving engagement and awareness during recent assembly election process."
-  },
-  {
-    "id": "dharmapuri-28-8",
-    "category": "Weather",
-    "date": "April 28, 2026",
-    "title": "Rain forecast for western TN",
-    "summary": "Weather department forecasts heavy rain and strong winds across western Tamil Nadu, potentially affecting Dharmapuri region with localized showers and changing conditions."
-  },
-  {
-    "id": "dharmapuri-28-9",
+    "id": "dharmapuri-29-8",
     "category": "Infrastructure",
     "date": "April 28, 2026",
-    "title": "Connectivity concerns raised",
-    "summary": "Poor telecom infrastructure in rural Dharmapuri continues to disrupt online education and emergency response, prompting renewed calls for infrastructure upgrades."
+    "title": "School safety concerns rise",
+    "summary": "The wall collapse incident has prompted officials to review structural safety of government school buildings across Dharmapuri district."
   },
   {
-    "id": "dharmapuri-28-10",
-    "category": "Public",
+    "id": "dharmapuri-29-9",
+    "category": "Transport",
+    "date": "April 29, 2026",
+    "title": "Bus services briefly disrupted",
+    "summary": "Government bus services on Dharmapuri–Palacode route were temporarily disrupted following a tree fall incident affecting scheduled trips."
+  },
+  {
+    "id": "dharmapuri-29-10",
+    "category": "Weather",
+    "date": "April 29, 2026",
+    "title": "Strong winds linked to incident",
+    "summary": "Strong winds are suspected to have caused the roadside tree collapse, prompting caution for commuters amid unstable weather conditions."
+  },
+  {
+    "id": "dharmapuri-29-11",
+    "category": "Health",
     "date": "April 28, 2026",
-    "title": "Public unrest over liquor issue",
-    "summary": "Growing frustration over illegal liquor sales triggered community action in rural Dharmapuri, highlighting enforcement gaps and rising public dissatisfaction with authorities."
+    "title": "Child hospitalised after accident",
+    "summary": "The injured child from Vellichandai wall collapse was admitted to hospital, with doctors monitoring condition following serious injuries."
+  },
+  {
+    "id": "dharmapuri-29-12",
+    "category": "Civic",
+    "date": "April 29, 2026",
+    "title": "Villagers assist in clearing road",
+    "summary": "Local residents took initiative to remove fallen tree debris, helping authorities restore normal traffic flow quickly on a busy route."
+  },
+  {
+    "id": "dharmapuri-29-13",
+    "category": "Crime",
+    "date": "April 29, 2026",
+    "title": "Probe into illegal liquor expands",
+    "summary": "Police launched expanded investigation into illicit liquor networks after vandalism incidents exposed long-running illegal operations in rural areas."
+  },
+  {
+    "id": "dharmapuri-29-14",
+    "category": "Politics",
+    "date": "April 29, 2026",
+    "title": "Opposition criticises enforcement failure",
+    "summary": "Opposition leaders accused authorities of ignoring repeated complaints about illegal liquor trade, calling for accountability and stronger governance measures."
+  },
+  {
+    "id": "dharmapuri-29-15",
+    "category": "Public",
+    "date": "April 29, 2026",
+    "title": "Community protests escalate",
+    "summary": "Villagers’ direct action against illegal shops signals rising frustration and lack of trust in local enforcement mechanisms."
   }
 ]
