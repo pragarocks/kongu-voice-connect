@@ -1,243 +1,107 @@
 [
   {
-    "id": "cbe-28-1",
-    "featured": true,
-    "category": "Election",
-    "date": "April 28, 2026",
-   "title": "Coimbatore Expands Direct Farm Network with 8th Outlet Launch",
-  "summary": "The new outlet enables farmers to sell directly to consumers, improving profits and strengthening local agricultural markets."
-  },
-  {
-    "id": "cbe-28-2",
-    "featured": true,
-    "category": "Election",
-    "date": "April 28, 2026",
-    "title": "Coimbatore City Constituency: DMK Candidate Wins by 45,000 Votes",
-    "summary": "DMK candidate defeats textile magnate-backed independent by substantial margin of 45,000 votes in closely watched urban constituency."
-  },
-  {
-    "id": "cbe-28-3",
-    "featured": true,
-    "category": "Politics",
-    "date": "April 28, 2026",
-    "title": "DMK Victory Celebration: Thousands Parade on Avinashi Road",
-    "summary": "DMK supporters organized massive victory procession on Avinashi Road with drums, slogans, and festive atmosphere lasting till late evening."
-  },
-  {
-    "id": "cbe-28-4",
-    "category": "Election",
-    "date": "April 28, 2026",
-    "title": "Coimbatore Rural Constituency: Independent Candidate Stuns Establishment",
-    "summary": "Independent farmer candidate backed by agricultural unions defeats both DMK and NDA in rural constituency with 38% vote share."
-  },
-  {
-    "id": "cbe-28-5",
-    "category": "Politics",
-    "date": "April 28, 2026",
-    "title": "BJP Demands Recount in Two Constituencies Over Alleged Irregularities",
-    "summary": "BJP filed formal complaint with election commission alleging counting irregularities in Coimbatore North and Coimbatore South constituencies."
-  },
-  {
-    "id": "cbe-28-6",
-    "category": "Election",
-    "date": "April 28, 2026",
-    "title": "Election Commission Accepts Recount Request; Results on May 1",
-    "summary": "Election commission agreed to manual recount of votes in disputed constituencies with final results expected by May 1, 2026."
-  },
-  {
-    "id": "cbe-28-7",
+    "id": "cbe-29-1",
     "category": "Business",
-    "date": "April 28, 2026",
-    "title": "Textile Industry Reacts Positively to DMK Victory; Stock Rally Continues",
-    "summary": "Coimbatore textile stocks surge 3.2% following DMK's pro-labor and pro-worker policies announcement. Trading volume hits 3-year high."
+    "date": "April 29, 2026",
+    "title": "New farm outlet opens in Thondamuthur",
+    "summary": "Eighth direct farm outlet launched, supporting 750 farmers, offering cheaper produce and improving farm incomes by eliminating intermediaries in Coimbatore region."
   },
   {
-    "id": "cbe-28-8",
-    "category": "Business",
-    "date": "April 28, 2026",
-    "title": "Garment Exporters Seek Meeting with Newly Elected DMK Representative",
-    "summary": "Association of Garment Exporters requested urgent meeting with DMK-elected representative to discuss export promotion and duty benefits."
+    "id": "cbe-29-2",
+    "category": "Civic",
+    "date": "April 29, 2026",
+    "title": "TASMAC shops shut amid staff protest",
+    "summary": "Liquor outlets faced closures and delays as staff protested suspension threats linked to new bottle buy-back policy implementation across Coimbatore."
   },
   {
-    "id": "cbe-28-9",
+    "id": "cbe-29-3",
+    "category": "Agriculture",
+    "date": "April 29, 2026",
+    "title": "Farmers raise alarm over elephant menace",
+    "summary": "Farmers petition forest officials citing crop damage and fear from elephant intrusions, demanding drone monitoring and action against interference from activists."
+  },
+  {
+    "id": "cbe-29-4",
     "category": "Transport",
-    "date": "April 28, 2026",
-    "title": "Traffic Congestion Near GMC Counting Centre: Police Deploy 100+ Personnel",
-    "summary": "Heavy traffic congestion occurred near Government Medical College counting centre as supporters gathered for victory announcements. Police deployed extensive traffic management."
+    "date": "April 29, 2026",
+    "title": "Six new train services proposed",
+    "summary": "Railways propose six additional services from Mettupalayam, aiming to improve connectivity and expand regional travel options by August 2026."
   },
   {
-    "id": "cbe-28-10",
-    "category": "Law & Order",
-    "date": "April 28, 2026",
-    "title": "Post-Election Violence: 15 Arrested in Political Clashes in Peenya",
-    "summary": "Police arrested 15 people involved in minor scuffles between competing party supporters in Peenya industrial area. No serious injuries reported."
-  },
-  {
-    "id": "cbe-28-11",
+    "id": "cbe-29-5",
     "category": "Crime",
-    "date": "April 28, 2026",
-    "title": "Cyber Crime Unit Arrests Online Election Poll Fraudsters",
-    "summary": "Cyber crime wing arrested 8 individuals running fake online exit poll websites to mislead voters during election period."
+    "date": "April 29, 2026",
+    "title": "Elephant attack sparks violence",
+    "summary": "Villagers attacked forest officials after a man was killed by a wild elephant, highlighting rising human-wildlife conflict in Coimbatore district."
   },
   {
-    "id": "cbe-28-12",
-    "category": "Health",
-    "date": "April 28, 2026",
-    "title": "Heat-Related Illness Cases Rise 200% in City Hospitals",
-    "summary": "Coimbatore hospitals reported 450+ heat-related illness cases on April 28, including heat stroke, dehydration, and sunburn incidents."
+    "id": "cbe-29-6",
+    "category": "Public",
+    "date": "April 29, 2026",
+    "title": "LPG tanker strike withdrawn",
+    "summary": "Lorry owners ended strike after assurance on rental dues, restoring LPG supply movement affecting parts of western Tamil Nadu including Coimbatore."
   },
   {
-    "id": "cbe-28-13",
-    "category": "Health",
-    "date": "April 28, 2026",
-    "title": "City Corporation Issues Heatwave Advisory; Warns of Peak Temperatures",
-    "summary": "Coimbatore corporation issued alert predicting temperatures may touch 42°C on April 29. Advised public to avoid outdoor activities between 11 AM to 4 PM."
-  },
-  {
-    "id": "cbe-28-14",
-    "category": "Weather",
-    "date": "April 28, 2026",
-    "title": "IMD Updates: Thunderstorm Possible from April 30 Evening",
-    "summary": "India Meteorological Department updated forecast predicting thunderstorm and heavy rainfall from April 30 evening onwards."
-  },
-  {
-    "id": "cbe-28-15",
-    "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Air Quality Index Reaches 'Moderate' Level; Concerns Over Industrial Emissions",
-    "summary": "Coimbatore AQI stood at 156 (Moderate category). Environmental groups attributed rise to industrial emissions and vehicular pollution."
-  },
-  {
-    "id": "cbe-28-16",
-    "category": "Water",
-    "date": "April 28, 2026",
-    "title": "Water Supply Crisis Looms: Bhavanisagar Reservoir Level Drops Below 40%",
-    "summary": "Bhavanisagar reservoir water level dropped to 38.5%, raising concerns about water availability for city's growing population during summer."
-  },
-  {
-    "id": "cbe-28-17",
-    "category": "Infrastructure",
-    "date": "April 28, 2026",
-    "title": "City Council Approves Emergency Water Management Plan for Summer",
-    "summary": "Coimbatore Municipal Corporation approved emergency water management plan including rotational supply and groundwater tapping from rural zones."
-  },
-  {
-    "id": "cbe-28-18",
-    "category": "Education",
-    "date": "April 28, 2026",
-    "title": "Schools Resume After Elections; 5,000+ Students Take Board Exams",
-    "summary": "Coimbatore schools reopened after election holidays with Class 10 and 12 students attending board examinations across 150 exam centers."
-  },
-  {
-    "id": "cbe-28-19",
+    "id": "cbe-29-7",
     "category": "Sports",
-    "date": "April 28, 2026",
-    "title": "Junior Hockey Tournament Day 1: Coimbatore Academy Wins Both Matches",
-    "summary": "Coimbatore Academy defeated Madurai Academy 4-2 and Salem Academy 3-1 on opening day of state-level U-19 hockey championship."
+    "date": "April 29, 2026",
+    "title": "State hockey tournament begins",
+    "summary": "Junior inter-district hockey championship featuring 700 players kicks off in Coimbatore, showcasing emerging talent across Tamil Nadu."
   },
   {
-    "id": "cbe-28-20",
+    "id": "cbe-29-8",
     "category": "Sports",
-    "date": "April 28, 2026",
-    "title": "Badminton: Indian Women's Team Qualifies for Uber Cup Semifinals",
-    "summary": "India defeated Malaysia 3-2 in Uber Cup quarterfinals. Indian team advancing to semifinals scheduled for May 2."
+    "date": "April 29, 2026",
+    "title": "Suguna Trophy hosts 700 players",
+    "summary": "Suguna Trophy 2026 tournament draws 35 teams to Coimbatore and Udumalpet, boosting local sports engagement and youth participation."
   },
   {
-    "id": "cbe-28-21",
-    "category": "Business",
-    "date": "April 28, 2026",
-    "title": "L&T Facility Opening Postponed to May 5 Due to Election-Related Delays",
-    "summary": "Larsen & Toubro announced postponement of B2B electronics facility inauguration from April 28 to May 5 citing election-related administrative delays."
+    "id": "cbe-29-9",
+    "category": "Civic",
+    "date": "April 29, 2026",
+    "title": "Bottle buyback scheme rollout issues",
+    "summary": "Dual-scan liquor bottle return system faces resistance from staff citing increased workload and lack of infrastructure in Coimbatore outlets."
   },
   {
-    "id": "cbe-28-22",
-    "category": "Entertainment",
-    "date": "April 28, 2026",
-    "title": "Dhanush Film 'Kara' Breaks Records: ₹5 Crore Opening in Tamil Nadu",
-    "summary": "Actor Dhanush's film 'Kara' collected ₹5 crore in opening weekend across Tamil Nadu with strong performance in Coimbatore and Chennai."
-  },
-  {
-    "id": "cbe-28-23",
-    "category": "Culture",
-    "date": "April 28, 2026",
-    "title": "Museum Exhibition Celebrates Coimbatore's Textile Heritage",
-    "summary": "Coimbatore Art Museum opened special exhibition featuring 200 artifacts showcasing 300 years of textile manufacturing history in the region."
-  },
-  {
-    "id": "cbe-28-24",
-    "category": "Tourism",
-    "date": "April 28, 2026",
-    "title": "Nilgiris Tourism: Visitor Numbers Down 40% Due to Parsons Valley Fire",
-    "summary": "Tourism numbers to Nilgiris from Coimbatore dropped 40% as many tourists canceled tours due to ongoing Parsons Valley forest fire."
-  },
-  {
-    "id": "cbe-28-25",
-    "category": "Social",
-    "date": "April 28, 2026",
-    "title": "NGOs Distribute Free Water and Electrolyte Drinks to Vulnerable Populations",
-    "summary": "Multiple NGOs distributed free bottled water and electrolyte drinks to homeless and vulnerable population in city during extreme heatwave."
-  },
-  {
-    "id": "cbe-28-26",
-    "category": "Community",
-    "date": "April 28, 2026",
-    "title": "Residents Demand Better Cooling Shelters; Corporation Establishes 50 Relief Centers",
-    "summary": "Following public demand, Coimbatore corporation established 50 air-conditioned cooling shelters across city providing free water and rest facilities."
-  },
-  {
-    "id": "cbe-28-27",
-    "category": "Technology",
-    "date": "April 28, 2026",
-    "title": "Tech Park IT Companies Announce Work-From-Home Till May 15 Due to Heat",
-    "summary": "Major IT companies in CODISSIA Tech Park announced work-from-home policy till May 15 to protect employees during extreme heatwave conditions."
-  },
-  {
-    "id": "cbe-28-28",
-    "category": "Business",
-    "date": "April 28, 2026",
-    "title": "Restaurants Report 60% Drop in Customer Footfall Due to Heat",
-    "summary": "Restaurant industry reported significant drop in customer numbers with many establishments offering discounts on cold beverages and drinks."
-  },
-  {
-    "id": "cbe-28-29",
-    "category": "Crime",
-    "date": "April 28, 2026",
-    "title": "Police Intensify Patrols After Rise in Chain-Snatching Incidents",
-    "summary": "Coimbatore police increased patrol strength in city center following 12 chain-snatching cases reported in past 48 hours."
-  },
-  {
-    "id": "cbe-28-30",
-    "category": "Traffic",
-    "date": "April 28, 2026",
-    "title": "Heavy Traffic on Avinashi Road; Vehicle Breakdowns Increase Congestion",
-    "summary": "Avinashi Road experienced severe congestion with 35+ vehicle breakdowns due to extreme heat affecting engine performance and battery life."
-  },
-  {
-    "id": "cbe-28-31",
-    "category": "Road Safety",
-    "date": "April 28, 2026",
-    "title": "RTO Issues Advisory: Check Vehicle Conditions Before Long Drives",
-    "summary": "Regional Transport Office warned drivers to inspect vehicles thoroughly before undertaking long-distance journeys during extreme heat period."
-  },
-  {
-    "id": "cbe-28-32",
-    "category": "Utilities",
-    "date": "April 28, 2026",
-    "title": "Power Consumption Hits Record High; Peak Load Reaches 2,400 MW",
-    "summary": "State electricity board reported record peak power consumption of 2,400 MW on April 28 due to increased usage of air conditioning and cooling devices."
-  },
-  {
-    "id": "cbe-28-33",
+    "id": "cbe-29-10",
     "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Tree Plantation Drive: 10,000 Saplings Planted Across City",
-    "summary": "Environmental organization completed tree plantation of 10,000 saplings across Coimbatore in drive to combat urban heat island effect."
+    "date": "April 29, 2026",
+    "title": "Elephant conflict intensifies in rural belts",
+    "summary": "Increasing wildlife intrusion linked to drought conditions is causing safety concerns and economic losses for farmers in forest fringe areas."
   },
   {
-    "id": "cbe-28-34",
-    "category": "Governance",
-    "date": "April 28, 2026",
-    "title": "District Collector Holds Emergency Meeting on Heatwave Response",
-    "summary": "District Collector convened emergency meeting with departments to review heatwave response measures and ensure citizen welfare during extreme temperatures."
+    "id": "cbe-29-11",
+    "category": "Business",
+    "date": "April 29, 2026",
+    "title": "Farm outlet model gains traction",
+    "summary": "Direct farm outlets expand across Coimbatore, offering lower prices to consumers and better profit margins to farmers through reduced intermediaries."
+  },
+  {
+    "id": "cbe-29-12",
+    "category": "Transport",
+    "date": "April 29, 2026",
+    "title": "Rail expansion boosts Mettupalayam hub",
+    "summary": "Station upgrades and new services aim to transform Mettupalayam into a key rail hub connecting Coimbatore with major destinations."
+  },
+  {
+    "id": "cbe-29-13",
+    "category": "Civic",
+    "date": "April 29, 2026",
+    "title": "Liquor outlets face operational delays",
+    "summary": "Protests over policy changes led to delayed openings of several TASMAC outlets, affecting daily sales and consumer access."
+  },
+  {
+    "id": "cbe-29-14",
+    "category": "Security",
+    "date": "April 29, 2026",
+    "title": "Forest staff injured in mob attack",
+    "summary": "Seven officials injured after villagers attacked forest personnel following fatal elephant incident, prompting police investigation."
+  },
+  {
+    "id": "cbe-29-15",
+    "category": "Agriculture",
+    "date": "April 29, 2026",
+    "title": "Farmers demand stricter wildlife control",
+    "summary": "Petition seeks stronger measures and technology use to manage elephant movements and protect farmland in Coimbatore district."
   }
 ]
