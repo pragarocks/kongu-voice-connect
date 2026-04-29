@@ -1,352 +1,177 @@
 [
   {
-    "id": "nilgiris-28-1",
+    "id": "nilgiris-29-1",
     "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Massive forest fire continues in Nilgiris",
-    "summary": "Wildfire spreads across 5,000 acres in Parsons Valley and Pykara ranges, with over 500 personnel battling flames amid dry conditions and strong winds."
+    "date": "April 29, 2026",
+    "title": "Wildfire continues to scorch Nilgiris forests",
+    "summary": "Massive wildfire burns over 5,000 acres in Parsons Valley and Pykara, with over 500 personnel battling flames in difficult terrain."
   },
   {
-    "id": "nilgiris-28-2",
+    "id": "nilgiris-29-2",
     "category": "Environment",
-    "date": "April 27, 2026",
-    "title": "High winds disrupt aerial firefighting",
-    "summary": "Strong winds halt helicopter water-dousing operations, forcing ground teams to intensify efforts as wildfire spreads across multiple Nilgiris forest zones."
+    "date": "April 29, 2026",
+    "title": "Firefighting continues on foot in hills",
+    "summary": "Due to terrain challenges, most firefighting operations are being conducted manually as crews trek steep hills to contain spreading wildfire."
   },
   {
-    "id": "nilgiris-28-3",
-    "category": "Weather",
-    "date": "April 27, 2026",
-    "title": "Heavy rain forecast for Nilgiris",
-    "summary": "Meteorological department predicts heavy rainfall and strong winds across Nilgiris from April 30, raising concerns of landslides and waterlogging in vulnerable areas."
-  },
-  {
-    "id": "nilgiris-28-4",
-    "category": "Crime",
-    "date": "April 28, 2026",
-    "title": "Car catches fire on Coonoor ghat road",
-    "summary": "Five passengers escape safely after moving car bursts into flames near Marapalam, causing temporary traffic disruption and triggering police investigation."
-  },
-  {
-    "id": "nilgiris-28-5",
-    "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Tiger cub rescued in Nilgiris forest",
-    "summary": "Forest officials rescue weak tiger cub near Muthinada boundary after mother fails to return, placing it under veterinary care for recovery."
-  },
-  {
-    "id": "nilgiris-28-6",
-    "category": "Weather",
-    "date": "April 28, 2026",
-    "title": "Unusual heat recorded in Ooty",
-    "summary": "Temperatures rise to 29°C in Ooty, unusually high for hill station, contributing to forest fire risks and increased fire incidents in region."
-  },
-  {
-    "id": "nilgiris-28-7",
-    "category": "Transport",
-    "date": "April 28, 2026",
-    "title": "Traffic disrupted on ghat road",
-    "summary": "Vehicle fire incident causes congestion on Coonoor-Mettupalayam ghat road, with delays worsened by railway crossing near bus stand."
-  },
-  {
-    "id": "nilgiris-28-8",
-    "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Fire threatens biodiversity zones",
-    "summary": "Ongoing wildfire endangers tiger habitats, elephant corridors, and fragile shola ecosystems, raising ecological concerns among conservationists."
-  },
-  {
-    "id": "nilgiris-28-9",
+    "id": "nilgiris-29-3",
     "category": "Security",
-    "date": "April 28, 2026",
-    "title": "Emergency teams deployed for wildfire",
-    "summary": "Fire services, forest staff, and disaster response teams intensify ground operations to contain spreading fire across difficult Nilgiris terrain."
+    "date": "April 29, 2026",
+    "title": "Over 500 personnel deployed for fire control",
+    "summary": "Forest, fire service, and disaster response teams remain deployed across Nilgiris to prevent wildfire spread into nearby settlements."
   },
   {
-    "id": "nilgiris-28-10",
+    "id": "nilgiris-29-4",
     "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Multiple fire points detected",
-    "summary": "Wildfire spreads across over 20 locations including Avalanche region, complicating containment efforts amid dry weather and strong winds."
+    "date": "April 29, 2026",
+    "title": "Strong winds worsen wildfire spread",
+    "summary": "Persistent high winds continue to accelerate wildfire expansion, making containment difficult across multiple forest zones."
   },
   {
-    "id": "nilgiris-28-11",
+    "id": "nilgiris-29-5",
+    "category": "Environment",
+    "date": "April 29, 2026",
+    "title": "Fire spreads across multiple locations",
+    "summary": "Wildfire active across more than 20 forest locations including Avalanche region, increasing pressure on firefighting teams."
+  },
+  {
+    "id": "nilgiris-29-6",
+    "category": "Environment",
+    "date": "April 29, 2026",
+    "title": "Ecological damage concerns grow",
+    "summary": "Experts warn wildfire threatens fragile shola ecosystems, wildlife habitats, and elephant corridors in Nilgiris biosphere region."
+  },
+  {
+    "id": "nilgiris-29-7",
     "category": "Weather",
-    "date": "April 28, 2026",
-    "title": "Strong winds worsen fire spread",
-    "summary": "Persistent winds accelerate wildfire expansion and hinder aerial firefighting, forcing authorities to rely heavily on manual containment techniques."
+    "date": "April 29, 2026",
+    "title": "Dry conditions fueling wildfire",
+    "summary": "Prolonged dry spell and rising temperatures create ideal conditions for rapid wildfire spread across Nilgiris forest landscapes."
   },
   {
-    "id": "nilgiris-28-12",
-    "category": "Health",
-    "date": "April 28, 2026",
-    "title": "Air quality concerns amid wildfire",
-    "summary": "Smoke from large-scale forest fire impacts air quality in surrounding areas, raising respiratory concerns among residents and tourists."
+    "id": "nilgiris-29-8",
+    "category": "Security",
+    "date": "April 29, 2026",
+    "title": "Aerial firefighting still limited",
+    "summary": "Helicopter operations remain restricted due to unsafe wind speeds, forcing reliance on ground-based firefighting efforts."
   },
   {
-    "id": "nilgiris-28-13",
+    "id": "nilgiris-29-9",
     "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Camera traps set for tiger tracking",
-    "summary": "Forest officials install multiple camera traps near estate areas to monitor missing tigress after cub rescue operation in Nilgiris."
+    "date": "April 29, 2026",
+    "title": "Fire containment progress remains slow",
+    "summary": "Authorities report slow containment progress due to terrain challenges, strong winds, and widespread fire activity."
   },
   {
-    "id": "nilgiris-28-14",
+    "id": "nilgiris-29-10",
     "category": "Public",
-    "date": "April 28, 2026",
-    "title": "Residents advised caution near forests",
-    "summary": "Authorities urge locals to avoid forest fringes due to wildfire risks and wildlife movement following habitat disturbances."
+    "date": "April 29, 2026",
+    "title": "Residents warned near forest zones",
+    "summary": "Officials advise residents to avoid forest fringes as wildfire and wildlife movement increase risks to nearby communities."
   },
   {
-    "id": "nilgiris-28-15",
-    "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Firefighters face terrain challenges",
-    "summary": "Rugged terrain and remote forest areas slow firefighting operations, forcing teams to manually tackle flames using fire beaters and counterfires."
+    "id": "nilgiris-29-11",
+    "category": "Health",
+    "date": "April 29, 2026",
+    "title": "Smoke affects air quality in towns",
+    "summary": "Thick smoke from wildfire reduces air quality in Ooty and nearby towns, raising respiratory concerns among residents."
   },
   {
-    "id": "nilgiris-28-16",
-    "category": "Transport",
-    "date": "April 28, 2026",
-    "title": "Emergency response delayed by congestion",
-    "summary": "Traffic bottlenecks near Coonoor delayed fire engine response to vehicle blaze, highlighting infrastructure challenges on hill roads."
-  },
-  {
-    "id": "nilgiris-28-17",
-    "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Dry conditions fuel wildfire",
-    "summary": "Lack of rainfall and rising temperatures create ideal conditions for rapid wildfire spread across Nilgiris forest regions."
-  },
-  {
-    "id": "nilgiris-28-18",
+    "id": "nilgiris-29-12",
     "category": "Tourism",
-    "date": "April 28, 2026",
-    "title": "Tourism impacted by heat and fires",
-    "summary": "Unusual heat and forest fires affect tourist inflow to Ooty and surrounding areas, with safety concerns rising among visitors."
+    "date": "April 29, 2026",
+    "title": "Tourist inflow affected by wildfire",
+    "summary": "Forest fire and heat conditions reduce tourist visits to Ooty and surrounding areas, impacting local tourism businesses."
   },
   {
-    "id": "nilgiris-28-19",
+    "id": "nilgiris-29-13",
     "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Wildlife displacement reported",
-    "summary": "Forest fire forces wildlife movement toward human settlements, increasing chances of human-animal encounters in Nilgiris villages."
+    "date": "April 29, 2026",
+    "title": "Wildlife habitats under threat",
+    "summary": "Wildfire threatens habitats of tigers, elephants, and endemic species across Nilgiris reserve forests."
   },
   {
-    "id": "nilgiris-28-20",
-    "category": "Civic",
-    "date": "April 28, 2026",
-    "title": "Authorities issue safety advisories",
-    "summary": "District officials release advisories warning against travel near fire zones and urging preparedness ahead of forecast heavy rains."
-  },
-  {
-    "id": "nilgiris-28-21",
-    "category": "Weather",
-    "date": "April 28, 2026",
-    "title": "Rain expected to aid fire control",
-    "summary": "Upcoming rainfall may help suppress wildfire intensity, though officials warn of possible landslides due to saturated hill slopes."
-  },
-  {
-    "id": "nilgiris-28-22",
-    "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Ecological damage assessment underway",
-    "summary": "Authorities begin preliminary evaluation of wildfire damage to forest cover, biodiversity, and water sources in Nilgiris region."
-  },
-  {
-    "id": "nilgiris-28-23",
-    "category": "Security",
-    "date": "April 28, 2026",
-    "title": "Fire lines created to stop spread",
-    "summary": "Teams construct fire lines and controlled burns to prevent wildfire from reaching residential areas and sensitive wildlife habitats."
-  },
-  {
-    "id": "nilgiris-28-24",
-    "category": "Environment",
-    "date": "April 28, 2026",
+    "id": "nilgiris-29-14",
+    "category": "Public",
+    "date": "April 29, 2026",
     "title": "Volunteers assist firefighting teams",
-    "summary": "Local volunteers join forest and fire department personnel to help control wildfire across multiple affected Nilgiris zones."
+    "summary": "Local volunteers join authorities in controlling wildfire and supporting operations in affected Nilgiris forest areas."
   },
   {
-    "id": "nilgiris-28-25",
-    "category": "Public",
-    "date": "April 28, 2026",
-    "title": "Villagers report wildlife sightings",
-    "summary": "Increased sightings of animals near settlements reported as wildfire pushes wildlife out of forests into nearby habitations."
-  },
-  {
-    "id": "nilgiris-28-26",
-    "category": "Health",
-    "date": "April 28, 2026",
-    "title": "Hospitals monitor respiratory cases",
-    "summary": "Health authorities monitor rise in respiratory complaints linked to smoke exposure from ongoing wildfire in Nilgiris region."
-  },
-  {
-    "id": "nilgiris-28-27",
+    "id": "nilgiris-29-15",
     "category": "Infrastructure",
-    "date": "April 28, 2026",
-    "title": "Forest roads used for fire access",
-    "summary": "Firefighters utilize interior forest tracks and roads to access remote fire zones, improving ground response effectiveness."
+    "date": "April 29, 2026",
+    "title": "Remote terrain slows fire response",
+    "summary": "Difficult terrain and lack of road access continue to hinder firefighting operations across forest interiors."
   },
   {
-    "id": "nilgiris-28-28",
+    "id": "nilgiris-29-16",
     "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Concern over shola grasslands damage",
-    "summary": "Experts warn wildfire could cause long-term damage to rare shola grassland ecosystems unique to Nilgiris hills."
+    "date": "April 29, 2026",
+    "title": "Fire lines created to control spread",
+    "summary": "Authorities create firebreaks and conduct controlled burns to prevent wildfire reaching residential areas."
   },
   {
-    "id": "nilgiris-28-29",
+    "id": "nilgiris-29-17",
     "category": "Weather",
-    "date": "April 28, 2026",
-    "title": "Heatwave conditions persist locally",
-    "summary": "Above-normal temperatures continue across Nilgiris, unusual for hill region, worsening fire risks and stressing ecosystems."
+    "date": "April 29, 2026",
+    "title": "Heat levels remain unusually high",
+    "summary": "Temperatures remain above normal for hill region, contributing to ongoing fire risk in Nilgiris."
   },
   {
-    "id": "nilgiris-28-30",
-    "category": "Public",
-    "date": "April 28, 2026",
-    "title": "Emergency helplines activated",
-    "summary": "Authorities activate emergency helplines for wildfire-related assistance and public reporting of new fire outbreaks."
-  },
-  {
-    "id": "nilgiris-28-31",
-    "category": "Security",
-    "date": "April 28, 2026",
-    "title": "Police begin probe into car fire",
-    "summary": "Coonoor police initiate investigation into cause of vehicle fire incident on ghat road, examining possible mechanical failure."
-  },
-  {
-    "id": "nilgiris-28-32",
+    "id": "nilgiris-29-18",
     "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Forest surveillance intensified",
-    "summary": "Authorities increase patrols and surveillance in forest areas to detect new fire outbreaks early and prevent further spread."
+    "date": "April 29, 2026",
+    "title": "Fire threatens water sources",
+    "summary": "Wildfire spreads near key catchment areas, raising concerns over water contamination and availability."
   },
   {
-    "id": "nilgiris-28-33",
+    "id": "nilgiris-29-19",
     "category": "Agriculture",
-    "date": "April 28, 2026",
-    "title": "Farmers concerned over fire impact",
-    "summary": "Farmers in fringe areas worry about crop damage and water shortages due to prolonged wildfire and dry conditions."
+    "date": "April 29, 2026",
+    "title": "Farmers fear crop damage",
+    "summary": "Farmers in forest fringe villages worry about potential crop loss due to fire spread and prolonged dry conditions."
   },
   {
-    "id": "nilgiris-28-34",
-    "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Fire threatens water catchments",
-    "summary": "Wildfire spreads near key water catchment areas, raising concerns about contamination and reduced water availability."
-  },
-  {
-    "id": "nilgiris-28-35",
-    "category": "Civic",
-    "date": "April 28, 2026",
-    "title": "Authorities prepare evacuation plans",
-    "summary": "Officials draft contingency evacuation plans for villages near fire zones in case wildfire spreads toward inhabited areas."
-  },
-  {
-    "id": "nilgiris-28-36",
-    "category": "Tourism",
-    "date": "April 28, 2026",
-    "title": "Tourist movement restricted in zones",
-    "summary": "Restricted access imposed in affected forest and tourism areas to ensure visitor safety during ongoing wildfire crisis."
-  },
-  {
-    "id": "nilgiris-28-37",
-    "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Fire control operations continue overnight",
-    "summary": "Firefighters continue operations through night hours to contain blaze as daytime winds intensify fire behavior."
-  },
-  {
-    "id": "nilgiris-28-38",
+    "id": "nilgiris-29-20",
     "category": "Public",
-    "date": "April 28, 2026",
-    "title": "Residents report smoke visibility",
-    "summary": "Smoke plumes visible from multiple towns in Nilgiris, causing concern among residents and prompting safety precautions."
+    "date": "April 29, 2026",
+    "title": "Emergency helplines remain active",
+    "summary": "Authorities continue to operate helplines for reporting fire outbreaks and assisting affected residents."
   },
   {
-    "id": "nilgiris-28-39",
+    "id": "nilgiris-29-21",
     "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Fire containment progress slow",
-    "summary": "Authorities report slow progress in controlling wildfire due to weather conditions and spread across multiple forest patches."
+    "date": "April 29, 2026",
+    "title": "Wildlife displacement reported",
+    "summary": "Animals move toward human settlements as wildfire destroys habitat, increasing human-wildlife conflict risks."
   },
   {
-    "id": "nilgiris-28-40",
-    "category": "Infrastructure",
-    "date": "April 28, 2026",
-    "title": "Limited water sources challenge firefighting",
-    "summary": "Scarcity of nearby water sources hampers firefighting efforts, forcing reliance on manual containment methods."
+    "id": "nilgiris-29-22",
+    "category": "Crime",
+    "date": "April 29, 2026",
+    "title": "Elephant attack sparks unrest in Gudalur",
+    "summary": "Villagers protest after man killed by elephant, with clashes injuring forest officials amid rising human-wildlife conflict."
   },
   {
-    "id": "nilgiris-28-41",
-    "category": "Weather",
-    "date": "April 28, 2026",
-    "title": "Rainfall expected to continue till May 2",
-    "summary": "Weather department predicts sustained rainfall activity in Nilgiris through early May, potentially easing fire conditions but increasing landslide risks."
-  },
-  {
-    "id": "nilgiris-28-42",
-    "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Concern over second missing tiger cub",
-    "summary": "Forest teams continue search for second tiger cub reportedly seen near estate, raising concerns about its survival."
-  },
-  {
-    "id": "nilgiris-28-43",
-    "category": "Health",
-    "date": "April 28, 2026",
-    "title": "Authorities advise mask usage",
-    "summary": "Residents advised to use masks outdoors due to smoke pollution caused by forest fire affecting air quality levels."
-  },
-  {
-    "id": "nilgiris-28-44",
-    "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Fire risk remains high in hills",
-    "summary": "Officials warn wildfire risk remains elevated despite expected rain due to lingering dry vegetation across Nilgiris forests."
-  },
-  {
-    "id": "nilgiris-28-45",
-    "category": "Public",
-    "date": "April 28, 2026",
-    "title": "Local communities assist rescue efforts",
-    "summary": "Villagers assist forest officials in wildlife rescue operations and monitoring fire spread near habitation areas."
-  },
-  {
-    "id": "nilgiris-28-46",
-    "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Fire impacts elephant corridors",
-    "summary": "Wildfire disrupts elephant movement corridors, increasing likelihood of encounters near human settlements."
-  },
-  {
-    "id": "nilgiris-28-47",
+    "id": "nilgiris-29-23",
     "category": "Security",
-    "date": "April 28, 2026",
-    "title": "Additional personnel deployed",
-    "summary": "Authorities deploy more ground staff and support teams to strengthen firefighting operations in severely affected forest areas."
+    "date": "April 29, 2026",
+    "title": "Police register cases after clashes",
+    "summary": "Police file cases following attack on forest staff and damage to government vehicle after fatal elephant incident."
   },
   {
-    "id": "nilgiris-28-48",
+    "id": "nilgiris-29-24",
+    "category": "Health",
+    "date": "April 29, 2026",
+    "title": "Injured officials receive treatment",
+    "summary": "Forest personnel injured in Gudalur clashes are undergoing treatment at government hospitals in Ooty and Gudalur."
+  },
+  {
+    "id": "nilgiris-29-25",
     "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Officials monitor fire hotspots",
-    "summary": "Continuous monitoring of active hotspots underway to prevent flare-ups and ensure gradual containment of wildfire."
-  },
-  {
-    "id": "nilgiris-28-49",
-    "category": "Civic",
-    "date": "April 28, 2026",
-    "title": "District administration reviews situation",
-    "summary": "Officials hold review meetings to assess wildfire response, weather impact, and preparedness for upcoming rainfall."
-  },
-  {
-    "id": "nilgiris-28-50",
-    "category": "Environment",
-    "date": "April 28, 2026",
-    "title": "Long-term restoration plans discussed",
-    "summary": "Authorities begin planning ecological restoration and reforestation efforts to recover areas damaged by extensive wildfire."
+    "date": "April 29, 2026",
+    "title": "Drought increases wildlife movement",
+    "summary": "Dry conditions push elephants and animals toward villages, increasing conflict incidents in Nilgiris region."
   }
 ]
