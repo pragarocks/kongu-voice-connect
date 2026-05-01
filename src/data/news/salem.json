@@ -1,5 +1,30 @@
 [
   {
+    "id": "sal-may01-1",
+    "category": "Election",
+    "featured": true,
+    "image": "/news/2026-05-01/counting-prep.jpg",
+    "title": "Salem readies 11 counting halls; postal ballots to be opened first",
+    "summary": "Salem district administration has set up 11 counting halls for the assembly seats with separate enclosures for service voter and postal ballots, which will be taken up at 8 a.m. on May 4.",
+    "date": "May 1, 2026"
+  },
+  {
+    "id": "sal-may01-2",
+    "category": "Business",
+    "image": "/news/2026-05-01/salem-steel.jpg",
+    "title": "SAIL Salem Steel Plant resumes full export despatch after polling pause",
+    "summary": "Salem Steel Plant has resumed full despatch of stainless steel coils with rakes moving to JNPA and Chennai ports, after a brief slowdown during the April 23 polling week.",
+    "date": "May 1, 2026"
+  },
+  {
+    "id": "sal-may01-3",
+    "category": "Civic",
+    "image": "/news/2026-05-01/strongroom-security.jpg",
+    "title": "Yercaud and Mettur strong rooms under drone surveillance",
+    "summary": "The Salem police have introduced 24x7 drone surveillance over EVM strong rooms in Yercaud and Mettur, in addition to CCTV and armed CAPF guards, ahead of counting.",
+    "date": "May 1, 2026"
+  },
+  {
     "id": "salem-29-1",
     "category": "Security",
     "date": "April 29, 2026",

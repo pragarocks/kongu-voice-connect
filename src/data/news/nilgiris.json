@@ -1,5 +1,30 @@
 [
   {
+    "id": "nil-may01-1",
+    "category": "Civic",
+    "featured": true,
+    "image": "/news/2026-05-01/nilgiris-tea.jpg",
+    "title": "Nilgiris tea auction sees firm bids as new-season leaf arrives",
+    "summary": "Coonoor tea auction recorded firm bids for orthodox and CTC grades on Friday with new-season Nilgiris leaf drawing premiums of up to Rs 28 a kilo above last week's average.",
+    "date": "May 1, 2026"
+  },
+  {
+    "id": "nil-may01-2",
+    "category": "Election",
+    "image": "/news/2026-05-01/strongroom-security.jpg",
+    "title": "Udhagamandalam strong room secured with CAPF and hill police",
+    "summary": "EVMs from all three Nilgiris assembly seats remain sealed at the Udhagamandalam strong room under CAPF guard, with district police running additional checkpoints on the ghat roads.",
+    "date": "May 1, 2026"
+  },
+  {
+    "id": "nil-may01-3",
+    "category": "Transport",
+    "image": "/news/2026-05-01/nilgiris-tea.jpg",
+    "title": "Nilgiri Mountain Railway adds extra weekend service for tourists",
+    "summary": "Southern Railway has notified an additional weekend special on the heritage Nilgiri Mountain Railway between Mettupalayam and Coonoor to handle the May tourist surge.",
+    "date": "May 1, 2026"
+  },
+  {
     "id": "nilgiris-29-1",
     "category": "Environment",
     "date": "April 29, 2026",
