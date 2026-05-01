@@ -1,5 +1,30 @@
 [
   {
+    "id": "kar-may01-1",
+    "category": "Business",
+    "featured": true,
+    "image": "/news/2026-05-01/karur-handloom.jpg",
+    "title": "Karur home textile exporters log 9% growth, eye US Q3 orders",
+    "summary": "Karur Textile Manufacturers Exporters Association reported a 9% year-on-year rise in shipments and said US buyers are firming up Q3 orders for bedlinen and made-ups from the cluster.",
+    "date": "May 1, 2026"
+  },
+  {
+    "id": "kar-may01-2",
+    "category": "Election",
+    "image": "/news/2026-05-01/counting-prep.jpg",
+    "title": "Karur counting halls ready; record turnout puts spotlight on margins",
+    "summary": "Karur recorded the highest first-phase turnout in Tamil Nadu and counting officials say tight margins are likely in at least two of the four assembly segments when counting begins May 4.",
+    "date": "May 1, 2026"
+  },
+  {
+    "id": "kar-may01-3",
+    "category": "Civic",
+    "image": "/news/2026-05-01/strongroom-security.jpg",
+    "title": "Kulithalai and Aravakurichi strong rooms get triple-layer cordon",
+    "summary": "Kulithalai and Aravakurichi EVM strong rooms have been brought under a triple-layer security cordon with CAPF at the inner ring and state armed police on the outer perimeter.",
+    "date": "May 1, 2026"
+  },
+  {
     "id": "karur-29-1",
     "category": "Crime",
     "date": "April 29, 2026",

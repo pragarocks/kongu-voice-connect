@@ -1,5 +1,30 @@
 [
   {
+    "id": "dha-may01-1",
+    "category": "Agriculture",
+    "featured": true,
+    "image": "/news/2026-05-01/dharmapuri-mango.jpg",
+    "title": "Dharmapuri mango arrivals surge; Bangalore traders bid up Alphonso",
+    "summary": "Krishnagiri-Dharmapuri belt mango arrivals crossed 600 tonnes a day at wholesale yards on Friday with Bangalore and Hyderabad traders bidding aggressively for Alphonso and Banganapalli.",
+    "date": "May 1, 2026"
+  },
+  {
+    "id": "dha-may01-2",
+    "category": "Election",
+    "image": "/news/2026-05-01/strongroom-security.jpg",
+    "title": "Dharmapuri collector reviews counting day traffic plan",
+    "summary": "Collector chaired a coordination meeting with police and revenue officers to finalise traffic diversions, parking and result-display arrangements at all five constituency counting centres.",
+    "date": "May 1, 2026"
+  },
+  {
+    "id": "dha-may01-3",
+    "category": "Civic",
+    "image": "/news/2026-05-01/dharmapuri-mango.jpg",
+    "title": "Hogenakkal tourist footfall climbs as polling restrictions ease",
+    "summary": "Hogenakkal Falls saw a sharp jump in weekend visitors after polling-week restrictions on coracle rides were lifted, with the tourism department deploying additional safety staff.",
+    "date": "May 1, 2026"
+  },
+  {
     "id": "dharmapuri-29-1",
     "category": "Transport",
     "date": "April 29, 2026",

@@ -1,5 +1,30 @@
 [
   {
+    "id": "ero-may01-1",
+    "category": "Election",
+    "featured": true,
+    "image": "/news/2026-05-01/strongroom-security.jpg",
+    "title": "Erode collector reviews counting hall layout; recount protocols issued",
+    "summary": "Collector chaired a final review with all eight returning officers, finalising 14-table layouts per hall and recount procedures. Micro-observers have been deployed at every counting centre.",
+    "date": "May 1, 2026"
+  },
+  {
+    "id": "ero-may01-2",
+    "category": "Agriculture",
+    "image": "/news/2026-05-01/erode-farms.jpg",
+    "title": "Turmeric prices firm up at Erode Regulated Market amid tight arrivals",
+    "summary": "Finger turmeric touched Rs 18,500 a quintal at the Erode Regulated Market on Friday as post-poll arrivals slowed. Traders attribute the strength to lean stocks and steady upcountry demand.",
+    "date": "May 1, 2026"
+  },
+  {
+    "id": "ero-may01-3",
+    "category": "Politics",
+    "image": "/news/2026-05-01/counting-prep.jpg",
+    "title": "DMK and AIADMK booth agents undergo Form 17C reconciliation drill",
+    "summary": "Both major fronts in Erode held parallel training camps for counting agents, focusing on Form 17C reconciliation, postal-ballot scrutiny and challenge procedures during the May 4 count.",
+    "date": "May 1, 2026"
+  },
+  {
     "id": "erode-29-1",
     "category": "Security",
     "date": "April 29, 2026",

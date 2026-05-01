@@ -1,5 +1,30 @@
 [
   {
+    "id": "cbe-may01-1",
+    "category": "Election",
+    "featured": true,
+    "image": "/news/2026-05-01/counting-prep.jpg",
+    "title": "Counting centres in Coimbatore sealed; CAPF tightens cordon ahead of May 4",
+    "summary": "All 10 constituency counting centres across Coimbatore have been sealed and brought under three-tier security with CAPF, TSP and local police. Collector reviewed final arrangements with returning officers on Friday.",
+    "date": "May 1, 2026"
+  },
+  {
+    "id": "cbe-may01-2",
+    "category": "Politics",
+    "image": "/news/2026-05-01/coimbatore-industry.jpg",
+    "title": "Industry bodies meet candidates, push 12-point post-poll agenda",
+    "summary": "CODISSIA and SIEMA leaders held closed-door meetings with leading candidates from Coimbatore South, North and Singanallur seeking commitments on power tariff, MSME credit and skill-mission funding.",
+    "date": "May 1, 2026"
+  },
+  {
+    "id": "cbe-may01-3",
+    "category": "Civic",
+    "image": "/news/2026-05-01/strongroom-security.jpg",
+    "title": "EVM strong room CCTV feed opened to party agents 24x7",
+    "summary": "The Election Commission has begun streaming live CCTV from all Coimbatore strong rooms to a dedicated viewing room where party agents can monitor footage round the clock until counting day.",
+    "date": "May 1, 2026"
+  },
+  {
     "id": "cbe-29-1",
     "category": "Business",
     "date": "April 29, 2026",

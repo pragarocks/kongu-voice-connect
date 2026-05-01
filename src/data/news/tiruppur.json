@@ -1,5 +1,30 @@
 [
   {
+    "id": "tir-may01-1",
+    "category": "Business",
+    "featured": true,
+    "image": "/news/2026-05-01/tiruppur-textile.jpg",
+    "title": "Tiruppur knitwear exports cross USD 4.6 billion; cluster eyes US tariff window",
+    "summary": "AEPC data released Friday shows Tiruppur cluster shipped USD 4.6 billion of knitwear in FY26, with exporters preparing fresh capacity to capture orders shifting from Bangladesh and Vietnam.",
+    "date": "May 1, 2026"
+  },
+  {
+    "id": "tir-may01-2",
+    "category": "Election",
+    "image": "/news/2026-05-01/strongroom-security.jpg",
+    "title": "Tiruppur strong rooms get extra CAPF company after agents' demand",
+    "summary": "An additional company of central forces was deployed at the Tiruppur and Avinashi strong rooms after party agents raised concerns over crowd management on counting morning.",
+    "date": "May 1, 2026"
+  },
+  {
+    "id": "tir-may01-3",
+    "category": "Civic",
+    "image": "/news/2026-05-01/coimbatore-industry.jpg",
+    "title": "Effluent treatment plants resume full operation after election shutdown",
+    "summary": "All 18 CETPs in Tiruppur have resumed full operation post-polling, clearing a backlog of dye-house effluent that built up during the campaign and polling-week shutdowns.",
+    "date": "May 1, 2026"
+  },
+  {
     "id": "tiruppur-29-1",
     "category": "Business",
     "date": "April 29, 2026",

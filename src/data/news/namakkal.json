@@ -1,5 +1,30 @@
 [
   {
+    "id": "nam-may01-1",
+    "category": "Business",
+    "featured": true,
+    "image": "/news/2026-05-01/namakkal-poultry.jpg",
+    "title": "Namakkal egg prices rebound as summer demand returns",
+    "summary": "NECC declared price for Namakkal climbed to Rs 5.42 per egg on Friday, recovering from a polling-week dip, as institutional buyers resumed bulk lifting from layer farms across the district.",
+    "date": "May 1, 2026"
+  },
+  {
+    "id": "nam-may01-2",
+    "category": "Election",
+    "image": "/news/2026-05-01/counting-prep.jpg",
+    "title": "Namakkal counting staff receive third randomisation training",
+    "summary": "Returning officers conducted the third and final round of randomisation for counting personnel at six assembly segments, with ETPBS scrutiny rehearsals also completed on Friday.",
+    "date": "May 1, 2026"
+  },
+  {
+    "id": "nam-may01-3",
+    "category": "Transport",
+    "image": "/news/2026-05-01/coimbatore-industry.jpg",
+    "title": "Namakkal lorry owners flag diesel cost squeeze post-poll",
+    "summary": "Lorry Owners Federation in Namakkal has appealed to incoming candidates for a diesel-linked freight revision formula, citing thin margins after a flat freight cycle through the campaign months.",
+    "date": "May 1, 2026"
+  },
+  {
     "id": "namakkal-29-1",
     "category": "Election",
     "date": "April 29, 2026",

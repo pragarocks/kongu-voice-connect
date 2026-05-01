@@ -10,7 +10,7 @@ const Coimbatore = () => {
   const [filter, setFilter] = useState("All");
 
   // Logic to identify the main featured story (PM Modi Rally)
-  const featured = coimbatoreNews.find(item => item.featured) || coimbatoreNews[0];
+  const featured = (coimbatoreNews as any[]).find((item) => item.featured) || coimbatoreNews[0];
   
   const categories = ["All", "Election", "Campaign", "Awareness", "Enforcement"];
   
