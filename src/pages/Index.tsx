@@ -14,6 +14,7 @@ import namakkalNews from "@/data/news/namakkal.json";
 import nilgirisNews from "@/data/news/nilgiris.json";
 import karurNews from "@/data/news/karur.json";
 import dharmapuriNews from "@/data/news/dharmapuri.json";
+import mainNews from "@/data/news/main.json";
 
 // ---------- Types & helpers (kept local; no extra files needed) ----------
 interface RawNews {
@@ -23,6 +24,7 @@ interface RawNews {
   category: string;
   date: string;
   featured?: boolean;
+  image?: string;
 }
 
 interface DisplayArticle {
@@ -70,11 +72,11 @@ function toDisplay(item: RawNews, district: string, idx: number): DisplayArticle
     district: DISTRICT_LABEL[district] ?? district,
     category: item.category,
     date: item.date,
-    image: DEFAULT_IMAGES[idx % DEFAULT_IMAGES.length],
+    image: item.image ?? DEFAULT_IMAGES[idx % DEFAULT_IMAGES.length],
   };
 }
 
-// Robust date sort (newest first). Handles "April 17, 2026" style strings.
+// Robust date sort (newest first). Handles "May 2, 2026" and ISO style strings.
 function sortByDateDesc(a: DisplayArticle, b: DisplayArticle) {
   const ta = Date.parse(a.date);
   const tb = Date.parse(b.date);
@@ -108,11 +110,19 @@ const allNews: DisplayArticle[] = sources.flatMap(([district, items]) =>
 
 const sortedNews = [...allNews].sort(sortByDateDesc);
 
-// Hero: newest featured article from JSON, else newest article. Override hero image with the Vote infographic.
-const heroNewsBase = sortedNews.find((n) => featuredIds.has(n.id)) ?? sortedNews[0];
-const heroNews: DisplayArticle = heroNewsBase
-  ? { ...heroNewsBase, image: "/news/vote.png" }
-  : ({} as DisplayArticle);
+// Hero: pulled from main.json (region-wide top story for the day).
+const mainHero = (mainNews as any).hero;
+const heroNews: DisplayArticle = {
+  id: `main-${mainHero.id}`,
+  title_en: mainHero.title_en,
+  title_ta: mainHero.title_ta,
+  summary_en: mainHero.summary_en,
+  summary_ta: mainHero.summary_ta,
+  district: "Kongu Region",
+  category: mainHero.category,
+  date: "May 2, 2026",
+  image: "/news/2026-05-02/hero-strongroom.jpg",
+};
 
 const remaining = sortedNews.filter((n) => n.id !== heroNews.id);
 const sideNews = remaining.slice(0, 5);

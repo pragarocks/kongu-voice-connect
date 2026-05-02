@@ -1,70 +1,115 @@
 {
-  "featured": {
-    "id": "main-fresh-1",
-    "title": "Kongu Region's Election Results Show Dramatic Three-Way Battle",
-    "summary": "April 25, 2026 election results reveal a competitive contest with surprising upsets across eight districts. NDA, DMK, and ADMK in neck-and-neck competition for dominance.",
+  "section": "Region",
+  "section_ta": "கொங்கு மண்டலம்",
+  "updated": "2026-05-02",
+  "hero": {
+    "id": "main-hero-001",
+    "title_en": "Counting day countdown: Kongu region locks down EVM strong rooms ahead of May 4",
+    "title_ta": "எண்ணிக்கை நாள் எதிர்நோக்கி: மே 4-க்கு முன் கொங்கு மண்டலம் EVM வலுமிக்க அறைகள் முழு பாதுகாப்பில்",
+    "summary_en": "All 64 Assembly constituency strong rooms across the eight Kongu districts — Coimbatore, Tiruppur, Erode, Salem, Namakkal, Nilgiris, Karur and Dharmapuri — are under three-tier security with CAPF cordon, state police perimeter and round-the-clock CCTV monitoring open to party agents. Counting begins at 8 am on May 4, with district administrations holding final dry runs through this weekend.",
+    "summary_ta": "கோவை, திருப்பூர், ஈரோடு, சேலம், நாமக்கல், நீலகிரி, கரூர் மற்றும் தர்மபுரி ஆகிய எட்டு கொங்கு மாவட்டங்களின் 64 சட்டமன்றத் தொகுதி வலுமிக்க அறைகளும் CAPF, காவல்துறை மற்றும் CCTV கண்காணிப்பின் கீழ் முத்தடுக்கு பாதுகாப்பு கொண்டுள்ளன. மே 4 காலை 8 மணிக்கு எண்ணிக்கை தொடங்கும். இந்த வார இறுதியில் இறுதி ஒத்திகை நடைபெறும்.",
     "category": "Election",
-    "date": "April 25, 2026",
-    "featured": true
+    "date": "2026-05-02",
+    "image": "election-strongroom-hero"
   },
-  "sideNews": [
+  "trending": [
     {
-      "id": "main-fresh-2",
-      "title": "Counting Underway: Coimbatore Records 73% Turnout",
-      "summary": "Highest voter participation in two decades drives election commission officials to count through the night. Industrial sector shows strong engagement.",
-      "category": "Election",
-      "date": "April 25, 2026",
-      "featured": false
+      "id": "main-trd-001",
+      "title_en": "Tiruppur knitwear exports surge 18 percent in April after India-US trade deal",
+      "title_ta": "இந்தியா-அமெரிக்கா வர்த்தக ஒப்பந்தத்திற்குப் பின் ஏப்ரல் மாதம் திருப்பூர் ஆடை ஏற்றுமதி 18% உயர்வு",
+      "summary_en": "Tiruppur recorded its strongest single-month export performance in three years on the back of zero-tariff access to the US market and steady EU demand.",
+      "summary_ta": "அமெரிக்க சந்தையில் சுங்க விலக்கு மற்றும் தொடர்ச்சியான EU தேவையால், மூன்று ஆண்டுகளில் மிக சிறந்த ஒற்றை-மாத ஏற்றுமதி செயல்திறனை திருப்பூர் பதிவு செய்துள்ளது.",
+      "district": "Tiruppur",
+      "category": "Business",
+      "date": "2026-05-02",
+      "image": "trending-export"
     },
     {
-      "id": "main-fresh-3",
-      "title": "Erode's Independent Surge Shocks Political Establishment",
-      "summary": "Preliminary counts show unprecedented success for independent candidates in Erode, signalling voter shift away from traditional parties.",
-      "category": "Politics",
-      "date": "April 25, 2026",
-      "featured": false
+      "id": "main-trd-002",
+      "title_en": "IMD heavy rain alert: Western Ghats districts brace for 48-hour wet spell",
+      "title_ta": "IMD கனமழை எச்சரிக்கை: மேற்கு தொடர்ச்சி மலை மாவட்டங்களில் 48 மணி நேர மழை எதிர்பார்ப்பு",
+      "summary_en": "Coimbatore, Tiruppur, Erode, Nilgiris and Dharmapuri are under a yellow alert with isolated heavy rainfall and thunderstorm activity expected over the next two days.",
+      "summary_ta": "கோவை, திருப்பூர், ஈரோடு, நீலகிரி மற்றும் தர்மபுரி மஞ்சள் எச்சரிக்கையில் உள்ளன. அடுத்த இரு நாட்களில் தனி இடங்களில் கனமழை மற்றும் இடி-மின்னல் எதிர்பார்க்கப்படுகிறது.",
+      "district": "Region",
+      "category": "Weather",
+      "date": "2026-05-02",
+      "image": "trending-weather"
     },
     {
-      "id": "main-fresh-4",
-      "title": "Salem-Namakkal Contest Reaches Thriller Finish",
-      "summary": "Final count expected by evening with victory margin likely under 1000 votes. Election officials verify every vote in tight race.",
-      "category": "Election",
-      "date": "April 25, 2026",
-      "featured": false
+      "id": "main-trd-003",
+      "title_en": "Erode turmeric prices climb Rs 800 per quintal as arrivals tighten",
+      "title_ta": "வரத்து குறைவால் ஈரோடு மஞ்சள் விலை குவிண்டாலுக்கு ரூ.800 உயர்வு",
+      "summary_en": "Tightening arrivals from Sathyamangalam and Bhavani belts pushed wholesale turmeric prices to a multi-week high at the Erode Regulated Market.",
+      "summary_ta": "சத்தியமங்கலம் மற்றும் பவானியில் இருந்து வரத்து குறைந்ததால் ஈரோடு கட்டுப்பாட்டு சந்தையில் மொத்த விலை பல வாரங்களில் உச்சத்தை எட்டியது.",
+      "district": "Erode",
+      "category": "Agriculture",
+      "date": "2026-05-02",
+      "image": "trending-turmeric"
+    },
+    {
+      "id": "main-trd-004",
+      "title_en": "Namakkal poultry sector flags maize price hike, calls for feed-grain buffer",
+      "title_ta": "நாமக்கல் கோழிப்பண்ணை துறை மக்காச்சோளம் விலை உயர்வை எதிர்த்து தீவன இருப்பு கோரிக்கை",
+      "summary_en": "Maize prices have risen 22 percent in two months, squeezing per-egg margins for India's largest egg-producing district.",
+      "summary_ta": "மக்காச்சோளம் விலை இரு மாதங்களில் 22% உயர்ந்துள்ளது. இந்தியாவின் மிகப்பெரிய முட்டை உற்பத்தி மாவட்டத்தில் ஒரு முட்டை லாபம் குறைந்துள்ளது.",
+      "district": "Namakkal",
+      "category": "Agriculture",
+      "date": "2026-05-02",
+      "image": "trending-poultry"
+    },
+    {
+      "id": "main-trd-005",
+      "title_en": "Ooty Summer Festival registrations cross 1.2 lakh visitor mark",
+      "title_ta": "ஊட்டி கோடைவிழா பதிவு 1.2 லட்சம் பார்வையாளர்களை கடந்தது",
+      "summary_en": "The 2026 edition of the Ooty Summer Festival has crossed 1.2 lakh registered visitors, with tourism receipts expected to top Rs 200 crore.",
+      "summary_ta": "ஊட்டி கோடைவிழாவின் 2026-ம் ஆண்டு நிகழ்வு 1.2 லட்சம் பதிவு செய்யப்பட்ட பார்வையாளர்களை கடந்துள்ளது. சுற்றுலா வருவாய் ரூ.200 கோடிக்கு மேல் எதிர்பார்க்கப்படுகிறது.",
+      "district": "Nilgiris",
+      "category": "Tourism",
+      "date": "2026-05-02",
+      "image": "trending-ooty"
+    },
+    {
+      "id": "main-trd-006",
+      "title_en": "Salem-Chennai Vande Bharat trial run scheduled for May 12",
+      "title_ta": "சேலம்-சென்னை வந்தே பாரத் சோதனை ஓட்டம் மே 12 அன்று திட்டமிடப்பட்டுள்ளது",
+      "summary_en": "Southern Railway has confirmed the trial run on May 12, paving the way for full commercial operations from the first week of June.",
+      "summary_ta": "மே 12 அன்று சோதனை ஓட்டத்தை தென் ரயில்வே உறுதி செய்துள்ளது. ஜூன் முதல் வாரத்தில் வணிக சேவை தொடங்கும்.",
+      "district": "Salem",
+      "category": "Transport",
+      "date": "2026-05-02",
+      "image": "trending-vande-bharat"
+    },
+    {
+      "id": "main-trd-007",
+      "title_en": "Karur home-textile exports reclaim pre-2024 peak after India-EU trade pact",
+      "title_ta": "இந்தியா-EU வர்த்தக ஒப்பந்தத்திற்குப் பின் கரூர் வீட்டு ஜவுளி ஏற்றுமதி 2024 உச்சத்தை மீட்டுள்ளது",
+      "summary_en": "Renewed German and French retail demand has pushed Karur's home-textile shipments to pre-2024 peak levels in April.",
+      "summary_ta": "ஜெர்மனி மற்றும் பிரான்ஸ் சில்லறை வாங்கிகளின் தேவையால், கரூர் வீட்டு ஜவுளி ஏற்றுமதி ஏப்ரல் மாதம் 2024-க்கு முந்தைய உச்சத்தை எட்டியுள்ளது.",
+      "district": "Karur",
+      "category": "Business",
+      "date": "2026-05-02",
+      "image": "trending-karur-textiles"
+    },
+    {
+      "id": "main-trd-008",
+      "title_en": "Dharmapuri mango GI tag fuels record May export bookings",
+      "title_ta": "தர்மபுரி மாம்பழ GI அங்கீகாரத்தால் மே மாத ஏற்றுமதியில் சாதனை",
+      "summary_en": "Confirmed May orders from UAE, Singapore and Malaysia have already exceeded last year's full-season export volume from Dharmapuri orchards.",
+      "summary_ta": "ஐக்கிய அரபு அமீரகம், சிங்கப்பூர் மற்றும் மலேசியாவிலிருந்து உறுதிப்படுத்தப்பட்ட மே மாத ஆர்டர்கள், தர்மபுரியின் கடந்த ஆண்டு முழு சீசன் ஏற்றுமதியை மீறியுள்ளன.",
+      "district": "Dharmapuri",
+      "category": "Agriculture",
+      "date": "2026-05-02",
+      "image": "trending-dpr-mango"
     }
   ],
-  "gridNews": [
-    {
-      "id": "main-fresh-5",
-      "title": "Tiruppur Textile Sector Celebrates Pro-Business Exit Polls",
-      "summary": "Exit polls suggesting business-friendly policies trigger rally in manufacturing stocks. Industry leaders prepare investment strategies.",
-      "category": "Business",
-      "date": "April 25, 2026",
-      "featured": false
-    },
-    {
-      "id": "main-fresh-6",
-      "title": "Election Day Traffic: Kongu Highways Now Clear",
-      "summary": "With voting concluded, major highways across region see smooth traffic flow as campaign barricades are dismantled.",
-      "category": "Transport",
-      "date": "April 25, 2026",
-      "featured": false
-    },
-    {
-      "id": "main-fresh-7",
-      "title": "Nilgiris Achieves Historic Tribal Village Turnout",
-      "summary": "Remote hill villages in Nilgiris record 68% participation with special polling stations set up in tribal settlements.",
-      "category": "Civic",
-      "date": "April 25, 2026",
-      "featured": false
-    },
-    {
-      "id": "main-fresh-8",
-      "title": "Karur and Dharmapuri Deliver Shocking Results",
-      "summary": "Early exit polls from agricultural districts indicate surprising electoral shifts challenging pre-election political forecasts.",
-      "category": "Election",
-      "date": "April 25, 2026",
-      "featured": false
-    }
+  "districts": [
+    {"slug": "coimbatore", "name_en": "Coimbatore", "name_ta": "கோயம்புத்தூர்", "tagline_en": "Manchester of South India", "tagline_ta": "தென்னிந்தியாவின் மான்செஸ்டர்"},
+    {"slug": "tiruppur",   "name_en": "Tiruppur",   "name_ta": "திருப்பூர்",   "tagline_en": "Knitwear Capital", "tagline_ta": "ஆடைத் தலைநகரம்"},
+    {"slug": "erode",      "name_en": "Erode",      "name_ta": "ஈரோடு",        "tagline_en": "Turmeric City",    "tagline_ta": "மஞ்சள் நகரம்"},
+    {"slug": "salem",      "name_en": "Salem",      "name_ta": "சேலம்",         "tagline_en": "Steel City",       "tagline_ta": "இரும்பு நகரம்"},
+    {"slug": "namakkal",   "name_en": "Namakkal",   "name_ta": "நாமக்கல்",      "tagline_en": "Egg & Lorry Hub",  "tagline_ta": "முட்டை மற்றும் லாரி மையம்"},
+    {"slug": "nilgiris",   "name_en": "Nilgiris",   "name_ta": "நீலகிரி",       "tagline_en": "Queen of Hills",   "tagline_ta": "மலை ராணி"},
+    {"slug": "karur",      "name_en": "Karur",      "name_ta": "கரூர்",         "tagline_en": "Home Textile Hub", "tagline_ta": "வீட்டு ஜவுளி மையம்"},
+    {"slug": "dharmapuri", "name_en": "Dharmapuri", "name_ta": "தர்மபுரி",      "tagline_en": "Mango Country",    "tagline_ta": "மாம்பழ நாடு"}
   ]
 }

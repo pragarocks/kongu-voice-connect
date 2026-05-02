@@ -1,202 +1,100 @@
 [
   {
-    "id": "sal-may01-1",
+    "id": "slm-001",
+    "category": "Business",
+    "featured": true,
+    "image": "/news/2026-05-02/steel-industry.jpg",
+    "title": "Salem steel sector readies post-poll capacity expansion plans",
+    "summary": "Salem's stainless-steel and engineering manufacturers are finalising post-poll capacity expansion plans worth Rs 1,800 crore, contingent on the next government's industrial-power tariff stance.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "slm-002",
     "category": "Election",
     "featured": true,
-    "image": "/news/2026-05-01/counting-prep.jpg",
-    "title": "Salem readies 11 counting halls; postal ballots to be opened first",
-    "summary": "Salem district administration has set up 11 counting halls for the assembly seats with separate enclosures for service voter and postal ballots, which will be taken up at 8 a.m. on May 4.",
-    "date": "May 1, 2026"
+    "image": "/news/2026-05-02/election-counting.jpg",
+    "title": "11 Salem Assembly seats to be counted at four secured centres on May 4",
+    "summary": "Counting for Salem district's 11 Assembly seats will take place at four designated centres in Salem city, Yercaud, Mettur and Attur, with 22 counting halls and over 800 staff deployed.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "sal-may01-2",
-    "category": "Business",
-    "image": "/news/2026-05-01/salem-steel.jpg",
-    "title": "SAIL Salem Steel Plant resumes full export despatch after polling pause",
-    "summary": "Salem Steel Plant has resumed full despatch of stainless steel coils with rakes moving to JNPA and Chennai ports, after a brief slowdown during the April 23 polling week.",
-    "date": "May 1, 2026"
+    "id": "slm-003",
+    "category": "Agriculture",
+    "title": "Mettur dam touches 92 ft as Cauvery inflows pick up",
+    "summary": "The Mettur dam water level has risen to 92 feet against full capacity of 120 feet, following increased inflows from upstream Karnataka over the past 96 hours.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "sal-may01-3",
-    "category": "Civic",
-    "image": "/news/2026-05-01/strongroom-security.jpg",
-    "title": "Yercaud and Mettur strong rooms under drone surveillance",
-    "summary": "The Salem police have introduced 24x7 drone surveillance over EVM strong rooms in Yercaud and Mettur, in addition to CCTV and armed CAPF guards, ahead of counting.",
-    "date": "May 1, 2026"
+    "id": "slm-004",
+    "category": "Tourism",
+    "title": "Yercaud hill station crowded as weekend tourist arrivals surge",
+    "summary": "Yercaud has seen a sharp surge in weekend tourist arrivals with hotel occupancy crossing 95 percent, prompting traffic regulation along the 20-hairpin bend ghat road from this morning.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "salem-29-1",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Hoax bomb threat triggers search at Salem collectorate",
-    "summary": "Salem collector office received hoax bomb threat email; police and bomb squad conducted intensive searches with sniffer dogs, no explosives found."
-  },
-  {
-    "id": "salem-29-2",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Fourth bomb threat reported this year in Salem",
-    "summary": "Authorities confirmed repeated hoax threats targeting Salem collectorate this year, prompting heightened vigilance and ongoing investigation into the source."
-  },
-  {
-    "id": "salem-29-3",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Bomb disposal squads deployed after threat alert",
-    "summary": "Specialized bomb detection teams and sniffer dogs were deployed across Salem collectorate premises following threat, ensuring safety and clearing sensitive zones."
-  },
-  {
-    "id": "salem-29-4",
+    "id": "slm-005",
     "category": "Infrastructure",
-    "date": "April 29, 2026",
-    "title": "Collector inspects counting centre arrangements",
-    "summary": "Salem district collector conducted inspection of vote counting centers, reviewing infrastructure, security arrangements and logistics ahead of counting process."
+    "title": "Salem Junction redevelopment design unveiled by Southern Railway",
+    "summary": "Southern Railway has released the new redevelopment master plan for Salem Junction featuring a sky concourse, three additional platforms and integrated multimodal transit hub, with work targeted to commence in October.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "salem-29-5",
-    "category": "Election",
-    "date": "April 29, 2026",
-    "title": "Final phase polling concludes across Tamil Nadu",
-    "summary": "Voting concludes statewide including Salem constituencies, marking end of polling phase with focus shifting to counting preparations and political analysis."
+    "id": "slm-006",
+    "category": "Agriculture",
+    "title": "Salem mango farmers adopt Israeli high-density farming model",
+    "summary": "Over 400 mango farmers across Salem have adopted the Israeli high-density orchard model, with average yields up by 60 percent versus traditional planting in the first commercial year.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "salem-29-6",
-    "category": "Politics",
-    "date": "April 29, 2026",
-    "title": "Exit polls generate buzz across Salem",
-    "summary": "Exit poll discussions dominate Salem political circles, indicating competitive race between major alliances and possible shifts in traditional voting patterns."
-  },
-  {
-    "id": "salem-29-7",
-    "category": "Politics",
-    "date": "April 29, 2026",
-    "title": "AIADMK faces crucial test in western districts",
-    "summary": "Western Tamil Nadu including Salem seen as key battleground where AIADMK performance will influence overall state election outcome."
-  },
-  {
-    "id": "salem-29-8",
-    "category": "Politics",
-    "date": "April 29, 2026",
-    "title": "DMK alliance shows edge in projections",
-    "summary": "Early exit poll trends suggest advantage for DMK-led alliance, though local factors in Salem may influence final results significantly."
-  },
-  {
-    "id": "salem-29-9",
-    "category": "Election",
-    "date": "April 29, 2026",
-    "title": "Strict monitoring continues at EVM strong rooms",
-    "summary": "Round-the-clock security continues at Salem EVM storage centers with CCTV surveillance and restricted access until counting day."
-  },
-  {
-    "id": "salem-29-10",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Police increase surveillance after threat incident",
-    "summary": "Following bomb threat, Salem police intensified surveillance across government offices and key installations to prevent potential security risks."
-  },
-  {
-    "id": "salem-29-11",
+    "id": "slm-007",
     "category": "Weather",
-    "date": "April 29, 2026",
-    "title": "Heatwave conditions persist in Salem region",
-    "summary": "Salem continues to experience high temperatures nearing 40°C, raising health concerns and affecting daily routines across the district."
+    "image": "/news/2026-05-02/weather-rain.jpg",
+    "title": "Heavy rain warning for Salem and Namakkal from May 3",
+    "summary": "IMD has placed Salem and Namakkal under a heavy rainfall warning effective May 3 as the trough system moves further south, with isolated heavy showers expected through May 4.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "salem-29-12",
-    "category": "Health",
-    "date": "April 29, 2026",
-    "title": "Heat-related illness risk rises in Salem",
-    "summary": "Medical experts warn of increasing heatstroke cases due to prolonged exposure, advising hydration and limiting outdoor activities during peak hours."
+    "id": "slm-008",
+    "category": "Technology",
+    "image": "/news/2026-05-01/salem-steel.jpg",
+    "title": "Salem Steel Plant signs MoU with IIT Madras for green-steel research",
+    "summary": "Salem Steel Plant has signed a five-year research MoU with IIT Madras to develop hydrogen-based green-steel production techniques targeting 30 percent emission reduction.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "salem-29-13",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Residents adjust routines amid extreme heat",
-    "summary": "People in Salem shift daily schedules to early mornings and evenings to avoid harsh afternoon temperatures."
+    "id": "slm-009",
+    "category": "Administration",
+    "title": "Salem civic body launches doorstep drainage cleaning service",
+    "summary": "Salem Corporation has launched a doorstep drainage and storm-water-line cleaning service through a dedicated mobile app, with a 24-hour response commitment for monsoon-readiness complaints.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "salem-29-14",
-    "category": "Transport",
-    "date": "April 29, 2026",
-    "title": "Traffic monitored near collectorate after alert",
-    "summary": "Traffic movement around Salem collector office regulated temporarily during security checks following bomb threat to ensure smooth operations."
-  },
-  {
-    "id": "salem-29-15",
-    "category": "Civic",
-    "date": "April 29, 2026",
-    "title": "Authorities issue caution after hoax threat",
-    "summary": "Officials urge public to remain calm and avoid panic after confirmation that bomb threat at Salem collectorate was a hoax."
-  },
-  {
-    "id": "salem-29-16",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Investigation launched into email threat source",
-    "summary": "Cyber teams begin investigation to trace origin of threatening email sent to Salem collector office as part of ongoing security probe."
-  },
-  {
-    "id": "salem-29-17",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Government offices resume normal operations",
-    "summary": "After security clearance, Salem collectorate resumed regular operations with reinforced monitoring and precautionary measures."
-  },
-  {
-    "id": "salem-29-18",
+    "id": "slm-010",
     "category": "Infrastructure",
-    "date": "April 29, 2026",
-    "title": "Security systems reviewed at key offices",
-    "summary": "Authorities review surveillance and emergency response systems at Salem government buildings following repeated threat incidents."
+    "title": "Sankari truck terminal completes phase-1 commissioning",
+    "summary": "The Rs 240 crore Sankari truck terminal — the largest in central Tamil Nadu — has completed phase-1 commissioning with capacity for 800 long-haul trucks at any time.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "salem-29-19",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Sniffer dogs deployed across premises",
-    "summary": "Specially trained sniffer dogs conducted thorough checks at Salem collectorate premises ensuring no suspicious objects remained after threat alert."
+    "id": "slm-011",
+    "category": "Education",
+    "title": "Attur block schools launch Tamil-medium AI literacy curriculum",
+    "summary": "Forty government higher secondary schools across the Attur block have begun teaching a state-developed Tamil-medium AI literacy curriculum for Class 9 and 10 students from this academic term.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "salem-29-20",
-    "category": "Election",
-    "date": "April 29, 2026",
-    "title": "Focus shifts to vote counting preparations",
-    "summary": "With polling completed, Salem district officials focus on final preparations for vote counting scheduled in early May."
+    "id": "slm-012",
+    "category": "Agriculture",
+    "title": "Sago millers seek MSP framework to stabilise tapioca prices",
+    "summary": "Salem's sago manufacturers' federation has formally sought a Minimum Support Price framework for tapioca, citing wide price swings that have hurt both farmers and processing units this season.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "salem-29-21",
-    "category": "Politics",
-    "date": "April 29, 2026",
-    "title": "Regional leaders await exit poll outcomes",
-    "summary": "Political leaders in Salem closely monitor exit poll results to assess performance and plan next steps ahead of official counting."
-  },
-  {
-    "id": "salem-29-22",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Police maintain high alert across district",
-    "summary": "High alert continues across Salem with increased patrolling and monitoring at sensitive locations after threat incident."
-  },
-  {
-    "id": "salem-29-23",
-    "category": "Environment",
-    "date": "April 29, 2026",
-    "title": "Rising temperatures impact outdoor workers",
-    "summary": "Extreme heat conditions continue to affect construction and daily wage workers across Salem, reducing productivity during daytime hours."
-  },
-  {
-    "id": "salem-29-24",
-    "category": "Health",
-    "date": "April 29, 2026",
-    "title": "Hospitals stay prepared for summer surge",
-    "summary": "Healthcare facilities in Salem remain on alert for increased cases of dehydration and heat-related illnesses during peak summer days."
-  },
-  {
-    "id": "salem-29-25",
-    "category": "Civic",
-    "date": "April 29, 2026",
-    "title": "Officials stress emergency preparedness",
-    "summary": "District administration emphasizes readiness for emergencies and urges departments to respond swiftly to any security or weather-related incidents."
+    "id": "slm-013",
+    "category": "Transport",
+    "image": "/news/2026-05-02/vande-bharat.jpg",
+    "title": "Salem-Chennai Vande Bharat trial run scheduled for June launch",
+    "summary": "Southern Railway has scheduled the trial run of a Salem-Chennai Vande Bharat Express on May 12, paving the way for full commercial operations from the first week of June.",
+    "date": "May 2, 2026"
   }
 ]

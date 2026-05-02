@@ -1,167 +1,98 @@
 [
   {
-    "id": "tir-may01-1",
+    "id": "tup-001",
     "category": "Business",
     "featured": true,
-    "image": "/news/2026-05-01/tiruppur-textile.jpg",
-    "title": "Tiruppur knitwear exports cross USD 4.6 billion; cluster eyes US tariff window",
-    "summary": "AEPC data released Friday shows Tiruppur cluster shipped USD 4.6 billion of knitwear in FY26, with exporters preparing fresh capacity to capture orders shifting from Bangladesh and Vietnam.",
-    "date": "May 1, 2026"
+    "image": "/news/2026-05-02/garment-export.jpg",
+    "title": "Tiruppur knitwear cluster posts 18 percent export jump in April",
+    "summary": "Tiruppur's knitwear cluster recorded an 18 percent year-on-year increase in apparel exports in April, with the India-US zero-tariff regime and steady EU orders driving the strongest single-month performance in three years.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "tir-may01-2",
+    "id": "tup-002",
     "category": "Election",
+    "featured": true,
     "image": "/news/2026-05-01/strongroom-security.jpg",
-    "title": "Tiruppur strong rooms get extra CAPF company after agents' demand",
-    "summary": "An additional company of central forces was deployed at the Tiruppur and Avinashi strong rooms after party agents raised concerns over crowd management on counting morning.",
-    "date": "May 1, 2026"
+    "title": "Election counting: 8 Tiruppur constituency strong rooms under multi-tier guard",
+    "summary": "All eight Assembly constituencies in Tiruppur district have their EVM strong rooms under three-tier security with CAPF cordon, state police perimeter and CCTV-streamed monitoring rooms for party agents.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "tir-may01-3",
-    "category": "Civic",
-    "image": "/news/2026-05-01/coimbatore-industry.jpg",
-    "title": "Effluent treatment plants resume full operation after election shutdown",
-    "summary": "All 18 CETPs in Tiruppur have resumed full operation post-polling, clearing a backlog of dye-house effluent that built up during the campaign and polling-week shutdowns.",
-    "date": "May 1, 2026"
-  },
-  {
-    "id": "tiruppur-29-1",
-    "category": "Business",
-    "date": "April 29, 2026",
-    "title": "Karur Vysya Bank opens Tiruppur divisional office",
-    "summary": "Karur Vysya Bank inaugurated a new divisional office in Tiruppur to strengthen credit operations and support textile sector expansion in the region. :contentReference[oaicite:0]{index=0}"
-  },
-  {
-    "id": "tiruppur-29-2",
-    "category": "Sports",
-    "date": "April 29, 2026",
-    "title": "State hockey tournament underway in Tiruppur",
-    "summary": "Junior boys state hockey tournament matches are being hosted in Tiruppur, featuring teams from across Tamil Nadu competing in league-cum-knockout format. :contentReference[oaicite:1]{index=1}"
-  },
-  {
-    "id": "tiruppur-29-3",
-    "category": "Transport",
-    "date": "April 29, 2026",
-    "title": "Special buses operate to Tiruppur after polls",
-    "summary": "TNSTC deployed special buses connecting Tiruppur with major cities to manage post-election travel demand, ensuring smoother passenger movement across regions. :contentReference[oaicite:2]{index=2}"
-  },
-  {
-    "id": "tiruppur-29-4",
-    "category": "Election",
-    "date": "April 29, 2026",
-    "title": "Polling concludes, voters await results",
-    "summary": "Polling has concluded in Tiruppur constituencies with steady turnout, and residents are now awaiting official election results announcement in coming days."
-  },
-  {
-    "id": "tiruppur-29-5",
-    "category": "Weather",
-    "date": "April 29, 2026",
-    "title": "Heatwave conditions persist in Tiruppur",
-    "summary": "High temperatures continue across Tiruppur, affecting outdoor work and daily routines, with health officials advising precautions against heat-related illnesses."
-  },
-  {
-    "id": "tiruppur-29-6",
-    "category": "Health",
-    "date": "April 29, 2026",
-    "title": "Hospitals report dehydration cases rise",
-    "summary": "Local hospitals are seeing increased cases of dehydration and heat exhaustion as Tiruppur faces ongoing extreme summer temperatures."
-  },
-  {
-    "id": "tiruppur-29-7",
-    "category": "Business",
-    "date": "April 29, 2026",
-    "title": "Textile sector eyes recovery post-election",
-    "summary": "Tiruppur garment manufacturers expect improved business activity after election disruptions, though cost pressures continue to affect profitability."
-  },
-  {
-    "id": "tiruppur-29-8",
-    "category": "Civic",
-    "date": "April 29, 2026",
-    "title": "Waste management issues raised again",
-    "summary": "Residents highlighted ongoing garbage disposal problems in Tiruppur outskirts, urging authorities to improve waste collection and processing systems."
-  },
-  {
-    "id": "tiruppur-29-9",
-    "category": "Infrastructure",
-    "date": "April 29, 2026",
-    "title": "Road repair works resume across city",
-    "summary": "Municipal authorities resumed road repair projects in Tiruppur after election restrictions were lifted, focusing on damaged urban stretches."
-  },
-  {
-    "id": "tiruppur-29-10",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Markets reopen with steady footfall",
-    "summary": "Retail markets in Tiruppur reported moderate customer turnout as business activity gradually returned to normal after polling day slowdown."
-  },
-  {
-    "id": "tiruppur-29-11",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Police maintain post-election vigilance",
-    "summary": "Security has been tightened in Tiruppur with police maintaining surveillance in sensitive areas following completion of polling process."
-  },
-  {
-    "id": "tiruppur-29-12",
-    "category": "Transport",
-    "date": "April 29, 2026",
-    "title": "Traffic returns to normal levels",
-    "summary": "Vehicle movement across Tiruppur roads has normalized after election-related restrictions, with no major congestion reported."
-  },
-  {
-    "id": "tiruppur-29-13",
-    "category": "Education",
-    "date": "April 29, 2026",
-    "title": "Schools reopen after polling break",
-    "summary": "Educational institutions in Tiruppur resumed regular classes following temporary closures for election arrangements."
-  },
-  {
-    "id": "tiruppur-29-14",
+    "id": "tup-003",
     "category": "Environment",
-    "date": "April 29, 2026",
-    "title": "Groundwater pollution concerns persist",
-    "summary": "Environmental groups reiterated concerns over groundwater contamination in Tiruppur due to industrial waste and improper disposal practices."
+    "image": "/news/2026-05-01/tiruppur-textile.jpg",
+    "title": "Green Tiruppur initiative crosses 1.5 million tree-plantation milestone",
+    "summary": "The Green Tiruppur sustainability programme led by TEA has crossed 1.5 million trees planted across cluster perimeters and dyeing unit premises, moving towards its 2 million tree pledge.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "tiruppur-29-15",
-    "category": "Economy",
-    "date": "April 29, 2026",
-    "title": "Yarn price fluctuations impact industry",
-    "summary": "Volatile yarn prices continue to challenge Tiruppur garment manufacturers, affecting production planning and export competitiveness."
+    "id": "tup-004",
+    "category": "Business",
+    "title": "TEA pushes for World-Class Convention Centre in upcoming state budget",
+    "summary": "The Tiruppur Exporters Association has formally petitioned the state government to include funding for a world-class convention centre in the upcoming budget, citing repeated buyer-summit demand.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "tiruppur-29-16",
-    "category": "Civic",
-    "date": "April 29, 2026",
-    "title": "Streetlight maintenance underway",
-    "summary": "Corporation teams have begun repairing faulty streetlights in multiple Tiruppur wards to improve nighttime safety conditions."
+    "id": "tup-005",
+    "category": "Environment",
+    "title": "ZLD compliance audit: 84 dyeing units pass third-party verification",
+    "summary": "TNPCB's third-party audit confirmed 84 dyeing units in Tiruppur are fully compliant with Zero Liquid Discharge norms in the latest cycle, with seven units flagged for corrective action by month-end.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "tiruppur-29-17",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Workers return to factories",
-    "summary": "Textile workers resumed duties across Tiruppur industrial units following election-related holidays, restoring production activities."
+    "id": "tup-006",
+    "category": "Culture",
+    "title": "Avinashi temple chariot festival draws record pilgrim turnout",
+    "summary": "The annual chariot festival at the Avinashilingeswarar Temple drew over 200,000 pilgrims this year, with the temple devasthanam noting record participation from Erode and Coimbatore districts.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "tiruppur-29-18",
+    "id": "tup-007",
     "category": "Infrastructure",
-    "date": "April 29, 2026",
-    "title": "Drainage cleaning operations resume",
-    "summary": "Municipal teams restarted drainage cleaning work across key zones in Tiruppur to prevent clogging ahead of monsoon season."
+    "title": "Tiruppur water-supply augmentation project gets central funding clearance",
+    "summary": "The Rs 1,420 crore Tiruppur water supply augmentation project drawing additional water from the Cauvery has secured central funding approval under AMRUT 2.0, with execution targeted by 2028.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "tiruppur-29-19",
+    "id": "tup-008",
     "category": "Weather",
-    "date": "April 29, 2026",
-    "title": "Dry weather expected to continue",
-    "summary": "Forecast indicates continued dry conditions in Tiruppur with no immediate rainfall, raising concerns for water availability."
+    "title": "Heavy rain alert for Tiruppur; civic body activates flood-control rooms",
+    "summary": "With IMD forecasting isolated heavy rainfall over Tiruppur today, the city corporation has activated four flood-control rooms across Tiruppur North, South, Avinashi and Palladam zones.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "tiruppur-29-20",
-    "category": "Agriculture",
-    "date": "April 29, 2026",
-    "title": "Farmers voice irrigation concerns",
-    "summary": "Farmers in Tiruppur district expressed worries over water scarcity impacting irrigation and crop sustainability amid prolonged dry spell."
+    "id": "tup-009",
+    "category": "Technology",
+    "title": "Apparel-tech startup from Tiruppur raises $4 million Series A",
+    "summary": "A Tiruppur-headquartered apparel-tech startup building AI-driven fabric defect detection has closed a $4 million Series A round led by a Singapore venture firm, with plans to expand to Bangladesh and Vietnam.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "tup-010",
+    "category": "Social",
+    "title": "Migrant worker insurance scheme rolled out across Tiruppur cluster",
+    "summary": "A unified insurance and accident-cover scheme for migrant workers has been rolled out across Tiruppur knitwear units, jointly funded by the labour department and TEA, covering an estimated 250,000 workers.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "tup-011",
+    "category": "Environment",
+    "title": "Palladam textile mills adopt solar rooftop with PPA model",
+    "summary": "Twelve textile mills in Palladam have signed long-term Power Purchase Agreements for rooftop solar installations totalling 28 megawatts, expected to cut grid dependency by nearly 40 percent.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "tup-012",
+    "category": "Transport",
+    "title": "Special bus services from Tiruppur for return rush to Chennai and Bengaluru",
+    "summary": "TNSTC has announced 60 special buses operating from Tiruppur today and tomorrow to handle the post-holiday return rush, including air-conditioned sleeper services to Chennai and Bengaluru.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "tup-013",
+    "category": "Culture",
+    "title": "Dharapuram silk handloom weavers granted GI tag protection extension",
+    "summary": "The Dharapuram silk handloom cluster has received a 10-year extension on its Geographical Indication tag, allowing the cooperative to continue exclusive use of the regional name and weaving technique.",
+    "date": "May 2, 2026"
   }
 ]

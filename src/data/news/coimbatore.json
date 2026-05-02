@@ -1,132 +1,106 @@
 [
   {
-    "id": "cbe-may01-1",
+    "id": "cbe-001",
     "category": "Election",
     "featured": true,
-    "image": "/news/2026-05-01/counting-prep.jpg",
-    "title": "Counting centres in Coimbatore sealed; CAPF tightens cordon ahead of May 4",
-    "summary": "All 10 constituency counting centres across Coimbatore have been sealed and brought under three-tier security with CAPF, TSP and local police. Collector reviewed final arrangements with returning officers on Friday.",
-    "date": "May 1, 2026"
+    "image": "/news/2026-05-02/hero-strongroom.jpg",
+    "title": "All 10 Coimbatore counting centres sealed; CAPF tightens cordon ahead of May 4",
+    "summary": "All ten constituency counting centres across Coimbatore have been brought under three-tier security with CAPF, TSP and local police personnel deployed round the clock. The District Election Officer confirmed that EVM strong rooms remain under live CCTV, with feeds open to all party agents 24x7 ahead of counting day on May 4.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "cbe-may01-2",
-    "category": "Politics",
+    "id": "cbe-002",
+    "category": "Business",
+    "featured": true,
     "image": "/news/2026-05-01/coimbatore-industry.jpg",
     "title": "Industry bodies meet candidates, push 12-point post-poll agenda",
-    "summary": "CODISSIA and SIEMA leaders held closed-door meetings with leading candidates from Coimbatore South, North and Singanallur seeking commitments on power tariff, MSME credit and skill-mission funding.",
-    "date": "May 1, 2026"
+    "summary": "Coimbatore industry associations including CODISSIA, COINDIA and SIEMA jointly handed over a 12-point charter to candidates from all major alliances, demanding power tariff stability, MSME credit reform and a dedicated industrial corridor between Coimbatore and Tiruppur.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "cbe-may01-3",
-    "category": "Civic",
+    "id": "cbe-003",
+    "category": "Election",
     "image": "/news/2026-05-01/strongroom-security.jpg",
     "title": "EVM strong room CCTV feed opened to party agents 24x7",
-    "summary": "The Election Commission has begun streaming live CCTV from all Coimbatore strong rooms to a dedicated viewing room where party agents can monitor footage round the clock until counting day.",
-    "date": "May 1, 2026"
+    "summary": "The Coimbatore Collectorate has activated dedicated viewing rooms outside each strong room where authorised representatives of all contesting parties can monitor live CCTV feeds continuously until counting begins.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "cbe-29-1",
-    "category": "Business",
-    "date": "April 29, 2026",
-    "title": "New farm outlet opens in Thondamuthur",
-    "summary": "Eighth direct farm outlet launched, supporting 750 farmers, offering cheaper produce and improving farm incomes by eliminating intermediaries in Coimbatore region."
+    "id": "cbe-004",
+    "category": "Weather",
+    "image": "/news/2026-05-02/weather-rain.jpg",
+    "title": "IMD yellow alert: Heavy rain forecast for Coimbatore and Western Ghats",
+    "summary": "Isolated heavy rainfall is expected across Coimbatore district today, with the Western Ghats stretch likely to see thunderstorms by evening. Authorities have advised residents in landslide-prone zones near Valparai and Anaikatti to stay alert.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "cbe-29-2",
-    "category": "Civic",
-    "date": "April 29, 2026",
-    "title": "TASMAC shops shut amid staff protest",
-    "summary": "Liquor outlets faced closures and delays as staff protested suspension threats linked to new bottle buy-back policy implementation across Coimbatore."
+    "id": "cbe-005",
+    "category": "Technology",
+    "title": "PSG Tech researchers unveil low-cost air quality sensor for tier-2 cities",
+    "summary": "A PSG College of Technology research team has launched a sub-Rs 5,000 air quality monitoring device designed for deployment across Tier-2 industrial cities. Field trials begin next week in Peelamedu and Singanallur.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "cbe-29-3",
+    "id": "cbe-006",
+    "category": "Infrastructure",
+    "title": "Avinashi Road metro alignment study moves to public consultation",
+    "summary": "The detailed project report for Coimbatore's first metro corridor along Avinashi Road has entered public consultation. CMRL has invited written objections and suggestions through May 31.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "cbe-007",
     "category": "Agriculture",
-    "date": "April 29, 2026",
-    "title": "Farmers raise alarm over elephant menace",
-    "summary": "Farmers petition forest officials citing crop damage and fear from elephant intrusions, demanding drone monitoring and action against interference from activists."
+    "title": "Pollachi coconut traders warn of price drop ahead of harvest peak",
+    "summary": "Traders at the Pollachi coconut market have flagged a 12 percent drop in wholesale prices over the past week, citing oversupply from neighbouring Karnataka and weak Kerala demand.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "cbe-29-4",
-    "category": "Transport",
-    "date": "April 29, 2026",
-    "title": "Six new train services proposed",
-    "summary": "Railways propose six additional services from Mettupalayam, aiming to improve connectivity and expand regional travel options by August 2026."
+    "id": "cbe-008",
+    "category": "Health",
+    "title": "GH Coimbatore opens new 200-bed paediatric block",
+    "summary": "Coimbatore Government Hospital has commissioned a dedicated 200-bed paediatric care block equipped with a 40-bed PICU and a milk bank, funded under the state health mission.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "cbe-29-5",
-    "category": "Crime",
-    "date": "April 29, 2026",
-    "title": "Elephant attack sparks violence",
-    "summary": "Villagers attacked forest officials after a man was killed by a wild elephant, highlighting rising human-wildlife conflict in Coimbatore district."
+    "id": "cbe-009",
+    "category": "Administration",
+    "title": "Liquor shops closed near Kerala border ahead of neighbouring state polls",
+    "summary": "Forty-eight TASMAC outlets along the Coimbatore-Kerala border in Madukkarai, Pollachi and Anaimalai blocks have been closed for 48 hours under Election Commission instructions.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "cbe-29-6",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "LPG tanker strike withdrawn",
-    "summary": "Lorry owners ended strike after assurance on rental dues, restoring LPG supply movement affecting parts of western Tamil Nadu including Coimbatore."
-  },
-  {
-    "id": "cbe-29-7",
-    "category": "Sports",
-    "date": "April 29, 2026",
-    "title": "State hockey tournament begins",
-    "summary": "Junior inter-district hockey championship featuring 700 players kicks off in Coimbatore, showcasing emerging talent across Tamil Nadu."
-  },
-  {
-    "id": "cbe-29-8",
-    "category": "Sports",
-    "date": "April 29, 2026",
-    "title": "Suguna Trophy hosts 700 players",
-    "summary": "Suguna Trophy 2026 tournament draws 35 teams to Coimbatore and Udumalpet, boosting local sports engagement and youth participation."
-  },
-  {
-    "id": "cbe-29-9",
-    "category": "Civic",
-    "date": "April 29, 2026",
-    "title": "Bottle buyback scheme rollout issues",
-    "summary": "Dual-scan liquor bottle return system faces resistance from staff citing increased workload and lack of infrastructure in Coimbatore outlets."
-  },
-  {
-    "id": "cbe-29-10",
+    "id": "cbe-010",
     "category": "Environment",
-    "date": "April 29, 2026",
-    "title": "Elephant conflict intensifies in rural belts",
-    "summary": "Increasing wildlife intrusion linked to drought conditions is causing safety concerns and economic losses for farmers in forest fringe areas."
+    "title": "Singanallur Lake bird census records 14 new migratory species",
+    "summary": "The annual Singanallur Lake bird census conducted by the Coimbatore Forest Division has recorded 14 new migratory species this season, taking the total tally to 137 documented birds.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "cbe-29-11",
-    "category": "Business",
-    "date": "April 29, 2026",
-    "title": "Farm outlet model gains traction",
-    "summary": "Direct farm outlets expand across Coimbatore, offering lower prices to consumers and better profit margins to farmers through reduced intermediaries."
-  },
-  {
-    "id": "cbe-29-12",
+    "id": "cbe-011",
     "category": "Transport",
-    "date": "April 29, 2026",
-    "title": "Rail expansion boosts Mettupalayam hub",
-    "summary": "Station upgrades and new services aim to transform Mettupalayam into a key rail hub connecting Coimbatore with major destinations."
+    "title": "Coimbatore Airport adds direct daily flight to Singapore from June",
+    "summary": "AAI confirmed that a major carrier will operate a daily Coimbatore-Singapore service from June 15, marking the city's second international destination after Sharjah.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "cbe-29-13",
-    "category": "Civic",
-    "date": "April 29, 2026",
-    "title": "Liquor outlets face operational delays",
-    "summary": "Protests over policy changes led to delayed openings of several TASMAC outlets, affecting daily sales and consumer access."
+    "id": "cbe-012",
+    "category": "Tourism",
+    "title": "Kovai Kutralam waterfall closed to tourists during heavy rain alert",
+    "summary": "Forest officials have temporarily closed Kovai Kutralam falls to visitors after upstream water levels rose sharply following overnight rainfall in the Anaimalai range.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "cbe-29-14",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Forest staff injured in mob attack",
-    "summary": "Seven officials injured after villagers attacked forest personnel following fatal elephant incident, prompting police investigation."
+    "id": "cbe-013",
+    "category": "Business",
+    "title": "CODISSIA Trade Fair complex to host engineering expo from May 15",
+    "summary": "The CODISSIA Trade Fair Complex will host the 24th INTEC Engineering Expo from May 15, with over 800 exhibitors confirmed across machine tools, electricals, and EV components.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "cbe-29-15",
-    "category": "Agriculture",
-    "date": "April 29, 2026",
-    "title": "Farmers demand stricter wildlife control",
-    "summary": "Petition seeks stronger measures and technology use to manage elephant movements and protect farmland in Coimbatore district."
+    "id": "cbe-014",
+    "category": "Transport",
+    "title": "Special long-distance bus services from Gandhipuram for return travel",
+    "summary": "TNSTC has announced 90 special buses operating from Gandhipuram, Mettupalayam Road and Ukkadam terminals tomorrow to handle the post-holiday return rush to Chennai, Bengaluru and Madurai.",
+    "date": "May 2, 2026"
   }
 ]

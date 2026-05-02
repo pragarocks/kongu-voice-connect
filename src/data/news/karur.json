@@ -1,377 +1,92 @@
 [
   {
-    "id": "kar-may01-1",
+    "id": "kar-001",
     "category": "Business",
     "featured": true,
+    "image": "/news/2026-05-02/home-textiles.jpg",
+    "title": "Karur home-textile exports reclaim pre-2024 peak after India-EU deal",
+    "summary": "Karur's home-textile exporters reported total April shipments matching pre-2024 peak levels, with the India-EU trade deal opening up renewed German and French retail demand for Made-in-Karur towels and bedlinen.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "kar-002",
+    "category": "Election",
+    "featured": true,
+    "image": "/news/2026-05-02/election-counting.jpg",
+    "title": "Karur counting centre arrangements reviewed; six halls finalised",
+    "summary": "Karur district authorities have finalised six counting halls across the four Assembly constituencies — Karur, Aravakurichi, Kulithalai and Krishnarayapuram — with full CCTV streaming planned.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "kar-003",
+    "category": "Agriculture",
+    "title": "Cauvery delta paddy procurement begins at Karur DPCs",
+    "summary": "Direct procurement of Cauvery delta paddy has begun at Karur DPCs at the revised state MSP, with civil supplies officials confirming smooth pickup logistics for the first 1,200 farmers registered.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "kar-004",
+    "category": "Business",
+    "title": "Karur bus body builders adopt EV chassis-conversion line",
+    "summary": "Karur's bus-body building cluster has commissioned a dedicated EV chassis adaptation line, targeting the state and inter-state intercity electric coach segment as the country shifts to clean-fuel mandates.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "kar-005",
+    "category": "Business",
+    "title": "Karur emerges as top-3 Tamil Nadu UPI transaction-volume district",
+    "summary": "Karur has emerged as one of the top three districts in Tamil Nadu by UPI transaction volume in the latest NPCI quarterly report, attributed to its dense merchant network and headquartered banks.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "kar-006",
+    "category": "Weather",
+    "image": "/news/2026-05-02/weather-rain.jpg",
+    "title": "Heavy rain spell expected for Karur on May 3 and 4",
+    "summary": "IMD has placed Karur under a yellow rain warning for May 3 and 4, with thunderstorm activity likely across the Aravakurichi and Kulithalai blocks during late afternoon hours.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "kar-007",
+    "category": "Infrastructure",
+    "title": "Pasupathipalayam Cauvery footbridge work resumes after monsoon delay",
+    "summary": "PWD construction crews have resumed work on the long-pending Pasupathipalayam Cauvery footbridge connecting Karur to Erode, with completion now targeted for August 2026.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "kar-008",
+    "category": "Social",
     "image": "/news/2026-05-01/karur-handloom.jpg",
-    "title": "Karur home textile exporters log 9% growth, eye US Q3 orders",
-    "summary": "Karur Textile Manufacturers Exporters Association reported a 9% year-on-year rise in shipments and said US buyers are firming up Q3 orders for bedlinen and made-ups from the cluster.",
-    "date": "May 1, 2026"
+    "title": "Karur weavers' welfare board distributes pension arrears to 4,800 beneficiaries",
+    "summary": "The Tamil Nadu Handloom Weavers' Welfare Board distributed pension arrears worth Rs 6.4 crore to 4,800 retired weavers across Karur this week, clearing all backlogs from the previous fiscal year.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "kar-may01-2",
-    "category": "Election",
-    "image": "/news/2026-05-01/counting-prep.jpg",
-    "title": "Karur counting halls ready; record turnout puts spotlight on margins",
-    "summary": "Karur recorded the highest first-phase turnout in Tamil Nadu and counting officials say tight margins are likely in at least two of the four assembly segments when counting begins May 4.",
-    "date": "May 1, 2026"
-  },
-  {
-    "id": "kar-may01-3",
-    "category": "Civic",
-    "image": "/news/2026-05-01/strongroom-security.jpg",
-    "title": "Kulithalai and Aravakurichi strong rooms get triple-layer cordon",
-    "summary": "Kulithalai and Aravakurichi EVM strong rooms have been brought under a triple-layer security cordon with CAPF at the inner ring and state armed police on the outer perimeter.",
-    "date": "May 1, 2026"
-  },
-  {
-    "id": "karur-29-1",
-    "category": "Crime",
-    "date": "April 29, 2026",
-    "title": "Elderly woman murdered near Velliyanai",
-    "summary": "A 79-year-old woman was found murdered in her home, jewellery stolen; police suspect robbery motive and continue investigation in Karur district."
-  },
-  {
-    "id": "karur-29-2",
-    "category": "Politics",
-    "date": "April 29, 2026",
-    "title": "Political reactions intensify after murder",
-    "summary": "PMK leader Anbumani Ramadoss criticizes state government over law and order following Karur murder, calling for urgent action to ensure public safety."
-  },
-  {
-    "id": "karur-29-3",
-    "category": "Election",
-    "date": "April 29, 2026",
-    "title": "Counting staff training held in Karur",
-    "summary": "Election officials underwent training at Karur collectorate ahead of vote counting scheduled for May 4, emphasizing accuracy and transparency."
-  },
-  {
-    "id": "karur-29-4",
-    "category": "Election",
-    "date": "April 29, 2026",
-    "title": "Vote counting preparations underway",
-    "summary": "Authorities finalize arrangements for counting at M Kumarasamy College, deploying over 200 officials to manage election result processes efficiently."
-  },
-  {
-    "id": "karur-29-5",
-    "category": "Election",
-    "date": "April 29, 2026",
-    "title": "High voter turnout recorded in Karur",
-    "summary": "Karur district recorded one of Tamil Nadu’s highest voter turnout percentages in recent assembly elections, reflecting strong voter participation."
-  },
-  {
-    "id": "karur-29-6",
-    "category": "Civic",
-    "date": "April 29, 2026",
-    "title": "Water supply concerns persist nearby",
-    "summary": "Residents in nearby Kulithalai region protested erratic drinking water supply, highlighting ongoing water management issues affecting Karur belt."
-  },
-  {
-    "id": "karur-29-7",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Police intensify investigation in murder case",
-    "summary": "Karur police teams expand search operations and forensic analysis to identify suspects involved in the elderly woman murder case."
-  },
-  {
-    "id": "karur-29-8",
-    "category": "Election",
-    "date": "April 29, 2026",
-    "title": "Postal ballots processing continues",
-    "summary": "Election officials coordinate with Trichy center to manage postal ballot sorting and distribution for Karur district ahead of counting day."
-  },
-  {
-    "id": "karur-29-9",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Public concern rises over safety",
-    "summary": "Residents express concern over personal safety following recent murder incident, urging stronger policing and neighborhood vigilance across Karur."
-  },
-  {
-    "id": "karur-29-10",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Police patrols increased in rural areas",
-    "summary": "Authorities increase patrols in rural Karur villages after recent crime, aiming to reassure residents and prevent further incidents."
-  },
-  {
-    "id": "karur-29-11",
-    "category": "Weather",
-    "date": "April 29, 2026",
-    "title": "Heatwave conditions continue in Karur",
-    "summary": "Karur experiences sustained high temperatures, with heatwave conditions impacting daily life and increasing health risks for residents."
-  },
-  {
-    "id": "karur-29-12",
-    "category": "Health",
-    "date": "April 29, 2026",
-    "title": "Hospitals report rise in heat cases",
-    "summary": "Medical facilities in Karur note increasing cases of dehydration and heat exhaustion as temperatures remain above seasonal averages."
-  },
-  {
-    "id": "karur-29-13",
-    "category": "Civic",
-    "date": "April 29, 2026",
-    "title": "Water demand rises amid heatwave",
-    "summary": "Municipal authorities monitor water usage closely as demand surges due to ongoing high temperatures across Karur district."
-  },
-  {
-    "id": "karur-29-14",
+    "id": "kar-009",
     "category": "Infrastructure",
-    "date": "April 29, 2026",
-    "title": "Power consumption spikes in district",
-    "summary": "Electricity demand increases sharply in Karur as residents rely heavily on cooling appliances during extreme summer conditions."
+    "title": "Karur airport feasibility study commissioned by state planning board",
+    "summary": "The Tamil Nadu state planning board has commissioned a fresh feasibility study for a regional airport in Karur, citing rising home-textile export volumes and central Tamil Nadu air-connectivity gaps.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "karur-29-15",
+    "id": "kar-010",
     "category": "Business",
-    "date": "April 29, 2026",
-    "title": "Cooling appliance sales surge locally",
-    "summary": "Retailers report increased demand for fans, air coolers, and air conditioners amid continuing heatwave conditions."
+    "title": "Karur Vysya Bank reports strong Q4 quarterly numbers",
+    "summary": "Karur Vysya Bank, one of central Tamil Nadu's oldest financial institutions, reported a robust Q4 with double-digit profit growth and improved asset quality, with the board recommending a final dividend.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "karur-29-16",
+    "id": "kar-011",
     "category": "Agriculture",
-    "date": "April 29, 2026",
-    "title": "Farmers concerned over irrigation stress",
-    "summary": "Farmers report difficulties maintaining irrigation schedules due to rising temperatures and declining water availability."
+    "title": "Kulithalai Amaravathi pumping station gets capacity upgrade",
+    "summary": "The Amaravathi pumping station at Kulithalai has received a Rs 84 crore capacity upgrade, boosting irrigation supply to nearly 12,000 acres of paddy land in Karur and Tiruchirappalli districts.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "karur-29-17",
-    "category": "Market",
-    "date": "April 29, 2026",
-    "title": "Fruit sales increase during heat",
-    "summary": "Demand for watermelon, tender coconut, and citrus fruits rises sharply as residents seek hydration options."
-  },
-  {
-    "id": "karur-29-18",
-    "category": "Transport",
-    "date": "April 29, 2026",
-    "title": "Daytime traffic drops in town",
-    "summary": "Reduced vehicular movement observed in Karur during peak afternoon hours due to extreme heat conditions."
-  },
-  {
-    "id": "karur-29-19",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Evening activity increases in markets",
-    "summary": "Public activity shifts to evenings as residents avoid outdoor exposure during daytime heat in Karur."
-  },
-  {
-    "id": "karur-29-20",
-    "category": "Education",
-    "date": "April 29, 2026",
-    "title": "Schools implement heat precautions",
-    "summary": "Educational institutions reduce outdoor activities and adjust schedules to protect students from heat exposure."
-  },
-  {
-    "id": "karur-29-21",
-    "category": "Environment",
-    "date": "April 29, 2026",
-    "title": "Water levels decline in reservoirs",
-    "summary": "Local water bodies show reduced levels due to evaporation under prolonged summer heat conditions."
-  },
-  {
-    "id": "karur-29-22",
-    "category": "Economy",
-    "date": "April 29, 2026",
-    "title": "Small businesses adjust timings",
-    "summary": "Traders modify working hours to mornings and evenings to adapt to declining daytime customer turnout."
-  },
-  {
-    "id": "karur-29-23",
-    "category": "Health",
-    "date": "April 29, 2026",
-    "title": "Doctors warn against heatstroke risks",
-    "summary": "Health officials advise hydration and limited sun exposure to prevent heat-related illnesses during ongoing heatwave."
-  },
-  {
-    "id": "karur-29-24",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Crowds increase at water points",
-    "summary": "Public water distribution points see higher usage as residents cope with heat and rising water demand."
-  },
-  {
-    "id": "karur-29-25",
-    "category": "Infrastructure",
-    "date": "April 29, 2026",
-    "title": "Pipeline inspections intensified",
-    "summary": "Municipal teams conduct checks to prevent water leakage and ensure efficient distribution during peak demand."
-  },
-  {
-    "id": "karur-29-26",
-    "category": "Lifestyle",
-    "date": "April 29, 2026",
-    "title": "Juice shops see higher sales",
-    "summary": "Cooling beverage outlets report increased business as residents seek relief from high temperatures."
-  },
-  {
-    "id": "karur-29-27",
-    "category": "Transport",
-    "date": "April 29, 2026",
-    "title": "Auto drivers report fewer trips",
-    "summary": "Auto-rickshaw drivers experience reduced daytime demand as residents avoid travel in extreme heat."
-  },
-  {
-    "id": "karur-29-28",
-    "category": "Civic",
-    "date": "April 29, 2026",
-    "title": "Waste collection continues with adjustments",
-    "summary": "Municipal workers adjust schedules to manage waste collection safely during high-temperature conditions."
-  },
-  {
-    "id": "karur-29-29",
-    "category": "Agriculture",
-    "date": "April 29, 2026",
-    "title": "Livestock affected by heat stress",
-    "summary": "Farmers report increased stress among livestock due to rising temperatures, requiring additional water and care."
-  },
-  {
-    "id": "karur-29-30",
-    "category": "Environment",
-    "date": "April 29, 2026",
-    "title": "Dust levels rise across district",
-    "summary": "Dry weather conditions contribute to increased dust levels in urban and rural parts of Karur."
-  },
-  {
-    "id": "karur-29-31",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Residents limit daytime movement",
-    "summary": "People stay indoors during peak hours, impacting public spaces and reducing daytime activity across Karur."
-  },
-  {
-    "id": "karur-29-32",
-    "category": "Business",
-    "date": "April 29, 2026",
-    "title": "Retail footfall declines midday",
-    "summary": "Shops report reduced customer visits during afternoon hours due to intense heatwave conditions."
-  },
-  {
-    "id": "karur-29-33",
-    "category": "Infrastructure",
-    "date": "April 29, 2026",
-    "title": "Construction work slows down",
-    "summary": "Construction activities are limited to early hours as workers avoid extreme heat during daytime."
-  },
-  {
-    "id": "karur-29-34",
-    "category": "Health",
-    "date": "April 29, 2026",
-    "title": "Pharmacies report increased ORS demand",
-    "summary": "Medical stores note higher sales of hydration products as residents manage heat-related health concerns."
-  },
-  {
-    "id": "karur-29-35",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Evening parks see more visitors",
-    "summary": "Public parks witness increased footfall during cooler evening hours as residents seek outdoor relief."
-  },
-  {
-    "id": "karur-29-36",
-    "category": "Civic",
-    "date": "April 29, 2026",
-    "title": "Authorities urge water conservation",
-    "summary": "Officials advise residents to conserve water as supply pressure increases during peak summer demand."
-  },
-  {
-    "id": "karur-29-37",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Safety monitoring increased at hotspots",
-    "summary": "Police monitor crowded public areas and water points to maintain order and prevent disputes."
-  },
-  {
-    "id": "karur-29-38",
-    "category": "Transport",
-    "date": "April 29, 2026",
-    "title": "Bus services continue without disruption",
-    "summary": "Public transport operates normally though ridership dips during afternoon hours due to heat."
-  },
-  {
-    "id": "karur-29-39",
-    "category": "Economy",
-    "date": "April 29, 2026",
-    "title": "Local economy remains stable",
-    "summary": "Despite weather challenges, Karur’s textile and small industries maintain steady business operations."
-  },
-  {
-    "id": "karur-29-40",
-    "category": "Education",
-    "date": "April 29, 2026",
-    "title": "Exams continue with precautions",
-    "summary": "Institutions implement heat safety measures while conducting examinations across Karur district."
-  },
-  {
-    "id": "karur-29-41",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Indoor activities increase among residents",
-    "summary": "Residents prefer indoor activities as extreme temperatures discourage outdoor engagement during daytime."
-  },
-  {
-    "id": "karur-29-42",
-    "category": "Lifestyle",
-    "date": "April 29, 2026",
-    "title": "Cooling foods gain popularity",
-    "summary": "Demand rises for buttermilk, juices, and light meals as residents adapt diets to cope with heat."
-  },
-  {
-    "id": "karur-29-43",
-    "category": "Tourism",
-    "date": "April 29, 2026",
-    "title": "Tourist inflow remains low",
-    "summary": "Karur sees reduced tourist visits as travelers prefer cooler destinations during peak summer heat."
-  },
-  {
-    "id": "karur-29-44",
-    "category": "Civic",
-    "date": "April 29, 2026",
-    "title": "Public complaints on water rise",
-    "summary": "Authorities receive increased grievances related to water shortages and supply issues in Karur."
-  },
-  {
-    "id": "karur-29-45",
-    "category": "Agriculture",
-    "date": "April 29, 2026",
-    "title": "Crop stress concerns grow",
-    "summary": "Farmers anticipate reduced yields if extreme heat persists into early May without rainfall support."
-  },
-  {
-    "id": "karur-29-46",
-    "category": "Environment",
-    "date": "April 29, 2026",
-    "title": "Shade areas become crowded",
-    "summary": "Residents gather under shaded locations and trees to escape intense sunlight during peak hours."
-  },
-  {
-    "id": "karur-29-47",
-    "category": "Civic",
-    "date": "April 29, 2026",
-    "title": "Water tanker demand increases",
-    "summary": "More areas rely on tanker services as municipal supply struggles to meet rising summer demand."
-  },
-  {
-    "id": "karur-29-48",
-    "category": "Infrastructure",
-    "date": "April 29, 2026",
-    "title": "Power supply monitored closely",
-    "summary": "Officials track grid performance to prevent outages amid surging electricity consumption."
-  },
-  {
-    "id": "karur-29-49",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Morning activities increase",
-    "summary": "Residents shift routines to early morning hours to avoid midday heat exposure."
-  },
-  {
-    "id": "karur-29-50",
-    "category": "Weather",
-    "date": "April 29, 2026",
-    "title": "No immediate rainfall relief forecast",
-    "summary": "Weather forecasts indicate continued dry conditions, offering little relief from ongoing heatwave in Karur region."
+    "id": "kar-012",
+    "category": "Culture",
+    "title": "Karur Mariamman temple festival completes peaceful 11-day run",
+    "summary": "The annual Karur Mariamman temple festival concluded its peaceful 11-day run with record participation, civic authorities crediting tight crowd management and dedicated traffic-diversion plans.",
+    "date": "May 2, 2026"
   }
 ]
