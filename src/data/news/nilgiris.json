@@ -1,202 +1,93 @@
 [
   {
-    "id": "nil-may01-1",
-    "category": "Civic",
+    "id": "nlg-001",
+    "category": "Weather",
     "featured": true,
-    "image": "/news/2026-05-01/nilgiris-tea.jpg",
-    "title": "Nilgiris tea auction sees firm bids as new-season leaf arrives",
-    "summary": "Coonoor tea auction recorded firm bids for orthodox and CTC grades on Friday with new-season Nilgiris leaf drawing premiums of up to Rs 28 a kilo above last week's average.",
-    "date": "May 1, 2026"
+    "image": "/news/2026-05-02/weather-rain.jpg",
+    "title": "Nilgiris under heavy rain warning; landslide risk flagged in Coonoor ghats",
+    "summary": "The Nilgiris district remains under an IMD heavy rainfall warning today and tomorrow, with landslide-prone zones in the Coonoor and Aravankadu ghat sections under continuous monitoring.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "nil-may01-2",
-    "category": "Election",
-    "image": "/news/2026-05-01/strongroom-security.jpg",
-    "title": "Udhagamandalam strong room secured with CAPF and hill police",
-    "summary": "EVMs from all three Nilgiris assembly seats remain sealed at the Udhagamandalam strong room under CAPF guard, with district police running additional checkpoints on the ghat roads.",
-    "date": "May 1, 2026"
-  },
-  {
-    "id": "nil-may01-3",
-    "category": "Transport",
-    "image": "/news/2026-05-01/nilgiris-tea.jpg",
-    "title": "Nilgiri Mountain Railway adds extra weekend service for tourists",
-    "summary": "Southern Railway has notified an additional weekend special on the heritage Nilgiri Mountain Railway between Mettupalayam and Coonoor to handle the May tourist surge.",
-    "date": "May 1, 2026"
-  },
-  {
-    "id": "nilgiris-29-1",
-    "category": "Environment",
-    "date": "April 29, 2026",
-    "title": "Wildfire continues to scorch Nilgiris forests",
-    "summary": "Massive wildfire burns over 5,000 acres in Parsons Valley and Pykara, with over 500 personnel battling flames in difficult terrain."
-  },
-  {
-    "id": "nilgiris-29-2",
-    "category": "Environment",
-    "date": "April 29, 2026",
-    "title": "Firefighting continues on foot in hills",
-    "summary": "Due to terrain challenges, most firefighting operations are being conducted manually as crews trek steep hills to contain spreading wildfire."
-  },
-  {
-    "id": "nilgiris-29-3",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Over 500 personnel deployed for fire control",
-    "summary": "Forest, fire service, and disaster response teams remain deployed across Nilgiris to prevent wildfire spread into nearby settlements."
-  },
-  {
-    "id": "nilgiris-29-4",
-    "category": "Environment",
-    "date": "April 29, 2026",
-    "title": "Strong winds worsen wildfire spread",
-    "summary": "Persistent high winds continue to accelerate wildfire expansion, making containment difficult across multiple forest zones."
-  },
-  {
-    "id": "nilgiris-29-5",
-    "category": "Environment",
-    "date": "April 29, 2026",
-    "title": "Fire spreads across multiple locations",
-    "summary": "Wildfire active across more than 20 forest locations including Avalanche region, increasing pressure on firefighting teams."
-  },
-  {
-    "id": "nilgiris-29-6",
-    "category": "Environment",
-    "date": "April 29, 2026",
-    "title": "Ecological damage concerns grow",
-    "summary": "Experts warn wildfire threatens fragile shola ecosystems, wildlife habitats, and elephant corridors in Nilgiris biosphere region."
-  },
-  {
-    "id": "nilgiris-29-7",
-    "category": "Weather",
-    "date": "April 29, 2026",
-    "title": "Dry conditions fueling wildfire",
-    "summary": "Prolonged dry spell and rising temperatures create ideal conditions for rapid wildfire spread across Nilgiris forest landscapes."
-  },
-  {
-    "id": "nilgiris-29-8",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Aerial firefighting still limited",
-    "summary": "Helicopter operations remain restricted due to unsafe wind speeds, forcing reliance on ground-based firefighting efforts."
-  },
-  {
-    "id": "nilgiris-29-9",
-    "category": "Environment",
-    "date": "April 29, 2026",
-    "title": "Fire containment progress remains slow",
-    "summary": "Authorities report slow containment progress due to terrain challenges, strong winds, and widespread fire activity."
-  },
-  {
-    "id": "nilgiris-29-10",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Residents warned near forest zones",
-    "summary": "Officials advise residents to avoid forest fringes as wildfire and wildlife movement increase risks to nearby communities."
-  },
-  {
-    "id": "nilgiris-29-11",
-    "category": "Health",
-    "date": "April 29, 2026",
-    "title": "Smoke affects air quality in towns",
-    "summary": "Thick smoke from wildfire reduces air quality in Ooty and nearby towns, raising respiratory concerns among residents."
-  },
-  {
-    "id": "nilgiris-29-12",
+    "id": "nlg-002",
     "category": "Tourism",
-    "date": "April 29, 2026",
-    "title": "Tourist inflow affected by wildfire",
-    "summary": "Forest fire and heat conditions reduce tourist visits to Ooty and surrounding areas, impacting local tourism businesses."
+    "featured": true,
+    "image": "/news/2026-05-02/ooty-flower-show.jpg",
+    "title": "Ooty summer festival registration crosses 1.2 lakh visitors mark",
+    "summary": "Online registrations for the Ooty Summer Festival flower and fruit shows have crossed 1.2 lakh visitor entries, with the festival expected to drive over Rs 200 crore in tourism receipts this season.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "nilgiris-29-13",
-    "category": "Environment",
-    "date": "April 29, 2026",
-    "title": "Wildlife habitats under threat",
-    "summary": "Wildfire threatens habitats of tigers, elephants, and endemic species across Nilgiris reserve forests."
+    "id": "nlg-003",
+    "category": "Transport",
+    "title": "Nilgiri Mountain Railway resumes full service after track repair",
+    "summary": "The UNESCO-listed Nilgiri Mountain Railway has resumed full Mettupalayam-Ooty service after monsoon-readiness track repairs along the rack section between Coonoor and Hillgrove.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "nilgiris-29-14",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Volunteers assist firefighting teams",
-    "summary": "Local volunteers join authorities in controlling wildfire and supporting operations in affected Nilgiris forest areas."
-  },
-  {
-    "id": "nilgiris-29-15",
-    "category": "Infrastructure",
-    "date": "April 29, 2026",
-    "title": "Remote terrain slows fire response",
-    "summary": "Difficult terrain and lack of road access continue to hinder firefighting operations across forest interiors."
-  },
-  {
-    "id": "nilgiris-29-16",
-    "category": "Environment",
-    "date": "April 29, 2026",
-    "title": "Fire lines created to control spread",
-    "summary": "Authorities create firebreaks and conduct controlled burns to prevent wildfire reaching residential areas."
-  },
-  {
-    "id": "nilgiris-29-17",
-    "category": "Weather",
-    "date": "April 29, 2026",
-    "title": "Heat levels remain unusually high",
-    "summary": "Temperatures remain above normal for hill region, contributing to ongoing fire risk in Nilgiris."
-  },
-  {
-    "id": "nilgiris-29-18",
-    "category": "Environment",
-    "date": "April 29, 2026",
-    "title": "Fire threatens water sources",
-    "summary": "Wildfire spreads near key catchment areas, raising concerns over water contamination and availability."
-  },
-  {
-    "id": "nilgiris-29-19",
+    "id": "nlg-004",
     "category": "Agriculture",
-    "date": "April 29, 2026",
-    "title": "Farmers fear crop damage",
-    "summary": "Farmers in forest fringe villages worry about potential crop loss due to fire spread and prolonged dry conditions."
+    "image": "/news/2026-05-02/tea-auction.jpg",
+    "title": "Tea growers welcome auction-price uptick; Coonoor lots fetch premium",
+    "summary": "Nilgiris tea growers welcomed an average 14 percent uptick in CTC auction prices at the latest Coonoor and Coimbatore Tea Trade Association sessions, attributing the rise to short supply and rupee weakness.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "nilgiris-29-20",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Emergency helplines remain active",
-    "summary": "Authorities continue to operate helplines for reporting fire outbreaks and assisting affected residents."
-  },
-  {
-    "id": "nilgiris-29-21",
+    "id": "nlg-005",
     "category": "Environment",
-    "date": "April 29, 2026",
-    "title": "Wildlife displacement reported",
-    "summary": "Animals move toward human settlements as wildfire destroys habitat, increasing human-wildlife conflict risks."
+    "title": "Mudumalai records elephant herd movement near Masinagudi during rains",
+    "summary": "Forest officials have recorded a herd of 28 elephants moving close to Masinagudi habitations during the past 48 hours, prompting precautionary alerts and overnight movement restrictions for tourists.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "nilgiris-29-22",
-    "category": "Crime",
-    "date": "April 29, 2026",
-    "title": "Elephant attack sparks unrest in Gudalur",
-    "summary": "Villagers protest after man killed by elephant, with clashes injuring forest officials amid rising human-wildlife conflict."
+    "id": "nlg-006",
+    "category": "Election",
+    "image": "/news/2026-05-02/election-counting.jpg",
+    "title": "Counting for Coonoor and Udhagamandalam seats centralised in Ooty",
+    "summary": "Counting for both Nilgiris Assembly seats — Coonoor and Udhagamandalam — has been centralised at a single Ooty venue with redundant power, communication and security arrangements.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "nilgiris-29-23",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Police register cases after clashes",
-    "summary": "Police file cases following attack on forest staff and damage to government vehicle after fatal elephant incident."
+    "id": "nlg-007",
+    "category": "Culture",
+    "title": "Toda tribal cooperative wins national craft excellence award",
+    "summary": "The Toda tribal embroidery cooperative has won the national craft excellence award this year, with central recognition expected to bring an institutional design-school partnership and museum showcase.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "nilgiris-29-24",
+    "id": "nlg-008",
     "category": "Health",
-    "date": "April 29, 2026",
-    "title": "Injured officials receive treatment",
-    "summary": "Forest personnel injured in Gudalur clashes are undergoing treatment at government hospitals in Ooty and Gudalur."
+    "title": "Nilgiris drinking water quality drive covers 110 tribal hamlets",
+    "summary": "A district-wide drinking water quality testing drive has covered 110 tribal hamlets across the Nilgiris this month, with corrective filtration units being commissioned at 18 locations identified for upgrades.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "nilgiris-29-25",
+    "id": "nlg-009",
+    "category": "Agriculture",
+    "image": "/news/2026-05-01/nilgiris-tea.jpg",
+    "title": "Kotagiri organic vegetable cluster sees 40 percent buyer order growth",
+    "summary": "The Kotagiri organic vegetable cluster has seen a 40 percent year-on-year jump in buyer orders, driven by metro-city subscription-box services and direct supply tie-ups with star hotels.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "nlg-010",
     "category": "Environment",
-    "date": "April 29, 2026",
-    "title": "Drought increases wildlife movement",
-    "summary": "Dry conditions push elephants and animals toward villages, increasing conflict incidents in Nilgiris region."
+    "title": "Pykara dam reservoir levels rise after pre-monsoon showers",
+    "summary": "Reservoir levels at the Pykara dam — a key TNEB hydroelectric source — have risen by nearly 18 percent over the past week following pre-monsoon showers across the upper Nilgiris.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "nlg-011",
+    "category": "Environment",
+    "title": "Ooty civic body bans single-use plastic at Botanical Garden entry",
+    "summary": "The Ooty Municipal Council has banned single-use plastic items at the Government Botanical Garden gates, with on-site recyclable alternatives provided to tourists from this weekend.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "nlg-012",
+    "category": "Transport",
+    "title": "Special weekend trains added between Mettupalayam and Coimbatore",
+    "summary": "Southern Railway has added two pairs of special weekend trains between Mettupalayam and Coimbatore through May 31 to handle peak Nilgiris tourist movement during the summer festival window.",
+    "date": "May 2, 2026"
   }
 ]

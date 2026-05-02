@@ -1,377 +1,92 @@
 [
   {
-    "id": "nam-may01-1",
+    "id": "nmk-001",
+    "category": "Agriculture",
+    "featured": true,
+    "image": "/news/2026-05-02/poultry-farm.jpg",
+    "title": "Namakkal poultry sector flags feed-grain shortage as maize prices climb",
+    "summary": "Namakkal poultry farmers — who account for nearly 60 percent of South Indian egg production — have flagged a feed-grain shortage as maize prices have risen 22 percent in two months, squeezing per-egg margins.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "nmk-002",
     "category": "Business",
     "featured": true,
     "image": "/news/2026-05-01/namakkal-poultry.jpg",
-    "title": "Namakkal egg prices rebound as summer demand returns",
-    "summary": "NECC declared price for Namakkal climbed to Rs 5.42 per egg on Friday, recovering from a polling-week dip, as institutional buyers resumed bulk lifting from layer farms across the district.",
-    "date": "May 1, 2026"
+    "title": "Namakkal lorry transport hub records 14 percent freight movement growth",
+    "summary": "Namakkal — India's largest lorry-owners hub — has recorded a 14 percent year-on-year increase in freight movement in April, driven by export traffic from Tiruppur and steel from Salem.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "nam-may01-2",
-    "category": "Election",
-    "image": "/news/2026-05-01/counting-prep.jpg",
-    "title": "Namakkal counting staff receive third randomisation training",
-    "summary": "Returning officers conducted the third and final round of randomisation for counting personnel at six assembly segments, with ETPBS scrutiny rehearsals also completed on Friday.",
-    "date": "May 1, 2026"
-  },
-  {
-    "id": "nam-may01-3",
-    "category": "Transport",
-    "image": "/news/2026-05-01/coimbatore-industry.jpg",
-    "title": "Namakkal lorry owners flag diesel cost squeeze post-poll",
-    "summary": "Lorry Owners Federation in Namakkal has appealed to incoming candidates for a diesel-linked freight revision formula, citing thin margins after a flat freight cycle through the campaign months.",
-    "date": "May 1, 2026"
-  },
-  {
-    "id": "namakkal-29-1",
-    "category": "Election",
-    "date": "April 29, 2026",
-    "title": "EVMs under tight security in Namakkal",
-    "summary": "Electronic voting machines stored in strong rooms across Namakkal under continuous surveillance ahead of May 4 counting, with multi-layer police protection deployed."
-  },
-  {
-    "id": "namakkal-29-2",
-    "category": "Election",
-    "date": "April 29, 2026",
-    "title": "Exit poll discussions intensify locally",
-    "summary": "Exit poll debates intensified in Namakkal with political parties assessing projections while awaiting official counting results scheduled in early May."
-  },
-  {
-    "id": "namakkal-29-3",
-    "category": "Politics",
-    "date": "April 29, 2026",
-    "title": "Party cadres monitor counting centers",
-    "summary": "Political party workers in Namakkal began monitoring counting center arrangements, ensuring readiness and compliance with election commission guidelines ahead of results."
-  },
-  {
-    "id": "namakkal-29-4",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Police deployment increased near strong rooms",
-    "summary": "Additional police forces stationed near EVM storage facilities in Namakkal to prevent tampering and ensure law and order until counting day."
-  },
-  {
-    "id": "namakkal-29-5",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Public interest shifts to election results",
-    "summary": "Residents across Namakkal shifted focus to election outcomes, discussing exit poll predictions and potential political changes in tea shops and public spaces."
-  },
-  {
-    "id": "namakkal-29-6",
-    "category": "Weather",
-    "date": "April 29, 2026",
-    "title": "Heatwave continues across district",
-    "summary": "Namakkal recorded high daytime temperatures again, with weather conditions remaining dry and hot, affecting outdoor work and daily routines."
-  },
-  {
-    "id": "namakkal-29-7",
-    "category": "Health",
-    "date": "April 29, 2026",
-    "title": "Heat-related cases rise slightly",
-    "summary": "Local hospitals reported minor increase in dehydration and heat exhaustion cases as temperatures remain above seasonal averages in Namakkal."
-  },
-  {
-    "id": "namakkal-29-8",
-    "category": "Civic",
-    "date": "April 29, 2026",
-    "title": "Water demand rises amid summer heat",
-    "summary": "Increased water consumption reported across Namakkal households due to rising temperatures, prompting authorities to monitor supply closely."
-  },
-  {
-    "id": "namakkal-29-9",
-    "category": "Infrastructure",
-    "date": "April 29, 2026",
-    "title": "Road repair works continue",
-    "summary": "Ongoing road maintenance and patchwork projects resumed across Namakkal, improving connectivity after election-related delays."
-  },
-  {
-    "id": "namakkal-29-10",
-    "category": "Transport",
-    "date": "April 29, 2026",
-    "title": "Bus services operate normally",
-    "summary": "State-run buses across Namakkal operated on regular schedules with no election-related diversions, restoring normal passenger movement."
-  },
-  {
-    "id": "namakkal-29-11",
-    "category": "Business",
-    "date": "April 29, 2026",
-    "title": "Retail markets see steady activity",
-    "summary": "Local markets in Namakkal reported steady customer footfall as commercial activities normalized after election-related closures."
-  },
-  {
-    "id": "namakkal-29-12",
-    "category": "Agriculture",
-    "date": "April 29, 2026",
-    "title": "Farmers manage irrigation amid heat",
-    "summary": "Farmers in Namakkal focused on efficient irrigation practices to protect crops from heat stress and limited water availability."
-  },
-  {
-    "id": "namakkal-29-13",
-    "category": "Market",
-    "date": "April 29, 2026",
-    "title": "Vegetable supply stabilizes",
-    "summary": "Vegetable supplies in Namakkal markets stabilized after minor disruptions during election period, keeping prices relatively steady."
-  },
-  {
-    "id": "namakkal-29-14",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Daily routines return fully",
-    "summary": "Residents across Namakkal resumed normal routines including work, school, and market visits following conclusion of polling activities."
-  },
-  {
-    "id": "namakkal-29-15",
+    "id": "nmk-003",
     "category": "Education",
-    "date": "April 29, 2026",
-    "title": "Schools run regular sessions",
-    "summary": "Schools across Namakkal continued regular academic schedules after being reopened post-election, with attendance returning to normal levels."
+    "title": "Tiruchengode Anna University campus hosts state robotics finale",
+    "summary": "The state-level inter-collegiate robotics championship finale is being hosted at Anna University's Tiruchengode regional campus this weekend, drawing 84 teams from across Tamil Nadu.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "namakkal-29-16",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Night patrols intensified",
-    "summary": "Police increased night patrol operations across Namakkal to maintain peace and prevent any post-election disturbances."
+    "id": "nmk-004",
+    "category": "Election",
+    "image": "/news/2026-05-02/election-counting.jpg",
+    "title": "Namakkal collector reviews counting hall security at five centres",
+    "summary": "The Namakkal District Collector inspected counting hall security and EVM strong room arrangements at five centres covering all five Assembly constituencies in the district.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "namakkal-29-17",
-    "category": "Civic",
-    "date": "April 29, 2026",
-    "title": "Sanitation work continues",
-    "summary": "Municipal teams carried out regular sanitation drives across Namakkal, focusing on clearing waste from public areas after polling usage."
-  },
-  {
-    "id": "namakkal-29-18",
-    "category": "Business",
-    "date": "April 29, 2026",
-    "title": "Poultry sector resumes operations",
-    "summary": "Namakkal’s poultry industry resumed normal production levels following election disruptions, ensuring steady supply to domestic and export markets."
-  },
-  {
-    "id": "namakkal-29-19",
-    "category": "Transport",
-    "date": "April 29, 2026",
-    "title": "Auto services operate smoothly",
-    "summary": "Auto-rickshaw services across Namakkal returned to regular availability with stable demand after election day fluctuations."
-  },
-  {
-    "id": "namakkal-29-20",
-    "category": "Infrastructure",
-    "date": "April 29, 2026",
-    "title": "Streetlight maintenance underway",
-    "summary": "Repair works for faulty streetlights continued across Namakkal to improve visibility and safety during nighttime hours."
-  },
-  {
-    "id": "namakkal-29-21",
+    "id": "nmk-005",
     "category": "Environment",
-    "date": "April 29, 2026",
-    "title": "Authorities urge water conservation",
-    "summary": "Officials appealed to Namakkal residents to conserve water as summer demand increases and reservoir levels show gradual decline."
+    "title": "Cauvery delta sand quarrying restrictions extended for monsoon",
+    "summary": "The Public Works Department has extended sand-quarrying restrictions along Cauvery basin reaches in Namakkal for an additional six weeks, citing monsoon riverbed sensitivity.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "namakkal-29-22",
-    "category": "Health",
-    "date": "April 29, 2026",
-    "title": "Heat awareness campaigns ongoing",
-    "summary": "Health workers continued spreading awareness on preventing heatstroke and dehydration among vulnerable groups across Namakkal."
+    "id": "nmk-006",
+    "category": "Business",
+    "title": "Namakkal egg prices steady despite festive demand fluctuation",
+    "summary": "Wholesale egg prices at Namakkal NECC mandi have held steady at Rs 5.32 per egg this week, despite seasonal festive demand fluctuations across South India.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "namakkal-29-23",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Residents discuss exit polls widely",
-    "summary": "Exit poll predictions became major topic of discussion among Namakkal residents as anticipation builds for election results announcement."
+    "id": "nmk-007",
+    "category": "Business",
+    "title": "Kolli Hills tribal cooperative launches branded millet snack range",
+    "summary": "The Kolli Hills tribal women's cooperative has launched a branded millet-based snack range in partnership with a Coimbatore food-tech firm, with retail rollout across Kongu cities this week.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "namakkal-29-24",
-    "category": "Economy",
-    "date": "April 29, 2026",
-    "title": "Local trade activity stabilizes",
-    "summary": "Business transactions across Namakkal stabilized with gradual recovery after election-related slowdown in economic activity."
-  },
-  {
-    "id": "namakkal-29-25",
-    "category": "Tourism",
-    "date": "April 29, 2026",
-    "title": "Kolli Hills sees moderate visitors",
-    "summary": "Tourist inflow to Kolli Hills in Namakkal remained moderate as visitors seek relief from heat and explore eco-tourism destinations."
-  },
-  {
-    "id": "namakkal-29-26",
-    "category": "Lifestyle",
-    "date": "April 29, 2026",
-    "title": "Cooling product sales rise",
-    "summary": "Sales of cooling appliances and beverages increased in Namakkal markets due to persistent high temperatures across the district."
-  },
-  {
-    "id": "namakkal-29-27",
+    "id": "nmk-008",
     "category": "Agriculture",
-    "date": "April 29, 2026",
-    "title": "Farm inspections conducted",
-    "summary": "Agriculture officials conducted inspections of fields in Namakkal to monitor crop health under intense summer conditions."
+    "title": "Solar pump scheme covers 4,200 Namakkal farms in current cycle",
+    "summary": "The PM-KUSUM solar pumpset scheme has covered 4,200 Namakkal farms in the current cycle, with TANGEDCO confirming an additional 1,800 connections will be sanctioned over the next quarter.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "namakkal-29-28",
-    "category": "Civic",
-    "date": "April 29, 2026",
-    "title": "Drain cleaning preparations begin",
-    "summary": "Municipal authorities initiated pre-monsoon drain cleaning activities in Namakkal to prevent waterlogging during upcoming rains."
-  },
-  {
-    "id": "namakkal-29-29",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Checkposts continue monitoring",
-    "summary": "Security checkposts remained active across Namakkal to monitor suspicious movement during post-election period."
-  },
-  {
-    "id": "namakkal-29-30",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Government staff resume duties",
-    "summary": "Officials deployed for election duties in Namakkal returned to regular departmental work after completion of polling operations."
-  },
-  {
-    "id": "namakkal-29-31",
-    "category": "Education",
-    "date": "April 29, 2026",
-    "title": "Exam preparations continue",
-    "summary": "Students across Namakkal continued preparing for upcoming exams with schools maintaining uninterrupted academic schedules."
-  },
-  {
-    "id": "namakkal-29-32",
-    "category": "Transport",
-    "date": "April 29, 2026",
-    "title": "Fuel demand stabilizes",
-    "summary": "Fuel consumption in Namakkal returned to normal levels after temporary surge during election travel days."
-  },
-  {
-    "id": "namakkal-29-33",
-    "category": "Market",
-    "date": "April 29, 2026",
-    "title": "Grocery prices remain stable",
-    "summary": "Essential commodity prices remained stable in Namakkal markets despite earlier election-related supply disruptions."
-  },
-  {
-    "id": "namakkal-29-34",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Peaceful atmosphere maintained",
-    "summary": "Namakkal district continued to witness peaceful conditions with no major incidents reported following election completion."
-  },
-  {
-    "id": "namakkal-29-35",
-    "category": "Infrastructure",
-    "date": "April 29, 2026",
-    "title": "Public building checks conducted",
-    "summary": "Authorities inspected public buildings used for polling in Namakkal before handing them back for regular usage."
-  },
-  {
-    "id": "namakkal-29-36",
-    "category": "Health",
-    "date": "April 29, 2026",
-    "title": "Medical camps planned for summer",
-    "summary": "Health department preparing to conduct summer medical camps across Namakkal to address seasonal illnesses and improve awareness."
-  },
-  {
-    "id": "namakkal-29-37",
-    "category": "Environment",
-    "date": "April 29, 2026",
-    "title": "Tree plantation plans announced",
-    "summary": "Local bodies announced upcoming tree plantation initiatives in Namakkal to reduce heat impact and improve environmental conditions."
-  },
-  {
-    "id": "namakkal-29-38",
+    "id": "nmk-009",
     "category": "Business",
-    "date": "April 29, 2026",
-    "title": "Small vendors report steady demand",
-    "summary": "Street vendors across Namakkal reported stable sales as customers returned to regular purchasing habits after polling day."
+    "title": "Rasipuram pure-silk handloom cluster gets export-promotion package",
+    "summary": "The Rasipuram pure-silk handloom cluster has been included in the textile ministry's export-promotion package, granting access to subsidised credit, design support and overseas exhibition slots.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "namakkal-29-39",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Community gatherings resume",
-    "summary": "Community events and social gatherings resumed in Namakkal following lifting of election-related restrictions."
-  },
-  {
-    "id": "namakkal-29-40",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Counting centers secured",
-    "summary": "Authorities strengthened security at counting centers in Namakkal with CCTV monitoring and restricted access protocols."
-  },
-  {
-    "id": "namakkal-29-41",
+    "id": "nmk-010",
     "category": "Weather",
-    "date": "April 29, 2026",
-    "title": "No rainfall expected soon",
-    "summary": "Weather forecasts indicate continued dry conditions in Namakkal with no significant rainfall expected in immediate days."
+    "image": "/news/2026-05-02/weather-rain.jpg",
+    "title": "Namakkal under heavy rain alert from May 3; civic teams placed on standby",
+    "summary": "Namakkal has been placed under a yellow heavy rainfall alert from May 3, with municipal teams on standby across Rasipuram, Tiruchengode and Paramathi-Velur taluks for waterlogging response.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "namakkal-29-42",
-    "category": "Lifestyle",
-    "date": "April 29, 2026",
-    "title": "Outdoor activity reduces midday",
-    "summary": "Residents limited outdoor activities during peak heat hours as temperatures remained high across Namakkal."
+    "id": "nmk-011",
+    "category": "Culture",
+    "title": "Namakkal Anjaneyar temple draws weekend pilgrim surge",
+    "summary": "The 18-foot tall Anjaneyar temple in Namakkal — one of the tallest open-air Hanuman idols in India — recorded over 38,000 pilgrim visits over the weekend, prompting additional crowd-management arrangements.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "namakkal-29-43",
-    "category": "Agriculture",
-    "date": "April 29, 2026",
-    "title": "Livestock care advised in heat",
-    "summary": "Veterinary officials advised farmers in Namakkal to take precautions for livestock amid rising temperatures and dehydration risks."
-  },
-  {
-    "id": "namakkal-29-44",
-    "category": "Civic",
-    "date": "April 29, 2026",
-    "title": "Waste collection improves",
-    "summary": "Municipal waste collection operations improved across Namakkal ensuring cleaner streets after election-related usage."
-  },
-  {
-    "id": "namakkal-29-45",
-    "category": "Transport",
-    "date": "April 29, 2026",
-    "title": "Traffic remains smooth",
-    "summary": "Traffic movement across Namakkal town remained smooth with no major congestion reported post-election."
-  },
-  {
-    "id": "namakkal-29-46",
-    "category": "Economy",
-    "date": "April 29, 2026",
-    "title": "Daily trade normalizes",
-    "summary": "Economic activities across Namakkal returned to routine levels with steady transactions in wholesale and retail sectors."
-  },
-  {
-    "id": "namakkal-29-47",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Civic participation praised",
-    "summary": "Officials appreciated high voter participation in Namakkal, highlighting strong democratic engagement among residents. :contentReference[oaicite:0]{index=0}"
-  },
-  {
-    "id": "namakkal-29-48",
-    "category": "Election",
-    "date": "April 29, 2026",
-    "title": "Strong turnout impacts expectations",
-    "summary": "High voter turnout across Namakkal has increased uncertainty in election outcomes, with analysts predicting closely contested results. :contentReference[oaicite:1]{index=1}"
-  },
-  {
-    "id": "namakkal-29-49",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Continuous surveillance at EVM centers",
-    "summary": "Security teams maintain round-the-clock monitoring of EVM storage facilities in Namakkal until counting day. :contentReference[oaicite:2]{index=2}"
-  },
-  {
-    "id": "namakkal-29-50",
-    "category": "Election",
-    "date": "April 29, 2026",
-    "title": "Counting preparations near completion",
-    "summary": "Election authorities finalized counting arrangements in Namakkal, ensuring readiness for vote counting scheduled in early May. :contentReference[oaicite:3]{index=3}"
+    "id": "nmk-012",
+    "category": "Health",
+    "title": "Truck driver health-screening drive launched at Namakkal terminals",
+    "summary": "A free health-screening drive for long-haul truck drivers has been launched at three major Namakkal lorry terminals, focusing on cardiac risk, vision testing and sleep-disorder assessment.",
+    "date": "May 2, 2026"
   }
 ]

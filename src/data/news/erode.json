@@ -1,111 +1,99 @@
 [
   {
-    "id": "ero-may01-1",
-    "category": "Security",
+    "id": "erd-001",
+    "category": "Election",
     "featured": true,
-    "image": "/news/2026-05-01/ganja-seizure.jpg",
-    "title": "28 kg ganja seized in Erode; multiple arrests made",
-    "summary": "Prohibition Enforcement Wing police seized around 28 kg of ganja in operations linked to Erode, including a 10 kg haul at the railway station. Several suspects were arrested and remanded as investigations continue into drug trafficking routes.",
-    "date": "May 1, 2026"
+    "image": "/news/2026-05-02/election-counting.jpg",
+    "title": "Erode collector reviews counting hall layout; recount protocols issued",
+    "summary": "The Erode District Collector inspected counting hall arrangements at all eight Assembly constituencies and issued fresh protocols on recount procedures, video recording requirements and party-agent rotation schedules.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "ero-may01-2",
+    "id": "erd-002",
+    "category": "Agriculture",
+    "featured": true,
+    "image": "/news/2026-05-02/turmeric-market.jpg",
+    "title": "Turmeric prices firm up at Erode Regulated Market amid tight arrivals",
+    "summary": "Turmeric prices at the Erode Regulated Market climbed by Rs 800 per quintal this week as arrivals from Sathyamangalam and Bhavani belts thinned. Traders expect the firm trend to continue into mid-May.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "erd-003",
     "category": "Election",
-    "image": "/news/2026-05-01/evm-strongroom.jpg",
-    "title": "EVMs secured in strong rooms ahead of May 4 counting",
-    "summary": "Election officials have moved EVMs and VVPAT machines to highly secured strong rooms across Erode district, with continuous surveillance in place until counting day.",
-    "date": "May 1, 2026"
+    "image": "/news/2026-05-01/strongroom-security.jpg",
+    "title": "DMK and AIADMK booth agents undergo Form 17C reconciliation drill",
+    "summary": "Booth-level agents from both major Dravidian parties attended a joint training session on Form 17C tally reconciliation, postal-ballot handling and the new VVPAT slip-counting protocol introduced this election.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "ero-may01-3",
-    "category": "Weather",
-    "image": "/news/2026-05-01/heatwave-erode.jpg",
-    "title": "Erode braces for rising temperatures above 40°C",
-    "summary": "Erode continues to experience intense summer heat, with temperatures already crossing 40°C and further rise expected during early May, increasing health risks and heatwave conditions.",
-    "date": "May 1, 2026"
+    "id": "erd-004",
+    "category": "Agriculture",
+    "title": "Bhavanisagar dam reaches 78 percent capacity after early rains",
+    "summary": "Inflows from the Western Ghats catchment have pushed the Bhavanisagar dam to 78 percent of its full capacity, with PWD officials confirming additional discharge to the LBP canal will begin Sunday.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "ero-apr30-1",
-    "category": "Accident",
-    "date": "April 30, 2026",
-    "title": "Two workers killed in construction site accident",
-    "summary": "Two construction workers lost their lives after a mini lift snapped and fell at a building site in Erode. Authorities have initiated an investigation into safety compliance. :contentReference[oaicite:0]{index=0}"
+    "id": "erd-005",
+    "category": "Environment",
+    "title": "Sathyamangalam tiger reserve records highest big-cat count in five years",
+    "summary": "The latest camera-trap census at Sathyamangalam Tiger Reserve has documented 102 individual tigers, the highest count since the reserve was notified, signalling strong corridor recovery with adjacent Bandipur.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "ero-apr30-2",
-    "category": "Accident",
-    "date": "April 30, 2026",
-    "title": "Two students killed in road accident near Anthiyur",
-    "summary": "A truck collision involving two motorcycles near Anthiyur claimed the lives of two Class XII students, raising fresh concerns over road safety in the region. :contentReference[oaicite:1]{index=1}"
+    "id": "erd-006",
+    "category": "Business",
+    "title": "Erode silver anklet exporters report record April shipments",
+    "summary": "Erode's traditional silver anklet cluster reported its highest-ever single-month export volume in April, driven by Gulf and Singapore demand. Exporters expect continued growth in Q1 FY27.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "ero-apr29-1",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Repeated hoax bomb threats raise security concerns",
-    "summary": "Erode Collectorate received another hoax bomb threat via email, prompting intensive checks by police and bomb squads. Authorities are investigating the source of repeated false alerts. :contentReference[oaicite:2]{index=2}"
+    "id": "erd-007",
+    "category": "Education",
+    "title": "Kongu Engineering College convocation honours 1,908 graduates",
+    "summary": "Perundurai's Kongu Engineering College conferred degrees on 1,908 graduates including 315 postgraduates at its 38th convocation, with MeitY Secretary S Krishnan presenting medals to 118 toppers.",
+    "date": "May 2, 2026"
   },
   {
-    "id": "ero-apr29-2",
-    "category": "Civic",
-    "date": "April 29, 2026",
-    "title": "Garbage dumping reported in local lake area",
-    "summary": "Local authorities flagged illegal dumping of waste in a lake near Pachampalayam, raising environmental and public health concerns among residents. :contentReference[oaicite:3]{index=3}"
-  },
-  {
-    "id": "ero-apr29-3",
-    "category": "Water",
-    "date": "April 29, 2026",
-    "title": "Final water release phase completed in canal",
-    "summary": "The last phase of water supply through the Lower Bhavani canal has been halted, intensifying irrigation concerns among farmers in Erode district. :contentReference[oaicite:4]{index=4}"
-  },
-  {
-    "id": "ero-apr29-4",
-    "category": "Security",
-    "date": "April 29, 2026",
-    "title": "Two youths arrested with 10 kg ganja",
-    "summary": "Police arrested two individuals in Erode after seizing 10 kg of ganja, as part of ongoing efforts to curb narcotics trafficking in the region. :contentReference[oaicite:5]{index=5}"
-  },
-  {
-    "id": "ero-apr29-5",
-    "category": "Public",
-    "date": "April 29, 2026",
-    "title": "Temple chariot festival draws large crowds",
-    "summary": "The Chithirai festival chariot procession at a local temple in Erode witnessed significant public participation, marking a key cultural event in the district. :contentReference[oaicite:6]{index=6}"
-  },
-  {
-    "id": "ero-apr29-6",
-    "category": "Election",
-    "date": "April 29, 2026",
-    "title": "Counting preparations indicate multiple rounds",
-    "summary": "Officials indicate that vote counting in Erode may span over 170 rounds, reflecting the large electorate and complexity of the counting process. :contentReference[oaicite:7]{index=7}"
-  },
-  {
-    "id": "ero-apr29-7",
-    "category": "Law",
-    "date": "April 29, 2026",
-    "title": "Foreign nationals sentenced in legal case",
-    "summary": "A local court sentenced 11 foreign nationals to two years imprisonment in a case related to legal violations in the district. :contentReference[oaicite:8]{index=8}"
-  },
-  {
-    "id": "ero-apr29-8",
-    "category": "Accident",
-    "date": "April 29, 2026",
-    "title": "Woman dies in car overturn accident",
-    "summary": "A fatal accident involving a car overturning in Erode led to the death of a woman, with police investigating the cause of the crash. :contentReference[oaicite:9]{index=9}"
-  },
-  {
-    "id": "ero-apr29-9",
-    "category": "Health",
-    "date": "April 29, 2026",
-    "title": "Heat-related health issues continue to rise",
-    "summary": "Hospitals in Erode are reporting an increase in heatstroke and dehydration cases as temperatures remain extremely high across the district."
-  },
-  {
-    "id": "ero-apr29-10",
+    "id": "erd-008",
     "category": "Infrastructure",
-    "date": "April 29, 2026",
-    "title": "Power demand surges amid ongoing heatwave",
-    "summary": "Electricity consumption has increased significantly in Erode due to continuous use of cooling appliances, with officials monitoring grid stability closely."
+    "title": "Erode-Karur four-lane highway upgrade work to begin in June",
+    "summary": "NHAI has awarded the contract for upgrading the 78-km Erode-Karur stretch into a fully access-controlled four-lane highway, with construction set to begin in the first week of June.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "erd-009",
+    "category": "Weather",
+    "image": "/news/2026-05-02/weather-rain.jpg",
+    "title": "Heavy rain forecast for Erode; Bhavani river sandbar erosion warning",
+    "summary": "IMD has placed Erode under a yellow rain warning for the next 48 hours. The Water Resources Department warned of sandbar erosion along the Bhavani river near Lower Bhavani sub-basin villages.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "erd-010",
+    "category": "Business",
+    "title": "Gobichettipalayam handloom co-op revives traditional 80-count weave",
+    "summary": "The Gobichettipalayam Handloom Cooperative has restarted production of its signature 80-count cotton weave after a decade, with state textile department support and a buy-back guarantee from Co-optex.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "erd-011",
+    "category": "Education",
+    "title": "Erode Govt Medical College adds 50 PG seats from next academic year",
+    "summary": "Erode Government Medical College and Hospital has received NMC approval for 50 additional postgraduate seats spread across general medicine, surgery, paediatrics and radiology, beginning the 2026-27 batch.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "erd-012",
+    "category": "Business",
+    "title": "Chennimalai weavers protest yarn price hike outside collectorate",
+    "summary": "Around 300 powerloom weavers from Chennimalai gathered outside the Erode Collectorate demanding rollback of the recent yarn price hike, which they say has rendered domestic order pricing unviable.",
+    "date": "May 2, 2026"
+  },
+  {
+    "id": "erd-013",
+    "category": "Administration",
+    "title": "Erode municipal corporation launches QR-coded property tax receipts",
+    "summary": "Erode Corporation has rolled out QR-enabled digital property tax receipts allowing residents to verify payment status, dues and earlier transactions through a single scan from May 1.",
+    "date": "May 2, 2026"
   }
 ]
