@@ -1,92 +1,111 @@
 [
   {
     "id": "nmk-001",
-    "category": "Agriculture",
+    "category": "Election",
     "featured": true,
-    "image": "/news/2026-05-02/poultry-farm.jpg",
-    "title": "Namakkal poultry sector flags feed-grain shortage as maize prices climb",
-    "summary": "Namakkal poultry farmers — who account for nearly 60 percent of South Indian egg production — have flagged a feed-grain shortage as maize prices have risen 22 percent in two months, squeezing per-egg margins.",
-    "date": "May 2, 2026"
+    "image": "/news/2026-05-05/namakkal-poultry.jpg",
+    "title": "TVK wins Namakkal & Tiruchengodu; DMK retains Rasipuram & Senthamangalam; AIADMK wins 2",
+    "summary": "Namakkal district's six seats split three ways on counting day — TVK took Namakkal and Tiruchengodu, DMK retained Rasipuram and Senthamangalam, and AIADMK held Paramathi-Velur and Kumarapalayam.",
+    "date": "May 5, 2026"
   },
   {
     "id": "nmk-002",
-    "category": "Business",
+    "category": "Agriculture",
     "featured": true,
-    "image": "/news/2026-05-01/namakkal-poultry.jpg",
-    "title": "Namakkal lorry transport hub records 14 percent freight movement growth",
-    "summary": "Namakkal — India's largest lorry-owners hub — has recorded a 14 percent year-on-year increase in freight movement in April, driven by export traffic from Tiruppur and steel from Salem.",
-    "date": "May 2, 2026"
+    "image": "/news/2026-05-05/results-dashboard.jpg",
+    "title": "Namakkal TVK's S. Praveen Kumar meets poultry workers, promises feed price regulation",
+    "summary": "Namakkal's TVK MLA S. Praveen Kumar met poultry workers on May 5 and committed to working on a state-level feed-grain price regulation framework to protect small farms.",
+    "date": "May 5, 2026"
   },
   {
     "id": "nmk-003",
-    "category": "Education",
-    "title": "Tiruchengode Anna University campus hosts state robotics finale",
-    "summary": "The state-level inter-collegiate robotics championship finale is being hosted at Anna University's Tiruchengode regional campus this weekend, drawing 84 teams from across Tamil Nadu.",
-    "date": "May 2, 2026"
+    "category": "Business",
+    "title": "Tiruchengodu TVK's T. Arulmani: 'Will bring rig industry grievances to assembly'",
+    "summary": "Tiruchengodu's TVK winner T. Arulmani said the long-standing grievances of the borewell rig industry — power tariffs, lorry permits and GST refunds — would be his first assembly intervention.",
+    "date": "May 5, 2026"
   },
   {
     "id": "nmk-004",
     "category": "Election",
-    "image": "/news/2026-05-02/election-counting.jpg",
-    "title": "Namakkal collector reviews counting hall security at five centres",
-    "summary": "The Namakkal District Collector inspected counting hall security and EVM strong room arrangements at five centres covering all five Assembly constituencies in the district.",
-    "date": "May 2, 2026"
+    "title": "Rasipuram DMK's Dr. Mathivanan retains by 4,200 votes, thanks health workers",
+    "summary": "DMK's Dr. Mathivanan retained Rasipuram by 4,200 votes and thanked frontline health workers in his post-result speech, calling the win a verdict on his constituency record.",
+    "date": "May 5, 2026"
   },
   {
     "id": "nmk-005",
-    "category": "Environment",
-    "title": "Cauvery delta sand quarrying restrictions extended for monsoon",
-    "summary": "The Public Works Department has extended sand-quarrying restrictions along Cauvery basin reaches in Namakkal for an additional six weeks, citing monsoon riverbed sensitivity.",
-    "date": "May 2, 2026"
+    "category": "Agriculture",
+    "title": "Paramathi-Velur AIADMK's S. Sekar announces betel leaf growers' welfare board",
+    "summary": "Paramathi-Velur's AIADMK MLA S. Sekar announced that he would move a proposal for a dedicated betel leaf growers' welfare board on the lines of existing crop-specific bodies.",
+    "date": "May 5, 2026"
   },
   {
     "id": "nmk-006",
-    "category": "Business",
-    "title": "Namakkal egg prices steady despite festive demand fluctuation",
-    "summary": "Wholesale egg prices at Namakkal NECC mandi have held steady at Rs 5.32 per egg this week, despite seasonal festive demand fluctuations across South India.",
-    "date": "May 2, 2026"
+    "category": "Election",
+    "title": "Senthamangalam DMK's K. Ponnusamy wins by narrow 3,100 votes",
+    "summary": "Senthamangalam went down to a wafer-thin finish, with DMK's K. Ponnusamy winning by 3,100 votes after a tight, multi-cornered contest with TVK and AIADMK.",
+    "date": "May 5, 2026"
   },
   {
     "id": "nmk-007",
-    "category": "Business",
-    "title": "Kolli Hills tribal cooperative launches branded millet snack range",
-    "summary": "The Kolli Hills tribal women's cooperative has launched a branded millet-based snack range in partnership with a Coimbatore food-tech firm, with retail rollout across Kongu cities this week.",
-    "date": "May 2, 2026"
+    "category": "Election",
+    "title": "Kumarapalayam AIADMK's P. Thangamani wins 6th term, margin 18,300",
+    "summary": "Kumarapalayam's veteran P. Thangamani returned to the assembly for a sixth term on an AIADMK ticket with a comfortable 18,300-vote margin over his nearest rival.",
+    "date": "May 5, 2026"
   },
   {
     "id": "nmk-008",
-    "category": "Agriculture",
-    "title": "Solar pump scheme covers 4,200 Namakkal farms in current cycle",
-    "summary": "The PM-KUSUM solar pumpset scheme has covered 4,200 Namakkal farms in the current cycle, with TANGEDCO confirming an additional 1,800 connections will be sanctioned over the next quarter.",
-    "date": "May 2, 2026"
+    "category": "Business",
+    "title": "Namakkal egg prices crash post-election; traders seek export subsidy",
+    "summary": "Wholesale egg prices at Namakkal NECC mandi crashed post-counting on a demand lull, prompting traders to seek a temporary export subsidy from the new state government.",
+    "date": "May 5, 2026"
   },
   {
     "id": "nmk-009",
     "category": "Business",
-    "title": "Rasipuram pure-silk handloom cluster gets export-promotion package",
-    "summary": "The Rasipuram pure-silk handloom cluster has been included in the textile ministry's export-promotion package, granting access to subsidised credit, design support and overseas exhibition slots.",
-    "date": "May 2, 2026"
+    "title": "Tiruchengodu truck owners' strike call withdrawn after TVK assurance",
+    "summary": "The Tiruchengodu truck owners' federation withdrew its planned strike call after newly-elected TVK MLA T. Arulmani assured them of an immediate state-level meeting on permits.",
+    "date": "May 5, 2026"
   },
   {
     "id": "nmk-010",
-    "category": "Weather",
-    "image": "/news/2026-05-02/weather-rain.jpg",
-    "title": "Namakkal under heavy rain alert from May 3; civic teams placed on standby",
-    "summary": "Namakkal has been placed under a yellow heavy rainfall alert from May 3, with municipal teams on standby across Rasipuram, Tiruchengode and Paramathi-Velur taluks for waterlogging response.",
-    "date": "May 2, 2026"
+    "category": "Business",
+    "title": "Namakkal District Central Cooperative Bank to elect new chairman",
+    "summary": "The Namakkal District Central Cooperative Bank board will elect a new chairman next week, with realignments expected after the assembly result reshapes local political weightage.",
+    "date": "May 5, 2026"
   },
   {
     "id": "nmk-011",
-    "category": "Culture",
-    "title": "Namakkal Anjaneyar temple draws weekend pilgrim surge",
-    "summary": "The 18-foot tall Anjaneyar temple in Namakkal — one of the tallest open-air Hanuman idols in India — recorded over 38,000 pilgrim visits over the weekend, prompting additional crowd-management arrangements.",
-    "date": "May 2, 2026"
+    "category": "Infrastructure",
+    "title": "New bus stand for Namakkal town: TVK MLA pushes for funds",
+    "summary": "Namakkal town's TVK MLA has formally taken up the long-pending demand for a new integrated bus stand and said the proposal would be moved at the highest funding level immediately.",
+    "date": "May 5, 2026"
   },
   {
     "id": "nmk-012",
-    "category": "Health",
-    "title": "Truck driver health-screening drive launched at Namakkal terminals",
-    "summary": "A free health-screening drive for long-haul truck drivers has been launched at three major Namakkal lorry terminals, focusing on cardiac risk, vision testing and sleep-disorder assessment.",
-    "date": "May 2, 2026"
+    "category": "Business",
+    "title": "Kumarapalayam powerloom workers demand bonus revision",
+    "summary": "Powerloom workers in Kumarapalayam have submitted a fresh demand for an annual bonus revision to re-elected MLA P. Thangamani, citing rising input costs and stable export orders.",
+    "date": "May 5, 2026"
+  },
+  {
+    "id": "nmk-013",
+    "category": "Election",
+    "title": "AIADMK's Thangamani hints at 'alliance review' after DMK's poor show",
+    "summary": "AIADMK's Kumarapalayam MLA P. Thangamani hinted at a wider 'alliance review' for the party after DMK's reduced performance, suggesting opposition recalibration ahead.",
+    "date": "May 5, 2026"
+  },
+  {
+    "id": "nmk-014",
+    "category": "Election",
+    "title": "DMK retains two seats but loses vote share to TVK in urban pockets",
+    "summary": "Although DMK retained Rasipuram and Senthamangalam, internal numbers showed a clear vote-share slide to TVK in urban Namakkal pockets, prompting an organisational review.",
+    "date": "May 5, 2026"
+  },
+  {
+    "id": "nmk-015",
+    "category": "Infrastructure",
+    "title": "Namakkal district collector calls all MLAs for development meeting on May 10",
+    "summary": "The Namakkal District Collector has called all six newly-elected MLAs to a district development meeting on May 10 to align constituency-level priorities with the district plan.",
+    "date": "May 5, 2026"
   }
 ]

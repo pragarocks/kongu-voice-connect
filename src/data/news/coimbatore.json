@@ -3,104 +3,111 @@
     "id": "cbe-001",
     "category": "Election",
     "featured": true,
-    "image": "/news/2026-05-02/hero-strongroom.jpg",
-    "title": "All 10 Coimbatore counting centres sealed; CAPF tightens cordon ahead of May 4",
-    "summary": "All ten constituency counting centres across Coimbatore have been brought under three-tier security with CAPF, TSP and local police personnel deployed round the clock. The District Election Officer confirmed that EVM strong rooms remain under live CCTV, with feeds open to all party agents 24x7 ahead of counting day on May 4.",
-    "date": "May 2, 2026"
+    "image": "/news/2026-05-05/results-dashboard.jpg",
+    "title": "Senthil Balaji wins Coimbatore South by just 1,991 votes; TVK gives tough fight",
+    "summary": "DMK's V. Senthil Balaji scraped through to victory in Coimbatore South by a wafer-thin 1,991 votes after a TVK surge that kept the result on a knife-edge until the 24th counting round.",
+    "date": "May 5, 2026"
   },
   {
     "id": "cbe-002",
-    "category": "Business",
+    "category": "Election",
     "featured": true,
-    "image": "/news/2026-05-01/coimbatore-industry.jpg",
-    "title": "Industry bodies meet candidates, push 12-point post-poll agenda",
-    "summary": "Coimbatore industry associations including CODISSIA, COINDIA and SIEMA jointly handed over a 12-point charter to candidates from all major alliances, demanding power tariff stability, MSME credit reform and a dedicated industrial corridor between Coimbatore and Tiruppur.",
-    "date": "May 2, 2026"
+    "image": "/news/2026-05-05/hero-tvk-victory.jpg",
+    "title": "TVK sweeps Coimbatore North, Kavundampalayam, Singanallur, Kinathukadavu, Mettuppalayam, Sulur",
+    "summary": "TVK posted a near-clean sweep across the rest of urban and peri-urban Coimbatore, winning North, Kavundampalayam, Singanallur, Kinathukadavu, Mettuppalayam and Sulur on counting day.",
+    "date": "May 5, 2026"
   },
   {
     "id": "cbe-003",
     "category": "Election",
-    "image": "/news/2026-05-01/strongroom-security.jpg",
-    "title": "EVM strong room CCTV feed opened to party agents 24x7",
-    "summary": "The Coimbatore Collectorate has activated dedicated viewing rooms outside each strong room where authorised representatives of all contesting parties can monitor live CCTV feeds continuously until counting begins.",
-    "date": "May 2, 2026"
+    "title": "Kavundampalayam's Kanimozhi Santhosh (TVK) posts highest margin (42,140) in district",
+    "summary": "Kavundampalayam's TVK winner Kanimozhi Santhosh recorded the highest victory margin in the district at 42,140 votes, eclipsing every other Coimbatore constituency.",
+    "date": "May 5, 2026"
   },
   {
     "id": "cbe-004",
-    "category": "Weather",
-    "image": "/news/2026-05-02/weather-rain.jpg",
-    "title": "IMD yellow alert: Heavy rain forecast for Coimbatore and Western Ghats",
-    "summary": "Isolated heavy rainfall is expected across Coimbatore district today, with the Western Ghats stretch likely to see thunderstorms by evening. Authorities have advised residents in landslide-prone zones near Valparai and Anaikatti to stay alert.",
-    "date": "May 2, 2026"
+    "category": "Election",
+    "image": "/news/2026-05-05/pollachi-coconut.jpg",
+    "title": "Pollachi upset: DMK's K. Nithyanandhan unseats AIADMK veteran",
+    "summary": "Pollachi delivered the day's biggest upset as DMK's K. Nithyanandhan unseated the AIADMK incumbent, breaking what had been a near-decade-long hold on the constituency.",
+    "date": "May 5, 2026"
   },
   {
     "id": "cbe-005",
-    "category": "Technology",
-    "title": "PSG Tech researchers unveil low-cost air quality sensor for tier-2 cities",
-    "summary": "A PSG College of Technology research team has launched a sub-Rs 5,000 air quality monitoring device designed for deployment across Tier-2 industrial cities. Field trials begin next week in Peelamedu and Singanallur.",
-    "date": "May 2, 2026"
+    "category": "Infrastructure",
+    "title": "Coimbatore North winner V. Sampathkumar visits Ukkadam, promises bus port upgrade",
+    "summary": "Coimbatore North's TVK MLA V. Sampathkumar visited Ukkadam on May 5 and committed to a full upgrade of the bus port, pitching it as a regional mobility hub.",
+    "date": "May 5, 2026"
   },
   {
     "id": "cbe-006",
-    "category": "Infrastructure",
-    "title": "Avinashi Road metro alignment study moves to public consultation",
-    "summary": "The detailed project report for Coimbatore's first metro corridor along Avinashi Road has entered public consultation. CMRL has invited written objections and suggestions through May 31.",
-    "date": "May 2, 2026"
+    "category": "Business",
+    "title": "Singanallur TVK's K.S. Sri Giri Prasath to take up IT corridor development",
+    "summary": "Singanallur's K.S. Sri Giri Prasath has identified IT corridor expansion along the Avinashi Road belt as the centrepiece of his constituency development agenda.",
+    "date": "May 5, 2026"
   },
   {
     "id": "cbe-007",
     "category": "Agriculture",
-    "title": "Pollachi coconut traders warn of price drop ahead of harvest peak",
-    "summary": "Traders at the Pollachi coconut market have flagged a 12 percent drop in wholesale prices over the past week, citing oversupply from neighbouring Karnataka and weak Kerala demand.",
-    "date": "May 2, 2026"
+    "title": "Mettuppalayam TVK's Sunil Anand meets tea estate workers, assures minimum wage revision",
+    "summary": "Mettuppalayam's Sunil Anand met tea estate workers on May 5 and assured he would push for a fresh minimum wage revision in the next state labour advisory board meeting.",
+    "date": "May 5, 2026"
   },
   {
     "id": "cbe-008",
-    "category": "Health",
-    "title": "GH Coimbatore opens new 200-bed paediatric block",
-    "summary": "Coimbatore Government Hospital has commissioned a dedicated 200-bed paediatric care block equipped with a 40-bed PICU and a milk bank, funded under the state health mission.",
-    "date": "May 2, 2026"
+    "category": "Infrastructure",
+    "title": "Sulur TVK's NM. Sukumar promises expansion of Sulur airport",
+    "summary": "Sulur's TVK MLA NM. Sukumar said expansion of the Sulur airport civilian terminal would be his constituency-level priority, with a representation to the Centre planned within a month.",
+    "date": "May 5, 2026"
   },
   {
     "id": "cbe-009",
-    "category": "Administration",
-    "title": "Liquor shops closed near Kerala border ahead of neighbouring state polls",
-    "summary": "Forty-eight TASMAC outlets along the Coimbatore-Kerala border in Madukkarai, Pollachi and Anaimalai blocks have been closed for 48 hours under Election Commission instructions.",
-    "date": "May 2, 2026"
+    "category": "Election",
+    "title": "Kinathukadavu TVK's Vignesh K: youth wing played key role in victory",
+    "summary": "Kinathukadavu's first-time MLA Vignesh K credited the party youth wing for the win, saying the door-to-door campaign by young volunteers had decisively shifted the verdict.",
+    "date": "May 5, 2026"
   },
   {
     "id": "cbe-010",
-    "category": "Environment",
-    "title": "Singanallur Lake bird census records 14 new migratory species",
-    "summary": "The annual Singanallur Lake bird census conducted by the Coimbatore Forest Division has recorded 14 new migratory species this season, taking the total tally to 137 documented birds.",
-    "date": "May 2, 2026"
+    "category": "Election",
+    "title": "AIADMK accepts defeat in 6 seats, says 'will rebuild from grassroots'",
+    "summary": "Coimbatore AIADMK has accepted defeat in six of the ten constituencies and said the focus would now be on grassroots rebuilding ahead of the 2027 local body polls.",
+    "date": "May 5, 2026"
   },
   {
     "id": "cbe-011",
-    "category": "Transport",
-    "title": "Coimbatore Airport adds direct daily flight to Singapore from June",
-    "summary": "AAI confirmed that a major carrier will operate a daily Coimbatore-Singapore service from June 15, marking the city's second international destination after Sharjah.",
-    "date": "May 2, 2026"
+    "category": "Infrastructure",
+    "title": "Coimbatore City Corporation to table Rs 4,500 crore budget tomorrow",
+    "summary": "Coimbatore City Corporation will table a Rs 4,500 crore annual budget on May 6, with major outlays for stormwater drainage, road widening and lakebed restoration.",
+    "date": "May 5, 2026"
   },
   {
     "id": "cbe-012",
-    "category": "Tourism",
-    "title": "Kovai Kutralam waterfall closed to tourists during heavy rain alert",
-    "summary": "Forest officials have temporarily closed Kovai Kutralam falls to visitors after upstream water levels rose sharply following overnight rainfall in the Anaimalai range.",
-    "date": "May 2, 2026"
+    "category": "Environment",
+    "title": "Isha Foundation welcomes new MLAs, invites them for Cauvery Calling review",
+    "summary": "The Isha Foundation has welcomed the new Coimbatore MLAs and invited them for a structured review of the Cauvery Calling initiative's plantation milestones.",
+    "date": "May 5, 2026"
   },
   {
     "id": "cbe-013",
     "category": "Business",
-    "title": "CODISSIA Trade Fair complex to host engineering expo from May 15",
-    "summary": "The CODISSIA Trade Fair Complex will host the 24th INTEC Engineering Expo from May 15, with over 800 exhibitors confirmed across machine tools, electricals, and EV components.",
-    "date": "May 2, 2026"
+    "title": "G.D. Naidu Industrial Park expansion hinges on new government support",
+    "summary": "Promoters of the proposed G.D. Naidu Industrial Park said the project's next phase now hinges on land conversion approvals and capital subsidy from the incoming state government.",
+    "date": "May 5, 2026"
   },
   {
     "id": "cbe-014",
-    "category": "Transport",
-    "title": "Special long-distance bus services from Gandhipuram for return travel",
-    "summary": "TNSTC has announced 90 special buses operating from Gandhipuram, Mettupalayam Road and Ukkadam terminals tomorrow to handle the post-holiday return rush to Chennai, Bengaluru and Madurai.",
-    "date": "May 2, 2026"
+    "category": "Agriculture",
+    "title": "Pollachi coconut market sees price dip; traders seek immediate intervention",
+    "summary": "Pollachi mandi traders flagged a sharp price dip on May 5 and sought immediate state intervention through a procurement floor and freight subsidy for inter-state movement.",
+    "date": "May 5, 2026"
+  },
+  {
+    "id": "cbe-015",
+    "category": "Infrastructure",
+    "image": "/news/2026-05-05/coimbatore-metro.jpg",
+    "title": "Coimbatore Metro: Public consultation dates announced for Avinashi Road alignment",
+    "summary": "Coimbatore Metro Rail has announced public consultation dates for the Avinashi Road alignment, with hearings scheduled across all assembly segments along the proposed corridor.",
+    "date": "May 5, 2026"
   }
 ]
