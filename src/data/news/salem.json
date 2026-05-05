@@ -1,100 +1,111 @@
 [
   {
     "id": "slm-001",
-    "category": "Business",
+    "category": "Election",
     "featured": true,
-    "image": "/news/2026-05-02/steel-industry.jpg",
-    "title": "Salem steel sector readies post-poll capacity expansion plans",
-    "summary": "Salem's stainless-steel and engineering manufacturers are finalising post-poll capacity expansion plans worth Rs 1,800 crore, contingent on the next government's industrial-power tariff stance.",
-    "date": "May 2, 2026"
+    "image": "/news/2026-05-05/salem-steel.jpg",
+    "title": "EPS retains Edappadi with massive 42,150 margin; TVK second",
+    "summary": "AIADMK general secretary Edappadi K. Palaniswami retained Edappadi with a thumping 42,150-vote margin, with TVK pushed to second place but registering its presence in his bastion.",
+    "date": "May 5, 2026"
   },
   {
     "id": "slm-002",
     "category": "Election",
     "featured": true,
-    "image": "/news/2026-05-02/election-counting.jpg",
-    "title": "11 Salem Assembly seats to be counted at four secured centres on May 4",
-    "summary": "Counting for Salem district's 11 Assembly seats will take place at four designated centres in Salem city, Yercaud, Mettur and Attur, with 22 counting halls and over 800 staff deployed.",
-    "date": "May 2, 2026"
+    "image": "/news/2026-05-05/hero-tvk-victory.jpg",
+    "title": "TVK wins Salem North, South, West and Yercaud — party's urban sweep",
+    "summary": "Tamilaga Vettri Kazhagam swept Salem North, South, West and Yercaud, completing an urban sweep of the district and signalling a generational shift in the steel city.",
+    "date": "May 5, 2026"
   },
   {
     "id": "slm-003",
-    "category": "Agriculture",
-    "title": "Mettur dam touches 92 ft as Cauvery inflows pick up",
-    "summary": "The Mettur dam water level has risen to 92 feet against full capacity of 120 feet, following increased inflows from upstream Karnataka over the past 96 hours.",
-    "date": "May 2, 2026"
+    "category": "Election",
+    "title": "Salem West TVK's S. Lakshmanan wins by 74,867 votes — highest in district",
+    "summary": "Salem West's S. Lakshmanan posted the district's largest victory margin at 74,867 votes, with TVK strategists calling it a vote on civic governance and youth jobs.",
+    "date": "May 5, 2026"
   },
   {
     "id": "slm-004",
-    "category": "Tourism",
-    "title": "Yercaud hill station crowded as weekend tourist arrivals surge",
-    "summary": "Yercaud has seen a sharp surge in weekend tourist arrivals with hotel occupancy crossing 95 percent, prompting traffic regulation along the 20-hairpin bend ghat road from this morning.",
-    "date": "May 2, 2026"
+    "category": "Infrastructure",
+    "title": "PMK's S. Sadhasivam wins Mettur, promises Mettur dam elevation project",
+    "summary": "PMK's S. Sadhasivam captured the Mettur seat and announced that the long-pending Mettur dam elevation project would be his first formal demand in the assembly.",
+    "date": "May 5, 2026"
   },
   {
     "id": "slm-005",
-    "category": "Infrastructure",
-    "title": "Salem Junction redevelopment design unveiled by Southern Railway",
-    "summary": "Southern Railway has released the new redevelopment master plan for Salem Junction featuring a sky concourse, three additional platforms and integrated multimodal transit hub, with work targeted to commence in October.",
-    "date": "May 2, 2026"
+    "category": "Election",
+    "title": "Veerapandi AIADMK's M. Rajamuthu thanks Omalur union panchayats for support",
+    "summary": "AIADMK's Veerapandi winner M. Rajamuthu thanked Omalur union panchayats for consolidated support and said rural water-supply schemes would be his immediate focus.",
+    "date": "May 5, 2026"
   },
   {
     "id": "slm-006",
-    "category": "Agriculture",
-    "title": "Salem mango farmers adopt Israeli high-density farming model",
-    "summary": "Over 400 mango farmers across Salem have adopted the Israeli high-density orchard model, with average yields up by 60 percent versus traditional planting in the first commercial year.",
-    "date": "May 2, 2026"
+    "category": "Infrastructure",
+    "title": "Sankari AIADMK's S. Sundararajan to push for Sankari-Tiruchengodu road widening",
+    "summary": "Sankari's S. Sundararajan said his constituency-level priority would be to push state highways for the long-delayed Sankari-Tiruchengodu road widening proposal.",
+    "date": "May 5, 2026"
   },
   {
     "id": "slm-007",
-    "category": "Weather",
-    "image": "/news/2026-05-02/weather-rain.jpg",
-    "title": "Heavy rain warning for Salem and Namakkal from May 3",
-    "summary": "IMD has placed Salem and Namakkal under a heavy rainfall warning effective May 3 as the trough system moves further south, with isolated heavy showers expected through May 4.",
-    "date": "May 2, 2026"
+    "category": "Business",
+    "title": "Attur AIADMK's A.P. Jayasankaran meets weavers, promises powerloom upgrade subsidy",
+    "summary": "Attur's A.P. Jayasankaran met weavers' associations on May 5 and committed to mobilising state and central subsidy for a powerloom modernisation programme.",
+    "date": "May 5, 2026"
   },
   {
     "id": "slm-008",
-    "category": "Technology",
-    "image": "/news/2026-05-01/salem-steel.jpg",
-    "title": "Salem Steel Plant signs MoU with IIT Madras for green-steel research",
-    "summary": "Salem Steel Plant has signed a five-year research MoU with IIT Madras to develop hydrogen-based green-steel production techniques targeting 30 percent emission reduction.",
-    "date": "May 2, 2026"
+    "category": "Agriculture",
+    "title": "Gangavalli AIADMK's A. Nallathambi announces check dam construction",
+    "summary": "Gangavalli's AIADMK MLA A. Nallathambi announced a fresh check dam construction programme across hill-block streams to recharge groundwater in dryland farming villages.",
+    "date": "May 5, 2026"
   },
   {
     "id": "slm-009",
-    "category": "Administration",
-    "title": "Salem civic body launches doorstep drainage cleaning service",
-    "summary": "Salem Corporation has launched a doorstep drainage and storm-water-line cleaning service through a dedicated mobile app, with a 24-hour response commitment for monsoon-readiness complaints.",
-    "date": "May 2, 2026"
+    "category": "Election",
+    "title": "Yercaud TVK's G. Chitra — first ST woman MLA from Salem, focuses on coffee growers",
+    "summary": "Yercaud TVK winner G. Chitra became the first ST woman MLA elected from Salem district and said small coffee growers in the hills would be her constituency priority.",
+    "date": "May 5, 2026"
   },
   {
     "id": "slm-010",
-    "category": "Infrastructure",
-    "title": "Sankari truck terminal completes phase-1 commissioning",
-    "summary": "The Rs 240 crore Sankari truck terminal — the largest in central Tamil Nadu — has completed phase-1 commissioning with capacity for 800 long-haul trucks at any time.",
-    "date": "May 2, 2026"
+    "category": "Business",
+    "title": "Salem Steel Plant workers meet EPS, seek raw material allocation",
+    "summary": "Salem Steel Plant workers' unions met re-elected MLA Edappadi K. Palaniswami and pressed for a fresh raw material allocation framework with SAIL to stabilise output.",
+    "date": "May 5, 2026"
   },
   {
     "id": "slm-011",
-    "category": "Education",
-    "title": "Attur block schools launch Tamil-medium AI literacy curriculum",
-    "summary": "Forty government higher secondary schools across the Attur block have begun teaching a state-developed Tamil-medium AI literacy curriculum for Class 9 and 10 students from this academic term.",
-    "date": "May 2, 2026"
+    "category": "Agriculture",
+    "title": "Mettur dam water level at 107 ft; farmers demand release for delta",
+    "summary": "Mettur dam water level touched 107 feet on May 5, prompting Cauvery delta farmer federations to formally demand an early release schedule from the new government.",
+    "date": "May 5, 2026"
   },
   {
     "id": "slm-012",
     "category": "Agriculture",
-    "title": "Sago millers seek MSP framework to stabilise tapioca prices",
-    "summary": "Salem's sago manufacturers' federation has formally sought a Minimum Support Price framework for tapioca, citing wide price swings that have hurt both farmers and processing units this season.",
-    "date": "May 2, 2026"
+    "title": "Salem mango growers expect bumper crop, seek cold storage subsidy",
+    "summary": "Mango growers in Salem reported a bumper crop outlook for 2026 and pressed for a cold storage subsidy package to limit post-harvest losses across the cluster.",
+    "date": "May 5, 2026"
   },
   {
     "id": "slm-013",
-    "category": "Transport",
-    "image": "/news/2026-05-02/vande-bharat.jpg",
-    "title": "Salem-Chennai Vande Bharat trial run scheduled for June launch",
-    "summary": "Southern Railway has scheduled the trial run of a Salem-Chennai Vande Bharat Express on May 12, paving the way for full commercial operations from the first week of June.",
-    "date": "May 2, 2026"
+    "category": "Election",
+    "title": "TVK's Salem city unit to hold thanksgiving rally on May 7",
+    "summary": "TVK's Salem city unit will hold a public thanksgiving rally on May 7 with all four winning party candidates from the district scheduled to address supporters.",
+    "date": "May 5, 2026"
+  },
+  {
+    "id": "slm-014",
+    "category": "Election",
+    "title": "AIADMK retains 6 seats; Edappadi EPS says 'will be voice of opposition'",
+    "summary": "AIADMK retained six Salem district seats and Edappadi K. Palaniswami declared the party would serve as the constructive 'voice of the opposition' in the new assembly.",
+    "date": "May 5, 2026"
+  },
+  {
+    "id": "slm-015",
+    "category": "Infrastructure",
+    "title": "PMK's Mettur victory: party chief Anbumani Ramadoss visits dam site",
+    "summary": "PMK chief Anbumani Ramadoss visited the Mettur dam site on May 5 to thank voters and to formally launch the party's campaign for the dam elevation project.",
+    "date": "May 5, 2026"
   }
 ]

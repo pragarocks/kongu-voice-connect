@@ -1,92 +1,111 @@
 [
   {
     "id": "dpr-001",
-    "category": "Agriculture",
+    "category": "Election",
     "featured": true,
-    "image": "/news/2026-05-02/mango-export.jpg",
-    "title": "Dharmapuri mango GI tag drives record export bookings for May",
-    "summary": "The Dharmapuri mango cluster's Geographical Indication tag has driven record export bookings for May 2026, with confirmed orders from UAE, Singapore and Malaysia exceeding last year's full-season volume.",
-    "date": "May 2, 2026"
+    "image": "/news/2026-05-05/dharmapuri-mango.jpg",
+    "title": "Sowmiya Anbumani (PMK) wins Dharmapuri by 20,896 votes, defeats TVK",
+    "summary": "PMK's Sowmiya Anbumani won the Dharmapuri Assembly seat by 20,896 votes, holding off a determined TVK challenge in what observers called the year's most-watched contest.",
+    "date": "May 5, 2026"
   },
   {
     "id": "dpr-002",
     "category": "Election",
     "featured": true,
-    "image": "/news/2026-05-02/election-counting.jpg",
-    "title": "Dharmapuri counting halls finalised; six Assembly seats covered",
-    "summary": "Counting halls for Dharmapuri district's six Assembly constituencies — Pennagaram, Dharmapuri, Pappireddipatti, Harur, Palacode and Mettur reaches — have been finalised with full security and tabulation arrangements.",
-    "date": "May 2, 2026"
+    "image": "/news/2026-05-05/results-dashboard.jpg",
+    "title": "AIADMK's K.P. Anbalagan retains Palacode for 5th term",
+    "summary": "AIADMK veteran K.P. Anbalagan retained Palacode for a fifth consecutive term, making it one of the most stable constituencies in Dharmapuri district across cycles.",
+    "date": "May 5, 2026"
   },
   {
     "id": "dpr-003",
-    "category": "Tourism",
-    "title": "Hogenakkal falls reopens to tourists with revised coracle limits",
-    "summary": "Hogenakkal falls has reopened to tourists with revised coracle ride limits and life-jacket mandate after last week's brief closure due to flash flow concerns. Daily visitor capacity has been capped at 6,000.",
-    "date": "May 2, 2026"
+    "category": "Election",
+    "title": "PMK's G.K. Mani wins Pennagaram by 11,340 votes, thanks Vanniyar consolidation",
+    "summary": "PMK strongman G.K. Mani returned to the assembly from Pennagaram with an 11,340-vote margin and credited a sharp Vanniyar community consolidation for the win.",
+    "date": "May 5, 2026"
   },
   {
     "id": "dpr-004",
-    "category": "Agriculture",
-    "image": "/news/2026-05-01/dharmapuri-mango.jpg",
-    "title": "Dharmapuri sericulture sector mulls cocoon-procurement modernisation",
-    "summary": "The Dharmapuri Sericulture Cooperative is reviewing a proposal for digital weighing, AI-driven grading and direct-payment systems at all 12 cocoon procurement centres across the district.",
-    "date": "May 2, 2026"
+    "category": "Election",
+    "title": "Pappireddippatti PMK's A. Govindasamy defeats TVK by 8,760 votes",
+    "summary": "Pappireddippatti's PMK candidate A. Govindasamy defeated TVK by 8,760 votes after a hard-fought contest, with the party calling the result a Vanniyar belt mandate.",
+    "date": "May 5, 2026"
   },
   {
     "id": "dpr-005",
-    "category": "Weather",
-    "image": "/news/2026-05-02/weather-rain.jpg",
-    "title": "Dharmapuri receives heavy rain warning; Pennagaram on yellow alert",
-    "summary": "IMD has placed Dharmapuri district under a heavy rainfall warning today, with Pennagaram, Pappireddipatti and Harur taluks on yellow alert. Hogenakkal falls visitor numbers may be regulated again if levels rise.",
-    "date": "May 2, 2026"
+    "category": "Election",
+    "title": "Harur DMK's Sampath Kumar wins SC reserved seat, beats AIADMK by 5,230 votes",
+    "summary": "DMK's Sampath Kumar held the Harur SC reserved constituency by a 5,230-vote margin, the party's lone bright spot in an otherwise difficult district outing.",
+    "date": "May 5, 2026"
   },
   {
     "id": "dpr-006",
-    "category": "Environment",
-    "title": "Granite cluster operators meet on environmental compliance roadmap",
-    "summary": "Operators of Dharmapuri's granite quarrying cluster met district authorities to finalise a phased environmental compliance roadmap covering dust control, blast-zone buffers and worker health monitoring.",
-    "date": "May 2, 2026"
+    "category": "Election",
+    "title": "TVK finishes second in Dharmapuri and Pappireddippatti — 'moral victory' says party",
+    "summary": "TVK finished second in both Dharmapuri and Pappireddippatti and called the performance a 'moral victory' for a debut effort, signalling future contestability in the belt.",
+    "date": "May 5, 2026"
   },
   {
     "id": "dpr-007",
-    "category": "Technology",
-    "title": "Adhiyamaan College of Engineering wins TN smart-city hackathon",
-    "summary": "A team from Adhiyamaan College of Engineering in Hosur — admitted from across Krishnagiri-Dharmapuri belt — has won the state smart-city hackathon with an AI-driven traffic signal optimisation prototype.",
-    "date": "May 2, 2026"
+    "category": "Infrastructure",
+    "title": "Hogenakkal Phase-II water scheme: PMK seeks early implementation",
+    "summary": "PMK has formally sought early implementation of the Hogenakkal Phase-II water scheme, with both Dharmapuri and Pennagaram MLAs taking up the issue immediately after the result.",
+    "date": "May 5, 2026"
   },
   {
     "id": "dpr-008",
-    "category": "Health",
-    "title": "Dharmapuri govt hospital opens 24x7 dialysis centre",
-    "summary": "Dharmapuri Government Medical College Hospital has opened a fully-equipped 24x7 dialysis centre with 18 stations, reducing patient travel to Salem and Bengaluru for routine sessions.",
-    "date": "May 2, 2026"
+    "category": "Infrastructure",
+    "title": "Dharmapuri-Morappur railway line work inspected by new MLA",
+    "summary": "The newly-elected Dharmapuri MLA Sowmiya Anbumani inspected ongoing work on the Dharmapuri-Morappur railway line on May 5 and pushed for an accelerated completion timeline.",
+    "date": "May 5, 2026"
   },
   {
     "id": "dpr-009",
-    "category": "Agriculture",
-    "title": "Palacode block records highest mango yield estimate in five years",
-    "summary": "Pre-harvest estimates from horticulture officials show the Palacode block in Dharmapuri is on track for its highest mango yield in five years, with weather conditions favourable through bloom and fruit-set.",
-    "date": "May 2, 2026"
+    "category": "Infrastructure",
+    "title": "Palacode-Thali road widening project gets AIADMK support",
+    "summary": "Palacode's re-elected AIADMK MLA K.P. Anbalagan has thrown his weight behind the long-pending Palacode-Thali road widening project, calling it a critical inter-district link.",
+    "date": "May 5, 2026"
   },
   {
     "id": "dpr-010",
-    "category": "Infrastructure",
-    "title": "New Salem-Bengaluru bypass survey routes through Dharmapuri",
-    "summary": "NHAI's preliminary survey for a new Salem-Bengaluru high-speed bypass has identified an alignment passing through Dharmapuri, potentially cutting current travel times by an estimated 90 minutes.",
-    "date": "May 2, 2026"
+    "category": "Agriculture",
+    "title": "Pennagaram tank desilting work begins after PMK intervention",
+    "summary": "Desilting works at major Pennagaram tanks began this week following PMK's intervention with the Public Works Department to prepare for the upcoming southwest monsoon.",
+    "date": "May 5, 2026"
   },
   {
     "id": "dpr-011",
-    "category": "Education",
-    "title": "Adivasi welfare hostels in Harur get smart classroom upgrade",
-    "summary": "Twelve Adivasi welfare residential schools across the Harur block have been equipped with smart classrooms featuring digital boards, tablets and bilingual STEM content under a CSR-funded programme.",
-    "date": "May 2, 2026"
+    "category": "Business",
+    "title": "Harur SIPCOT industrial park expansion awaits clearance",
+    "summary": "The proposed Harur SIPCOT industrial park expansion is now awaiting environment and land clearances, with the new MLA committing to chase down approvals on priority.",
+    "date": "May 5, 2026"
   },
   {
     "id": "dpr-012",
-    "category": "Administration",
-    "title": "Dharmapuri civic body cracks down on illegal sand transport",
-    "summary": "Dharmapuri district authorities seized 24 lorries and registered 36 cases over the past week in a sustained crackdown on illegal sand transport along Cauvery and Thoppaiyar river beds.",
-    "date": "May 2, 2026"
+    "category": "Education",
+    "title": "Sowmiya Anbumani promises free laptop scheme for government college students",
+    "summary": "Dharmapuri MLA Sowmiya Anbumani announced a free laptop scheme for government college students from the constituency, modelled on past PMK welfare programmes.",
+    "date": "May 5, 2026"
+  },
+  {
+    "id": "dpr-013",
+    "category": "Election",
+    "title": "TVK's Dharmapuri unit says 'will target local body polls in 2027'",
+    "summary": "TVK's Dharmapuri district unit said the party would now target the 2027 local body polls with a focused outreach in Vanniyar-majority villages where it finished a strong second.",
+    "date": "May 5, 2026"
+  },
+  {
+    "id": "dpr-014",
+    "category": "Election",
+    "title": "PMK retains dominance in Vanniyar belt, wins 3 out of 5 seats",
+    "summary": "PMK won three of Dharmapuri's five Assembly seats, retaining its dominant influence across the Vanniyar belt and signalling strength ahead of the 2027 local body elections.",
+    "date": "May 5, 2026"
+  },
+  {
+    "id": "dpr-015",
+    "category": "Election",
+    "title": "Dharmapuri district records 89.44 percent turnout — highest in Tamil Nadu",
+    "summary": "Dharmapuri recorded a state-leading turnout of 89.44 percent in the 2026 election, the highest in Tamil Nadu, with election officials crediting saturation campaigning and clear weather.",
+    "date": "May 5, 2026"
   }
 ]

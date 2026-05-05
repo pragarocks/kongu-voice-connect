@@ -1,92 +1,111 @@
 [
   {
     "id": "kar-001",
-    "category": "Business",
+    "category": "Election",
     "featured": true,
-    "image": "/news/2026-05-02/home-textiles.jpg",
-    "title": "Karur home-textile exports reclaim pre-2024 peak after India-EU deal",
-    "summary": "Karur's home-textile exporters reported total April shipments matching pre-2024 peak levels, with the India-EU trade deal opening up renewed German and French retail demand for Made-in-Karur towels and bedlinen.",
-    "date": "May 2, 2026"
+    "image": "/news/2026-05-05/karur-textile.jpg",
+    "title": "AIADMK's M.R. Vijayabhaskar reclaims Karur seat by 1,821 votes; DMK pushed to third",
+    "summary": "Veteran AIADMK leader M.R. Vijayabhaskar reclaimed the Karur Assembly seat by a tight 1,821-vote margin, with DMK pushed to a distant third behind a strong TVK debut.",
+    "date": "May 5, 2026"
   },
   {
     "id": "kar-002",
     "category": "Election",
     "featured": true,
-    "image": "/news/2026-05-02/election-counting.jpg",
-    "title": "Karur counting centre arrangements reviewed; six halls finalised",
-    "summary": "Karur district authorities have finalised six counting halls across the four Assembly constituencies — Karur, Aravakurichi, Kulithalai and Krishnarayapuram — with full CCTV streaming planned.",
-    "date": "May 2, 2026"
+    "image": "/news/2026-05-05/hero-tvk-victory.jpg",
+    "title": "TVK's M. Sathya wins Krishnarayapuram (SC) — party's first seat in Karur",
+    "summary": "Tamilaga Vettri Kazhagam opened its account in Karur with M. Sathya winning the Krishnarayapuram (SC) reserved constituency, calling it a vote for clean and inclusive politics.",
+    "date": "May 5, 2026"
   },
   {
     "id": "kar-003",
-    "category": "Agriculture",
-    "title": "Cauvery delta paddy procurement begins at Karur DPCs",
-    "summary": "Direct procurement of Cauvery delta paddy has begun at Karur DPCs at the revised state MSP, with civil supplies officials confirming smooth pickup logistics for the first 1,200 farmers registered.",
-    "date": "May 2, 2026"
+    "category": "Election",
+    "title": "Aravakurichi DMK's R. Elango retains, but margin drops to 3,450",
+    "summary": "Aravakurichi's R. Elango retained the seat for DMK but with a sharply reduced margin of 3,450 votes, indicating a significant TVK and AIADMK consolidation in rural pockets.",
+    "date": "May 5, 2026"
   },
   {
     "id": "kar-004",
-    "category": "Business",
-    "title": "Karur bus body builders adopt EV chassis-conversion line",
-    "summary": "Karur's bus-body building cluster has commissioned a dedicated EV chassis adaptation line, targeting the state and inter-state intercity electric coach segment as the country shifts to clean-fuel mandates.",
-    "date": "May 2, 2026"
+    "category": "Election",
+    "title": "Kulithalai DMK's Sriyanur A. Chandran survives by just 233 votes after TVK surge",
+    "summary": "Kulithalai delivered Karur's closest finish, with DMK's Sriyanur A. Chandran scraping through by just 233 votes after a late-round TVK surge that almost swung the seat.",
+    "date": "May 5, 2026"
   },
   {
     "id": "kar-005",
     "category": "Business",
-    "title": "Karur emerges as top-3 Tamil Nadu UPI transaction-volume district",
-    "summary": "Karur has emerged as one of the top three districts in Tamil Nadu by UPI transaction volume in the latest NPCI quarterly report, attributed to its dense merchant network and headquartered banks.",
-    "date": "May 2, 2026"
+    "title": "Karur home textile exporters meet Vijayabhaskar, demand power tariff cut",
+    "summary": "Karur's home textile exporters met re-elected MLA M.R. Vijayabhaskar on May 5 and pressed for a state-level industrial power tariff cut linked to export performance.",
+    "date": "May 5, 2026"
   },
   {
     "id": "kar-006",
-    "category": "Weather",
-    "image": "/news/2026-05-02/weather-rain.jpg",
-    "title": "Heavy rain spell expected for Karur on May 3 and 4",
-    "summary": "IMD has placed Karur under a yellow rain warning for May 3 and 4, with thunderstorm activity likely across the Aravakurichi and Kulithalai blocks during late afternoon hours.",
-    "date": "May 2, 2026"
+    "category": "Social",
+    "title": "Krishnarayapuram TVK's Sathya promises Dalit welfare board revival",
+    "summary": "Krishnarayapuram's TVK winner M. Sathya said reviving the Tamil Nadu Dalit welfare board with a fresh budget allocation would be her opening intervention in the new assembly.",
+    "date": "May 5, 2026"
   },
   {
     "id": "kar-007",
-    "category": "Infrastructure",
-    "title": "Pasupathipalayam Cauvery footbridge work resumes after monsoon delay",
-    "summary": "PWD construction crews have resumed work on the long-pending Pasupathipalayam Cauvery footbridge connecting Karur to Erode, with completion now targeted for August 2026.",
-    "date": "May 2, 2026"
+    "category": "Education",
+    "title": "Aravakurichi school upgradation project cleared by DMK MLA",
+    "summary": "Aravakurichi's re-elected DMK MLA R. Elango announced the formal clearance of the constituency school upgradation project with smart classrooms and chemistry labs.",
+    "date": "May 5, 2026"
   },
   {
     "id": "kar-008",
-    "category": "Social",
-    "image": "/news/2026-05-01/karur-handloom.jpg",
-    "title": "Karur weavers' welfare board distributes pension arrears to 4,800 beneficiaries",
-    "summary": "The Tamil Nadu Handloom Weavers' Welfare Board distributed pension arrears worth Rs 6.4 crore to 4,800 retired weavers across Karur this week, clearing all backlogs from the previous fiscal year.",
-    "date": "May 2, 2026"
+    "category": "Infrastructure",
+    "title": "Kulithalai highway flyover work to resume after DMK's narrow win",
+    "summary": "Stalled work on the Kulithalai highway flyover will resume next week after the DMK's narrow win, with the MLA confirming a fresh state highways funding tranche.",
+    "date": "May 5, 2026"
   },
   {
     "id": "kar-009",
     "category": "Infrastructure",
-    "title": "Karur airport feasibility study commissioned by state planning board",
-    "summary": "The Tamil Nadu state planning board has commissioned a fresh feasibility study for a regional airport in Karur, citing rising home-textile export volumes and central Tamil Nadu air-connectivity gaps.",
-    "date": "May 2, 2026"
+    "title": "Karur bus stand renovation tenders floated",
+    "summary": "Karur municipality has floated tenders for a comprehensive renovation of the central bus stand, including new passenger amenities, EV charging slots and an improved layout.",
+    "date": "May 5, 2026"
   },
   {
     "id": "kar-010",
-    "category": "Business",
-    "title": "Karur Vysya Bank reports strong Q4 quarterly numbers",
-    "summary": "Karur Vysya Bank, one of central Tamil Nadu's oldest financial institutions, reported a robust Q4 with double-digit profit growth and improved asset quality, with the board recommending a final dividend.",
-    "date": "May 2, 2026"
+    "category": "Election",
+    "title": "AIADMK's Vijayabhaskar named likely opposition chief whip from Kongu",
+    "summary": "AIADMK insiders said Karur MLA M.R. Vijayabhaskar is being considered for the role of opposition chief whip, anchoring the party's Kongu region voice in the new assembly.",
+    "date": "May 5, 2026"
   },
   {
     "id": "kar-011",
-    "category": "Agriculture",
-    "title": "Kulithalai Amaravathi pumping station gets capacity upgrade",
-    "summary": "The Amaravathi pumping station at Kulithalai has received a Rs 84 crore capacity upgrade, boosting irrigation supply to nearly 12,000 acres of paddy land in Karur and Tiruchirappalli districts.",
-    "date": "May 2, 2026"
+    "category": "Election",
+    "title": "TVK's Karur district secretary calls for membership drive after historic win",
+    "summary": "TVK's Karur district secretary called for a fresh membership drive across all four constituencies, citing the Krishnarayapuram win as proof of opening space for the party.",
+    "date": "May 5, 2026"
   },
   {
     "id": "kar-012",
-    "category": "Culture",
-    "title": "Karur Mariamman temple festival completes peaceful 11-day run",
-    "summary": "The annual Karur Mariamman temple festival concluded its peaceful 11-day run with record participation, civic authorities crediting tight crowd management and dedicated traffic-diversion plans.",
-    "date": "May 2, 2026"
+    "category": "Election",
+    "title": "Pallapatti residents celebrate DMK's Aravakurichi win",
+    "summary": "Pallapatti residents organised a low-key celebration after DMK's Aravakurichi win, crediting local panchayat workers for protecting the party's grassroots vote bank.",
+    "date": "May 5, 2026"
+  },
+  {
+    "id": "kar-013",
+    "category": "Infrastructure",
+    "title": "Karur-Namakkal-Tiruchi road widening gets in-principle nod",
+    "summary": "The proposal to widen the Karur-Namakkal-Tiruchi inter-district corridor has received an in-principle nod from the state highways department, paving the way for tendering.",
+    "date": "May 5, 2026"
+  },
+  {
+    "id": "kar-014",
+    "category": "Election",
+    "title": "DMK holds post-election review: 'Near loss in Kulithalai a wake-up call'",
+    "summary": "DMK's Karur unit held an internal post-election review on May 5 and called the near loss in Kulithalai a 'wake-up call' that demanded urgent grassroots reorganisation.",
+    "date": "May 5, 2026"
+  },
+  {
+    "id": "kar-015",
+    "category": "Election",
+    "title": "Karur district voter turnout 83.4 percent — highest in Kongu region",
+    "summary": "Karur district recorded a final voter turnout of 83.4 percent, the highest in the Kongu region, with election officials crediting saturation outreach and youth participation.",
+    "date": "May 5, 2026"
   }
 ]
