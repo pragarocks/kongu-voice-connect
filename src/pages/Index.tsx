@@ -120,8 +120,8 @@ const heroNews: DisplayArticle = {
   summary_ta: mainHero.summary_ta,
   district: "Kongu Region",
   category: mainHero.category,
-  date: "May 2, 2026",
-  image: "/news/2026-05-02/hero-strongroom.jpg",
+  date: "May 5, 2026",
+  image: "/news/2026-05-05/hero-tvk-victory.jpg",
 };
 
 const remaining = sortedNews.filter((n) => n.id !== heroNews.id);
