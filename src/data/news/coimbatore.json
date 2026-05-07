@@ -1,113 +1,51 @@
 [
   {
-    "id": "cbe-001",
-    "category": "Election",
+    "id": "cbe-may8-001",
+    "category": "Politics",
     "featured": true,
-    "image": "/news/2026-05-05/results-dashboard.jpg",
-    "title": "Senthil Balaji wins Coimbatore South by just 1,991 votes; TVK gives tough fight",
-    "summary": "DMK's V. Senthil Balaji scraped through to victory in Coimbatore South by a wafer-thin 1,991 votes after a TVK surge that kept the result on a knife-edge until the 24th counting round.",
-    "date": "May 5, 2026"
+    "image": "/news/2026-05-08/political-rally.jpg",
+    "title": "Coimbatore TVK MLAs say they will back Vijay 'whatever Delhi decides'",
+    "summary": "All TVK MLAs from Coimbatore district held an internal huddle on May 8 and resolved to back party chief Vijay's stand on government formation, irrespective of pressure from national parties.",
+    "date": "May 8, 2026"
   },
   {
-    "id": "cbe-002",
-    "category": "Election",
-    "featured": true,
-    "image": "/news/2026-05-05/hero-tvk-victory.jpg",
-    "title": "TVK sweeps Coimbatore North, Kavundampalayam, Singanallur, Kinathukadavu, Mettuppalayam, Sulur",
-    "summary": "TVK posted a near-clean sweep across the rest of urban and peri-urban Coimbatore, winning North, Kavundampalayam, Singanallur, Kinathukadavu, Mettuppalayam and Sulur on counting day.",
-    "date": "May 5, 2026"
+    "id": "cbe-may8-002",
+    "category": "Politics",
+    "image": "/news/2026-05-08/governor-rajbhavan.jpg",
+    "title": "Coimbatore Bar Association moots PIL on delay in inviting single largest party",
+    "summary": "A section of the Coimbatore Bar Association said it is examining filing a PIL in the Madras High Court over the Governor's delay in inviting the single largest party to form the government.",
+    "date": "May 8, 2026"
   },
   {
-    "id": "cbe-003",
-    "category": "Election",
-    "title": "Kavundampalayam's Kanimozhi Santhosh (TVK) posts highest margin (42,140) in district",
-    "summary": "Kavundampalayam's TVK winner Kanimozhi Santhosh recorded the highest victory margin in the district at 42,140 votes, eclipsing every other Coimbatore constituency.",
-    "date": "May 5, 2026"
+    "id": "cbe-may8-003",
+    "category": "Infrastructure",
+    "image": "/news/2026-05-08/fastag-toll.jpg",
+    "title": "New FASTag rules trigger long queues at Neelambur and Madukkarai toll plazas",
+    "summary": "Tighter NHAI norms on FASTag balance and number-plate matching led to long queues at Neelambur and Madukkarai toll plazas on the Coimbatore bypass through May 8 morning.",
+    "date": "May 8, 2026"
   },
   {
-    "id": "cbe-004",
-    "category": "Election",
+    "id": "cbe-may8-004",
+    "category": "Welfare",
+    "image": "/news/2026-05-08/women-scheme.jpg",
+    "title": "Coimbatore women self-help groups seek clarity on ₹1,000 monthly scheme",
+    "summary": "Federation of women self-help groups in Coimbatore has written to the incoming government seeking a written assurance that the Magalir Urimai Thogai will be retained.",
+    "date": "May 8, 2026"
+  },
+  {
+    "id": "cbe-may8-005",
+    "category": "Business",
+    "image": "/news/2026-05-08/sip-investment.jpg",
+    "title": "CODISSIA flags political uncertainty as MSME orders slip in early May",
+    "summary": "CODISSIA has reported a noticeable slowdown in fresh MSME orders in the first week of May, attributing part of the dip to political uncertainty around government formation.",
+    "date": "May 8, 2026"
+  },
+  {
+    "id": "cbe-may8-006",
+    "category": "Agriculture",
     "image": "/news/2026-05-05/pollachi-coconut.jpg",
-    "title": "Pollachi upset: DMK's K. Nithyanandhan unseats AIADMK veteran",
-    "summary": "Pollachi delivered the day's biggest upset as DMK's K. Nithyanandhan unseated the AIADMK incumbent, breaking what had been a near-decade-long hold on the constituency.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "cbe-005",
-    "category": "Infrastructure",
-    "title": "Coimbatore North winner V. Sampathkumar visits Ukkadam, promises bus port upgrade",
-    "summary": "Coimbatore North's TVK MLA V. Sampathkumar visited Ukkadam on May 5 and committed to a full upgrade of the bus port, pitching it as a regional mobility hub.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "cbe-006",
-    "category": "Business",
-    "title": "Singanallur TVK's K.S. Sri Giri Prasath to take up IT corridor development",
-    "summary": "Singanallur's K.S. Sri Giri Prasath has identified IT corridor expansion along the Avinashi Road belt as the centrepiece of his constituency development agenda.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "cbe-007",
-    "category": "Agriculture",
-    "title": "Mettuppalayam TVK's Sunil Anand meets tea estate workers, assures minimum wage revision",
-    "summary": "Mettuppalayam's Sunil Anand met tea estate workers on May 5 and assured he would push for a fresh minimum wage revision in the next state labour advisory board meeting.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "cbe-008",
-    "category": "Infrastructure",
-    "title": "Sulur TVK's NM. Sukumar promises expansion of Sulur airport",
-    "summary": "Sulur's TVK MLA NM. Sukumar said expansion of the Sulur airport civilian terminal would be his constituency-level priority, with a representation to the Centre planned within a month.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "cbe-009",
-    "category": "Election",
-    "title": "Kinathukadavu TVK's Vignesh K: youth wing played key role in victory",
-    "summary": "Kinathukadavu's first-time MLA Vignesh K credited the party youth wing for the win, saying the door-to-door campaign by young volunteers had decisively shifted the verdict.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "cbe-010",
-    "category": "Election",
-    "title": "AIADMK accepts defeat in 6 seats, says 'will rebuild from grassroots'",
-    "summary": "Coimbatore AIADMK has accepted defeat in six of the ten constituencies and said the focus would now be on grassroots rebuilding ahead of the 2027 local body polls.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "cbe-011",
-    "category": "Infrastructure",
-    "title": "Coimbatore City Corporation to table Rs 4,500 crore budget tomorrow",
-    "summary": "Coimbatore City Corporation will table a Rs 4,500 crore annual budget on May 6, with major outlays for stormwater drainage, road widening and lakebed restoration.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "cbe-012",
-    "category": "Environment",
-    "title": "Isha Foundation welcomes new MLAs, invites them for Cauvery Calling review",
-    "summary": "The Isha Foundation has welcomed the new Coimbatore MLAs and invited them for a structured review of the Cauvery Calling initiative's plantation milestones.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "cbe-013",
-    "category": "Business",
-    "title": "G.D. Naidu Industrial Park expansion hinges on new government support",
-    "summary": "Promoters of the proposed G.D. Naidu Industrial Park said the project's next phase now hinges on land conversion approvals and capital subsidy from the incoming state government.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "cbe-014",
-    "category": "Agriculture",
-    "title": "Pollachi coconut market sees price dip; traders seek immediate intervention",
-    "summary": "Pollachi mandi traders flagged a sharp price dip on May 5 and sought immediate state intervention through a procurement floor and freight subsidy for inter-state movement.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "cbe-015",
-    "category": "Infrastructure",
-    "image": "/news/2026-05-05/coimbatore-metro.jpg",
-    "title": "Coimbatore Metro: Public consultation dates announced for Avinashi Road alignment",
-    "summary": "Coimbatore Metro Rail has announced public consultation dates for the Avinashi Road alignment, with hearings scheduled across all assembly segments along the proposed corridor.",
-    "date": "May 5, 2026"
+    "title": "Pollachi coconut farmers march to collectorate seeking MSP",
+    "summary": "Pollachi-belt coconut farmers marched to the district collectorate on May 8 demanding a minimum support price as wholesale rates continue to slide ahead of the harvest peak.",
+    "date": "May 8, 2026"
   }
 ]

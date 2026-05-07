@@ -1,112 +1,43 @@
 [
   {
-    "id": "nlg-001",
-    "category": "Election",
-    "featured": true,
-    "image": "/news/2026-05-05/nilgiris-rain.jpg",
-    "title": "BJP's M. Bhojarajan wins Ooty by 976 votes — party's first seat in Nilgiris ever",
-    "summary": "BJP's M. Bhojarajan scripted history by winning Ooty by 976 votes — the party's first ever Assembly seat in the Nilgiris — after a tight three-cornered contest that went to the final round.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "nlg-002",
-    "category": "Election",
-    "featured": true,
-    "image": "/news/2026-05-05/results-dashboard.jpg",
-    "title": "DMK retains Coonoor and Gudalur; TVK finishes second in Ooty",
-    "summary": "DMK retained both Coonoor and Gudalur in the Nilgiris, while TVK's debutant pushed BJP all the way in Ooty before finishing a close second on counting day.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "nlg-003",
-    "category": "Agriculture",
-    "title": "Ooty winner Bhojarajan thanks tea estate workers, promises green tea price board",
-    "summary": "Ooty's BJP MLA M. Bhojarajan thanked tea estate workers in his victory speech and committed to working on a state-level green tea price board to support small growers.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "nlg-004",
-    "category": "Agriculture",
-    "title": "Coonoor DMK's M. Raju announces tea leaf bonus for small growers",
-    "summary": "Coonoor's re-elected DMK MLA M. Raju announced that he would push the state for a tea leaf bonus scheme aimed specifically at small and marginal growers in the hills.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "nlg-005",
-    "category": "Social",
-    "title": "Gudalur DMK's Dhravidamani focuses on tribal housing scheme completion",
-    "summary": "Gudalur's DMK winner Dhravidamani said completion of the pending tribal housing scheme units in the Mudumalai forest fringe would be his first administrative priority.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "nlg-006",
+    "id": "ngs-may8-001",
     "category": "Tourism",
-    "title": "Ooty tourist vehicle operators seek meeting with new BJP MLA",
-    "summary": "The Ooty tourist vehicle operators' federation has sought an early meeting with new BJP MLA M. Bhojarajan to discuss permit caps, parking infrastructure and the e-pass system.",
-    "date": "May 5, 2026"
+    "featured": true,
+    "image": "/news/2026-05-08/nilgiris-tea.jpg",
+    "title": "Nilgiris tourism rebounds as monsoon onset stays favourable",
+    "summary": "Hotel occupancy in Ooty and Coonoor crossed 78 percent on May 8 as the early monsoon onset stayed mild, drawing weekend visitors from Bengaluru, Coimbatore and Kerala.",
+    "date": "May 8, 2026"
   },
   {
-    "id": "nlg-007",
+    "id": "ngs-may8-002",
+    "category": "Business",
+    "image": "/news/2026-05-08/nilgiris-tea.jpg",
+    "title": "Nilgiris tea auction sees firm prices for orthodox grades",
+    "summary": "The Coonoor tea auction on May 8 reported firm prices for orthodox grades, with several Nilgiris bio gardens fetching premiums on export demand from West Asia.",
+    "date": "May 8, 2026"
+  },
+  {
+    "id": "ngs-may8-003",
+    "category": "Politics",
+    "image": "/news/2026-05-08/political-rally.jpg",
+    "title": "Nilgiris MLA-elect to push for special hill-area development board",
+    "summary": "The Nilgiris MLA-elect has said she will push the new government to revive the special hill-area development board to address landslides, mobility and tourism infrastructure.",
+    "date": "May 8, 2026"
+  },
+  {
+    "id": "ngs-may8-004",
     "category": "Infrastructure",
-    "title": "Avalanche-Emerald road to be widened, says Ooty BJP leader",
-    "summary": "Ooty's BJP leadership announced that widening of the Avalanche-Emerald road, a critical lifeline for the catchment villages, would be taken up as a priority project.",
-    "date": "May 5, 2026"
+    "image": "/news/2026-05-08/fastag-toll.jpg",
+    "title": "Mettupalayam ghat road toll booth gets new FASTag system",
+    "summary": "A new FASTag-enabled toll system has gone live at the Mettupalayam ghat road approach, aimed at easing weekend traffic toward Coonoor and Ooty.",
+    "date": "May 8, 2026"
   },
   {
-    "id": "nlg-008",
-    "category": "Agriculture",
-    "title": "Coonoor's tea auction centre records 15 percent price increase over last year",
-    "summary": "The Coonoor tea auction centre logged a 15 percent year-on-year price increase in its latest weekly sale, reflecting tight high-grown CTC supply and steady export demand.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "nlg-009",
+    "id": "ngs-may8-005",
     "category": "Tourism",
-    "title": "Pykara lake development project awaits state clearance",
-    "summary": "The Pykara lake tourism development project, including a regulated boating jetty and ecotourism walk, is awaiting fresh state environment clearance, district officials said.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "nlg-010",
-    "category": "Weather",
-    "image": "/news/2026-05-05/nilgiris-rain.jpg",
-    "title": "Nilgiris landslide-prone zones: new MLAs promise early warning system",
-    "summary": "All three newly-elected Nilgiris MLAs have publicly committed to pushing the state to install an integrated early warning system across landslide-prone hill stretches.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "nlg-011",
-    "category": "Infrastructure",
-    "title": "Gudalur-Mysore interstate bus service demand raised in assembly",
-    "summary": "The long-standing demand for a regular Gudalur-Mysore interstate bus service has been formally re-raised, with the Gudalur MLA committing to coordinate with Karnataka counterparts.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "nlg-012",
-    "category": "Election",
-    "title": "BJP's Ooty win triggers celebration across party cadre in Udhagamandalam",
-    "summary": "BJP's first-ever Ooty win triggered large-scale celebrations across the Udhagamandalam town cadre on May 5, with the party announcing a public thanksgiving meeting next weekend.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "nlg-013",
-    "category": "Infrastructure",
-    "title": "DMK's Coonoor MLA inspects damaged ghat roads after heavy rain",
-    "summary": "Coonoor's DMK MLA inspected ghat road sections damaged by the latest heavy rain spell and instructed PWD officials to commence emergency restoration works within 48 hours.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "nlg-014",
-    "category": "Election",
-    "title": "TVK's second place in Ooty — party says 'will focus on hills in 2027 local body polls'",
-    "summary": "TVK's second-place finish in Ooty has given the party a foothold in the hills, and the state leadership has signalled a focused push in the 2027 local body elections.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "nlg-015",
-    "category": "Social",
-    "title": "Nilgiris Adivasi Welfare Association thanks DMK for Gudalur victory",
-    "summary": "The Nilgiris Adivasi Welfare Association issued a public note of thanks to DMK after the party's Gudalur win, citing the candidate's track record on tribal land rights.",
-    "date": "May 5, 2026"
+    "image": "/news/2026-05-08/courtallam-falls.jpg",
+    "title": "Pykara and Catherine Falls reopen with safety advisories",
+    "summary": "Pykara and Catherine Falls in the Nilgiris reopened to tourists on May 8 with new safety advisories, following safety audits and a brief closure earlier in the week.",
+    "date": "May 8, 2026"
   }
 ]
