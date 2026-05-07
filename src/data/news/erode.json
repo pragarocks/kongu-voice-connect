@@ -1,113 +1,43 @@
 [
   {
-    "id": "erd-001",
-    "category": "Election",
+    "id": "ero-may8-001",
+    "category": "Politics",
     "featured": true,
-    "image": "/news/2026-05-05/hero-tvk-victory.jpg",
-    "title": "TVK wins 5 of 8 seats in Erode; party chief Vijay thanks Kongu voters",
-    "summary": "The Tamilaga Vettri Kazhagam swept five of Erode's eight Assembly constituencies on counting day, with party chief Vijay issuing a special note of thanks to Kongu voters for backing the party in its first general election.",
-    "date": "May 5, 2026"
+    "image": "/news/2026-05-08/erode-turmeric.jpg",
+    "title": "Erode farmer associations to meet Vijay; turmeric MSP top of agenda",
+    "summary": "Erode-based farmer associations confirmed they will meet TVK chief Vijay on May 8-9 and will press for a statutory minimum support price for turmeric in any new agriculture budget.",
+    "date": "May 8, 2026"
   },
   {
-    "id": "erd-002",
-    "category": "Election",
-    "featured": true,
-    "image": "/news/2026-05-05/counting-hall.jpg",
-    "title": "K.A. Sengottaiyan wins 10th term from Gobichettipalayam under TVK banner",
-    "summary": "Veteran legislator K.A. Sengottaiyan, contesting on a TVK ticket, was declared elected from Gobichettipalayam for a record 10th term, retaining his stronghold with a comfortable margin.",
-    "date": "May 5, 2026"
+    "id": "ero-may8-002",
+    "category": "Politics",
+    "image": "/news/2026-05-08/political-rally.jpg",
+    "title": "DMK Erode district unit holds emergency MLA meeting amid alliance buzz",
+    "summary": "The DMK Erode district unit held an emergency meeting of its MLAs on May 8 amid swirling speculation around a tactical understanding with AIADMK to keep TVK out of office.",
+    "date": "May 8, 2026"
   },
   {
-    "id": "erd-003",
-    "category": "Election",
-    "image": "/news/2026-05-05/results-dashboard.jpg",
-    "title": "DMK's S. Muthusamy concedes defeat in Erode West: 'Will analyse shortcomings'",
-    "summary": "Sitting minister S. Muthusamy conceded defeat in Erode West and said the party leadership would conduct a detailed review of organisational shortcomings before charting the next course.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "erd-004",
-    "category": "Election",
-    "title": "Bhavanisagar voters celebrate V.P. Tamilselvi's victory with coconut procession",
-    "summary": "Supporters of TVK's V.P. Tamilselvi held a traditional coconut-breaking procession across Bhavanisagar town after she emerged victorious in the constituency, calling it a vote for clean politics.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "erd-005",
-    "category": "Election",
-    "title": "Perundurai AIADMK winner S. Jayakumar promises textile park expansion",
-    "summary": "AIADMK candidate S. Jayakumar, who held Perundurai for the party, announced that his first legislative push would be expansion of the SIPCOT textile park and a fresh effluent treatment line.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "erd-006",
-    "category": "Agriculture",
-    "image": "/news/2026-05-05/erode-turmeric.jpg",
-    "title": "Erode East winner M. Vijay Balaji meets turmeric traders, assures market intervention",
-    "summary": "Newly-elected Erode East MLA M. Vijay Balaji held his first meeting with turmeric traders at the Regulated Market on May 5 and assured he would push for a state-led market intervention scheme.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "erd-007",
-    "category": "Election",
-    "title": "Modakkurichi sees narrowest margin (2,430 votes) in district; TVK's D. Shanmugan wins",
-    "summary": "Modakkurichi recorded the closest finish in Erode district, with TVK's D. Shanmugan defeating his nearest rival by just 2,430 votes after a counting marathon that stretched late into the evening.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "erd-008",
-    "category": "Election",
-    "title": "Anthiyur AIADMK candidate thanks farmers for support against DMK",
-    "summary": "Anthiyur's AIADMK winner credited the result to consolidated farmer support across Bhavani basin villages, calling it a clear rural rejection of the outgoing DMK administration.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "erd-009",
-    "category": "Infrastructure",
-    "title": "Erode Corporation to submit development wishlist to new MLAs",
-    "summary": "Erode City Corporation will submit a consolidated development wishlist covering road widening, underground drainage Phase III and a new bus terminus to all five winning MLAs by the weekend.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "erd-010",
-    "category": "Education",
-    "title": "Bhavani AIADMK's K.C. Karuppannan announces free laptop scheme for college students",
-    "summary": "Re-elected Bhavani MLA K.C. Karuppannan said his constituency development fund would be partly used to launch a free laptop scheme covering all government college students.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "erd-011",
-    "category": "Election",
-    "title": "TVK's Erode district secretary calls for unity meeting of all five winning candidates",
-    "summary": "TVK's Erode district secretary has convened a unity meeting of the five winning party candidates to coordinate development priorities and assembly strategy ahead of the new session.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "erd-012",
-    "category": "Agriculture",
-    "title": "Cauvery water dispute: Erode farmers seek urgent assembly resolution",
-    "summary": "Erode farmer federations have demanded that the new MLAs move an urgent assembly resolution on Cauvery water sharing during the very first sitting of the new house.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "erd-013",
+    "id": "ero-may8-003",
     "category": "Business",
-    "title": "Kongu Exporters' Association invites new MLAs for grievance meet",
-    "summary": "The Kongu Exporters' Association has invited all newly-elected Erode MLAs to a grievance meet covering GST refunds, freight subsidies and industrial power tariffs.",
-    "date": "May 5, 2026"
+    "image": "/news/2026-05-08/erode-turmeric.jpg",
+    "title": "Erode turmeric mandi sees 8% price drop in a week",
+    "summary": "Wholesale turmeric prices at the Erode mandi have slipped about 8 percent in the past week, with traders blaming weak export demand and political uncertainty in the state.",
+    "date": "May 8, 2026"
   },
   {
-    "id": "erd-014",
-    "category": "Agriculture",
-    "title": "Erode Turmeric market sees record arrival post-election, prices steady",
-    "summary": "Arrivals at the Erode Regulated Market crossed a single-day record on May 5 as growers cleared stocks held back during the campaign period; prices held firm despite the surge.",
-    "date": "May 5, 2026"
+    "id": "ero-may8-004",
+    "category": "Infrastructure",
+    "image": "/news/2026-05-08/fastag-toll.jpg",
+    "title": "Chithode toll plaza to enforce new FASTag norms from May 9",
+    "summary": "The Chithode toll plaza on NH-544 will start full enforcement of the revised FASTag norms from midnight on May 9, with double-toll penalties for non-compliant vehicles.",
+    "date": "May 8, 2026"
   },
   {
-    "id": "erd-015",
-    "category": "Election",
-    "title": "BJP's second place in Modakkurichi: party says 'vote share doubled'",
-    "summary": "Although it lost Modakkurichi, the BJP claimed its vote share in the constituency had nearly doubled compared to 2021 and called the result a foundation for the 2027 local body polls.",
-    "date": "May 5, 2026"
+    "id": "ero-may8-005",
+    "category": "Welfare",
+    "image": "/news/2026-05-08/women-scheme.jpg",
+    "title": "Erode women collectives demand ₹1,000 scheme be made statutory",
+    "summary": "Women's collectives in Erode have demanded that the Magalir Urimai Thogai cash transfer be backed by legislation so that any future government cannot easily roll it back.",
+    "date": "May 8, 2026"
   }
 ]

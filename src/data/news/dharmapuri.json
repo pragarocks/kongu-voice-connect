@@ -1,111 +1,43 @@
 [
   {
-    "id": "dpr-001",
-    "category": "Election",
-    "featured": true,
-    "image": "/news/2026-05-05/dharmapuri-mango.jpg",
-    "title": "Sowmiya Anbumani (PMK) wins Dharmapuri by 20,896 votes, defeats TVK",
-    "summary": "PMK's Sowmiya Anbumani won the Dharmapuri Assembly seat by 20,896 votes, holding off a determined TVK challenge in what observers called the year's most-watched contest.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "dpr-002",
-    "category": "Election",
-    "featured": true,
-    "image": "/news/2026-05-05/results-dashboard.jpg",
-    "title": "AIADMK's K.P. Anbalagan retains Palacode for 5th term",
-    "summary": "AIADMK veteran K.P. Anbalagan retained Palacode for a fifth consecutive term, making it one of the most stable constituencies in Dharmapuri district across cycles.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "dpr-003",
-    "category": "Election",
-    "title": "PMK's G.K. Mani wins Pennagaram by 11,340 votes, thanks Vanniyar consolidation",
-    "summary": "PMK strongman G.K. Mani returned to the assembly from Pennagaram with an 11,340-vote margin and credited a sharp Vanniyar community consolidation for the win.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "dpr-004",
-    "category": "Election",
-    "title": "Pappireddippatti PMK's A. Govindasamy defeats TVK by 8,760 votes",
-    "summary": "Pappireddippatti's PMK candidate A. Govindasamy defeated TVK by 8,760 votes after a hard-fought contest, with the party calling the result a Vanniyar belt mandate.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "dpr-005",
-    "category": "Election",
-    "title": "Harur DMK's Sampath Kumar wins SC reserved seat, beats AIADMK by 5,230 votes",
-    "summary": "DMK's Sampath Kumar held the Harur SC reserved constituency by a 5,230-vote margin, the party's lone bright spot in an otherwise difficult district outing.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "dpr-006",
-    "category": "Election",
-    "title": "TVK finishes second in Dharmapuri and Pappireddippatti — 'moral victory' says party",
-    "summary": "TVK finished second in both Dharmapuri and Pappireddippatti and called the performance a 'moral victory' for a debut effort, signalling future contestability in the belt.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "dpr-007",
-    "category": "Infrastructure",
-    "title": "Hogenakkal Phase-II water scheme: PMK seeks early implementation",
-    "summary": "PMK has formally sought early implementation of the Hogenakkal Phase-II water scheme, with both Dharmapuri and Pennagaram MLAs taking up the issue immediately after the result.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "dpr-008",
-    "category": "Infrastructure",
-    "title": "Dharmapuri-Morappur railway line work inspected by new MLA",
-    "summary": "The newly-elected Dharmapuri MLA Sowmiya Anbumani inspected ongoing work on the Dharmapuri-Morappur railway line on May 5 and pushed for an accelerated completion timeline.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "dpr-009",
-    "category": "Infrastructure",
-    "title": "Palacode-Thali road widening project gets AIADMK support",
-    "summary": "Palacode's re-elected AIADMK MLA K.P. Anbalagan has thrown his weight behind the long-pending Palacode-Thali road widening project, calling it a critical inter-district link.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "dpr-010",
+    "id": "dpr-may8-001",
     "category": "Agriculture",
-    "title": "Pennagaram tank desilting work begins after PMK intervention",
-    "summary": "Desilting works at major Pennagaram tanks began this week following PMK's intervention with the Public Works Department to prepare for the upcoming southwest monsoon.",
-    "date": "May 5, 2026"
+    "featured": true,
+    "image": "/news/2026-05-08/dharmapuri-mango.jpg",
+    "title": "Dharmapuri mango harvest peaks; growers want export push from new govt",
+    "summary": "Dharmapuri's mango harvest hit peak volumes in the second week of May. Growers have asked the new state government to fast-track export protocols for Bangalora and Alphonso varieties.",
+    "date": "May 8, 2026"
   },
   {
-    "id": "dpr-011",
-    "category": "Business",
-    "title": "Harur SIPCOT industrial park expansion awaits clearance",
-    "summary": "The proposed Harur SIPCOT industrial park expansion is now awaiting environment and land clearances, with the new MLA committing to chase down approvals on priority.",
-    "date": "May 5, 2026"
+    "id": "dpr-may8-002",
+    "category": "Politics",
+    "image": "/news/2026-05-08/mla-meeting.jpg",
+    "title": "Dharmapuri MLAs join 'Kongu Front' informal grouping in assembly",
+    "summary": "Newly elected MLAs from Dharmapuri have joined the informal 'Kongu Front' grouping inside the assembly to push regional issues such as Cauvery and Bhavani basin water sharing.",
+    "date": "May 8, 2026"
   },
   {
-    "id": "dpr-012",
-    "category": "Education",
-    "title": "Sowmiya Anbumani promises free laptop scheme for government college students",
-    "summary": "Dharmapuri MLA Sowmiya Anbumani announced a free laptop scheme for government college students from the constituency, modelled on past PMK welfare programmes.",
-    "date": "May 5, 2026"
+    "id": "dpr-may8-003",
+    "category": "Infrastructure",
+    "image": "/news/2026-05-08/fastag-toll.jpg",
+    "title": "Dharmapuri-Krishnagiri stretch toll plazas to enforce new FASTag rules",
+    "summary": "Toll plazas on the Dharmapuri-Krishnagiri stretch of NH-44 will move to strict enforcement of the new FASTag balance and number-plate matching rules from May 9.",
+    "date": "May 8, 2026"
   },
   {
-    "id": "dpr-013",
-    "category": "Election",
-    "title": "TVK's Dharmapuri unit says 'will target local body polls in 2027'",
-    "summary": "TVK's Dharmapuri district unit said the party would now target the 2027 local body polls with a focused outreach in Vanniyar-majority villages where it finished a strong second.",
-    "date": "May 5, 2026"
+    "id": "dpr-may8-004",
+    "category": "Welfare",
+    "image": "/news/2026-05-08/women-scheme.jpg",
+    "title": "Dharmapuri women want ₹1,000 scheme expanded to widows under 40",
+    "summary": "Women's groups in Dharmapuri have asked the incoming government to expand the ₹1,000 monthly scheme to cover widows under 40, a category currently underserved.",
+    "date": "May 8, 2026"
   },
   {
-    "id": "dpr-014",
-    "category": "Election",
-    "title": "PMK retains dominance in Vanniyar belt, wins 3 out of 5 seats",
-    "summary": "PMK won three of Dharmapuri's five Assembly seats, retaining its dominant influence across the Vanniyar belt and signalling strength ahead of the 2027 local body elections.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "dpr-015",
-    "category": "Election",
-    "title": "Dharmapuri district records 89.44 percent turnout — highest in Tamil Nadu",
-    "summary": "Dharmapuri recorded a state-leading turnout of 89.44 percent in the 2026 election, the highest in Tamil Nadu, with election officials crediting saturation campaigning and clear weather.",
-    "date": "May 5, 2026"
+    "id": "dpr-may8-005",
+    "category": "Agriculture",
+    "image": "/news/2026-05-08/dharmapuri-mango.jpg",
+    "title": "Krishnagiri-Dharmapuri mango pulping units running at 90% capacity",
+    "summary": "Mango pulping units across Krishnagiri and Dharmapuri are running at about 90 percent capacity this week, with strong demand from juice brands across India.",
+    "date": "May 8, 2026"
   }
 ]

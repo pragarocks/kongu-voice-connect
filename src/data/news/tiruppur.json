@@ -1,112 +1,43 @@
 [
   {
-    "id": "tpr-001",
-    "category": "Election",
+    "id": "tup-may8-001",
+    "category": "Business",
     "featured": true,
-    "image": "/news/2026-05-05/tiruppur-textile.jpg",
-    "title": "TVK captures 4 seats in Tiruppur textile belt; AIADMK wins 3, DMK 1",
-    "summary": "TVK emerged as the largest party in Tiruppur district by winning four of the eight Assembly seats on counting day, with AIADMK retaining three and DMK reduced to a single constituency.",
-    "date": "May 5, 2026"
+    "image": "/news/2026-05-08/tiruppur-knitwear.jpg",
+    "title": "Tiruppur knitwear cluster pushes for stable government, fears order delays",
+    "summary": "Exporters in the Tiruppur knitwear cluster have written to the Governor urging quick formation of a stable government, warning that prolonged uncertainty could push EU buyers to reroute orders.",
+    "date": "May 8, 2026"
   },
   {
-    "id": "tpr-002",
-    "category": "Election",
-    "featured": true,
-    "image": "/news/2026-05-05/counting-hall.jpg",
-    "title": "Tiruppur North winner M. Selvakumar promises GST simplification for knitting units",
-    "summary": "Tiruppur North's TVK winner M. Selvakumar said his first legislative push would be a representation to the Centre on GST simplification for the knitting and dyeing units that anchor the city's economy.",
-    "date": "May 5, 2026"
+    "id": "tup-may8-002",
+    "category": "Politics",
+    "image": "/news/2026-05-08/mla-meeting.jpg",
+    "title": "TVK Tiruppur MLAs camp at party HQ ahead of Governor's call",
+    "summary": "Newly elected TVK MLAs from Tiruppur have shifted to Chennai and are camping at the party headquarters as they await the Governor's invitation on government formation.",
+    "date": "May 8, 2026"
   },
   {
-    "id": "tpr-003",
-    "category": "Environment",
-    "title": "Noyyal river rejuvenation plan announced by TVK's P. Ramesh Raj (Tiruppur South)",
-    "summary": "Tiruppur South's freshly-minted TVK MLA P. Ramesh Raj announced a Noyyal river rejuvenation plan as his flagship constituency project, in coordination with the corporation and PWD.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "tpr-004",
+    "id": "tup-may8-003",
     "category": "Business",
-    "title": "Palladam windmill owners meet TVK candidate S. Gunasekaran over power tariff revision",
-    "summary": "Wind energy producers from Palladam met TVK winner S. Gunasekaran on May 5 and pressed for a fresh open-access power tariff revision to support their long-term contracts.",
-    "date": "May 5, 2026"
+    "image": "/news/2026-05-08/tiruppur-knitwear.jpg",
+    "title": "Tiruppur garment exports to US rebound 11% in April",
+    "summary": "Tiruppur garment exports to the United States rose about 11 percent in April year-on-year, helped by a softer rupee and pre-monsoon shipment push, exporters' bodies confirmed.",
+    "date": "May 8, 2026"
   },
   {
-    "id": "tpr-005",
-    "category": "Agriculture",
-    "title": "AIADMK's P. Dhanapal (Avinashi) thanks voters for backing Athikadavu project",
-    "summary": "AIADMK's Avinashi winner P. Dhanapal thanked voters for backing the party's stand on the Athikadavu-Avinashi water project and said its remaining works would be his top assembly priority.",
-    "date": "May 5, 2026"
+    "id": "tup-may8-004",
+    "category": "Welfare",
+    "image": "/news/2026-05-08/women-scheme.jpg",
+    "title": "Tiruppur garment workers want ₹1,000 scheme linked to wages",
+    "summary": "Garment-worker unions in Tiruppur have demanded that the women's monthly ₹1,000 transfer be retained as a top-up rather than offset against minimum wages.",
+    "date": "May 8, 2026"
   },
   {
-    "id": "tpr-006",
-    "category": "Agriculture",
-    "image": "/news/2026-05-05/pollachi-coconut.jpg",
-    "title": "Dharapuram AIADMK's K. Radhakrishnan meets coconut farmers, promises cold storage units",
-    "summary": "Dharapuram's AIADMK winner K. Radhakrishnan met coconut farmer federations on May 5 and committed to mobilising central subsidy for new cold storage units across the constituency.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "tpr-007",
-    "category": "Agriculture",
-    "title": "Kangayam TVK winner V. Karthikeyan to push for cattle market modernization",
-    "summary": "Kangayam's TVK winner V. Karthikeyan said modernisation of the historic Kangayam cattle market — known for its native breed — would be one of his first formal demands in the new assembly.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "tpr-008",
-    "category": "Agriculture",
-    "title": "Udumalaipettai AIADMK's Udumalai Radhakrishnan focuses on PAP canal water sharing",
-    "summary": "Udumalaipettai's AIADMK winner Udumalai Radhakrishnan said equitable Parambikulam-Aliyar Project canal water sharing for delta-end villages would dominate his constituency representation.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "tpr-009",
+    "id": "tup-may8-005",
     "category": "Infrastructure",
-    "title": "Madathukulam DMK winner R. Mahendran: 'Will complete pending flyover'",
-    "summary": "Madathukulam's lone DMK winner R. Mahendran said completion of the long-delayed Madathukulam bypass flyover would be his top constituency priority in the new term.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "tpr-010",
-    "category": "Business",
-    "title": "Tiruppur dyeing unit owners seek 24x7 power supply from new MLAs",
-    "summary": "The Tiruppur dyers' association has met all eight winning MLAs to press for a guaranteed 24x7 industrial power supply, citing rising export order pressure.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "tpr-011",
-    "category": "Infrastructure",
-    "title": "Avinashi-Athikadavu project: AIADMK promises fresh funding proposal",
-    "summary": "AIADMK's Avinashi MLA said the party would route a fresh funding proposal for the remaining stretches of the Avinashi-Athikadavu project to the new state government.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "tpr-012",
-    "category": "Business",
-    "title": "Tiruppur Exporters' Association to host felicitation for all winning candidates",
-    "summary": "TEA has scheduled a joint felicitation function next week for all eight winning MLAs of the district, irrespective of party, to lay out a common growth charter for the cluster.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "tpr-013",
-    "category": "Election",
-    "title": "78.4 percent turnout in Tiruppur — second highest in Kongu region",
-    "summary": "Final figures put the Tiruppur district turnout at 78.4 percent, the second highest across the eight Kongu districts after Dharmapuri, election officials confirmed on May 5.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "tpr-014",
-    "category": "Election",
-    "title": "DMK concedes defeat in three urban seats, blames internal factionalism",
-    "summary": "DMK's district unit conceded defeat in three urban Tiruppur seats and attributed the slide to internal factionalism, promising a thorough organisational overhaul.",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "tpr-015",
-    "category": "Enforcement",
-    "title": "New Tiruppur city police commissionerate demand gains momentum",
-    "summary": "The long-pending demand for a separate Tiruppur city police commissionerate has gained fresh momentum, with multiple winning MLAs publicly endorsing it on counting day.",
-    "date": "May 5, 2026"
+    "image": "/news/2026-05-08/fastag-toll.jpg",
+    "title": "Avinashi toll plaza ramps up FASTag readers ahead of new rules",
+    "summary": "The Avinashi toll plaza has added two more FASTag readers and revised signage ahead of the rollout of the stricter NHAI matching rules.",
+    "date": "May 8, 2026"
   }
 ]
