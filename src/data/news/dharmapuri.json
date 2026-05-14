@@ -1,43 +1,51 @@
 [
   {
-    "id": "dpr-may8-001",
-    "category": "Agriculture",
+    "id": "dpr-may14-001",
+    "category": "Governance",
     "featured": true,
-    "image": "/news/2026-05-08/dharmapuri-mango.jpg",
-    "title": "Dharmapuri mango harvest peaks; growers want export push from new govt",
-    "summary": "Dharmapuri's mango harvest hit peak volumes in the second week of May. Growers have asked the new state government to fast-track export protocols for Bangalora and Alphonso varieties.",
-    "date": "May 8, 2026"
+    "image": "/news/2026-05-14/dharmapuri-collector.jpg",
+    "title": "Collector R. Sadheesh leads review meeting on illicit arrack and narcotics control",
+    "summary": "District Collector R. Sadheesh chaired a weekly NCORD review on May 14, assessing village-level prohibitive measures and inter-department coordination against illicit arrack and narcotics in Dharmapuri.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "dpr-may8-002",
+    "id": "dpr-may14-002",
+    "category": "Politics",
+    "image": "/news/2026-05-08/political-rally.jpg",
+    "title": "Sowmiya Anbumani of PMK wins Dharmapuri assembly seat",
+    "summary": "PMK's Sowmiya Anbumani has won the Dharmapuri assembly seat in the 2026 election, polling 93,713 votes and defeating her TVK challenger by a margin of 20,896 votes.",
+    "date": "May 14, 2026"
+  },
+  {
+    "id": "dpr-may14-003",
+    "category": "Politics",
+    "image": "/news/2026-05-08/political-rally.jpg",
+    "title": "AIADMK-PMK alliance wins four of five seats in Dharmapuri district",
+    "summary": "It was a bittersweet verdict for the AIADMK-PMK alliance in Dharmapuri district, with the combine winning four of the five assembly seats while losing Pennagaram narrowly to TVK.",
+    "date": "May 14, 2026"
+  },
+  {
+    "id": "dpr-may14-004",
     "category": "Politics",
     "image": "/news/2026-05-08/mla-meeting.jpg",
-    "title": "Dharmapuri MLAs join 'Kongu Front' informal grouping in assembly",
-    "summary": "Newly elected MLAs from Dharmapuri have joined the informal 'Kongu Front' grouping inside the assembly to push regional issues such as Cauvery and Bhavani basin water sharing.",
-    "date": "May 8, 2026"
+    "title": "K.P. Anbalagan retains Palacode for record sixth term",
+    "summary": "Veteran K.P. Anbalagan has retained the Palacode constituency for a record sixth consecutive term, cementing his hold over the Dharmapuri political landscape.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "dpr-may8-003",
-    "category": "Infrastructure",
-    "image": "/news/2026-05-08/fastag-toll.jpg",
-    "title": "Dharmapuri-Krishnagiri stretch toll plazas to enforce new FASTag rules",
-    "summary": "Toll plazas on the Dharmapuri-Krishnagiri stretch of NH-44 will move to strict enforcement of the new FASTag balance and number-plate matching rules from May 9.",
-    "date": "May 8, 2026"
+    "id": "dpr-may14-005",
+    "category": "Politics",
+    "image": "/news/2026-05-08/mla-meeting.jpg",
+    "title": "AIADMK wins Paapireddipatti by 42,216 votes; V. Sampathkumar takes Harur",
+    "summary": "AIADMK swept Paapireddipatti by a 42,216 vote margin, while V. Sampathkumar won the Harur reserved seat by 3,329 votes in Dharmapuri district.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "dpr-may8-004",
-    "category": "Welfare",
-    "image": "/news/2026-05-08/women-scheme.jpg",
-    "title": "Dharmapuri women want ₹1,000 scheme expanded to widows under 40",
-    "summary": "Women's groups in Dharmapuri have asked the incoming government to expand the ₹1,000 monthly scheme to cover widows under 40, a category currently underserved.",
-    "date": "May 8, 2026"
-  },
-  {
-    "id": "dpr-may8-005",
-    "category": "Agriculture",
-    "image": "/news/2026-05-08/dharmapuri-mango.jpg",
-    "title": "Krishnagiri-Dharmapuri mango pulping units running at 90% capacity",
-    "summary": "Mango pulping units across Krishnagiri and Dharmapuri are running at about 90 percent capacity this week, with strong demand from juice brands across India.",
-    "date": "May 8, 2026"
+    "id": "dpr-may14-006",
+    "category": "Education",
+    "image": "/news/2026-05-14/dharmapuri-collector.jpg",
+    "title": "Awareness campaigns on substance abuse to be held in Dharmapuri schools and colleges",
+    "summary": "The district administration has cleared a series of awareness campaigns on substance-abuse hazards to be conducted across all Dharmapuri schools and colleges through May and June.",
+    "date": "May 14, 2026"
   }
 ]

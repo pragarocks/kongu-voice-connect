@@ -1,43 +1,51 @@
 [
   {
-    "id": "ngs-may8-001",
-    "category": "Tourism",
+    "id": "ngs-may14-001",
+    "category": "Wildlife",
     "featured": true,
-    "image": "/news/2026-05-08/nilgiris-tea.jpg",
-    "title": "Nilgiris tourism rebounds as monsoon onset stays favourable",
-    "summary": "Hotel occupancy in Ooty and Coonoor crossed 78 percent on May 8 as the early monsoon onset stayed mild, drawing weekend visitors from Bengaluru, Coimbatore and Kerala.",
-    "date": "May 8, 2026"
+    "image": "/news/2026-05-14/elephant-attack.jpg",
+    "title": "Two killed in elephant attacks in the Nilgiris; ₹50,000 interim aid released",
+    "summary": "A temple priest near an abandoned stone quarry in Mudumalai Tiger Reserve and a youth returning from a temple festival near Kotagiri were killed in separate elephant attacks. The Forest Department has released ₹50,000 as interim compensation to each family.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "ngs-may8-002",
-    "category": "Business",
-    "image": "/news/2026-05-08/nilgiris-tea.jpg",
-    "title": "Nilgiris tea auction sees firm prices for orthodox grades",
-    "summary": "The Coonoor tea auction on May 8 reported firm prices for orthodox grades, with several Nilgiris bio gardens fetching premiums on export demand from West Asia.",
-    "date": "May 8, 2026"
+    "id": "ngs-may14-002",
+    "category": "Weather",
+    "image": "/news/2026-05-14/nilgiris-rain.jpg",
+    "title": "Nilgiris under heavy rainfall warning on May 14, 15 and 17",
+    "summary": "The Nilgiris district has been placed under a heavy rainfall warning on May 14, 15 and 17 as a low-pressure system is set to trigger widespread rainfall across Tamil Nadu's ghat districts.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "ngs-may8-003",
+    "id": "ngs-may14-003",
     "category": "Politics",
     "image": "/news/2026-05-08/political-rally.jpg",
-    "title": "Nilgiris MLA-elect to push for special hill-area development board",
-    "summary": "The Nilgiris MLA-elect has said she will push the new government to revive the special hill-area development board to address landslides, mobility and tourism infrastructure.",
-    "date": "May 8, 2026"
+    "title": "TVK draws a blank in the Nilgiris; DMK wins two, BJP one",
+    "summary": "TVK has drawn a blank in the Nilgiris district in the 2026 assembly elections. DMK has won two seats including Valparai after 30 years, while BJP has bagged one.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "ngs-may8-004",
-    "category": "Infrastructure",
-    "image": "/news/2026-05-08/fastag-toll.jpg",
-    "title": "Mettupalayam ghat road toll booth gets new FASTag system",
-    "summary": "A new FASTag-enabled toll system has gone live at the Mettupalayam ghat road approach, aimed at easing weekend traffic toward Coonoor and Ooty.",
-    "date": "May 8, 2026"
+    "id": "ngs-may14-004",
+    "category": "Health",
+    "image": "/news/2026-05-14/dharmapuri-collector.jpg",
+    "title": "District Collector inaugurates renovated male in-patient ward at Coonoor hospital",
+    "summary": "The District Collector inaugurated the renovated male in-patient ward at Coonoor Government Lawley Hospital, with upgraded oxygen lines, beds and patient amenities.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "ngs-may8-005",
-    "category": "Tourism",
-    "image": "/news/2026-05-08/courtallam-falls.jpg",
-    "title": "Pykara and Catherine Falls reopen with safety advisories",
-    "summary": "Pykara and Catherine Falls in the Nilgiris reopened to tourists on May 8 with new safety advisories, following safety audits and a brief closure earlier in the week.",
-    "date": "May 8, 2026"
+    "id": "ngs-may14-005",
+    "category": "Environment",
+    "image": "/news/2026-05-14/nilgiris-rain.jpg",
+    "title": "Nilgiris forest fire totally contained, says state government",
+    "summary": "The Tamil Nadu government has confirmed that the recent Nilgiris forest fire has been totally contained. Cooling operations are continuing as a precaution.",
+    "date": "May 14, 2026"
+  },
+  {
+    "id": "ngs-may14-006",
+    "category": "Education",
+    "image": "/news/2026-05-14/panchayat-award.jpg",
+    "title": "Government Polytechnic College Ooty admissions open for 2026-27",
+    "summary": "Student admissions are now underway at the Government Polytechnic College, Ooty, for the academic year 2026-2027. The institution has expanded its diploma intake this year.",
+    "date": "May 14, 2026"
   }
 ]

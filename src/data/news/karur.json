@@ -1,43 +1,59 @@
 [
   {
-    "id": "krr-may8-001",
-    "category": "Business",
+    "id": "krr-may14-001",
+    "category": "Politics",
     "featured": true,
-    "image": "/news/2026-05-08/karur-textile.jpg",
-    "title": "Karur home-textile exporters target ₹8,000 crore FY27 amid policy hopes",
-    "summary": "Karur home-textile exporters have set a ₹8,000 crore target for FY27 and want the new state government to fast-track the dedicated textile park and ETP cluster.",
-    "date": "May 8, 2026"
+    "image": "/news/2026-05-14/karur-stampede.jpg",
+    "title": "Justice Aruna Jagadeesan visits Karur stampede site to begin probe",
+    "summary": "Justice Aruna Jagadeesan, heading the one-member commission set up by the Tamil Nadu government, visited the Karur rally stampede site to formally begin her inquiry into the tragedy.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "krr-may8-002",
+    "id": "krr-may14-002",
+    "category": "Politics",
+    "image": "/news/2026-05-14/karur-stampede.jpg",
+    "title": "TVK General Secretary N. Anand booked in connection with Karur stampede",
+    "summary": "TVK General Secretary N. Anand has been booked by Karur police in connection with the stampede at the party's rally. Several party functionaries are also under questioning.",
+    "date": "May 14, 2026"
+  },
+  {
+    "id": "krr-may14-003",
+    "category": "Politics",
+    "image": "/news/2026-05-14/karur-stampede.jpg",
+    "title": "PM and CM Vijay announce ex-gratia for Karur stampede victims",
+    "summary": "The Prime Minister has announced an ex-gratia payment for the families of those killed in the Karur stampede. TVK chief and CM Vijay has separately announced ₹20 lakh each for the bereaved families.",
+    "date": "May 14, 2026"
+  },
+  {
+    "id": "krr-may14-004",
     "category": "Politics",
     "image": "/news/2026-05-08/mla-meeting.jpg",
-    "title": "Karur TVK MLAs back Vijay's stand on government formation",
-    "summary": "TVK MLAs from Karur said in a joint statement on May 8 they fully back chief Vijay's position that the single largest party must be invited to form the government.",
-    "date": "May 8, 2026"
+    "title": "Udhayanidhi and EPS visit Karur Government Hospital, meet injured",
+    "summary": "Deputy CM Udhayanidhi Stalin and LoP Edappadi K. Palaniswami separately visited Karur Government Hospital to meet those injured in the stampede and assured strict preventive measures.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "krr-may8-003",
-    "category": "Welfare",
-    "image": "/news/2026-05-08/women-scheme.jpg",
-    "title": "Karur weavers' wives meet to defend ₹1,000 monthly transfer",
-    "summary": "A meeting of weaver families in Karur passed a resolution asking the new government to retain the women's ₹1,000 monthly cash transfer and expand it to all adult women.",
-    "date": "May 8, 2026"
-  },
-  {
-    "id": "krr-may8-004",
-    "category": "Infrastructure",
-    "image": "/news/2026-05-08/fastag-toll.jpg",
-    "title": "Karur transporters seek grace period on new FASTag rule",
-    "summary": "Karur lorry transporters' federation has sought a 15-day grace period on the new FASTag matching rule, citing risk of long queues at the Pugalur toll plaza.",
-    "date": "May 8, 2026"
-  },
-  {
-    "id": "krr-may8-005",
+    "id": "krr-may14-005",
     "category": "Business",
-    "image": "/news/2026-05-08/karur-textile.jpg",
-    "title": "Karur towel cluster sees 6% rise in EU orders",
-    "summary": "The Karur towel cluster reported a 6 percent rise in EU orders for the May-July window, supported by softer logistics rates and steady cotton prices.",
-    "date": "May 8, 2026"
+    "image": "/news/2026-05-14/karur-handloom.jpg",
+    "title": "Karur handloom exporters briefed on India's free trade agreements",
+    "summary": "The Textile Export Facilitation Centre organised a training session for Karur handloom exporters on maximising export potential through India's 17 free trade agreements, inaugurated by Customs Commissioner Bharat Prakash.",
+    "date": "May 14, 2026"
+  },
+  {
+    "id": "krr-may14-006",
+    "category": "Governance",
+    "image": "/news/2026-05-14/dharmapuri-collector.jpg",
+    "title": "DVAC arrests RTO in Karur in disproportionate assets case",
+    "summary": "DVAC officials have arrested the Karur RTO in a disproportionate assets case after simultaneous searches at multiple locations linked to the officer.",
+    "date": "May 14, 2026"
+  },
+  {
+    "id": "krr-may14-007",
+    "category": "Politics",
+    "image": "/news/2026-05-08/political-rally.jpg",
+    "title": "DMK wins two seats in Karur district; AIADMK takes Karur main",
+    "summary": "DMK has won two assembly seats in Karur district in the 2026 elections, while AIADMK's MR Vijayabhaskar has won the Karur main constituency in a closely watched contest.",
+    "date": "May 14, 2026"
   }
 ]

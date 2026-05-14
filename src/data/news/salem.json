@@ -1,43 +1,59 @@
 [
   {
-    "id": "slm-may8-001",
-    "category": "Politics",
+    "id": "slm-may14-001",
+    "category": "Crime",
     "featured": true,
-    "image": "/news/2026-05-08/mla-meeting.jpg",
-    "title": "EPS holds Salem MLAs huddle: 'Vijay will eventually come to us'",
-    "summary": "Edappadi K. Palaniswami chaired a closed-door meeting of AIADMK MLAs from Salem and surrounding districts on May 8, telling them the party should be ready as TVK is likely to approach AIADMK eventually.",
-    "date": "May 8, 2026"
+    "image": "/news/2026-05-14/salem-escape.jpg",
+    "title": "Two teams formed in Salem to trace escaped life convict Mohammed Hussain",
+    "summary": "Two special teams have been formed to trace life convict Mohammed Hussain who escaped from Salem Government Mohan Kumaramangalam Medical College Hospital while undergoing treatment for a piles-related ailment.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "slm-may8-002",
+    "id": "slm-may14-002",
+    "category": "Crime",
+    "image": "/news/2026-05-14/salem-escape.jpg",
+    "title": "Convict broke window and climbed down drainage pipe to escape Salem hospital",
+    "summary": "Investigators say convict Mohammed Hussain broke a window of the ward and climbed down a drainage pipe to escape from Salem Government Hospital. Two warders on duty have been suspended.",
+    "date": "May 14, 2026"
+  },
+  {
+    "id": "slm-may14-003",
+    "category": "Crime",
+    "image": "/news/2026-05-14/salem-escape.jpg",
+    "title": "Search operations intensified in Salem, Thanjavur and Coimbatore",
+    "summary": "Search operations have been intensified in Salem, Thanjavur and Coimbatore for the escaped life convict, who has more than 40 criminal cases pending against him. His wife is being questioned.",
+    "date": "May 14, 2026"
+  },
+  {
+    "id": "slm-may14-004",
     "category": "Business",
     "image": "/news/2026-05-08/salem-steel.jpg",
-    "title": "Salem Steel Plant order book full through Q2, says SAIL",
-    "summary": "SAIL has confirmed that the Salem Steel Plant's order book is full through the second quarter, driven by sustained demand from auto and stainless segments in southern India.",
-    "date": "May 8, 2026"
+    "title": "Salem Steel Plant divestment: SAIL agrees to give up 1,600 acres to TN",
+    "summary": "SAIL has agreed in principle to give up 1,600 acres of Salem Steel Plant land to the Tamil Nadu government, paving the way for a planned technical textiles park in Salem.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "slm-may8-003",
-    "category": "Politics",
-    "image": "/news/2026-05-08/political-rally.jpg",
-    "title": "Salem becomes hotbed of post-poll political signalling",
-    "summary": "With AIADMK headquartered in Salem and TVK growing strong here, the city has emerged as the key node for back-channel political signalling between the parties this week.",
-    "date": "May 8, 2026"
-  },
-  {
-    "id": "slm-may8-004",
+    "id": "slm-may14-005",
     "category": "Infrastructure",
-    "image": "/news/2026-05-08/fastag-toll.jpg",
-    "title": "Salem-Bengaluru highway toll plazas to switch to ANPR-FASTag matching",
-    "summary": "Toll plazas on the Salem-Bengaluru highway will switch to mandatory ANPR-FASTag matching from May 9 in line with the latest NHAI directive.",
-    "date": "May 8, 2026"
+    "image": "/news/2026-05-14/hero-flyover-closure.jpg",
+    "title": "CMRL submits feasibility report for new MRTS lines in Salem",
+    "summary": "Chennai Metro Rail Limited has submitted the feasibility report for new MRTS lines in Salem. The report covers two corridors and an integrated multi-modal hub at the Salem junction.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "slm-may8-005",
-    "category": "Welfare",
-    "image": "/news/2026-05-08/women-scheme.jpg",
-    "title": "Salem women's groups rally to defend ₹1,000 monthly scheme",
-    "summary": "Women's federations in Salem held district-wide rallies demanding that the Magalir Urimai Thogai be retained, expanded and made portable across districts.",
-    "date": "May 8, 2026"
+    "id": "slm-may14-006",
+    "category": "Infrastructure",
+    "image": "/news/2026-05-14/dharmapuri-collector.jpg",
+    "title": "SUEZ wins 25-year concession to provide water services to over 1 million in Salem",
+    "summary": "SUEZ has won a 25-year concession to operate Salem's city-wide water distribution covering 91 sq km, including replacement of 1,800 km of ageing pipelines and 26 new service reservoirs.",
+    "date": "May 14, 2026"
+  },
+  {
+    "id": "slm-may14-007",
+    "category": "Weather",
+    "image": "/news/2026-05-14/namakkal-rain.jpg",
+    "title": "Heavy rain in Salem; Mettur dam expected to touch FRL",
+    "summary": "Heavy rainfall has disrupted normal life in Salem district, with the administration monitoring the Mettur dam which is expected to touch its Full Reservoir Level if rain continues.",
+    "date": "May 14, 2026"
   }
 ]

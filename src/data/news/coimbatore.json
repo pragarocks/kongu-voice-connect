@@ -1,51 +1,59 @@
 [
   {
-    "id": "cbe-may8-001",
-    "category": "Politics",
-    "featured": true,
-    "image": "/news/2026-05-08/political-rally.jpg",
-    "title": "Coimbatore TVK MLAs say they will back Vijay 'whatever Delhi decides'",
-    "summary": "All TVK MLAs from Coimbatore district held an internal huddle on May 8 and resolved to back party chief Vijay's stand on government formation, irrespective of pressure from national parties.",
-    "date": "May 8, 2026"
-  },
-  {
-    "id": "cbe-may8-002",
-    "category": "Politics",
-    "image": "/news/2026-05-08/governor-rajbhavan.jpg",
-    "title": "Coimbatore Bar Association moots PIL on delay in inviting single largest party",
-    "summary": "A section of the Coimbatore Bar Association said it is examining filing a PIL in the Madras High Court over the Governor's delay in inviting the single largest party to form the government.",
-    "date": "May 8, 2026"
-  },
-  {
-    "id": "cbe-may8-003",
+    "id": "cbe-may14-001",
     "category": "Infrastructure",
-    "image": "/news/2026-05-08/fastag-toll.jpg",
-    "title": "New FASTag rules trigger long queues at Neelambur and Madukkarai toll plazas",
-    "summary": "Tighter NHAI norms on FASTag balance and number-plate matching led to long queues at Neelambur and Madukkarai toll plazas on the Coimbatore bypass through May 8 morning.",
-    "date": "May 8, 2026"
+    "featured": true,
+    "image": "/news/2026-05-14/hero-flyover-closure.jpg",
+    "title": "GD Naidu flyover to remain closed on nights of May 14 to 18 for repair work",
+    "summary": "Coimbatore traffic police have announced full nightly closure of the GD Naidu flyover from May 14 to 18 for emergency repairs and resurfacing. Diversions are routed via Avinashi Road and Trichy Road service lanes.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "cbe-may8-004",
-    "category": "Welfare",
-    "image": "/news/2026-05-08/women-scheme.jpg",
-    "title": "Coimbatore women self-help groups seek clarity on ₹1,000 monthly scheme",
-    "summary": "Federation of women self-help groups in Coimbatore has written to the incoming government seeking a written assurance that the Magalir Urimai Thogai will be retained.",
-    "date": "May 8, 2026"
+    "id": "cbe-may14-002",
+    "category": "Governance",
+    "image": "/news/2026-05-14/panchayat-award.jpg",
+    "title": "Coimbatore secures third place nationally in Panchayat Awards 2025",
+    "summary": "Coimbatore district panchayat has bagged the third national rank in the Panchayat Awards 2025, recognised for governance reforms, citizen services and SDG localisation efforts.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "cbe-may8-005",
-    "category": "Business",
-    "image": "/news/2026-05-08/sip-investment.jpg",
-    "title": "CODISSIA flags political uncertainty as MSME orders slip in early May",
-    "summary": "CODISSIA has reported a noticeable slowdown in fresh MSME orders in the first week of May, attributing part of the dip to political uncertainty around government formation.",
-    "date": "May 8, 2026"
+    "id": "cbe-may14-003",
+    "category": "Policy",
+    "image": "/news/2026-05-14/tasmac-closure.jpg",
+    "title": "60+ TASMAC outlets in Coimbatore district identified for closure",
+    "summary": "Following the state directive on phased prohibition, more than 60 TASMAC liquor outlets across Coimbatore district have been listed for closure, with women's groups welcoming the move.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "cbe-may8-006",
-    "category": "Agriculture",
-    "image": "/news/2026-05-05/pollachi-coconut.jpg",
-    "title": "Pollachi coconut farmers march to collectorate seeking MSP",
-    "summary": "Pollachi-belt coconut farmers marched to the district collectorate on May 8 demanding a minimum support price as wholesale rates continue to slide ahead of the harvest peak.",
-    "date": "May 8, 2026"
+    "id": "cbe-may14-004",
+    "category": "Politics",
+    "image": "/news/2026-05-08/political-rally.jpg",
+    "title": "Coimbatore AIADMK functionary Advocate Vineeth joins TVK",
+    "summary": "Senior AIADMK functionary Advocate Vineeth has formally joined TVK in Coimbatore, in another sign of cadre churn ahead of the new government's first floor test.",
+    "date": "May 14, 2026"
+  },
+  {
+    "id": "cbe-may14-005",
+    "category": "Crime",
+    "image": "/news/2026-05-08/governor-rajbhavan.jpg",
+    "title": "Coimbatore cop arrested after woman accuses him of threats and forced abortion",
+    "summary": "A Coimbatore city police personnel has been arrested after a woman lodged a complaint accusing him of issuing threats and forcing her to undergo an abortion. A departmental probe has been ordered.",
+    "date": "May 14, 2026"
+  },
+  {
+    "id": "cbe-may14-006",
+    "category": "Tourism",
+    "image": "/news/2026-05-14/nilgiris-rain.jpg",
+    "title": "Heavy rain warning: Paralikkadu ecotourism temporarily closed",
+    "summary": "Eco-tourism activities at Paralikkadu and trekking on Velliangiri Hills have been suspended after a heavy rain warning was issued for the Coimbatore-Nilgiris stretch.",
+    "date": "May 14, 2026"
+  },
+  {
+    "id": "cbe-may14-007",
+    "category": "Civic",
+    "image": "/news/2026-05-14/panchayat-award.jpg",
+    "title": "Corporation commissioner orders immediate removal of public space encroachments",
+    "summary": "The Coimbatore Corporation commissioner has directed zonal officers to immediately remove encroachments on pavements and public spaces, with daily compliance reports.",
+    "date": "May 14, 2026"
   }
 ]

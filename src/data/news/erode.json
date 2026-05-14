@@ -1,43 +1,51 @@
 [
   {
-    "id": "ero-may8-001",
-    "category": "Politics",
+    "id": "ero-may14-001",
+    "category": "Education",
     "featured": true,
-    "image": "/news/2026-05-08/erode-turmeric.jpg",
-    "title": "Erode farmer associations to meet Vijay; turmeric MSP top of agenda",
-    "summary": "Erode-based farmer associations confirmed they will meet TVK chief Vijay on May 8-9 and will press for a statutory minimum support price for turmeric in any new agriculture budget.",
-    "date": "May 8, 2026"
+    "image": "/news/2026-05-14/erode-turmeric.jpg",
+    "title": "TN Class 12 results: Erode tops the state with 98.87% pass percentage",
+    "summary": "Erode has topped Tamil Nadu in the Class 12 board results with a pass percentage of 98.87%, while Coimbatore slipped to the 13th position. Officials credited targeted remedial coaching in government schools.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "ero-may8-002",
+    "id": "ero-may14-002",
+    "category": "Business",
+    "image": "/news/2026-05-14/erode-turmeric.jpg",
+    "title": "Turmeric arrivals drop sharply at Erode market; spot prices lose ₹700/quintal",
+    "summary": "Turmeric arrivals fell sharply at the Erode mandi this week and spot prices lost ₹700 per quintal on weak demand. Traders said about 40 percent of fresh stock remains unsold.",
+    "date": "May 14, 2026"
+  },
+  {
+    "id": "ero-may14-003",
+    "category": "Business",
+    "image": "/news/2026-05-14/erode-turmeric.jpg",
+    "title": "GI tag push for Erode turmeric gathers momentum",
+    "summary": "Trade bodies in Erode are pushing for a GI tag for Erode turmeric to protect the brand and unlock premium export markets, with the application now back with the registry.",
+    "date": "May 14, 2026"
+  },
+  {
+    "id": "ero-may14-004",
     "category": "Politics",
     "image": "/news/2026-05-08/political-rally.jpg",
-    "title": "DMK Erode district unit holds emergency MLA meeting amid alliance buzz",
-    "summary": "The DMK Erode district unit held an emergency meeting of its MLAs on May 8 amid swirling speculation around a tactical understanding with AIADMK to keep TVK out of office.",
-    "date": "May 8, 2026"
+    "title": "Erode voters openly frustrated with shifting AIADMK loyalties",
+    "summary": "On the streets of Erode district today, voters openly expressed frustration over shifting loyalties of certain AIADMK MLAs. The Erode District Congress Committee staged a protest against Governor R.N. Arlekar.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "ero-may8-003",
-    "category": "Business",
-    "image": "/news/2026-05-08/erode-turmeric.jpg",
-    "title": "Erode turmeric mandi sees 8% price drop in a week",
-    "summary": "Wholesale turmeric prices at the Erode mandi have slipped about 8 percent in the past week, with traders blaming weak export demand and political uncertainty in the state.",
-    "date": "May 8, 2026"
+    "id": "ero-may14-005",
+    "category": "Governance",
+    "image": "/news/2026-05-14/dharmapuri-collector.jpg",
+    "title": "Collector inspects Bhavani and Kodumudi panchayats",
+    "summary": "The Erode District Collector inspected ongoing works in Bhavani panchayat on May 13 and Kodumudi panchayat on May 12, reviewing drinking water lines, drainage and welfare scheme delivery.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "ero-may8-004",
-    "category": "Infrastructure",
-    "image": "/news/2026-05-08/fastag-toll.jpg",
-    "title": "Chithode toll plaza to enforce new FASTag norms from May 9",
-    "summary": "The Chithode toll plaza on NH-544 will start full enforcement of the revised FASTag norms from midnight on May 9, with double-toll penalties for non-compliant vehicles.",
-    "date": "May 8, 2026"
-  },
-  {
-    "id": "ero-may8-005",
-    "category": "Welfare",
-    "image": "/news/2026-05-08/women-scheme.jpg",
-    "title": "Erode women collectives demand ₹1,000 scheme be made statutory",
-    "summary": "Women's collectives in Erode have demanded that the Magalir Urimai Thogai cash transfer be backed by legislation so that any future government cannot easily roll it back.",
-    "date": "May 8, 2026"
+    "id": "ero-may14-006",
+    "category": "Weather",
+    "image": "/news/2026-05-14/namakkal-rain.jpg",
+    "title": "Heavy rain lashes Erode district; waterlogging in low-lying areas",
+    "summary": "Heavy rain accompanied by gusty winds lashed Erode district overnight, leading to waterlogging in several low-lying neighbourhoods. The district administration has activated rain control rooms.",
+    "date": "May 14, 2026"
   }
 ]
