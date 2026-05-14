@@ -1,43 +1,59 @@
 [
   {
-    "id": "tup-may8-001",
-    "category": "Business",
+    "id": "tup-may14-001",
+    "category": "Accident",
     "featured": true,
-    "image": "/news/2026-05-08/tiruppur-knitwear.jpg",
-    "title": "Tiruppur knitwear cluster pushes for stable government, fears order delays",
-    "summary": "Exporters in the Tiruppur knitwear cluster have written to the Governor urging quick formation of a stable government, warning that prolonged uncertainty could push EU buyers to reroute orders.",
-    "date": "May 8, 2026"
+    "image": "/news/2026-05-14/tiruppur-accident.jpg",
+    "title": "Six killed including police constable as SUV rams parked lorry near Kurukkathi",
+    "summary": "A speeding SUV crashed into a parked lorry near the Kurukkathi check post on the Tiruchi-Coimbatore NH in Tiruppur district, killing six including a police constable who was repositioning a barricade.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "tup-may8-002",
-    "category": "Politics",
-    "image": "/news/2026-05-08/mla-meeting.jpg",
-    "title": "TVK Tiruppur MLAs camp at party HQ ahead of Governor's call",
-    "summary": "Newly elected TVK MLAs from Tiruppur have shifted to Chennai and are camping at the party headquarters as they await the Governor's invitation on government formation.",
-    "date": "May 8, 2026"
+    "id": "tup-may14-002",
+    "category": "Accident",
+    "image": "/news/2026-05-14/tiruppur-accident.jpg",
+    "title": "CM Vijay announces ₹30 lakh for constable's family, ₹3 lakh each for other victims",
+    "summary": "Chief Minister C. Joseph Vijay has announced ₹30 lakh for the family of the police constable and ₹3 lakh each for the other Tiruppur accident victims. DIG P. Saminathan inspected the spot.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "tup-may8-003",
+    "id": "tup-may14-003",
+    "category": "Weather",
+    "image": "/news/2026-05-14/namakkal-rain.jpg",
+    "title": "Heavy rain and hail bring relief to Tiruppur city",
+    "summary": "Heavy rain accompanied by hail, thunder and lightning lashed Tiruppur for over 30 minutes, with central bus stand, Palladam Road, Velliangadu and Rayapuram areas reporting waterlogging.",
+    "date": "May 14, 2026"
+  },
+  {
+    "id": "tup-may14-004",
+    "category": "Governance",
+    "image": "/news/2026-05-14/dharmapuri-collector.jpg",
+    "title": "District Collector chairs water supply review meeting in Tiruppur",
+    "summary": "The Tiruppur District Collector chaired a water supply review meeting on May 14, with officials briefing on the summer drinking water plan, tanker deployment and Bhavani feeder readiness.",
+    "date": "May 14, 2026"
+  },
+  {
+    "id": "tup-may14-005",
+    "category": "Civic",
+    "image": "/news/2026-05-14/dharmapuri-collector.jpg",
+    "title": "Private school buses inspection conducted across Tiruppur district",
+    "summary": "RTO and police teams jointly inspected private school buses across Tiruppur district, checking fitness, speed governors and driver credentials ahead of the new academic session.",
+    "date": "May 14, 2026"
+  },
+  {
+    "id": "tup-may14-006",
+    "category": "Crime",
+    "image": "/news/2026-05-14/salem-escape.jpg",
+    "title": "Tiruppur police open fire at Palladam murder accused trying to escape custody",
+    "summary": "Tiruppur district police opened fire at a Palladam murder case accused who attempted to escape custody during a recovery operation. The accused has been hospitalised under guard.",
+    "date": "May 14, 2026"
+  },
+  {
+    "id": "tup-may14-007",
     "category": "Business",
     "image": "/news/2026-05-08/tiruppur-knitwear.jpg",
-    "title": "Tiruppur garment exports to US rebound 11% in April",
-    "summary": "Tiruppur garment exports to the United States rose about 11 percent in April year-on-year, helped by a softer rupee and pre-monsoon shipment push, exporters' bodies confirmed.",
-    "date": "May 8, 2026"
-  },
-  {
-    "id": "tup-may8-004",
-    "category": "Welfare",
-    "image": "/news/2026-05-08/women-scheme.jpg",
-    "title": "Tiruppur garment workers want ₹1,000 scheme linked to wages",
-    "summary": "Garment-worker unions in Tiruppur have demanded that the women's monthly ₹1,000 transfer be retained as a top-up rather than offset against minimum wages.",
-    "date": "May 8, 2026"
-  },
-  {
-    "id": "tup-may8-005",
-    "category": "Infrastructure",
-    "image": "/news/2026-05-08/fastag-toll.jpg",
-    "title": "Avinashi toll plaza ramps up FASTag readers ahead of new rules",
-    "summary": "The Avinashi toll plaza has added two more FASTag readers and revised signage ahead of the rollout of the stricter NHAI matching rules.",
-    "date": "May 8, 2026"
+    "title": "Tiruppur garment exporters await new government policy on textile sector",
+    "summary": "Tiruppur garment exporters are awaiting the new government's textile sector policy and have urged measures on power tariffs, ETP costs and labour reforms to keep the EU and US order book intact.",
+    "date": "May 14, 2026"
   }
 ]

@@ -1,43 +1,51 @@
 [
   {
-    "id": "nmk-may8-001",
-    "category": "Business",
+    "id": "nmk-may14-001",
+    "category": "Weather",
     "featured": true,
-    "image": "/news/2026-05-08/namakkal-poultry.jpg",
-    "title": "Namakkal poultry industry seeks feed-cost relief from incoming government",
-    "summary": "Namakkal's poultry federation has formally written to all parties asking that the new state government immediately announce a feed-cost relief package to stabilise egg prices.",
-    "date": "May 8, 2026"
+    "image": "/news/2026-05-14/namakkal-rain.jpg",
+    "title": "Namakkal district registers 197.80 mm rainfall after heavy downpour",
+    "summary": "Namakkal district registered a cumulative 197.80 mm rainfall after heavy showers on Thursday evening. Paramathi Velur logged the highest at 57 mm, followed by Mohanur (46 mm) and Kumarapalayam (36 mm).",
+    "date": "May 14, 2026"
   },
   {
-    "id": "nmk-may8-002",
+    "id": "nmk-may14-002",
+    "category": "Politics",
+    "image": "/news/2026-05-08/political-rally.jpg",
+    "title": "Namakkal Result 2026: TVK's C.S. Dileep wins assembly seat",
+    "summary": "TVK's C.S. Dileep has won the Namakkal assembly constituency in 2026 in a tight contest, edging out AIADMK's Sridevi Mohan who had led in early counting.",
+    "date": "May 14, 2026"
+  },
+  {
+    "id": "nmk-may14-003",
+    "category": "Accident",
+    "image": "/news/2026-05-14/tiruppur-accident.jpg",
+    "title": "One killed, two injured in scaffolding collapse in Namakkal",
+    "summary": "One construction worker was killed and two others injured after a scaffolding structure collapsed at a building site in Namakkal town. A safety probe has been ordered.",
+    "date": "May 14, 2026"
+  },
+  {
+    "id": "nmk-may14-004",
     "category": "Politics",
     "image": "/news/2026-05-08/mla-meeting.jpg",
-    "title": "Namakkal TVK MLAs join Chennai camp ahead of Governor's call",
-    "summary": "All four newly elected TVK MLAs from Namakkal have moved to the party's Chennai camp on May 8 as the wait for the Governor's invitation continues.",
-    "date": "May 8, 2026"
+    "title": "DMK alliance wiped out in Salem and Namakkal districts",
+    "summary": "The DMK-led alliance has been wiped out across Salem and Namakkal districts in the 2026 elections, with TVK and AIADMK sweeping nearly every constituency between them.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "nmk-may8-003",
-    "category": "Infrastructure",
-    "image": "/news/2026-05-08/fastag-toll.jpg",
-    "title": "Namakkal lorry owners flag confusion over new FASTag matching rule",
-    "summary": "The Namakkal Lorry Owners' Association has urged NHAI to delay enforcement of the FASTag-number plate matching rule by a fortnight, citing widespread confusion at toll plazas.",
-    "date": "May 8, 2026"
+    "id": "nmk-may14-005",
+    "category": "Governance",
+    "image": "/news/2026-05-14/dharmapuri-collector.jpg",
+    "title": "DEO and Collector inspect second phase of poll-officials training",
+    "summary": "The District Election Officer and Collector inspected the second phase of training for polling station officials covering Namakkal, Sendamangalam and Rasipuram assembly constituencies.",
+    "date": "May 14, 2026"
   },
   {
-    "id": "nmk-may8-004",
-    "category": "Welfare",
-    "image": "/news/2026-05-08/women-scheme.jpg",
-    "title": "Rural Namakkal women back continuation of ₹1,000 scheme",
-    "summary": "A field survey across rural Namakkal panchayats showed strong support for continuing the women's ₹1,000 monthly scheme, regardless of which alliance forms the government.",
-    "date": "May 8, 2026"
-  },
-  {
-    "id": "nmk-may8-005",
-    "category": "Business",
-    "image": "/news/2026-05-08/namakkal-poultry.jpg",
-    "title": "Namakkal egg prices steady as exports to Gulf pick up",
-    "summary": "Namakkal egg prices held steady through the first week of May, supported by improved Gulf export demand and stable feed inventories at major farms.",
-    "date": "May 8, 2026"
+    "id": "nmk-may14-006",
+    "category": "Weather",
+    "image": "/news/2026-05-14/namakkal-rain.jpg",
+    "title": "Tiruchengode and Senthamangalam record sharp rain spells",
+    "summary": "Tiruchengode logged 16.4 mm and Senthamangalam 17.4 mm of rainfall in Namakkal district, while Erumapatti registered 15 mm and Kollihills Semmedu logged 5 mm.",
+    "date": "May 14, 2026"
   }
 ]
