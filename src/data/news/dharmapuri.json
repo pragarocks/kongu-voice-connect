@@ -1,62 +1,45 @@
 [
   {
-    "id": "dha-may23-001",
+    "id": "dha-may4-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Dharmapuri election results 2026: PMK retains Dharmapuri as Sowmiya Anbumani wins by 20,896 votes",
+    "title_ta": "",
+    "summary": "Dharmapuri election results 2026: PMK retains Dharmapuri as Sowmiya Anbumani wins by 20,896 votes The Times of India",
+    "summary_ta": "",
+    "date": "May 4, 2026"
+  },
+  {
+    "id": "dha-apr2-005",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Dharmapuri: Edappadi K. Palaniswami Campaigns Ahead of Assembly Elections #Gallery",
+    "title_ta": "",
+    "summary": "Dharmapuri: Edappadi K. Palaniswami Campaigns Ahead of Assembly Elections #Gallery Social News XYZ",
+    "summary_ta": "",
+    "date": "April 2, 2026"
+  },
+  {
+    "id": "dha-mar11-006",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Palacode: Mango Country, Pennaiyar Valley and the Rural Pulse of Dharmapuri",
+    "title_ta": "",
+    "summary": "Palacode: Mango Country, Pennaiyar Valley and the Rural Pulse of Dharmapuri newstodaynet.com",
+    "summary_ta": "",
+    "date": "March 11, 2026"
+  },
+  {
+    "id": "dha-may23-001",
+    "category": "News",
+    "featured": false,
     "title": "Tamil Nadu weather update: Heavy rainfall likely to occur over Nilgiris, Coimbatore, Erode, Tiruppur",
     "title_ta": "",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxNQVFFbW13Q3pFMWpic0JHRXJSRkFuV2QxclZiXzFNTHgyNU1NSTJwYkFRMmxYTUNEVDBJZl9xMGJmazlvV2hEaXNhTDBNR0VmSnlRREpXUTRxRkFUN1E5ZFJ3aFpNSkNiUUNVRFFQMmZCRlEtQzZtNnNNbC1WWl...",
     "summary_ta": "",
     "date": "May 23, 2026"
-  },
-  {
-    "id": "dha-mar11-002",
-    "category": "News",
-    "featured": false,
-    "title": "Villagers in Dharmapuri district threaten to boycott Tamil Nadu assembly election - The Times of Ind",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWXRpRWJBdHg4VFFfS3RvQ1pYN2psUmNwYkFnZlFUX2tfTGdTZTJGYzdTMkRqYnhFaEZISjNaQzNsSTltUkJXd1picV9QQnlqODNoODJXTHlKaHFJTjNpVVFNSFBEVEdVb0FHdTBiR2tBTkRnVW1EdFpGcDlYVT...",
-    "summary_ta": "",
-    "date": "March 11, 2026"
-  },
-  {
-    "id": "dha-apr23-003",
-    "category": "News",
-    "featured": false,
-    "title": "TN Assembly Elections 2026: Dharmapuri heats up as Sowmiya Anbumani runs - Deccan Herald",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxOcUtHWWlhTG1Gc3l1OGExUXBjWkJsVkFjQnNDYnpfbjlPQThjRnNBZXh1MDQzTjJfN2ptRlE0LTdJOVhBV1BKWktVVjFqMlJRcFpqdDhiWlRqOUdTUFdmRVQxM05iTXBwYWVSYmh5cXgxcW5MLTgxd2lieGlRNm...",
-    "summary_ta": "",
-    "date": "April 23, 2026"
-  },
-  {
-    "id": "dha-mar28-004",
-    "category": "News",
-    "featured": false,
-    "title": "AIADMK to contest in three Dharmapuri seats, five Krishnagiri seats - The New Indian Express",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOER1UVo4djdsczlhUDd2aFZHaUZqQl9aU0JDUFExWDBzaFdHaFFYeFpNZkpBek9rSXpVaGd4OHhpTjZSUXpMVWdNajNwaE1vUzJyYi1lT1lCUWJsZ1U5WXQ5M3lBcVN5QTQ2djIyMWYwb0dVaUpSNGZ0WkJjN2...",
-    "summary_ta": "",
-    "date": "March 28, 2026"
-  },
-  {
-    "id": "dha-apr23-005",
-    "category": "News",
-    "featured": false,
-    "title": "89.46 Per Cent Voter Turnout At Dharmapuri Assembly Constituency Till 7:00PM - News18",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQdlVFcGRDaHFMTldZakZNZnlCNTBaT0Rid0ZuNHBHX0hHR3EyLU12b3FITGp2dGYzZk9iZVFXaVFuQzZXTnVGQWp3bmZWODhMeU5VVk9IMVM2Zm03NU1jUkctSlA5VHl1S1RWUlFYcVRJaV9raFJSeVlvNUxEc3...",
-    "summary_ta": "",
-    "date": "April 23, 2026"
-  },
-  {
-    "id": "dha-nov5-006",
-    "category": "News",
-    "featured": false,
-    "title": "Tamil Nadu approves INR 937 crore for Dharmapuri SIPCOT industrial park - Prop News Time",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWGF0LXRHVEU3V191azJEYVFvTEpKYy1HUWhNWVdWRHQxenNMRThPSHVvMURHbE8xLTRaU0FvMFVnQmpiczh4bE91Rm5iQTYtRHNNRC1JdElBOWt5d2tWalpMdFIzSXBROWR5bGdVZ2wzU2pEZzhacW53LVBzOG...",
-    "summary_ta": "",
-    "date": "November 5, 2025"
   }
 ]

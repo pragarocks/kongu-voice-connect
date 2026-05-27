@@ -1,62 +1,24 @@
 [
   {
-    "id": "kar-may4-001",
-    "category": "News",
-    "featured": true,
-    "title": "Thalapathy blockbuster Vijay in Tamil Nadu: Despite Karur stampede to Jana Nayagan controversy, how ",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxOd0k0aDdRNmJqanZVQ2xrY0dGeHR2ejFoaExMenduQzZuUWdNMGJYa3dSQnUtY1BIenJjTGZ6ZmVGRktHQWtGYkNkREtGbXpiR0V3NzRWVS04Y0VTQTZQaG5Tcmx4WmhLSlBCOTV5Z1JUQzk2c05lMmY5ZjNYVU...",
-    "summary_ta": "",
-    "date": "May 4, 2026"
-  },
-  {
     "id": "kar-dec30-002",
     "category": "News",
-    "featured": false,
-    "title": "CBI Investigation of Karur Stampede Raises Stakes for TVK - Frontline Magazine",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "CBI Investigation of Karur Stampede Raises Stakes for TVK",
     "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdkw4Z3ZLSHZBWHVkSldzVGJqU0RQNk1OV2taS3RPbVpVeDZZM3diWk1fblQ3eXVHckt1dEwwZldrMUlNUW1oVWJGRWM1WEd5aXVLcDBOUlB1bEc3VnVyYmdwY3QzTG54UFZXVERRakwtUzllWE84c3FNZWt2Nz...",
+    "summary": "CBI Investigation of Karur Stampede Raises Stakes for TVK Frontline Magazine",
     "summary_ta": "",
     "date": "December 30, 2025"
   },
   {
-    "id": "kar-sep28-003",
+    "id": "kar-sep28-006",
     "category": "News",
     "featured": false,
-    "title": "Tamil Nadu government forms one-member commission to investigate stampede at a rally in Karur - News",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Vijay rally crush: At least 39 killed at political event in Tamil Nadu",
     "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQWkFmSUlieGNEMjYyR2RDQVlyQ2tFMjM1U1VLVHN1N1NDZXhwN3BCWXBJd2Y1NmJWQkFhWE1leHFOemg3aXJqWG1kMWtrcFpCVzBnYkJ6RnZadXFlaFZmMnh3TmpUNExOWUJ6eGxlalZ4SVJ0ZVZjR0toU3VLRl...",
+    "summary": "Vijay rally crush: At least 39 killed at political event in Tamil Nadu BBC",
     "summary_ta": "",
     "date": "September 28, 2025"
-  },
-  {
-    "id": "kar-mar15-004",
-    "category": "News",
-    "featured": false,
-    "title": "TVK Chief Appears Before CBI For 3rd Round Of Questioning In Karur Stampede - NDTV",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ1NjY3lmdjJFTmEyclJkb2dxTURWM0M0a1dVeFlLUkREU1NTaG1BWVNaZ2YzZFNOdk1RZ2xQMkozWWZDZEI0VlI1ZmpMd0ZpMkpacDRXaWJyZjE5b0NvWUQ2Rmt5YVM2QlRYRmQ3QjNhNm8tak1IQTM3V18zU2...",
-    "summary_ta": "",
-    "date": "March 15, 2026"
-  },
-  {
-    "id": "kar-apr14-005",
-    "category": "News",
-    "featured": false,
-    "title": "Promises, scepticism and unanswered questions: How Karur remembers TVK stampede deaths - The News Mi",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWl9VZm1Nbi0zUFNOT3BhZ2tUS0NKdlRoRmNnYWtnYXp1b1NTRXNOZ1dMeExvQk1IeGZmSGRab2N0U0paWHJ1Vm1HemNnaHllU3o1OXFVeEpwLXdxZFZGUTlTcFFBak9DX3EwM29ud2VobEkzbk9LZmRlT1JpWD...",
-    "summary_ta": "",
-    "date": "April 14, 2026"
-  },
-  {
-    "id": "kar-dec24-006",
-    "category": "News",
-    "featured": false,
-    "title": "'Standing here with deep sorrow': Tamil Nadu CM MK Stalin consoles Karur stampede families; orders i",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxQSFlibk5Vdk9WaEd2UVpUelF4NGVSbVdmUDFtaWFBQ2c2MHZFTWZTdk4tUXUzeURoVVAwTnlHVm9pMDh3dzFTbTZKSDZJeC11UjNlUXVXSG9La19MR2RxYWV2YlBIcWFYTFdjNHZ3bE51WjBpVXlTOWJyY2Nrdj...",
-    "summary_ta": "",
-    "date": "December 24, 2025"
   }
 ]

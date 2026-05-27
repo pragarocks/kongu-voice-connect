@@ -1,62 +1,34 @@
 [
   {
-    "id": "nam-may24-001",
+    "id": "nam-mar16-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "TN govt urged to revive abandoned Namakkal District Heavy Vehicle Construction Industrial Park",
+    "title_ta": "",
+    "summary": "TN govt urged to revive abandoned Namakkal District Heavy Vehicle Construction Industrial Park The Times of India",
+    "summary_ta": "",
+    "date": "March 16, 2026"
+  },
+  {
+    "id": "nam-feb9-006",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Bird Flu Alert: Tamil Nadu's Namakkal Poultry Farms Up Preventive Measures",
+    "title_ta": "",
+    "summary": "Bird Flu Alert: Tamil Nadu's Namakkal Poultry Farms Up Preventive Measures NDTV",
+    "summary_ta": "",
+    "date": "February 9, 2026"
+  },
+  {
+    "id": "nam-may24-001",
+    "category": "News",
+    "featured": false,
     "title": "22 private schools in Namakkal district told to close for operating without approval - The Hindu",
     "title_ta": "",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdVJwcmoyaU1tQWxUd0M3ZEd0d2NEN3RDdERLZF9VOVZMSW1rOVFpTXQ5Rnoxeml5Rm8xUWJyUFhfNjRiLUI2TFpQSW1ER0kxRHh6WWJCaXM5NXVNV1ZtVzdYdFlJZ1gtdGRyOUxkeklMVWFQc1pXSzRSMENuaT...",
     "summary_ta": "",
     "date": "May 24, 2026"
-  },
-  {
-    "id": "nam-may5-002",
-    "category": "News",
-    "featured": false,
-    "title": "From Coimbatore to Namakkal, Vijay’s TVK dominates Tamil Nadu’s western region - The News Minute",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOVklxSGZfN1k1dkFpTW5GMGRjYWVHaEl0RlREQ1pleXhXSkYxNjhQcFFaZFBqcmVQZDBOdERyZzhEYVVtVW1NMzlIVTM4N1NvLW1LRHFmd0kzU3VQa2tISks5cE11SFl4OFcyNldFMjBzWGlES3JVSE5JOHVlQX...",
-    "summary_ta": "",
-    "date": "May 5, 2026"
-  },
-  {
-    "id": "nam-apr23-003",
-    "category": "News",
-    "featured": false,
-    "title": "Tamil Nadu polls: Namakkal registers highest turnout, Nilgiris lowest until 9am | India News - Hindu",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWGNncktZSFhTbjlKNDZabmYyemRNa3NobjhNQzRXVTBlTy1CVGFRVjI4SDd1VmVwRjNlamQ1dGw5UTZZSFpqTkplOWo1NTRLVk1KM0Q0cXQ4S05pQzdJMGtkMzJvRzVhdUtoQS1hTllRUHBPSGdfME9jWkt0VG...",
-    "summary_ta": "",
-    "date": "April 23, 2026"
-  },
-  {
-    "id": "nam-may19-004",
-    "category": "News",
-    "featured": false,
-    "title": "Six held for smuggling ganja through train route in Tamil Nadu’s Namakkal - The News Minute",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNa1VRSVFzeWY3TVo1cWhVZURvWTk2Y1Z1X1JpOGF5NFFuakJXSU1ydmtNanAyS2FRM2Q2dDZwMTFsUk1Gd3c5TFZyVXV0ajk4dXlOWHFjWHVWMkFuMGpiN2V3aUNDOU9JMmt4LTl0MFQ1bUZPbUNUU2FrR3NJT2...",
-    "summary_ta": "",
-    "date": "May 19, 2026"
-  },
-  {
-    "id": "nam-apr23-005",
-    "category": "News",
-    "featured": false,
-    "title": "#VoterTurnout ECI reports 70% turnout by 3pm; Namakkal leads 76.43%, The Nilgiris lowest 63.67%, Che",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nYkVMTFUyemUxNUpiVG42UnlCX1RvVDlkUUVLejNhQlk1SEllWEo3bXJGaEp0SVBTRW5lTEhQc2tBd2VGWXJIZWVha0lRZ1FZTXc?oc=5\" target=\"_blank\">#VoterTurnout ECI reports 70% turnou...",
-    "summary_ta": "",
-    "date": "April 23, 2026"
-  },
-  {
-    "id": "nam-apr19-006",
-    "category": "News",
-    "featured": false,
-    "title": "Fire we ignited in Namakkal turned delimitation into ashes, says Stalin - The New Indian Express",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNYlFhSS1EUTB0SUdFczBVblZFYjN6NDlkUFNyMmNPUHhDcmJsNFJxUk84NWl3OHlIOU0weGNSdUJSd0dZTGZXWWRwR1BYVUZWR0xWUHhmMzl5RVVPSEpoVWFaSUVWams5R1NWajZndGF4a2VtamJ1YzlPaC1uOV...",
-    "summary_ta": "",
-    "date": "April 19, 2026"
   }
 ]

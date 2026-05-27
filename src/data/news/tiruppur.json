@@ -1,8 +1,30 @@
 [
   {
-    "id": "tir-may23-001",
+    "id": "tir-may26-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Just Now | சேலம், திருப்பூரில் டாஸ்மாக் ஊழியர்கள் போராட்டம் | Tiruppur | Tasmac Workers Protest",
+    "title_ta": "",
+    "summary": "Just Now | சேலம், திருப்பூரில் டாஸ்மாக் ஊழியர்கள் போராட்டம் | Tiruppur | Tasmac Workers Protest News18 Tamil",
+    "summary_ta": "",
+    "date": "May 26, 2026"
+  },
+  {
+    "id": "tir-apr15-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Tamil Nadu polls: Vijay’s Tiruppur rally called off after 15 faint in scorching heat",
+    "title_ta": "",
+    "summary": "Tamil Nadu polls: Vijay’s Tiruppur rally called off after 15 faint in scorching heat The Times of India",
+    "summary_ta": "",
+    "date": "April 15, 2026"
+  },
+  {
+    "id": "tir-may23-001",
+    "category": "News",
+    "featured": false,
     "title": "Tiruppur court sentences 25 Bangladeshi labourers to two years for illegal stay - News On AIR",
     "title_ta": "",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV1NSWDYwTlhZLTVCRUlBUFh1WU5GZ2YyZm81amdwRFg4NVlwUkVGR1BCRWtkTG5jelE4UmoybXpQaV8wbFFleUxJRzEtUFdRRGEtb2RTTzUybVNEeE1QOTRiMWROWk1CUF9tUXAxYVdPdGpVbEVnTnlXSmh0Yk...",
@@ -28,35 +50,5 @@
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOcEprNWhreXRMUlVINVdkeFdjYmhRbmtyNWJDdDNnV2xXbS1XN2g0ZUZnU2pvV2dzUEtMWDBGdXgxc1A1WHVvMkZlalF1THo1TzNxTVFIVGlFTXFYTW5fRHlKV3RYX1RCbndPRVdzOEFoNlpkemNrc05DVEFLNE...",
     "summary_ta": "",
     "date": "May 26, 2026"
-  },
-  {
-    "id": "tir-apr19-004",
-    "category": "News",
-    "featured": false,
-    "title": "The candidate Tamil Nadu’s angry textile hub of Tiruppur wants to defeat: Donald Trump - The Indian ",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNWt4d3ZPMk5VY0lWX2lHMjVWbVZRSF9rbktqMWpYSHNteFphM3AwZkJLWUlQQWxld3lCOUNxYWFveUY3dUlVZ2NHTllhZnhHZGxQVTZzeWxkS3poS0t1a3hFUzNCWTlqanhDVThIZUVrT0lfSWdSVFFmdXlpeU...",
-    "summary_ta": "",
-    "date": "April 19, 2026"
-  },
-  {
-    "id": "tir-apr23-005",
-    "category": "News",
-    "featured": false,
-    "title": "Tamil Nadu: Boer Community Welfare Association in Tiruppur announce election boycott - ANI News",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaVkzd2dFSTdXSWgyNzlsbFFBeUtnR0tIWHN4M2Z4QTN4OUgydG0xOXkwNnRIdi1DMTYxZFl6RVVFdXVwSGpZN29lTU0zT1l5WS1kU0d5VXVQRHBCRzk4RnRXV0M5dS0wM19NTGF3Z0RVQjEwMVVUNWhqNlhsWG...",
-    "summary_ta": "",
-    "date": "April 23, 2026"
-  },
-  {
-    "id": "tir-apr22-006",
-    "category": "News",
-    "featured": false,
-    "title": "Tamil Nadu 2026 assembly polls: Tiruppur's entrepreneurs disenchanted with DMK - The Economic Times",
-    "title_ta": "",
-    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxQWlZCdzhZenN0b1NBemhpZnpZTktGZ2dMZGRXZUoycmFMalBIc2FQT0dRa3lNUnB3OTYyTzlZRF9pYkFONVRNOWVyWUs5X24xSEZ3N01hMGdJZmFHaTZ5cG11RlFpSGIwTE1TcERXWEpxeXdfSDdXVnVfQ0x5QU...",
-    "summary_ta": "",
-    "date": "April 22, 2026"
   }
 ]
