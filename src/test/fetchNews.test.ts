@@ -3,10 +3,7 @@ import { createRequire } from 'module';
 
 const require = createRequire(import.meta.url);
 const {
-  parseRSSXML,
-  extractTag,
-  stripHTML,
-  decodeHTMLEntities,
+  extractRSSImage,
   cleanTitle,
   fetchArticleImage,
   detectProvider,
@@ -25,103 +22,65 @@ const {
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 
-function makeSampleRSS(items: Array<{ title: string; description?: string; link?: string; pubDate?: string }>) {
-  const itemsXml = items
-    .map(
-      i => `<item>
-      <title><![CDATA[${i.title}]]></title>
-      <description><![CDATA[${i.description ?? ''}]]></description>
-      <link>${i.link ?? 'https://example.com'}</link>
-      <pubDate>${i.pubDate ?? 'Wed, 14 May 2026 10:00:00 +0000'}</pubDate>
-    </item>`
-    )
-    .join('\n');
-  return `<?xml version="1.0"?><rss version="2.0"><channel>${itemsXml}</channel></rss>`;
-}
-
 function daysAgo(n: number): string {
   const d = new Date();
   d.setDate(d.getDate() - n);
   return d.toISOString();
 }
 
-// ─── parseRSSXML ─────────────────────────────────────────────────────────────
+// ─── extractRSSImage ──────────────────────────────────────────────────────────
 
-describe('parseRSSXML', () => {
-  it('returns one item per <item> block', () => {
-    const xml = makeSampleRSS([
-      { title: 'First Story', description: 'Details here.' },
-      { title: 'Second Story', description: 'More details.' },
-    ]);
-    const items = parseRSSXML(xml);
-    expect(items).toHaveLength(2);
+describe('extractRSSImage', () => {
+  it('returns null for an empty item', () => {
+    expect(extractRSSImage({})).toBeNull();
   });
 
-  it('populates all fields correctly', () => {
-    const xml = makeSampleRSS([
-      { title: 'Test Headline', description: 'Summary text.', link: 'https://news.google.com/a', pubDate: 'Fri, 01 Jan 2026 08:00:00 +0000' },
-    ]);
-    const [item] = parseRSSXML(xml);
-    expect(item.title).toBe('Test Headline');
-    expect(item.description).toBe('Summary text.');
-    expect(item.link).toBe('https://news.google.com/a');
-    expect(item.pubDate).toBe('Fri, 01 Jan 2026 08:00:00 +0000');
+  it('returns mediaContent.$.url when present', () => {
+    const item = { mediaContent: { $: { url: 'https://cdn.example.com/media.jpg' } } };
+    expect(extractRSSImage(item)).toBe('https://cdn.example.com/media.jpg');
   });
 
-  it('handles CDATA sections', () => {
-    const xml = `<rss><channel><item>
-      <title><![CDATA[Rain & Thunder: Erode alert]]></title>
-      <description><![CDATA[Heavy <b>rainfall</b> expected.]]></description>
-    </item></channel></rss>`;
-    const [item] = parseRSSXML(xml);
-    expect(item.title).toBe('Rain & Thunder: Erode alert');
-    expect(item.description).toBe('Heavy rainfall expected.');
+  it('returns mediaThumbnail.$.url when mediaContent is absent', () => {
+    const item = { mediaThumbnail: { $: { url: 'https://cdn.example.com/thumb.jpg' } } };
+    expect(extractRSSImage(item)).toBe('https://cdn.example.com/thumb.jpg');
   });
 
-  it('strips HTML tags from description', () => {
-    const xml = makeSampleRSS([{ title: 'Story', description: '<p>Para <b>bold</b></p>' }]);
-    const [item] = parseRSSXML(xml);
-    expect(item.description).not.toContain('<p>');
-    expect(item.description).toContain('Para');
-    expect(item.description).toContain('bold');
+  it('prefers mediaContent over mediaThumbnail', () => {
+    const item = {
+      mediaContent:   { $: { url: 'https://cdn.example.com/media.jpg' } },
+      mediaThumbnail: { $: { url: 'https://cdn.example.com/thumb.jpg' } },
+    };
+    expect(extractRSSImage(item)).toBe('https://cdn.example.com/media.jpg');
   });
 
-  it('returns empty array for feed with no items', () => {
-    const xml = `<rss><channel><title>Empty feed</title></channel></rss>`;
-    expect(parseRSSXML(xml)).toEqual([]);
+  it('returns enclosure.url when no media fields are present', () => {
+    const item = { enclosure: { url: 'https://cdn.example.com/enclosure.jpg' } };
+    expect(extractRSSImage(item)).toBe('https://cdn.example.com/enclosure.jpg');
   });
 
-  it('skips items with empty titles', () => {
-    const xml = `<rss><channel>
-      <item><title></title><description>No title</description></item>
-      <item><title>Valid</title><description>ok</description></item>
-    </channel></rss>`;
-    const items = parseRSSXML(xml);
-    expect(items).toHaveLength(1);
-    expect(items[0].title).toBe('Valid');
+  it('extracts img src from content HTML', () => {
+    const item = { content: '<p>Text</p><img src="https://example.com/img.jpg" alt="photo"/>' };
+    expect(extractRSSImage(item)).toBe('https://example.com/img.jpg');
   });
 
-  it('handles malformed XML gracefully (returns whatever it can parse)', () => {
-    expect(() => parseRSSXML('not xml at all')).not.toThrow();
-    expect(parseRSSXML('not xml at all')).toEqual([]);
+  it('extracts img src from description HTML when content is absent', () => {
+    const item = { description: '<img src="https://example.com/desc.jpg"/>' };
+    expect(extractRSSImage(item)).toBe('https://example.com/desc.jpg');
   });
 
-  // This is the exact bug that was live on the site:
-  // Google News RSS encodes its description as HTML entities.
-  // If we strip before decoding, &lt;a href=...&gt; survives as <a href=...>.
-  it('strips HTML when description uses entity-encoded HTML (real Google News format)', () => {
-    const xml = `<rss><channel><item>
-      <title>Heavy rain hits Erode - The Hindu</title>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/abc&quot;&gt;Heavy rain hits Erode&lt;/a&gt;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Hindu&lt;/font&gt;</description>
-      <pubDate>Wed, 27 May 2026 10:00:00 +0000</pubDate>
-    </item></channel></rss>`;
-    const [item] = parseRSSXML(xml);
-    // Must NOT contain any raw HTML tags in the output
-    expect(item.description).not.toMatch(/<[^>]+>/);
-    expect(item.description).not.toContain('&lt;');
-    expect(item.description).not.toContain('href=');
-    // Should contain the actual text content
-    expect(item.description).toContain('Heavy rain hits Erode');
+  it('rejects relative image URLs found in HTML', () => {
+    const item = { content: '<img src="/relative/path.jpg"/>' };
+    expect(extractRSSImage(item)).toBeNull();
+  });
+
+  it('rejects non-http URLs found in HTML', () => {
+    const item = { content: '<img src="data:image/png;base64,abc"/>' };
+    expect(extractRSSImage(item)).toBeNull();
+  });
+
+  it('returns null when item has only text content with no images', () => {
+    const item = { contentSnippet: 'Just plain text, no image here.' };
+    expect(extractRSSImage(item)).toBeNull();
   });
 });
 
@@ -183,49 +142,6 @@ describe('CATEGORY_IMAGES', () => {
       expect(url, `Bad URL for ${cat}`).toMatch(/^https:\/\/images\.unsplash\.com\//);
     }
   });
-});
-
-// ─── extractTag ──────────────────────────────────────────────────────────────
-
-describe('extractTag', () => {
-  it('extracts plain tag content', () => {
-    expect(extractTag('<title>Hello</title>', 'title')).toBe('Hello');
-  });
-
-  it('extracts CDATA content', () => {
-    expect(extractTag('<title><![CDATA[Hello & World]]></title>', 'title')).toBe('Hello & World');
-  });
-
-  it('returns empty string when tag is absent', () => {
-    expect(extractTag('<description>text</description>', 'title')).toBe('');
-  });
-});
-
-// ─── stripHTML ───────────────────────────────────────────────────────────────
-
-describe('stripHTML', () => {
-  it('removes HTML tags', () => {
-    expect(stripHTML('<b>bold</b> and <i>italic</i>')).toBe('bold and italic');
-  });
-
-  it('collapses whitespace', () => {
-    expect(stripHTML('  multiple   spaces  ')).toBe('multiple spaces');
-  });
-
-  it('leaves plain text untouched', () => {
-    expect(stripHTML('plain text')).toBe('plain text');
-  });
-});
-
-// ─── decodeHTMLEntities ───────────────────────────────────────────────────────
-
-describe('decodeHTMLEntities', () => {
-  it('decodes &amp;', () => expect(decodeHTMLEntities('a &amp; b')).toBe('a & b'));
-  it('decodes &lt; and &gt;', () => expect(decodeHTMLEntities('&lt;tag&gt;')).toBe('<tag>'));
-  it('decodes &quot;', () => expect(decodeHTMLEntities('say &quot;hi&quot;')).toBe('say "hi"'));
-  it('decodes &#39; (apos)', () => expect(decodeHTMLEntities('it&#39;s')).toBe("it's"));
-  it('decodes numeric entities', () => expect(decodeHTMLEntities('&#65;')).toBe('A'));
-  it('leaves plain strings unchanged', () => expect(decodeHTMLEntities('hello world')).toBe('hello world'));
 });
 
 // ─── detectProvider ───────────────────────────────────────────────────────────
@@ -394,6 +310,14 @@ describe('normalizeTitle', () => {
   it('handles empty string', () => {
     expect(normalizeTitle('')).toBe('');
   });
+
+  it('handles null/undefined gracefully', () => {
+    expect(normalizeTitle(null as unknown as string)).toBe('');
+  });
+
+  it('treats numbers and letters as alphanumeric', () => {
+    expect(normalizeTitle('News 2026')).toBe('news2026');
+  });
 });
 
 // ─── mergeArticles ───────────────────────────────────────────────────────────
@@ -456,37 +380,32 @@ describe('mergeArticles', () => {
 // ─── buildFallbackArticle ─────────────────────────────────────────────────────
 
 describe('buildFallbackArticle', () => {
-  it('truncates long descriptions at 220 chars', () => {
-    const item = { title: 'Title', description: 'x'.repeat(300) };
+  it('uses item.title as both title and summary', () => {
+    const item = { title: 'Flood hits Erode' };
     const result = buildFallbackArticle(item);
-    expect(result.summary.length).toBeLessThanOrEqual(223); // 220 + '...'
-    expect(result.summary.endsWith('...')).toBe(true);
-  });
-
-  it('keeps short descriptions unchanged (no ellipsis)', () => {
-    const item = { title: 'Title', description: 'Short.' };
-    expect(buildFallbackArticle(item).summary).toBe('Short.');
-  });
-
-  it('uses cleaned title as summary when description is empty', () => {
-    const item = { title: 'Some headline - The Hindu', description: '' };
-    // cleanTitle strips "- The Hindu", so summary should be the cleaned title
-    expect(buildFallbackArticle(item).summary).toBe('Some headline');
-  });
-
-  it('truncates title to 100 chars', () => {
-    const item = { title: 'T'.repeat(200), description: '' };
-    expect(buildFallbackArticle(item).title).toHaveLength(100);
+    expect(result.title).toBe('Flood hits Erode');
+    expect(result.summary).toBe('Flood hits Erode');
   });
 
   it('always sets category to "News"', () => {
-    expect(buildFallbackArticle({ title: 'T', description: 'D' }).category).toBe('News');
+    expect(buildFallbackArticle({ title: 'T' }).category).toBe('News');
   });
 
   it('always sets title_ta and summary_ta to empty strings', () => {
-    const result = buildFallbackArticle({ title: 'T', description: 'D' });
+    const result = buildFallbackArticle({ title: 'T' });
     expect(result.title_ta).toBe('');
     expect(result.summary_ta).toBe('');
+  });
+
+  it('does not truncate the title', () => {
+    const item = { title: 'Short title' };
+    expect(buildFallbackArticle(item).title).toBe('Short title');
+  });
+
+  it('summary equals title even for longer titles', () => {
+    const item = { title: 'A somewhat longer article title that has more words' };
+    const result = buildFallbackArticle(item);
+    expect(result.summary).toBe(item.title);
   });
 });
 
@@ -585,6 +504,7 @@ describe('fetchArticleImage', () => {
   it('extracts og:image (property before content)', async () => {
     vi.stubGlobal('fetch', vi.fn().mockResolvedValue({
       ok: true,
+      url: 'https://example.com/article',
       text: async () => makeHtmlPage('<meta property="og:image" content="https://example.com/photo.jpg" />'),
     }));
     expect(await fetchArticleImage('https://example.com/article')).toBe('https://example.com/photo.jpg');
@@ -593,6 +513,7 @@ describe('fetchArticleImage', () => {
   it('extracts og:image (content before property)', async () => {
     vi.stubGlobal('fetch', vi.fn().mockResolvedValue({
       ok: true,
+      url: 'https://example.com/article',
       text: async () => makeHtmlPage('<meta content="https://example.com/photo2.jpg" property="og:image" />'),
     }));
     expect(await fetchArticleImage('https://example.com/article')).toBe('https://example.com/photo2.jpg');
@@ -601,6 +522,7 @@ describe('fetchArticleImage', () => {
   it('falls back to twitter:image when og:image is absent', async () => {
     vi.stubGlobal('fetch', vi.fn().mockResolvedValue({
       ok: true,
+      url: 'https://example.com/article',
       text: async () => makeHtmlPage('<meta name="twitter:image" content="https://example.com/twitter.jpg" />'),
     }));
     expect(await fetchArticleImage('https://example.com/article')).toBe('https://example.com/twitter.jpg');
@@ -609,13 +531,14 @@ describe('fetchArticleImage', () => {
   it('returns null when neither og:image nor twitter:image is present', async () => {
     vi.stubGlobal('fetch', vi.fn().mockResolvedValue({
       ok: true,
+      url: 'https://example.com/article',
       text: async () => makeHtmlPage('<title>No image here</title>'),
     }));
     expect(await fetchArticleImage('https://example.com/article')).toBeNull();
   });
 
   it('returns null on HTTP error response', async () => {
-    vi.stubGlobal('fetch', vi.fn().mockResolvedValue({ ok: false, status: 404, text: async () => '' }));
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValue({ ok: false, status: 404, url: 'https://example.com/article', text: async () => '' }));
     expect(await fetchArticleImage('https://example.com/article')).toBeNull();
   });
 
@@ -641,19 +564,39 @@ describe('fetchArticleImage', () => {
   it('ignores relative image URLs (must start with http)', async () => {
     vi.stubGlobal('fetch', vi.fn().mockResolvedValue({
       ok: true,
+      url: 'https://example.com/article',
       text: async () => makeHtmlPage('<meta property="og:image" content="/relative/path.jpg" />'),
     }));
     expect(await fetchArticleImage('https://example.com/article')).toBeNull();
   });
 
-  it('only parses the first 10 KB of the response', async () => {
-    // og:image hidden beyond the 10KB window should NOT be found
-    const padding = 'x'.repeat(10240);
+  it('only parses the first 15 KB of the response', async () => {
+    // og:image hidden beyond the 15KB window should NOT be found
+    const padding = 'x'.repeat(15360);
     vi.stubGlobal('fetch', vi.fn().mockResolvedValue({
       ok: true,
+      url: 'https://example.com/article',
       text: async () => padding + '<meta property="og:image" content="https://hidden.com/img.jpg" />',
     }));
     expect(await fetchArticleImage('https://example.com/article')).toBeNull();
+  });
+
+  it('returns null when redirect stays on google.com', async () => {
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValue({
+      ok: true,
+      url: 'https://news.google.com/some-page',
+      text: async () => makeHtmlPage('<meta property="og:image" content="https://img.jpg"/>'),
+    }));
+    expect(await fetchArticleImage('https://news.google.com/some-page')).toBeNull();
+  });
+
+  it('returns image when redirect goes to real article', async () => {
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValue({
+      ok: true,
+      url: 'https://thehindu.com/article',
+      text: async () => makeHtmlPage('<meta property="og:image" content="https://thehindu.com/img.jpg"/>'),
+    }));
+    expect(await fetchArticleImage('https://thehindu.com/article')).toBe('https://thehindu.com/img.jpg');
   });
 });
 
