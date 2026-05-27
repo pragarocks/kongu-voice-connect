@@ -2,20 +2,21 @@
 
 const fs = require('fs');
 const path = require('path');
+const Parser = require('rss-parser');
 
-// ─── Configuration ────────────────────────────────────────────────────────────
+// ─── Configuration ─────────────────────────────────────────────────────────
 
 const NEWS_DIR = path.join(__dirname, '..', 'src', 'data', 'news');
 
 const DISTRICTS = [
-  { slug: 'erode',      query: 'Erode Tamil Nadu news',           name: 'Erode' },
-  { slug: 'coimbatore', query: 'Coimbatore Tamil Nadu news',      name: 'Coimbatore' },
-  { slug: 'tiruppur',   query: 'Tiruppur Tamil Nadu news',        name: 'Tiruppur' },
-  { slug: 'salem',      query: 'Salem Tamil Nadu news',           name: 'Salem' },
-  { slug: 'namakkal',   query: 'Namakkal Tamil Nadu news',        name: 'Namakkal' },
-  { slug: 'nilgiris',   query: 'Nilgiris Ooty Tamil Nadu news',   name: 'Nilgiris' },
-  { slug: 'karur',      query: 'Karur Tamil Nadu news',           name: 'Karur' },
-  { slug: 'dharmapuri', query: 'Dharmapuri Tamil Nadu news',      name: 'Dharmapuri' },
+  { slug: 'erode',      query: 'Erode district Tamil Nadu',           name: 'Erode' },
+  { slug: 'coimbatore', query: 'Coimbatore Tamil Nadu news',          name: 'Coimbatore' },
+  { slug: 'tiruppur',   query: 'Tiruppur Tamil Nadu news',            name: 'Tiruppur' },
+  { slug: 'salem',      query: 'Salem district Tamil Nadu',           name: 'Salem' },
+  { slug: 'namakkal',   query: 'Namakkal Tamil Nadu news',            name: 'Namakkal' },
+  { slug: 'nilgiris',   query: 'Nilgiris Ooty Tamil Nadu',            name: 'Nilgiris' },
+  { slug: 'karur',      query: 'Karur Tamil Nadu news',               name: 'Karur' },
+  { slug: 'dharmapuri', query: 'Dharmapuri Tamil Nadu news',          name: 'Dharmapuri' },
 ];
 
 const KONGU_QUERY = 'Kongu region Tamil Nadu news';
@@ -24,7 +25,6 @@ const MAX_TRENDING = 8;
 const KEEP_DAYS = 7;
 const AI_CALL_DELAY_MS = 1200;
 
-// One reliable Unsplash photo per category — used when AI doesn't supply an image
 const CATEGORY_IMAGES = {
   Weather:        'https://images.unsplash.com/photo-1504608524841-42584120d693?w=800&q=80',
   Politics:       'https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800&q=80',
@@ -43,37 +43,41 @@ const CATEGORY_IMAGES = {
   News:           'https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80',
 };
 
-// ─── RSS Parsing ──────────────────────────────────────────────────────────────
+// ─── RSS Parsing ────────────────────────────────────────────────────────────
 
-function extractTag(xml, tag) {
-  // CDATA first
-  const cdataRe = new RegExp(`<${tag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\\/${tag}>`, 'i');
-  const cdataMatch = xml.match(cdataRe);
-  if (cdataMatch) return cdataMatch[1];
-
-  const re = new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, 'i');
-  const match = xml.match(re);
-  return match ? match[1] : '';
+function buildParser() {
+  return new Parser({
+    timeout: 15000,
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+      'Accept': 'application/rss+xml, application/xml, text/xml, */*',
+      'Accept-Language': 'en-IN,en;q=0.9',
+    },
+    customFields: {
+      item: [
+        ['media:content',   'mediaContent',   { keepArray: false }],
+        ['media:thumbnail', 'mediaThumbnail', { keepArray: false }],
+        ['enclosure',       'enclosure'],
+      ],
+    },
+  });
 }
 
-function stripHTML(str) {
-  return str.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+// Extracts the best available image from an RSS item WITHOUT making HTTP requests.
+// Returns null when no inline image is found (Google News RSS has none).
+function extractRSSImage(item) {
+  if (item.mediaContent?.$.url)   return item.mediaContent.$.url;
+  if (item.mediaThumbnail?.$.url) return item.mediaThumbnail.$.url;
+  if (item.enclosure?.url)        return item.enclosure.url;
+  // Scan description / content HTML for any <img src="...">
+  const html = item.content || item.contentSnippet || item.description || '';
+  const m = html.match(/<img[^>]+src=["']([^"']+)["']/i);
+  if (m?.[1]?.startsWith('http')) return m[1];
+  return null;
 }
 
-function decodeHTMLEntities(str) {
-  return str
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&apos;/g, "'")
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&#(\d+);/g, (_, code) => String.fromCharCode(parseInt(code, 10)));
-}
-
-// Google News RSS appends "- Source Name" to every article title.
-// Strip it when the last segment after " - " is ≤ 5 words (i.e. looks like a publication name).
+// Strips " - Source Name" suffix that Google News appends to every RSS title.
+// Only strips when the last segment (after " - ") is ≤ 5 words.
 function cleanTitle(title) {
   const parts = title.split(' - ');
   if (parts.length < 2) return title.slice(0, 100);
@@ -84,95 +88,78 @@ function cleanTitle(title) {
   return title.slice(0, 100);
 }
 
-function parseRSSXML(xml) {
-  const items = [];
-  const itemRe = /<item>([\s\S]*?)<\/item>/gi;
-  let match;
+async function fetchRSS(query) {
+  const parser = buildParser();
+  const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en-IN&gl=IN&ceid=IN:en`;
+  const feed = await parser.parseURL(url);
 
-  while ((match = itemRe.exec(xml)) !== null) {
-    const chunk = match[1];
-    // IMPORTANT: decode entities first, THEN strip HTML.
-    // Google News RSS encodes its description as HTML entities (e.g. &lt;a href=&quot;...&quot;&gt;).
-    // If we strip before decoding the tags are invisible to stripHTML and survive into the output.
-    const title       = stripHTML(decodeHTMLEntities(extractTag(chunk, 'title'))).trim();
-    const description = stripHTML(decodeHTMLEntities(extractTag(chunk, 'description'))).trim();
-    const link        = extractTag(chunk, 'link').trim();
-    const pubDate     = extractTag(chunk, 'pubDate').trim();
-    const source      = stripHTML(decodeHTMLEntities(extractTag(chunk, 'source'))).trim();
-
-    if (title) {
-      items.push({ title, description, link, pubDate, source });
-    }
-  }
-
-  return items;
+  return feed.items
+    .filter(item => item.title && (item.link || item.guid))
+    .map(item => ({
+      title:       cleanTitle((item.title || '').trim()),
+      // contentSnippet is already HTML-stripped by rss-parser; for Google News
+      // this equals "Title   Source" — AI is asked to expand it into a real summary.
+      description: (item.contentSnippet || item.title || '').trim().slice(0, 400),
+      link:        item.link || item.guid || '',
+      pubDate:     item.isoDate || item.pubDate || '',
+      source:      (item.source?.name || '').trim(),
+      image:       extractRSSImage(item), // null for Google News
+    }));
 }
 
-// ─── HTTP ─────────────────────────────────────────────────────────────────────
+// ─── HTTP / Image ───────────────────────────────────────────────────────────
 
-// Fetch the og:image (or twitter:image) from an article page.
-// Reads only the first 10 KB of HTML — enough to cover the <head> — so it's fast
-// even for heavy pages.  Returns null on any error or timeout.
+// Fetches the og:image (or twitter:image) from the article's own page.
+// Returns null on any error, timeout, or if Google didn't redirect us to the real article.
 async function fetchArticleImage(url, timeoutMs = 5000) {
   if (!url) return null;
   try {
     const controller = new AbortController();
     const timer = setTimeout(() => controller.abort(), timeoutMs);
+
     const response = await fetch(url, {
+      method: 'GET',
       redirect: 'follow',
       headers: {
-        'User-Agent': 'Mozilla/5.0 (compatible; KonguTimesBot/1.0)',
-        'Accept': 'text/html',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9',
       },
       signal: controller.signal,
     });
     clearTimeout(timer);
+
     if (!response.ok) return null;
 
-    // Slice to 10 KB — the <head> with meta tags is always within this range
-    const html = (await response.text()).slice(0, 10240);
+    // If the redirect kept us on Google's own domain, we didn't reach the real article
+    try {
+      const finalHost = new URL(response.url).hostname;
+      if (finalHost.endsWith('google.com') || finalHost.endsWith('google.co.in')) return null;
+    } catch { /* invalid URL — continue */ }
 
-    // og:image handles both attribute orderings
+    const html = (await response.text()).slice(0, 15360); // 15 KB covers any <head>
+
+    // og:image (two attribute orderings)
     const og = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i)
             || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i);
     if (og?.[1]?.startsWith('http')) return og[1];
 
-    // twitter:image as fallback
+    // twitter:image fallback
     const tw = html.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i)
             || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']/i);
     if (tw?.[1]?.startsWith('http')) return tw[1];
 
     return null;
   } catch {
-    // Timeout, network error, or bot-blocked — caller will use category fallback
     return null;
   }
 }
 
-async function fetchURL(url) {
-  const response = await fetch(url, {
-    headers: {
-      'User-Agent': 'Mozilla/5.0 (compatible; KonguTimesBot/1.0)',
-      'Accept': 'application/rss+xml, application/xml, text/xml, */*',
-    },
-    redirect: 'follow',
-  });
-  if (!response.ok) throw new Error(`HTTP ${response.status} fetching ${url}`);
-  return response.text();
-}
-
-async function fetchRSS(query) {
-  const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en-IN&gl=IN&ceid=IN:en`;
-  const xml = await fetchURL(url);
-  return parseRSSXML(xml);
-}
-
-// ─── AI Provider ──────────────────────────────────────────────────────────────
+// ─── AI Provider ────────────────────────────────────────────────────────────
 
 function detectProvider() {
   const openaiKey = process.env.OPENAI_API_KEY || '';
   const geminiKey = process.env.GEMINI_API_KEY || '';
-
   if (openaiKey.startsWith('sk-')) return { provider: 'openai', apiKey: openaiKey };
   if (geminiKey.length > 0)        return { provider: 'gemini', apiKey: geminiKey };
   return { provider: null, apiKey: null };
@@ -193,12 +180,10 @@ async function callOpenAI(prompt, apiKey) {
       response_format: { type: 'json_object' },
     }),
   });
-
   if (!response.ok) {
     const err = await response.text();
     throw new Error(`OpenAI ${response.status}: ${err.slice(0, 200)}`);
   }
-
   const data = await response.json();
   return data.choices[0].message.content;
 }
@@ -217,52 +202,42 @@ async function callGemini(prompt, apiKey) {
       },
     }),
   });
-
   if (!response.ok) {
     const err = await response.text();
     throw new Error(`Gemini ${response.status}: ${err.slice(0, 200)}`);
   }
-
   const data = await response.json();
   return data.candidates[0].content.parts[0].text;
 }
 
 function buildFallbackArticle(item) {
-  const cleanedTitle = cleanTitle(item.title);
-  // After the parse-order fix, description is already plain text with no HTML tags.
-  // Prefer it as the summary; fall back to the cleaned title.
-  const raw = item.description || cleanedTitle;
-  const summary = raw.length > 220 ? raw.slice(0, 220) + '...' : raw;
-  return { title: cleanedTitle, title_ta: '', summary, summary_ta: '', category: 'News' };
+  // Google News description ≈ "Title   Source" — not a useful summary.
+  // Just use the cleaned title and let the UI show it without a summary.
+  return { title: item.title, title_ta: '', summary: item.title, summary_ta: '', category: 'News' };
 }
 
-const REWRITE_PROMPT = (title, description) =>
+const REWRITE_PROMPT = (title) =>
   `You are a news editor for The Kongu Times, a Tamil Nadu regional news portal.
-Rewrite the following RSS news item into a unique, engaging article.
+
+A news article titled below has been published. Write an original news piece based on what you know about this topic.
 
 Title: ${title}
-Description: ${description}
 
 Return ONLY a JSON object with exactly these fields:
 {
-  "title": "Rewritten English headline (under 100 characters, factual)",
-  "title_ta": "Tamil translation of the headline",
-  "summary": "2-3 sentence English summary, informative and neutral",
-  "summary_ta": "Tamil translation of the summary",
+  "title": "Rewritten English headline (under 100 characters, factual, no source name)",
+  "title_ta": "Tamil translation of the headline in Tamil script",
+  "summary": "2-3 sentence English summary based on the topic, informative and neutral",
+  "summary_ta": "Tamil translation of the summary in Tamil script",
   "category": "One of: Education, Business, Politics, Governance, Weather, Crime, Health, Sports, Infrastructure, Development, Accident, Wildlife, Policy, Agriculture, News"
 }`;
 
 async function rewriteArticle(item, provider, apiKey) {
   if (!provider) return buildFallbackArticle(item);
-
-  const prompt = REWRITE_PROMPT(cleanTitle(item.title), item.description || cleanTitle(item.title));
-  let rawJson;
-
   try {
-    rawJson = provider === 'openai'
-      ? await callOpenAI(prompt, apiKey)
-      : await callGemini(prompt, apiKey);
-
+    const rawJson = provider === 'openai'
+      ? await callOpenAI(REWRITE_PROMPT(item.title), apiKey)
+      : await callGemini(REWRITE_PROMPT(item.title), apiKey);
     const parsed = JSON.parse(rawJson);
     if (!parsed.title || !parsed.summary) throw new Error('Missing required fields');
     return parsed;
@@ -272,7 +247,7 @@ async function rewriteArticle(item, provider, apiKey) {
   }
 }
 
-// ─── Date Utilities ───────────────────────────────────────────────────────────
+// ─── Date / ID / File utilities ──────────────────────────────────────────────
 
 function formatDate(dateStr) {
   try {
@@ -296,17 +271,12 @@ function isWithinDays(dateStr, days) {
   }
 }
 
-// ─── ID Generation ────────────────────────────────────────────────────────────
-
 function generateId(slug, index, pubDate) {
   const d = pubDate ? new Date(pubDate) : new Date();
   const safe = isNaN(d.getTime()) ? new Date() : d;
   const mon = safe.toLocaleString('en-US', { month: 'short' }).toLowerCase();
-  const day = safe.getDate();
-  return `${slug.slice(0, 3)}-${mon}${day}-${String(index + 1).padStart(3, '0')}`;
+  return `${slug.slice(0, 3)}-${mon}${safe.getDate()}-${String(index + 1).padStart(3, '0')}`;
 }
-
-// ─── JSON File Management ─────────────────────────────────────────────────────
 
 function normalizeTitle(title) {
   return (title || '').toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 50);
@@ -314,36 +284,28 @@ function normalizeTitle(title) {
 
 function mergeArticles(existing, incoming, maxCount) {
   const existingKeys = new Set(existing.map(a => normalizeTitle(a.title)));
-  const fresh = incoming.filter(a => !existingKeys.has(normalizeTitle(a.title)));
-  const kept = existing.filter(a => isWithinDays(a.date, KEEP_DAYS));
+  const fresh  = incoming.filter(a => !existingKeys.has(normalizeTitle(a.title)));
+  const kept   = existing.filter(a => isWithinDays(a.date, KEEP_DAYS));
   const merged = [...fresh, ...kept].slice(0, maxCount);
-  // Ensure exactly one featured article (the first)
   return merged.map((a, i) => ({ ...a, featured: i === 0 }));
 }
 
 function readNewsFile(slug) {
-  const filePath = path.join(NEWS_DIR, `${slug}.json`);
   try {
-    return JSON.parse(fs.readFileSync(filePath, 'utf8'));
-  } catch {
-    return [];
-  }
+    return JSON.parse(fs.readFileSync(path.join(NEWS_DIR, `${slug}.json`), 'utf8'));
+  } catch { return []; }
 }
 
 function writeNewsFile(slug, articles) {
-  const filePath = path.join(NEWS_DIR, `${slug}.json`);
-  fs.writeFileSync(filePath, JSON.stringify(articles, null, 2) + '\n', 'utf8');
+  fs.writeFileSync(path.join(NEWS_DIR, `${slug}.json`), JSON.stringify(articles, null, 2) + '\n', 'utf8');
 }
 
-// ─── Orchestration ────────────────────────────────────────────────────────────
+// ─── Orchestration ───────────────────────────────────────────────────────────
 
-async function sleep(ms) {
-  return new Promise(r => setTimeout(r, ms));
-}
+const sleep = (ms) => new Promise(r => setTimeout(r, ms));
 
 async function processDistrict(district, providerInfo, globalSeenTitles) {
   console.log(`\nProcessing ${district.name}...`);
-
   let rssItems;
   try {
     rssItems = await fetchRSS(district.query);
@@ -352,44 +314,36 @@ async function processDistrict(district, providerInfo, globalSeenTitles) {
     return;
   }
 
-  if (!rssItems.length) {
-    console.log('  No RSS items — skipping');
-    return;
-  }
-
-  // Filter out articles already claimed by a previously-processed district
+  // Cross-district deduplication
   const uniqueItems = rssItems.filter(item => {
     const key = normalizeTitle(item.title);
     if (globalSeenTitles.has(key)) return false;
     globalSeenTitles.add(key);
     return true;
-  });
+  }).slice(0, MAX_ARTICLES_PER_DISTRICT);
 
-  const topItems = uniqueItems.slice(0, MAX_ARTICLES_PER_DISTRICT);
-  if (!topItems.length) {
-    console.log('  All RSS items were cross-district duplicates — skipping');
+  if (!uniqueItems.length) {
+    console.log('  No unique items — skipping');
     return;
   }
 
   const newArticles = [];
+  for (let i = 0; i < uniqueItems.length; i++) {
+    const item = uniqueItems[i];
+    console.log(`  [${i + 1}/${uniqueItems.length}] ${item.title.slice(0, 70)}`);
 
-  for (let i = 0; i < topItems.length; i++) {
-    const item = topItems[i];
-    console.log(`  [${i + 1}/${topItems.length}] ${item.title.slice(0, 70)}`);
-
-    // Run AI rewrite and article image fetch in parallel — no extra wall-clock cost
-    const [rewritten, articleImage] = await Promise.all([
+    // RSS image + AI rewrite run in parallel
+    const [rewritten, rssImage] = await Promise.all([
       rewriteArticle(item, providerInfo.provider, providerInfo.apiKey),
-      fetchArticleImage(item.link),
+      item.image ? Promise.resolve(item.image) : fetchArticleImage(item.link),
     ]);
-    const category = rewritten.category || 'News';
-    const image    = articleImage || CATEGORY_IMAGES[category] || CATEGORY_IMAGES.News;
 
+    const category = rewritten.category || 'News';
     newArticles.push({
       id:         generateId(district.slug, i, item.pubDate),
       category,
       featured:   i === 0,
-      image,
+      image:      rssImage || CATEGORY_IMAGES[category] || CATEGORY_IMAGES.News,
       title:      rewritten.title,
       title_ta:   rewritten.title_ta || '',
       summary:    rewritten.summary,
@@ -397,28 +351,21 @@ async function processDistrict(district, providerInfo, globalSeenTitles) {
       date:       formatDate(item.pubDate),
     });
 
-    if (i < topItems.length - 1) await sleep(AI_CALL_DELAY_MS);
+    if (i < uniqueItems.length - 1) await sleep(AI_CALL_DELAY_MS);
   }
 
-  const existing = readNewsFile(district.slug);
-  const merged   = mergeArticles(existing, newArticles, MAX_ARTICLES_PER_DISTRICT * 2);
+  const merged = mergeArticles(readNewsFile(district.slug), newArticles, MAX_ARTICLES_PER_DISTRICT * 2);
   writeNewsFile(district.slug, merged);
   console.log(`  Saved ${merged.length} articles → ${district.slug}.json`);
 }
 
 async function processMainJSON(providerInfo) {
   console.log('\nProcessing main.json (trending)...');
-
   let rssItems;
   try {
     rssItems = await fetchRSS(KONGU_QUERY);
   } catch (err) {
     console.error(`  RSS fetch failed: ${err.message}`);
-    return;
-  }
-
-  if (!rssItems.length) {
-    console.log('  No RSS items — skipping');
     return;
   }
 
@@ -429,12 +376,11 @@ async function processMainJSON(providerInfo) {
     const item = topItems[i];
     console.log(`  [${i + 1}/${topItems.length}] ${item.title.slice(0, 70)}`);
 
-    const [rewritten, articleImage] = await Promise.all([
+    const [rewritten, rssImage] = await Promise.all([
       rewriteArticle(item, providerInfo.provider, providerInfo.apiKey),
-      fetchArticleImage(item.link),
+      item.image ? Promise.resolve(item.image) : fetchArticleImage(item.link),
     ]);
-    const trendCategory = rewritten.category || 'News';
-    const image         = articleImage || CATEGORY_IMAGES[trendCategory] || CATEGORY_IMAGES.News;
+    const cat = rewritten.category || 'News';
 
     trending.push({
       id:         `main-trd-${String(i + 1).padStart(3, '0')}`,
@@ -443,9 +389,9 @@ async function processMainJSON(providerInfo) {
       summary_en: rewritten.summary,
       summary_ta: rewritten.summary_ta || '',
       district:   'Region',
-      category:   trendCategory,
+      category:   cat,
       date:       formatDate(item.pubDate),
-      image,
+      image:      rssImage || CATEGORY_IMAGES[cat] || CATEGORY_IMAGES.News,
     });
 
     if (i < topItems.length - 1) await sleep(AI_CALL_DELAY_MS);
@@ -453,13 +399,9 @@ async function processMainJSON(providerInfo) {
 
   const mainPath = path.join(NEWS_DIR, 'main.json');
   let mainData = {};
-  try {
-    mainData = JSON.parse(fs.readFileSync(mainPath, 'utf8'));
-  } catch { /* start fresh */ }
-
+  try { mainData = JSON.parse(fs.readFileSync(mainPath, 'utf8')); } catch {}
   mainData.trending = trending;
   mainData.updated  = new Date().toISOString().split('T')[0];
-
   fs.writeFileSync(mainPath, JSON.stringify(mainData, null, 2) + '\n', 'utf8');
   console.log(`  Saved ${trending.length} trending items → main.json`);
 }
@@ -467,30 +409,20 @@ async function processMainJSON(providerInfo) {
 async function main() {
   console.log('=== Kongu Times — Automated News Fetcher ===');
   console.log(`Time: ${new Date().toISOString()}`);
-
   const providerInfo = detectProvider();
-  console.log(`AI Provider: ${providerInfo.provider ?? 'none (raw RSS fallback)'}`);
+  console.log(`AI Provider: ${providerInfo.provider ?? 'none (fallback mode)'}`);
 
-  // Share seen-titles across districts so the same regional story never
-  // ends up in multiple district JSON files (avoids homepage duplicates).
   const globalSeenTitles = new Set();
-
   for (const district of DISTRICTS) {
     await processDistrict(district, providerInfo, globalSeenTitles);
   }
-
   await processMainJSON(providerInfo);
-
   console.log('\n=== Done ===');
 }
 
-// ─── Exports (used by tests) ──────────────────────────────────────────────────
-
+// ─── Exports (used by tests) ─────────────────────────────────────────────────
 module.exports = {
-  parseRSSXML,
-  extractTag,
-  stripHTML,
-  decodeHTMLEntities,
+  extractRSSImage,
   cleanTitle,
   fetchArticleImage,
   detectProvider,
@@ -509,8 +441,5 @@ module.exports = {
 };
 
 if (require.main === module) {
-  main().catch(err => {
-    console.error('Fatal:', err);
-    process.exit(1);
-  });
+  main().catch(err => { console.error('Fatal:', err); process.exit(1); });
 }
