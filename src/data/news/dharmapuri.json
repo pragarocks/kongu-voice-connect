@@ -1,19 +1,8 @@
 [
   {
-    "id": "dha-mar11-002",
+    "id": "dha-apr23-002",
     "category": "News",
     "featured": true,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "title": "Villagers in Dharmapuri district threaten to boycott Tamil Nadu assembly election",
-    "title_ta": "",
-    "summary": "Villagers in Dharmapuri district threaten to boycott Tamil Nadu assembly election",
-    "summary_ta": "",
-    "date": "March 11, 2026"
-  },
-  {
-    "id": "dha-apr23-003",
-    "category": "News",
-    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "title": "TN Assembly Elections 2026: Dharmapuri heats up as Sowmiya Anbumani runs",
     "title_ta": "",
@@ -22,7 +11,7 @@
     "date": "April 23, 2026"
   },
   {
-    "id": "dha-apr23-004",
+    "id": "dha-apr23-003",
     "category": "News",
     "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
@@ -33,36 +22,24 @@
     "date": "April 23, 2026"
   },
   {
-    "id": "dha-apr2-005",
+    "id": "dha-mar28-004",
     "category": "News",
     "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "title": "Dharmapuri: Edappadi K. Palaniswami Campaigns Ahead of Assembly Elections #Gallery",
+    "title": "AIADMK to contest in three Dharmapuri seats, five Krishnagiri seats",
     "title_ta": "",
-    "summary": "Dharmapuri: Edappadi K. Palaniswami Campaigns Ahead of Assembly Elections #Gallery",
+    "summary": "AIADMK to contest in three Dharmapuri seats, five Krishnagiri seats",
     "summary_ta": "",
-    "date": "April 2, 2026"
+    "date": "March 28, 2026"
   },
   {
-    "id": "dha-mar11-006",
+    "id": "dha-may23-001",
     "category": "News",
     "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "title": "Palacode: Mango Country, Pennaiyar Valley and the Rural Pulse of Dharmapuri",
+    "title": "Tamil Nadu weather update: Heavy rainfall likely to occur over Nilgiris, Coimbatore, Erode, Tiruppur",
     "title_ta": "",
-    "summary": "Palacode: Mango Country, Pennaiyar Valley and the Rural Pulse of Dharmapuri",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxNQVFFbW13Q3pFMWpic0JHRXJSRkFuV2QxclZiXzFNTHgyNU1NSTJwYkFRMmxYTUNEVDBJZl9xMGJmazlvV2hEaXNhTDBNR0VmSnlRREpXUTRxRkFUN1E5ZFJ3aFpNSkNiUUNVRFFQMmZCRlEtQzZtNnNNbC1WWl...",
     "summary_ta": "",
-    "date": "March 11, 2026"
-  },
-  {
-    "id": "dha-may25-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "title": "Bus operations restored in Dharmapuri municipality",
-    "title_ta": "",
-    "summary": "Bus operations restored in Dharmapuri municipality",
-    "summary_ta": "",
-    "date": "May 25, 2026"
+    "date": "May 23, 2026"
   }
 ]

@@ -1,41 +1,8 @@
 [
   {
-    "id": "ero-apr19-003",
-    "category": "News",
-    "featured": true,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "title": "HM, Senior BJP leader Amit Shah campaigns at Sivagiri and Modakurichi in Erode District, Tamil Nadu",
-    "title_ta": "",
-    "summary": "HM, Senior BJP leader Amit Shah campaigns at Sivagiri and Modakurichi in Erode District, Tamil Nadu",
-    "summary_ta": "",
-    "date": "April 19, 2026"
-  },
-  {
-    "id": "ero-may4-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "title": "Erode (West) election results 2026: TVK's Ananth Moghan defeats DMK candidate S Muthusamy",
-    "title_ta": "",
-    "summary": "Erode (West) election results 2026: TVK's Ananth Moghan defeats DMK candidate S Muthusamy",
-    "summary_ta": "",
-    "date": "May 4, 2026"
-  },
-  {
-    "id": "ero-may12-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "title": "Five TASMAC outlets identified for closure in Erode district",
-    "title_ta": "",
-    "summary": "Five TASMAC outlets identified for closure in Erode district",
-    "summary_ta": "",
-    "date": "May 12, 2026"
-  },
-  {
     "id": "ero-may26-001",
     "category": "News",
-    "featured": false,
+    "featured": true,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "title": "Tasmac bottle buy-back scheme implemented in all outlets in Erode district",
     "title_ta": "",
@@ -44,15 +11,15 @@
     "date": "May 26, 2026"
   },
   {
-    "id": "ero-may25-002",
+    "id": "ero-apr19-003",
     "category": "News",
     "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "title": "Boy swept away by floodwaters near Erode",
+    "title": "HM, Senior BJP leader Amit Shah campaigns at Sivagiri and Modakurichi in Erode District, Tamil Nadu",
     "title_ta": "",
-    "summary": "Boy swept away by floodwaters near Erode",
+    "summary": "HM, Senior BJP leader Amit Shah campaigns at Sivagiri and Modakurichi in Erode District, Tamil Nadu",
     "summary_ta": "",
-    "date": "May 25, 2026"
+    "date": "April 19, 2026"
   },
   {
     "id": "ero-may26-004",
@@ -64,5 +31,79 @@
     "summary": "Heavy rain claims four more lives across western districts in Tamil Nadu",
     "summary_ta": "",
     "date": "May 26, 2026"
+  },
+  {
+    "id": "ero-may12-005",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Five TASMAC outlets identified for closure in Erode district",
+    "title_ta": "",
+    "summary": "Five TASMAC outlets identified for closure in Erode district",
+    "summary_ta": "",
+    "date": "May 12, 2026"
+  },
+  {
+    "id": "ero-may4-006",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Erode (West) election results 2026: TVK's Ananth Moghan defeats DMK candidate S Muthusamy",
+    "title_ta": "",
+    "summary": "Erode (West) election results 2026: TVK's Ananth Moghan defeats DMK candidate S Muthusamy",
+    "summary_ta": "",
+    "date": "May 4, 2026"
+  },
+  {
+    "id": "ero-may25-001",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Boy swept away by floodwaters near Erode",
+    "title_ta": "",
+    "summary": "Boy swept away by floodwaters near Erode The Times of India",
+    "summary_ta": "",
+    "date": "May 25, 2026"
+  },
+  {
+    "id": "ero-may25-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "TASMAC | Erode | டாஸ்மாக் மதுக் கடைகளை மூடி போராட்டம்! | Tamil Nadu | People Protest",
+    "title_ta": "",
+    "summary": "TASMAC | Erode | டாஸ்மாக் மதுக் கடைகளை மூடி போராட்டம்! | Tamil Nadu | People Protest News18 Tamil",
+    "summary_ta": "",
+    "date": "May 25, 2026"
+  },
+  {
+    "id": "ero-may25-001",
+    "category": "News",
+    "featured": false,
+    "title": "Boy swept away by floodwaters near Erode - The Times of India",
+    "title_ta": "",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOdVpTZmZuYXRFT09hRkRyd3pWUEg5OS1YeEVreU5aaGstU1p2UWU3ellmSjNGVTU4bl9RdFhTbnN5MllqVThzUHJqYV9MdzlhdW1pV09UTEIzMUlvZGJjbVItZzlFQjF5UlRVRGc3YTNDWWk3WkRlakJkZy1DT1...",
+    "summary_ta": "",
+    "date": "May 25, 2026"
+  },
+  {
+    "id": "ero-may23-002",
+    "category": "News",
+    "featured": false,
+    "title": "Tamil Nadu weather update: Heavy rainfall likely to occur over Nilgiris, Coimbatore, Erode, Tiruppur",
+    "title_ta": "",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxNQVFFbW13Q3pFMWpic0JHRXJSRkFuV2QxclZiXzFNTHgyNU1NSTJwYkFRMmxYTUNEVDBJZl9xMGJmazlvV2hEaXNhTDBNR0VmSnlRREpXUTRxRkFUN1E5ZFJ3aFpNSkNiUUNVRFFQMmZCRlEtQzZtNnNNbC1WWl...",
+    "summary_ta": "",
+    "date": "May 23, 2026"
+  },
+  {
+    "id": "ero-may25-003",
+    "category": "News",
+    "featured": false,
+    "title": "TASMAC | Erode | டாஸ்மாக் மதுக் கடைகளை மூடி போராட்டம்! | Tamil Nadu | People Protest - News18 Tamil",
+    "title_ta": "",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ1U1WVhwUFcyaUp3UlZqaUczVVFvT0JmTFZodEh2ZV9ydnQ2Q0ZFOUhBb2dtWlE2TDROSFJkNXpuT01lbTlldmkyWjNvdjE5ejJ0R2NfQ01wTnVfVHB5Z0RWWmhqRDgxVUZhZVl6WmxWSllqRWs0N1BSVzBpeW...",
+    "summary_ta": "",
+    "date": "May 25, 2026"
   }
 ]
