@@ -3,7 +3,11 @@ name: Deploy Vite Site
 on:
   push:
     branches: [main]
- 
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
