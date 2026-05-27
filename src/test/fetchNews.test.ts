@@ -8,6 +8,7 @@ const {
   stripHTML,
   decodeHTMLEntities,
   cleanTitle,
+  fetchArticleImage,
   detectProvider,
   formatDate,
   generateId,
@@ -570,6 +571,89 @@ describe('rewriteArticle', () => {
 
     const result = await rewriteArticle(mockItem, 'openai', 'sk-test');
     expect(result.category).toBe('News'); // fallback
+  });
+});
+
+// ─── fetchArticleImage ────────────────────────────────────────────────────────
+
+describe('fetchArticleImage', () => {
+  afterEach(() => vi.restoreAllMocks());
+
+  const makeHtmlPage = (head: string) =>
+    `<!DOCTYPE html><html><head>${head}</head><body>content</body></html>`;
+
+  it('extracts og:image (property before content)', async () => {
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValue({
+      ok: true,
+      text: async () => makeHtmlPage('<meta property="og:image" content="https://example.com/photo.jpg" />'),
+    }));
+    expect(await fetchArticleImage('https://example.com/article')).toBe('https://example.com/photo.jpg');
+  });
+
+  it('extracts og:image (content before property)', async () => {
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValue({
+      ok: true,
+      text: async () => makeHtmlPage('<meta content="https://example.com/photo2.jpg" property="og:image" />'),
+    }));
+    expect(await fetchArticleImage('https://example.com/article')).toBe('https://example.com/photo2.jpg');
+  });
+
+  it('falls back to twitter:image when og:image is absent', async () => {
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValue({
+      ok: true,
+      text: async () => makeHtmlPage('<meta name="twitter:image" content="https://example.com/twitter.jpg" />'),
+    }));
+    expect(await fetchArticleImage('https://example.com/article')).toBe('https://example.com/twitter.jpg');
+  });
+
+  it('returns null when neither og:image nor twitter:image is present', async () => {
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValue({
+      ok: true,
+      text: async () => makeHtmlPage('<title>No image here</title>'),
+    }));
+    expect(await fetchArticleImage('https://example.com/article')).toBeNull();
+  });
+
+  it('returns null on HTTP error response', async () => {
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValue({ ok: false, status: 404, text: async () => '' }));
+    expect(await fetchArticleImage('https://example.com/article')).toBeNull();
+  });
+
+  it('returns null on network error (fetch throws)', async () => {
+    vi.stubGlobal('fetch', vi.fn().mockRejectedValue(new Error('Network error')));
+    expect(await fetchArticleImage('https://example.com/article')).toBeNull();
+  });
+
+  it('returns null for empty url', async () => {
+    const mockFetch = vi.fn();
+    vi.stubGlobal('fetch', mockFetch);
+    expect(await fetchArticleImage('')).toBeNull();
+    expect(mockFetch).not.toHaveBeenCalled();
+  });
+
+  it('returns null for null url', async () => {
+    const mockFetch = vi.fn();
+    vi.stubGlobal('fetch', mockFetch);
+    expect(await fetchArticleImage(null as unknown as string)).toBeNull();
+    expect(mockFetch).not.toHaveBeenCalled();
+  });
+
+  it('ignores relative image URLs (must start with http)', async () => {
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValue({
+      ok: true,
+      text: async () => makeHtmlPage('<meta property="og:image" content="/relative/path.jpg" />'),
+    }));
+    expect(await fetchArticleImage('https://example.com/article')).toBeNull();
+  });
+
+  it('only parses the first 10 KB of the response', async () => {
+    // og:image hidden beyond the 10KB window should NOT be found
+    const padding = 'x'.repeat(10240);
+    vi.stubGlobal('fetch', vi.fn().mockResolvedValue({
+      ok: true,
+      text: async () => padding + '<meta property="og:image" content="https://hidden.com/img.jpg" />',
+    }));
+    expect(await fetchArticleImage('https://example.com/article')).toBeNull();
   });
 });
 

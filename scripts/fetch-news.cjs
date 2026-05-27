@@ -110,6 +110,45 @@ function parseRSSXML(xml) {
 
 // ─── HTTP ─────────────────────────────────────────────────────────────────────
 
+// Fetch the og:image (or twitter:image) from an article page.
+// Reads only the first 10 KB of HTML — enough to cover the <head> — so it's fast
+// even for heavy pages.  Returns null on any error or timeout.
+async function fetchArticleImage(url, timeoutMs = 5000) {
+  if (!url) return null;
+  try {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), timeoutMs);
+    const response = await fetch(url, {
+      redirect: 'follow',
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (compatible; KonguTimesBot/1.0)',
+        'Accept': 'text/html',
+      },
+      signal: controller.signal,
+    });
+    clearTimeout(timer);
+    if (!response.ok) return null;
+
+    // Slice to 10 KB — the <head> with meta tags is always within this range
+    const html = (await response.text()).slice(0, 10240);
+
+    // og:image handles both attribute orderings
+    const og = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i)
+            || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i);
+    if (og?.[1]?.startsWith('http')) return og[1];
+
+    // twitter:image as fallback
+    const tw = html.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i)
+            || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']/i);
+    if (tw?.[1]?.startsWith('http')) return tw[1];
+
+    return null;
+  } catch {
+    // Timeout, network error, or bot-blocked — caller will use category fallback
+    return null;
+  }
+}
+
 async function fetchURL(url) {
   const response = await fetch(url, {
     headers: {
@@ -338,14 +377,19 @@ async function processDistrict(district, providerInfo, globalSeenTitles) {
     const item = topItems[i];
     console.log(`  [${i + 1}/${topItems.length}] ${item.title.slice(0, 70)}`);
 
-    const rewritten = await rewriteArticle(item, providerInfo.provider, providerInfo.apiKey);
-    const category  = rewritten.category || 'News';
+    // Run AI rewrite and article image fetch in parallel — no extra wall-clock cost
+    const [rewritten, articleImage] = await Promise.all([
+      rewriteArticle(item, providerInfo.provider, providerInfo.apiKey),
+      fetchArticleImage(item.link),
+    ]);
+    const category = rewritten.category || 'News';
+    const image    = articleImage || CATEGORY_IMAGES[category] || CATEGORY_IMAGES.News;
 
     newArticles.push({
       id:         generateId(district.slug, i, item.pubDate),
       category,
       featured:   i === 0,
-      image:      CATEGORY_IMAGES[category] || CATEGORY_IMAGES.News,
+      image,
       title:      rewritten.title,
       title_ta:   rewritten.title_ta || '',
       summary:    rewritten.summary,
@@ -385,9 +429,13 @@ async function processMainJSON(providerInfo) {
     const item = topItems[i];
     console.log(`  [${i + 1}/${topItems.length}] ${item.title.slice(0, 70)}`);
 
-    const rewritten = await rewriteArticle(item, providerInfo.provider, providerInfo.apiKey);
-
+    const [rewritten, articleImage] = await Promise.all([
+      rewriteArticle(item, providerInfo.provider, providerInfo.apiKey),
+      fetchArticleImage(item.link),
+    ]);
     const trendCategory = rewritten.category || 'News';
+    const image         = articleImage || CATEGORY_IMAGES[trendCategory] || CATEGORY_IMAGES.News;
+
     trending.push({
       id:         `main-trd-${String(i + 1).padStart(3, '0')}`,
       title_en:   rewritten.title,
@@ -397,7 +445,7 @@ async function processMainJSON(providerInfo) {
       district:   'Region',
       category:   trendCategory,
       date:       formatDate(item.pubDate),
-      image:      CATEGORY_IMAGES[trendCategory] || CATEGORY_IMAGES.News,
+      image,
     });
 
     if (i < topItems.length - 1) await sleep(AI_CALL_DELAY_MS);
@@ -444,6 +492,7 @@ module.exports = {
   stripHTML,
   decodeHTMLEntities,
   cleanTitle,
+  fetchArticleImage,
   detectProvider,
   formatDate,
   generateId,
