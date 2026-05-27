@@ -1,59 +1,68 @@
 [
   {
-    "id": "slm-may14-001",
-    "category": "Crime",
+    "id": "sal-may20-001",
+    "category": "News",
     "featured": true,
-    "image": "/news/2026-05-14/salem-escape.jpg",
-    "title": "Two teams formed in Salem to trace escaped life convict Mohammed Hussain",
-    "summary": "Two special teams have been formed to trace life convict Mohammed Hussain who escaped from Salem Government Mohan Kumaramangalam Medical College Hospital while undergoing treatment for a piles-related ailment.",
-    "date": "May 14, 2026"
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Salem district registers pass percentage of 94.21 in Class 10 examination",
+    "title_ta": "",
+    "summary": "Salem district registers pass percentage of 94.21 in Class 10 examination",
+    "summary_ta": "",
+    "date": "May 20, 2026"
   },
   {
-    "id": "slm-may14-002",
-    "category": "Crime",
-    "image": "/news/2026-05-14/salem-escape.jpg",
-    "title": "Convict broke window and climbed down drainage pipe to escape Salem hospital",
-    "summary": "Investigators say convict Mohammed Hussain broke a window of the ward and climbed down a drainage pipe to escape from Salem Government Hospital. Two warders on duty have been suspended.",
-    "date": "May 14, 2026"
+    "id": "sal-may6-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "TVK win in Salem North ends DMK’s last Salem seat",
+    "title_ta": "",
+    "summary": "TVK win in Salem North ends DMK’s last Salem seat",
+    "summary_ta": "",
+    "date": "May 6, 2026"
   },
   {
-    "id": "slm-may14-003",
-    "category": "Crime",
-    "image": "/news/2026-05-14/salem-escape.jpg",
-    "title": "Search operations intensified in Salem, Thanjavur and Coimbatore",
-    "summary": "Search operations have been intensified in Salem, Thanjavur and Coimbatore for the escaped life convict, who has more than 40 criminal cases pending against him. His wife is being questioned.",
-    "date": "May 14, 2026"
+    "id": "sal-may4-004",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Tamil Nadu Assembly Election Result 2026: TVK's Sivakumar Wins From Salem North Seat",
+    "title_ta": "",
+    "summary": "Tamil Nadu Assembly Election Result 2026: TVK's Sivakumar Wins From Salem North Seat",
+    "summary_ta": "",
+    "date": "May 4, 2026"
   },
   {
-    "id": "slm-may14-004",
-    "category": "Business",
-    "image": "/news/2026-05-08/salem-steel.jpg",
-    "title": "Salem Steel Plant divestment: SAIL agrees to give up 1,600 acres to TN",
-    "summary": "SAIL has agreed in principle to give up 1,600 acres of Salem Steel Plant land to the Tamil Nadu government, paving the way for a planned technical textiles park in Salem.",
-    "date": "May 14, 2026"
+    "id": "sal-may6-005",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Anti-incumbency, internal rifts: DMK loses sole seat in Salem district to TVK",
+    "title_ta": "",
+    "summary": "Anti-incumbency, internal rifts: DMK loses sole seat in Salem district to TVK",
+    "summary_ta": "",
+    "date": "May 6, 2026"
   },
   {
-    "id": "slm-may14-005",
-    "category": "Infrastructure",
-    "image": "/news/2026-05-14/hero-flyover-closure.jpg",
-    "title": "CMRL submits feasibility report for new MRTS lines in Salem",
-    "summary": "Chennai Metro Rail Limited has submitted the feasibility report for new MRTS lines in Salem. The report covers two corridors and an integrated multi-modal hub at the Salem junction.",
-    "date": "May 14, 2026"
+    "id": "sal-may5-006",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Salem (north) (Tamil Nadu) Assembly Election Result 2026: Sivakumar. K of Tamilaga Vettri Kazhagam W",
+    "title_ta": "",
+    "summary": "Salem (north) (Tamil Nadu) Assembly Election Result 2026: Sivakumar. K of Tamilaga Vettri Kazhagam W",
+    "summary_ta": "",
+    "date": "May 5, 2026"
   },
   {
-    "id": "slm-may14-006",
-    "category": "Infrastructure",
-    "image": "/news/2026-05-14/dharmapuri-collector.jpg",
-    "title": "SUEZ wins 25-year concession to provide water services to over 1 million in Salem",
-    "summary": "SUEZ has won a 25-year concession to operate Salem's city-wide water distribution covering 91 sq km, including replacement of 1,800 km of ageing pipelines and 26 new service reservoirs.",
-    "date": "May 14, 2026"
-  },
-  {
-    "id": "slm-may14-007",
-    "category": "Weather",
-    "image": "/news/2026-05-14/namakkal-rain.jpg",
-    "title": "Heavy rain in Salem; Mettur dam expected to touch FRL",
-    "summary": "Heavy rainfall has disrupted normal life in Salem district, with the administration monitoring the Mettur dam which is expected to touch its Full Reservoir Level if rain continues.",
-    "date": "May 14, 2026"
+    "id": "sal-may25-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Elderly couple drown after car sinks in flooded railway underpass in Salem",
+    "title_ta": "",
+    "summary": "Elderly couple drown after car sinks in flooded railway underpass in Salem",
+    "summary_ta": "",
+    "date": "May 25, 2026"
   }
 ]

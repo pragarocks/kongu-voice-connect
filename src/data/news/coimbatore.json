@@ -1,59 +1,68 @@
 [
   {
-    "id": "cbe-may14-001",
-    "category": "Infrastructure",
+    "id": "coi-may27-001",
+    "category": "News",
     "featured": true,
-    "image": "/news/2026-05-14/hero-flyover-closure.jpg",
-    "title": "GD Naidu flyover to remain closed on nights of May 14 to 18 for repair work",
-    "summary": "Coimbatore traffic police have announced full nightly closure of the GD Naidu flyover from May 14 to 18 for emergency repairs and resurfacing. Diversions are routed via Avinashi Road and Trichy Road service lanes.",
-    "date": "May 14, 2026"
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "President, Vice President and PM express grief over Coimbatore road accident in Tamil Nadu",
+    "title_ta": "",
+    "summary": "President, Vice President and PM express grief over Coimbatore road accident in Tamil Nadu",
+    "summary_ta": "",
+    "date": "May 27, 2026"
   },
   {
-    "id": "cbe-may14-002",
-    "category": "Governance",
-    "image": "/news/2026-05-14/panchayat-award.jpg",
-    "title": "Coimbatore secures third place nationally in Panchayat Awards 2025",
-    "summary": "Coimbatore district panchayat has bagged the third national rank in the Panchayat Awards 2025, recognised for governance reforms, citizen services and SDG localisation efforts.",
-    "date": "May 14, 2026"
+    "id": "coi-may27-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Sulur girl sexual assault and murder case: Goondas Act invoked against two accused",
+    "title_ta": "",
+    "summary": "Sulur girl sexual assault and murder case: Goondas Act invoked against two accused",
+    "summary_ta": "",
+    "date": "May 27, 2026"
   },
   {
-    "id": "cbe-may14-003",
-    "category": "Policy",
-    "image": "/news/2026-05-14/tasmac-closure.jpg",
-    "title": "60+ TASMAC outlets in Coimbatore district identified for closure",
-    "summary": "Following the state directive on phased prohibition, more than 60 TASMAC liquor outlets across Coimbatore district have been listed for closure, with women's groups welcoming the move.",
-    "date": "May 14, 2026"
+    "id": "coi-may24-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Video | Coimbatore News | Tamil Nadu Shocker: 10-Year-Old Girl Kidnapped, Killed In Coimbatore",
+    "title_ta": "",
+    "summary": "Video | Coimbatore News | Tamil Nadu Shocker: 10-Year-Old Girl Kidnapped, Killed In Coimbatore",
+    "summary_ta": "",
+    "date": "May 24, 2026"
   },
   {
-    "id": "cbe-may14-004",
-    "category": "Politics",
-    "image": "/news/2026-05-08/political-rally.jpg",
-    "title": "Coimbatore AIADMK functionary Advocate Vineeth joins TVK",
-    "summary": "Senior AIADMK functionary Advocate Vineeth has formally joined TVK in Coimbatore, in another sign of cadre churn ahead of the new government's first floor test.",
-    "date": "May 14, 2026"
+    "id": "coi-may25-004",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Video of cop laughing at press meet over Coimbatore girl's murder sparks outrage",
+    "title_ta": "",
+    "summary": "Video of cop laughing at press meet over Coimbatore girl's murder sparks outrage",
+    "summary_ta": "",
+    "date": "May 25, 2026"
   },
   {
-    "id": "cbe-may14-005",
-    "category": "Crime",
-    "image": "/news/2026-05-08/governor-rajbhavan.jpg",
-    "title": "Coimbatore cop arrested after woman accuses him of threats and forced abortion",
-    "summary": "A Coimbatore city police personnel has been arrested after a woman lodged a complaint accusing him of issuing threats and forcing her to undergo an abortion. A departmental probe has been ordered.",
-    "date": "May 14, 2026"
+    "id": "coi-may25-005",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Tamil Nadu shocker: Gang hurls petrol bombs at woman’s house in Coimbatore after she rejects man's p",
+    "title_ta": "",
+    "summary": "Tamil Nadu shocker: Gang hurls petrol bombs at woman’s house in Coimbatore after she rejects man's p",
+    "summary_ta": "",
+    "date": "May 25, 2026"
   },
   {
-    "id": "cbe-may14-006",
-    "category": "Tourism",
-    "image": "/news/2026-05-14/nilgiris-rain.jpg",
-    "title": "Heavy rain warning: Paralikkadu ecotourism temporarily closed",
-    "summary": "Eco-tourism activities at Paralikkadu and trekking on Velliangiri Hills have been suspended after a heavy rain warning was issued for the Coimbatore-Nilgiris stretch.",
-    "date": "May 14, 2026"
-  },
-  {
-    "id": "cbe-may14-007",
-    "category": "Civic",
-    "image": "/news/2026-05-14/panchayat-award.jpg",
-    "title": "Corporation commissioner orders immediate removal of public space encroachments",
-    "summary": "The Coimbatore Corporation commissioner has directed zonal officers to immediately remove encroachments on pavements and public spaces, with daily compliance reports.",
-    "date": "May 14, 2026"
+    "id": "coi-may26-006",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Old Video Shared As CM Vijay Avoiding Questions On Women’s Safety In Tamil Nadu",
+    "title_ta": "",
+    "summary": "Old Video Shared As CM Vijay Avoiding Questions On Women’s Safety In Tamil Nadu",
+    "summary_ta": "",
+    "date": "May 26, 2026"
   }
 ]

@@ -1,59 +1,68 @@
 [
   {
-    "id": "krr-may14-001",
-    "category": "Politics",
+    "id": "kar-may4-001",
+    "category": "News",
     "featured": true,
-    "image": "/news/2026-05-14/karur-stampede.jpg",
-    "title": "Justice Aruna Jagadeesan visits Karur stampede site to begin probe",
-    "summary": "Justice Aruna Jagadeesan, heading the one-member commission set up by the Tamil Nadu government, visited the Karur rally stampede site to formally begin her inquiry into the tragedy.",
-    "date": "May 14, 2026"
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Thalapathy blockbuster Vijay in Tamil Nadu: Despite Karur stampede to Jana Nayagan controversy, how ",
+    "title_ta": "",
+    "summary": "Thalapathy blockbuster Vijay in Tamil Nadu: Despite Karur stampede to Jana Nayagan controversy, how ",
+    "summary_ta": "",
+    "date": "May 4, 2026"
   },
   {
-    "id": "krr-may14-002",
-    "category": "Politics",
-    "image": "/news/2026-05-14/karur-stampede.jpg",
-    "title": "TVK General Secretary N. Anand booked in connection with Karur stampede",
-    "summary": "TVK General Secretary N. Anand has been booked by Karur police in connection with the stampede at the party's rally. Several party functionaries are also under questioning.",
-    "date": "May 14, 2026"
+    "id": "kar-dec30-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "CBI Investigation of Karur Stampede Raises Stakes for TVK",
+    "title_ta": "",
+    "summary": "CBI Investigation of Karur Stampede Raises Stakes for TVK",
+    "summary_ta": "",
+    "date": "December 30, 2025"
   },
   {
-    "id": "krr-may14-003",
-    "category": "Politics",
-    "image": "/news/2026-05-14/karur-stampede.jpg",
-    "title": "PM and CM Vijay announce ex-gratia for Karur stampede victims",
-    "summary": "The Prime Minister has announced an ex-gratia payment for the families of those killed in the Karur stampede. TVK chief and CM Vijay has separately announced ₹20 lakh each for the bereaved families.",
-    "date": "May 14, 2026"
+    "id": "kar-sep28-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Tamil Nadu government forms one-member commission to investigate stampede at a rally in Karur",
+    "title_ta": "",
+    "summary": "Tamil Nadu government forms one-member commission to investigate stampede at a rally in Karur",
+    "summary_ta": "",
+    "date": "September 28, 2025"
   },
   {
-    "id": "krr-may14-004",
-    "category": "Politics",
-    "image": "/news/2026-05-08/mla-meeting.jpg",
-    "title": "Udhayanidhi and EPS visit Karur Government Hospital, meet injured",
-    "summary": "Deputy CM Udhayanidhi Stalin and LoP Edappadi K. Palaniswami separately visited Karur Government Hospital to meet those injured in the stampede and assured strict preventive measures.",
-    "date": "May 14, 2026"
+    "id": "kar-mar15-004",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "TVK Chief Appears Before CBI For 3rd Round Of Questioning In Karur Stampede",
+    "title_ta": "",
+    "summary": "TVK Chief Appears Before CBI For 3rd Round Of Questioning In Karur Stampede",
+    "summary_ta": "",
+    "date": "March 15, 2026"
   },
   {
-    "id": "krr-may14-005",
-    "category": "Business",
-    "image": "/news/2026-05-14/karur-handloom.jpg",
-    "title": "Karur handloom exporters briefed on India's free trade agreements",
-    "summary": "The Textile Export Facilitation Centre organised a training session for Karur handloom exporters on maximising export potential through India's 17 free trade agreements, inaugurated by Customs Commissioner Bharat Prakash.",
-    "date": "May 14, 2026"
+    "id": "kar-apr14-005",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Promises, scepticism and unanswered questions: How Karur remembers TVK stampede deaths",
+    "title_ta": "",
+    "summary": "Promises, scepticism and unanswered questions: How Karur remembers TVK stampede deaths",
+    "summary_ta": "",
+    "date": "April 14, 2026"
   },
   {
-    "id": "krr-may14-006",
-    "category": "Governance",
-    "image": "/news/2026-05-14/dharmapuri-collector.jpg",
-    "title": "DVAC arrests RTO in Karur in disproportionate assets case",
-    "summary": "DVAC officials have arrested the Karur RTO in a disproportionate assets case after simultaneous searches at multiple locations linked to the officer.",
-    "date": "May 14, 2026"
-  },
-  {
-    "id": "krr-may14-007",
-    "category": "Politics",
-    "image": "/news/2026-05-08/political-rally.jpg",
-    "title": "DMK wins two seats in Karur district; AIADMK takes Karur main",
-    "summary": "DMK has won two assembly seats in Karur district in the 2026 elections, while AIADMK's MR Vijayabhaskar has won the Karur main constituency in a closely watched contest.",
-    "date": "May 14, 2026"
+    "id": "kar-sep28-006",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Vijay rally crush: At least 39 killed at political event in Tamil Nadu",
+    "title_ta": "",
+    "summary": "Vijay rally crush: At least 39 killed at political event in Tamil Nadu",
+    "summary_ta": "",
+    "date": "September 28, 2025"
   }
 ]

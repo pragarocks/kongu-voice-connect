@@ -1,51 +1,68 @@
 [
   {
-    "id": "ngs-may14-001",
-    "category": "Wildlife",
+    "id": "nil-dec12-001",
+    "category": "News",
     "featured": true,
-    "image": "/news/2026-05-14/elephant-attack.jpg",
-    "title": "Two killed in elephant attacks in the Nilgiris; ₹50,000 interim aid released",
-    "summary": "A temple priest near an abandoned stone quarry in Mudumalai Tiger Reserve and a youth returning from a temple festival near Kotagiri were killed in separate elephant attacks. The Forest Department has released ₹50,000 as interim compensation to each family.",
-    "date": "May 14, 2026"
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Ooty shivers amid sharp dip in temperatures, frost blankets Tamil Nadu's Nilgiris",
+    "title_ta": "",
+    "summary": "Ooty shivers amid sharp dip in temperatures, frost blankets Tamil Nadu's Nilgiris",
+    "summary_ta": "",
+    "date": "December 12, 2025"
   },
   {
-    "id": "ngs-may14-002",
-    "category": "Weather",
-    "image": "/news/2026-05-14/nilgiris-rain.jpg",
-    "title": "Nilgiris under heavy rainfall warning on May 14, 15 and 17",
-    "summary": "The Nilgiris district has been placed under a heavy rainfall warning on May 14, 15 and 17 as a low-pressure system is set to trigger widespread rainfall across Tamil Nadu's ghat districts.",
-    "date": "May 14, 2026"
+    "id": "nil-apr23-002",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Tamil Nadu election 2026: High voter turnout in Nilgiris",
+    "title_ta": "",
+    "summary": "Tamil Nadu election 2026: High voter turnout in Nilgiris",
+    "summary_ta": "",
+    "date": "April 23, 2026"
   },
   {
-    "id": "ngs-may14-003",
-    "category": "Politics",
-    "image": "/news/2026-05-08/political-rally.jpg",
-    "title": "TVK draws a blank in the Nilgiris; DMK wins two, BJP one",
-    "summary": "TVK has drawn a blank in the Nilgiris district in the 2026 assembly elections. DMK has won two seats including Valparai after 30 years, while BJP has bagged one.",
-    "date": "May 14, 2026"
+    "id": "nil-apr24-003",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Ajjoor villagers in Ooty boycott polls over land issues, later vote NOTA to protest official apathy",
+    "title_ta": "",
+    "summary": "Ajjoor villagers in Ooty boycott polls over land issues, later vote NOTA to protest official apathy",
+    "summary_ta": "",
+    "date": "April 24, 2026"
   },
   {
-    "id": "ngs-may14-004",
-    "category": "Health",
-    "image": "/news/2026-05-14/dharmapuri-collector.jpg",
-    "title": "District Collector inaugurates renovated male in-patient ward at Coonoor hospital",
-    "summary": "The District Collector inaugurated the renovated male in-patient ward at Coonoor Government Lawley Hospital, with upgraded oxygen lines, beds and patient amenities.",
-    "date": "May 14, 2026"
+    "id": "nil-jul22-004",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Nilgiris Tibetan Refugee Welfare Association Observes His Holiness' 90th Birthday & its Golden Jubil",
+    "title_ta": "",
+    "summary": "Nilgiris Tibetan Refugee Welfare Association Observes His Holiness' 90th Birthday & its Golden Jubil",
+    "summary_ta": "",
+    "date": "July 22, 2025"
   },
   {
-    "id": "ngs-may14-005",
-    "category": "Environment",
-    "image": "/news/2026-05-14/nilgiris-rain.jpg",
-    "title": "Nilgiris forest fire totally contained, says state government",
-    "summary": "The Tamil Nadu government has confirmed that the recent Nilgiris forest fire has been totally contained. Cooling operations are continuing as a precaution.",
-    "date": "May 14, 2026"
+    "id": "nil-apr29-005",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "5,000 acres charred, fresh blaze under control. Why Nilgiris forest fires are more intense this year",
+    "title_ta": "",
+    "summary": "5,000 acres charred, fresh blaze under control. Why Nilgiris forest fires are more intense this year",
+    "summary_ta": "",
+    "date": "April 29, 2026"
   },
   {
-    "id": "ngs-may14-006",
-    "category": "Education",
-    "image": "/news/2026-05-14/panchayat-award.jpg",
-    "title": "Government Polytechnic College Ooty admissions open for 2026-27",
-    "summary": "Student admissions are now underway at the Government Polytechnic College, Ooty, for the academic year 2026-2027. The institution has expanded its diploma intake this year.",
-    "date": "May 14, 2026"
+    "id": "nil-may4-006",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Udhagamandalam election results 2026: BJP's Bhojarajan M with with 48,488 votes",
+    "title_ta": "",
+    "summary": "Udhagamandalam election results 2026: BJP's Bhojarajan M with with 48,488 votes",
+    "summary_ta": "",
+    "date": "May 4, 2026"
   }
 ]
