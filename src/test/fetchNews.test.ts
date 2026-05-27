@@ -7,6 +7,7 @@ const {
   extractTag,
   stripHTML,
   decodeHTMLEntities,
+  cleanTitle,
   detectProvider,
   formatDate,
   generateId,
@@ -18,6 +19,7 @@ const {
   callOpenAI,
   callGemini,
   KEEP_DAYS,
+  CATEGORY_IMAGES,
 } = require('../../scripts/fetch-news.cjs');
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
@@ -101,6 +103,84 @@ describe('parseRSSXML', () => {
   it('handles malformed XML gracefully (returns whatever it can parse)', () => {
     expect(() => parseRSSXML('not xml at all')).not.toThrow();
     expect(parseRSSXML('not xml at all')).toEqual([]);
+  });
+
+  // This is the exact bug that was live on the site:
+  // Google News RSS encodes its description as HTML entities.
+  // If we strip before decoding, &lt;a href=...&gt; survives as <a href=...>.
+  it('strips HTML when description uses entity-encoded HTML (real Google News format)', () => {
+    const xml = `<rss><channel><item>
+      <title>Heavy rain hits Erode - The Hindu</title>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/abc&quot;&gt;Heavy rain hits Erode&lt;/a&gt;&amp;nbsp;&lt;font color=&quot;#6f6f6f&quot;&gt;The Hindu&lt;/font&gt;</description>
+      <pubDate>Wed, 27 May 2026 10:00:00 +0000</pubDate>
+    </item></channel></rss>`;
+    const [item] = parseRSSXML(xml);
+    // Must NOT contain any raw HTML tags in the output
+    expect(item.description).not.toMatch(/<[^>]+>/);
+    expect(item.description).not.toContain('&lt;');
+    expect(item.description).not.toContain('href=');
+    // Should contain the actual text content
+    expect(item.description).toContain('Heavy rain hits Erode');
+  });
+});
+
+// ─── cleanTitle ───────────────────────────────────────────────────────────────
+
+describe('cleanTitle', () => {
+  it('strips a single-word source suffix', () => {
+    expect(cleanTitle('Heavy rain hits Erode - PTI')).toBe('Heavy rain hits Erode');
+  });
+
+  it('strips a multi-word source suffix (≤ 5 words)', () => {
+    expect(cleanTitle('Tiruppur court sentences labourers - News On AIR')).toBe('Tiruppur court sentences labourers');
+  });
+
+  it('strips "The Hindu" source suffix', () => {
+    expect(cleanTitle('CM wins election - The Hindu')).toBe('CM wins election');
+  });
+
+  it('strips "The Times of India" source suffix (4 words)', () => {
+    expect(cleanTitle('Flood alert in Nilgiris - The Times of India')).toBe('Flood alert in Nilgiris');
+  });
+
+  it('keeps a title with no hyphen unchanged', () => {
+    expect(cleanTitle('Erode turmeric market update')).toBe('Erode turmeric market update');
+  });
+
+  it('keeps hyphenated titles where last segment is > 5 words', () => {
+    // Last segment has 6 words — should not be stripped
+    const title = 'Minister says one two three four five six';
+    expect(cleanTitle(title)).toBe(title);
+  });
+
+  it('truncates the result to 100 characters', () => {
+    const long = 'A'.repeat(50) + ' - ' + 'B'.repeat(60);
+    expect(cleanTitle(long).length).toBeLessThanOrEqual(100);
+  });
+
+  it('handles title that is exactly " - Source" with no leading text', () => {
+    // Edge case: just a source, no real title
+    const result = cleanTitle(' - PTI');
+    expect(typeof result).toBe('string');
+  });
+});
+
+// ─── CATEGORY_IMAGES ──────────────────────────────────────────────────────────
+
+describe('CATEGORY_IMAGES', () => {
+  it('has an entry for every major category', () => {
+    const required = ['Weather', 'Politics', 'Business', 'Education', 'Health',
+      'Crime', 'Infrastructure', 'Development', 'Governance', 'Sports',
+      'Agriculture', 'Wildlife', 'Accident', 'Policy', 'News'];
+    for (const cat of required) {
+      expect(CATEGORY_IMAGES[cat], `Missing image for category: ${cat}`).toBeTruthy();
+    }
+  });
+
+  it('all values are https Unsplash URLs', () => {
+    for (const [cat, url] of Object.entries(CATEGORY_IMAGES)) {
+      expect(url, `Bad URL for ${cat}`).toMatch(/^https:\/\/images\.unsplash\.com\//);
+    }
   });
 });
 
@@ -387,8 +467,9 @@ describe('buildFallbackArticle', () => {
     expect(buildFallbackArticle(item).summary).toBe('Short.');
   });
 
-  it('uses title as summary when description is empty', () => {
-    const item = { title: 'Some headline', description: '' };
+  it('uses cleaned title as summary when description is empty', () => {
+    const item = { title: 'Some headline - The Hindu', description: '' };
+    // cleanTitle strips "- The Hindu", so summary should be the cleaned title
     expect(buildFallbackArticle(item).summary).toBe('Some headline');
   });
 

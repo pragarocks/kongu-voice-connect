@@ -20,7 +20,9 @@ import mainNews from "@/data/news/main.json";
 interface RawNews {
   id: string;
   title: string;
+  title_ta?: string;   // written by auto-fetch script when AI is available
   summary: string;
+  summary_ta?: string; // written by auto-fetch script when AI is available
   category: string;
   date: string;
   featured?: boolean;
@@ -65,10 +67,10 @@ const DISTRICT_LABEL: Record<string, string> = {
 function toDisplay(item: RawNews, district: string, idx: number): DisplayArticle {
   return {
     id: `${district}-${item.id}`,
-    title_en: item.title,
-    title_ta: item.title,
+    title_en:   item.title,
+    title_ta:   item.title_ta  || item.title,   // use AI-generated Tamil if present
     summary_en: item.summary,
-    summary_ta: item.summary,
+    summary_ta: item.summary_ta || item.summary, // use AI-generated Tamil if present
     district: DISTRICT_LABEL[district] ?? district,
     category: item.category,
     date: item.date,
@@ -98,15 +100,25 @@ const sources: Array<[string, RawNews[]]> = [
   ["dharmapuri", dharmapuriNews as RawNews[]],
 ];
 
-// Track featured IDs from raw JSON before transforming
+// Build aggregated feed, deduplicating cross-district articles by normalised title
+// (the auto-fetch script already deduplicates at write time, but this guards against
+// older JSON files that may still share the same regional story).
 const featuredIds = new Set<string>();
-const allNews: DisplayArticle[] = sources.flatMap(([district, items]) =>
-  items.map((it, i) => {
-    const article = toDisplay(it, district, i);
-    if (it.featured) featuredIds.add(article.id);
-    return article;
-  })
-);
+const allNews: DisplayArticle[] = [];
+{
+  const seenTitles = new Set<string>();
+  for (const [district, items] of sources) {
+    let localIdx = 0;
+    for (const it of items as RawNews[]) {
+      const key = it.title.toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 50);
+      if (seenTitles.has(key)) continue;
+      seenTitles.add(key);
+      const article = toDisplay(it, district, localIdx++);
+      if (it.featured) featuredIds.add(article.id);
+      allNews.push(article);
+    }
+  }
+}
 
 const sortedNews = [...allNews].sort(sortByDateDesc);
 
