@@ -1,7 +1,7 @@
 {
   "section": "Region",
   "section_ta": "கொங்கு மண்டலம்",
-  "updated": "2026-05-14",
+  "updated": "2026-05-27",
   "hero": {
     "id": "main-hero-may14",
     "title_en": "GD Naidu flyover to remain shut on nights of May 14-18 as Coimbatore enforces traffic restrictions",
@@ -15,101 +15,141 @@
   "trending": [
     {
       "id": "main-trd-001",
-      "title_en": "Over 60 TASMAC outlets in Coimbatore district identified for closure after state directive",
-      "title_ta": "கோயம்புத்தூர் மாவட்டத்தில் 60+ TASMAC கடைகள் மூட அடையாளம்",
-      "summary_en": "More than 60 TASMAC liquor outlets across Coimbatore district have been identified for closure following a fresh state government directive on phased prohibition.",
-      "summary_ta": "மாநில அரசின் புதிய உத்தரவின்படி கோயம்புத்தூர் மாவட்டத்தில் 60-க்கும் மேற்பட்ட TASMAC கடைகள் மூடப்படுவதற்காக அடையாளம் காணப்பட்டுள்ளன.",
-      "district": "Coimbatore",
-      "category": "Policy",
-      "date": "May 14, 2026",
-      "image": "/news/2026-05-14/tasmac-closure.jpg"
+      "title_en": "All eyes on Kongu region ahead of Tamil Nadu assembly polls - The Times of India",
+      "title_ta": "",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQRzRqNGZsakJrRVZ2NXFtcEhMdlk3cW5IOHdKQ0JBX2tXYXJQMVBxTEdVbm5CZm9Bem1LQmp3SVhOLTJ4YmlYN2JfdDZiOURHR2sxS0oyTDBRT0tWRjlxQy02MXZCNUFkRDJScEZxNG9CeW5tdzQ0ZHR0VFFNTU...",
+      "summary_ta": "",
+      "district": "Region",
+      "category": "News",
+      "date": "April 6, 2026"
     },
     {
       "id": "main-trd-002",
-      "title_en": "Two killed in elephant attacks in the Nilgiris; Forest Dept releases ₹50,000 interim aid",
-      "title_ta": "நீலகிரியில் யானை தாக்குதலில் இருவர் பலி; வனத்துறை ₹50,000 உதவித்தொகை",
-      "summary_en": "A temple priest near Mudumalai and a youth near Kotagiri were killed in separate elephant attacks. The Forest Department has released ₹50,000 as interim compensation to each family.",
-      "summary_ta": "முதுமலை அருகே ஒரு கோயில் பூசாரி மற்றும் கோத்தகிரி அருகே ஒரு இளைஞர் தனித்தனி யானை தாக்குதல்களில் உயிரிழந்தனர். ஒவ்வொரு குடும்பத்திற்கும் ₹50,000 இடைக்கால உதவித்தொகை வனத்துறையால் வழங்கப்பட்டுள்ளது.",
-      "district": "Nilgiris",
-      "category": "Wildlife",
-      "date": "May 14, 2026",
-      "image": "/news/2026-05-14/elephant-attack.jpg"
+      "title_en": "Ground report: Caste, industry, and the Vijay factor in Kongu Nadu - The News Minute",
+      "title_ta": "",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUVERUphUkRFcVFScFI5YzM3dkotV3VoQkV3Nll5azJEOWltaVJlY3o1TEdacE9HY2s4U1BVZGdHcWwyRkY3WjdMNGFreUFDbng0OHJsOVRvNHZ3TTlzUEk0UVRzcTJiN0s4YmpxcTBabEZocnpTaTJLWU5zbm...",
+      "summary_ta": "",
+      "district": "Region",
+      "category": "News",
+      "date": "April 20, 2026"
     },
     {
       "id": "main-trd-003",
-      "title_en": "Six killed including police constable as SUV rams parked lorry in Tiruppur",
-      "title_ta": "திருப்பூரில் நிறுத்தப்பட்ட லாரி மீது மோதிய கார்: காவலர் உட்பட 6 பேர் பலி",
-      "summary_en": "A speeding SUV crashed into a parked lorry near the Kurukkathi check post on the Tiruchi-Coimbatore NH in Tiruppur district, killing six including a police constable. CM Vijay has announced ex-gratia.",
-      "summary_ta": "திருச்சி-கோயம்புத்தூர் தேசிய நெடுஞ்சாலையில் குருக்கத்தி சோதனைச்சாவடி அருகே கார் ஒன்று லாரி மீது மோதியதில் காவலர் உட்பட ஆறு பேர் உயிரிழந்தனர். முதல்வர் விஜய் இழப்பீடு அறிவித்துள்ளார்.",
-      "district": "Tiruppur",
-      "category": "Accident",
-      "date": "May 14, 2026",
-      "image": "/news/2026-05-14/tiruppur-accident.jpg"
+      "title_en": "Kongu zone votes in record numbers: Why it won't be a good news for AIADMK and TVK - theweek.in",
+      "title_ta": "",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQQi1MUG1FeFAwbzFYcGJIUHlEQ3l5NXprc2RFUVlRNVhHWGw1dUJJVkhJcnJlQ2wwbldDYTdRclBNTmIyVHVFb2ZmdHJzbDNoOC0wRk1HcWR6Rkc0WUs3UEc1NlVWUTdRS2tsUEhuN1J6dFhrTnQzZm9xMjhkZz...",
+      "summary_ta": "",
+      "district": "Region",
+      "category": "News",
+      "date": "April 24, 2026"
     },
     {
       "id": "main-trd-004",
-      "title_en": "Coimbatore district panchayat bags national award for governance excellence",
-      "title_ta": "ஆட்சி சிறப்புக்காக தேசிய விருதைப் பெற்ற கோயம்புத்தூர் மாவட்ட பஞ்சாயத்து",
-      "summary_en": "Coimbatore has secured the third place nationally in the Panchayat Awards 2025, recognised for governance, service delivery and citizen participation.",
-      "summary_ta": "பஞ்சாயத்து விருதுகள் 2025-ல் கோயம்புத்தூர் தேசிய அளவில் மூன்றாம் இடத்தைப் பெற்றுள்ளது. நிர்வாகம், சேவை வழங்கல் மற்றும் மக்கள் பங்கேற்புக்காக கௌரவிக்கப்பட்டது.",
-      "district": "Coimbatore",
-      "category": "Governance",
-      "date": "May 14, 2026",
-      "image": "/news/2026-05-14/panchayat-award.jpg"
+      "title_en": "Congress from Kongu Vellala Gounder community sought recognition in the party - The New Indian Expre",
+      "title_ta": "",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVFhsaUdSOUU4emVLbUZ4YWtJbE1rdUxSQk5HWGhBdjJnWEg4OEI4SU5qRG45WmJmb09fdTBOQi1CSDZwdWtXQURUREd6LTJkY2tla2xJdzNwU05lRVNJSzVJcHp2Q0lLWDZpbnlYME9VNTdRbGJuSUtPNjhqbm...",
+      "summary_ta": "",
+      "district": "Region",
+      "category": "News",
+      "date": "April 21, 2026"
     },
     {
       "id": "main-trd-005",
-      "title_en": "Life convict Mohammed Hussain escapes from Salem govt hospital; manhunt underway",
-      "title_ta": "சேலம் அரசு மருத்துவமனையில் இருந்து ஆயுள் கைதி தப்பினார்; தீவிர தேடுதல்",
-      "summary_en": "Life convict Mohammed Hussain escaped from Salem Government Mohan Kumaramangalam Medical College Hospital while undergoing treatment. Two warders have been suspended and search teams sent to three districts.",
-      "summary_ta": "சிகிச்சை பெற்று வந்த ஆயுள் கைதி முகமது ஹுசேன் சேலம் அரசு மோகன் குமாரமங்கலம் மருத்துவமனையில் இருந்து தப்பினார். இரண்டு சிறை காவலர்கள் இடைநீக்கம் செய்யப்பட்டு மூன்று மாவட்டங்களில் தேடுதல் தொடங்கப்பட்டுள்ளது.",
-      "district": "Salem",
-      "category": "Crime",
-      "date": "May 14, 2026",
-      "image": "/news/2026-05-14/salem-escape.jpg"
+      "title_en": "Kongu Region Leads with 20% Turnout in Early Tamil Nadu Polls - The Avenue Mail",
+      "title_ta": "",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPZEwwY1ZYV0ljeTAtOUdraTlxUHdXdzBmTEg0N0Uyb0FtQXk4M0t2eU1CSGJTdXY3NnJwMVVMVzZXU012b29XN2NBXzJTUjZiX29iMjRKY2ZmejdVVWZfTXprQXlYam5jU2FZUnFPV1gtVjVPWDRhOEQ1Mko1V2...",
+      "summary_ta": "",
+      "district": "Region",
+      "category": "News",
+      "date": "April 23, 2026"
     },
     {
       "id": "main-trd-006",
-      "title_en": "Amul and Mother Dairy hike milk prices by ₹2 per litre from today",
-      "title_ta": "அமுல் மற்றும் மதர் டேரி பால் விலை லிட்டருக்கு ₹2 உயர்வு",
-      "summary_en": "Amul and Mother Dairy have raised milk prices by ₹2 per litre across all major variants effective today, citing higher procurement and feed costs.",
-      "summary_ta": "உற்பத்தி மற்றும் கால்நடை தீவன செலவுகள் அதிகரித்துள்ளதை காரணம் காட்டி அமுல் மற்றும் மதர் டேரி இன்று முதல் பால் விலையை லிட்டருக்கு ₹2 உயர்த்தியுள்ளன.",
+      "title_en": "Western Tamil Nadu: The new battleground ahead of 2026 Assembly polls - Moneycontrol.com",
+      "title_ta": "",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQT1UzVGhuV2Z5T3VvWjFweDdkdnNhLWhLZWN0Wks4Yk9zRTBhQUpFMFNramtaN25LM1E2c2MxTVhKbzJ6WjFBOWQyM2FiOVhPMlZxR2VyaXp6RGx5NVYwXzVHMUp6Qmd3aW1LYTFlNS1TZmJvTzdqRExCYk5wek...",
+      "summary_ta": "",
       "district": "Region",
-      "category": "Business",
-      "date": "May 14, 2026",
-      "image": "/news/2026-05-14/milk-price.jpg"
+      "category": "News",
+      "date": "December 24, 2025"
     },
     {
       "id": "main-trd-007",
-      "title_en": "Heavy rain warning for Nilgiris on May 14, 15 and 17; orange alert issued",
-      "title_ta": "மே 14, 15, 17-ல் நீலகிரியில் கனமழை எச்சரிக்கை: ஆரஞ்சு எச்சரிக்கை",
-      "summary_en": "An orange alert has been issued for the Nilgiris with heavy rain forecast on May 14, 15 and 17. A low-pressure system is expected to trigger widespread rainfall across western Tamil Nadu.",
-      "summary_ta": "மே 14, 15, 17 ஆகிய நாட்களில் நீலகிரியில் கனமழை பெய்ய வாய்ப்பு உள்ளதால் ஆரஞ்சு எச்சரிக்கை விடப்பட்டுள்ளது. மேற்கு தமிழகம் முழுவதும் காற்றழுத்த தாழ்வு நிலையால் மழை வலுக்கும்.",
-      "district": "Nilgiris",
-      "category": "Weather",
-      "date": "May 14, 2026",
-      "image": "/news/2026-05-14/nilgiris-rain.jpg"
+      "title_en": "V Senthil Balaji contests Coimbatore South seat in Tamil Nadu polls - The News Mill",
+      "title_ta": "",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOTzR3MlhabV9YbkZPbnVyRUZzMy1DZWpsczFvSHE1Y2dHREZ4VkotcUd5Z1lhWlBmdW5vZE50cDJqRmxjSi1rV0NqUENoamhpanFtb3dZbVNlSUtGT1NYNGU3cmY4U3BkYk5jUktzbnJ0TE1fWVNkam03Y1JSU1...",
+      "summary_ta": "",
+      "district": "Region",
+      "category": "News",
+      "date": "April 12, 2026"
     },
     {
       "id": "main-trd-008",
-      "title_en": "Karur stampede probe: Justice Aruna Jagadeesan visits site, TVK general secretary booked",
-      "title_ta": "கரூர் நெரிசல் விசாரணை: நீதிபதி அருணா ஜெகதீசன் இடம் ஆய்வு; டிவிகே பொதுச்செயலாளர் மீது வழக்கு",
-      "summary_en": "Justice Aruna Jagadeesan, heading the one-member commission, visited the Karur rally stampede site. TVK General Secretary N. Anand has been booked, while PM and CM have announced ex-gratia for the deceased families.",
-      "summary_ta": "ஒரு நபர் ஆணையத்தை வழிநடத்தும் நீதிபதி அருணா ஜெகதீசன் கரூர் பேரணியில் நெரிசல் ஏற்பட்ட இடத்தை ஆய்வு செய்தார். டிவிகே பொதுச்செயலாளர் என். ஆனந்த் மீது வழக்கு பதியப்பட்டுள்ளது. இறந்தவர் குடும்பங்களுக்கு பிரதமர் மற்றும் முதல்வர் இழப்பீடு அறிவித்துள்ளனர்.",
-      "district": "Karur",
-      "category": "Politics",
-      "date": "May 14, 2026",
-      "image": "/news/2026-05-14/karur-stampede.jpg"
+      "title_en": "Kongu region gets Rs 37.5crore cancer care centre - The Times of India",
+      "title_ta": "",
+      "summary_en": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOU0tIOW1fQ29FZ3NGRXF3cm9HMXJSNnJ4NXBsYWlXX3NMS3FPUU5Ub0hEU3dpYnBVNVdkT1dqZkIzOVpISDdJQThqUUFlajNpZWtEVk9EOE8xU3pJZGF1LWlnQ2d0NU9OeWJVT0h1eXlSQnU4TWZNXzdSUnpOcH...",
+      "summary_ta": "",
+      "district": "Region",
+      "category": "News",
+      "date": "February 24, 2026"
     }
   ],
   "districts": [
-    {"slug": "coimbatore", "name_en": "Coimbatore", "name_ta": "கோயம்புத்தூர்", "tagline_en": "Manchester of South India", "tagline_ta": "தென்னிந்தியாவின் மான்செஸ்டர்"},
-    {"slug": "tiruppur",   "name_en": "Tiruppur",   "name_ta": "திருப்பூர்",   "tagline_en": "Knitwear Capital", "tagline_ta": "ஆடைத் தலைநகரம்"},
-    {"slug": "erode",      "name_en": "Erode",      "name_ta": "ஈரோடு",        "tagline_en": "Turmeric City",    "tagline_ta": "மஞ்சள் நகரம்"},
-    {"slug": "salem",      "name_en": "Salem",      "name_ta": "சேலம்",         "tagline_en": "Steel City",       "tagline_ta": "இரும்பு நகரம்"},
-    {"slug": "namakkal",   "name_en": "Namakkal",   "name_ta": "நாமக்கல்",      "tagline_en": "Egg & Lorry Hub",  "tagline_ta": "முட்டை மற்றும் லாரி மையம்"},
-    {"slug": "nilgiris",   "name_en": "Nilgiris",   "name_ta": "நீலகிரி",       "tagline_en": "Queen of Hills",   "tagline_ta": "மலை ராணி"},
-    {"slug": "karur",      "name_en": "Karur",      "name_ta": "கரூர்",         "tagline_en": "Home Textile Hub", "tagline_ta": "வீட்டு ஜவுளி மையம்"},
-    {"slug": "dharmapuri", "name_en": "Dharmapuri", "name_ta": "தர்மபுரி",      "tagline_en": "Mango Country",    "tagline_ta": "மாம்பழ நாடு"}
+    {
+      "slug": "coimbatore",
+      "name_en": "Coimbatore",
+      "name_ta": "கோயம்புத்தூர்",
+      "tagline_en": "Manchester of South India",
+      "tagline_ta": "தென்னிந்தியாவின் மான்செஸ்டர்"
+    },
+    {
+      "slug": "tiruppur",
+      "name_en": "Tiruppur",
+      "name_ta": "திருப்பூர்",
+      "tagline_en": "Knitwear Capital",
+      "tagline_ta": "ஆடைத் தலைநகரம்"
+    },
+    {
+      "slug": "erode",
+      "name_en": "Erode",
+      "name_ta": "ஈரோடு",
+      "tagline_en": "Turmeric City",
+      "tagline_ta": "மஞ்சள் நகரம்"
+    },
+    {
+      "slug": "salem",
+      "name_en": "Salem",
+      "name_ta": "சேலம்",
+      "tagline_en": "Steel City",
+      "tagline_ta": "இரும்பு நகரம்"
+    },
+    {
+      "slug": "namakkal",
+      "name_en": "Namakkal",
+      "name_ta": "நாமக்கல்",
+      "tagline_en": "Egg & Lorry Hub",
+      "tagline_ta": "முட்டை மற்றும் லாரி மையம்"
+    },
+    {
+      "slug": "nilgiris",
+      "name_en": "Nilgiris",
+      "name_ta": "நீலகிரி",
+      "tagline_en": "Queen of Hills",
+      "tagline_ta": "மலை ராணி"
+    },
+    {
+      "slug": "karur",
+      "name_en": "Karur",
+      "name_ta": "கரூர்",
+      "tagline_en": "Home Textile Hub",
+      "tagline_ta": "வீட்டு ஜவுளி மையம்"
+    },
+    {
+      "slug": "dharmapuri",
+      "name_en": "Dharmapuri",
+      "name_ta": "தர்மபுரி",
+      "tagline_en": "Mango Country",
+      "tagline_ta": "மாம்பழ நாடு"
+    }
   ]
 }

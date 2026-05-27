@@ -1,59 +1,62 @@
 [
   {
-    "id": "slm-may14-001",
-    "category": "Crime",
+    "id": "sal-may26-001",
+    "category": "News",
     "featured": true,
-    "image": "/news/2026-05-14/salem-escape.jpg",
-    "title": "Two teams formed in Salem to trace escaped life convict Mohammed Hussain",
-    "summary": "Two special teams have been formed to trace life convict Mohammed Hussain who escaped from Salem Government Mohan Kumaramangalam Medical College Hospital while undergoing treatment for a piles-related ailment.",
-    "date": "May 14, 2026"
+    "title": "Farmers in Salem urge roll back of fertilizer price hike - The Hindu",
+    "title_ta": "",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTzhkUm91MmRRS3Axd0NRT19oSnZpTDB2Nk1WWmNoOThhZFkwMi13UkNlNFhFYzFPZjVtN0F3TmR0Y3VDelpWRzFBcU1FUnIxMUNhV00wQ05pTDVONk1NalBlRmpUUzBselZ4aUp4Wkl0R2FueGpEQWZ2QUkzSG...",
+    "summary_ta": "",
+    "date": "May 26, 2026"
   },
   {
-    "id": "slm-may14-002",
-    "category": "Crime",
-    "image": "/news/2026-05-14/salem-escape.jpg",
-    "title": "Convict broke window and climbed down drainage pipe to escape Salem hospital",
-    "summary": "Investigators say convict Mohammed Hussain broke a window of the ward and climbed down a drainage pipe to escape from Salem Government Hospital. Two warders on duty have been suspended.",
-    "date": "May 14, 2026"
+    "id": "sal-may26-002",
+    "category": "News",
+    "featured": false,
+    "title": "Illam Thedi Kalvi volunteers in Salem seek permanent jobs - The New Indian Express",
+    "title_ta": "",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOdG1BdFhiNVFsUFJvcGhObTlFSy1QY2o4Y1RKd0tkS3gxOFFKVGcyWlVDVmEwQ2phdUZFdGV3ZF83RUotSUprMUcxcGZkOWhWbmlJSmd2T09QV0E1SkNhOURTZlpUaVBQX0g3eXhPYUtwN2lvT3VWdXNmT2tmZ1...",
+    "summary_ta": "",
+    "date": "May 26, 2026"
   },
   {
-    "id": "slm-may14-003",
-    "category": "Crime",
-    "image": "/news/2026-05-14/salem-escape.jpg",
-    "title": "Search operations intensified in Salem, Thanjavur and Coimbatore",
-    "summary": "Search operations have been intensified in Salem, Thanjavur and Coimbatore for the escaped life convict, who has more than 40 criminal cases pending against him. His wife is being questioned.",
-    "date": "May 14, 2026"
+    "id": "sal-may23-003",
+    "category": "News",
+    "featured": false,
+    "title": "Tamil Nadu weather update: Heavy rainfall likely to occur over Nilgiris, Coimbatore, Erode, Tiruppur",
+    "title_ta": "",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxNQVFFbW13Q3pFMWpic0JHRXJSRkFuV2QxclZiXzFNTHgyNU1NSTJwYkFRMmxYTUNEVDBJZl9xMGJmazlvV2hEaXNhTDBNR0VmSnlRREpXUTRxRkFUN1E5ZFJ3aFpNSkNiUUNVRFFQMmZCRlEtQzZtNnNNbC1WWl...",
+    "summary_ta": "",
+    "date": "May 23, 2026"
   },
   {
-    "id": "slm-may14-004",
-    "category": "Business",
-    "image": "/news/2026-05-08/salem-steel.jpg",
-    "title": "Salem Steel Plant divestment: SAIL agrees to give up 1,600 acres to TN",
-    "summary": "SAIL has agreed in principle to give up 1,600 acres of Salem Steel Plant land to the Tamil Nadu government, paving the way for a planned technical textiles park in Salem.",
-    "date": "May 14, 2026"
+    "id": "sal-feb25-004",
+    "category": "News",
+    "featured": false,
+    "title": "In Salem, Tamil Nadu, SUEZ will serve over 1 million people with quality drinking water, making it t",
+    "title_ta": "",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPejZuWmlSQnFWRU5rblRIb2p4MTZuVHE4YlRUQlRqSk9VS1Y4ZS1aUUpaakZibDNfV3U2Y08wbDlmaG94M1pfVmxiemc1RWxxdkFfbnFoVlBUR19oOW1UN1lqM1JlMkMtclpPYkhJaTE3ZFRUQlpHRDBaeUlmd3...",
+    "summary_ta": "",
+    "date": "February 25, 2026"
   },
   {
-    "id": "slm-may14-005",
-    "category": "Infrastructure",
-    "image": "/news/2026-05-14/hero-flyover-closure.jpg",
-    "title": "CMRL submits feasibility report for new MRTS lines in Salem",
-    "summary": "Chennai Metro Rail Limited has submitted the feasibility report for new MRTS lines in Salem. The report covers two corridors and an integrated multi-modal hub at the Salem junction.",
-    "date": "May 14, 2026"
+    "id": "sal-may4-005",
+    "category": "News",
+    "featured": false,
+    "title": "Salem (South) election results 2026: Vijay Tamilan of TVK beats DMK's Loganathan by 33,369 votes - T",
+    "title_ta": "",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQZDI2by0yeEZzS0NyZnlBdktLLU56U2dObWo2Vm9tRTc0X1hEMGZRREtPQTUyZzMzQmxVOUhCWEdfbWRLN1Rmdy1Wb2FsTVVlU05tZGZfM2lYMlVOODVDYzEtaFZhX28wM1F4bEM4VUxrQ01zMVBWaWNYVGw3Mz...",
+    "summary_ta": "",
+    "date": "May 4, 2026"
   },
   {
-    "id": "slm-may14-006",
-    "category": "Infrastructure",
-    "image": "/news/2026-05-14/dharmapuri-collector.jpg",
-    "title": "SUEZ wins 25-year concession to provide water services to over 1 million in Salem",
-    "summary": "SUEZ has won a 25-year concession to operate Salem's city-wide water distribution covering 91 sq km, including replacement of 1,800 km of ageing pipelines and 26 new service reservoirs.",
-    "date": "May 14, 2026"
-  },
-  {
-    "id": "slm-may14-007",
-    "category": "Weather",
-    "image": "/news/2026-05-14/namakkal-rain.jpg",
-    "title": "Heavy rain in Salem; Mettur dam expected to touch FRL",
-    "summary": "Heavy rainfall has disrupted normal life in Salem district, with the administration monitoring the Mettur dam which is expected to touch its Full Reservoir Level if rain continues.",
-    "date": "May 14, 2026"
+    "id": "sal-may21-006",
+    "category": "News",
+    "featured": false,
+    "title": "Meet the 23 new Ministers in Tamil Nadu CM Vijay’s Cabinet expanded on May 21, 2026 - The Hindu",
+    "title_ta": "",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQN3Q0V2Vpcm5EdDZGY0VsTVVoRHE3MTc2RFFsTGNjekVCaXc0cnRoQ08zeDVDWFNaY2VjeHNTbVM1OVFiQ2tkX3NYand3TV9zYkZTWEJKOU1pMUsySFItaXJrZDh5aDRyRFBHYlNlRjN6YjRjMlJQTG55Um1GMU...",
+    "summary_ta": "",
+    "date": "May 21, 2026"
   }
 ]
