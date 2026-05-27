@@ -24,6 +24,25 @@ const MAX_TRENDING = 8;
 const KEEP_DAYS = 7;
 const AI_CALL_DELAY_MS = 1200;
 
+// One reliable Unsplash photo per category — used when AI doesn't supply an image
+const CATEGORY_IMAGES = {
+  Weather:        'https://images.unsplash.com/photo-1504608524841-42584120d693?w=800&q=80',
+  Politics:       'https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800&q=80',
+  Business:       'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80',
+  Education:      'https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80',
+  Health:         'https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=800&q=80',
+  Crime:          'https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&q=80',
+  Infrastructure: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80',
+  Development:    'https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=800&q=80',
+  Governance:     'https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=800&q=80',
+  Sports:         'https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=800&q=80',
+  Agriculture:    'https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=800&q=80',
+  Wildlife:       'https://images.unsplash.com/photo-1474511320723-9a56873867b5?w=800&q=80',
+  Accident:       'https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?w=800&q=80',
+  Policy:         'https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80',
+  News:           'https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80',
+};
+
 // ─── RSS Parsing ──────────────────────────────────────────────────────────────
 
 function extractTag(xml, tag) {
@@ -53,6 +72,18 @@ function decodeHTMLEntities(str) {
     .replace(/&#(\d+);/g, (_, code) => String.fromCharCode(parseInt(code, 10)));
 }
 
+// Google News RSS appends "- Source Name" to every article title.
+// Strip it when the last segment after " - " is ≤ 5 words (i.e. looks like a publication name).
+function cleanTitle(title) {
+  const parts = title.split(' - ');
+  if (parts.length < 2) return title.slice(0, 100);
+  const lastPart = parts[parts.length - 1].trim();
+  if (lastPart.split(/\s+/).length <= 5) {
+    return parts.slice(0, -1).join(' - ').trim().slice(0, 100);
+  }
+  return title.slice(0, 100);
+}
+
 function parseRSSXML(xml) {
   const items = [];
   const itemRe = /<item>([\s\S]*?)<\/item>/gi;
@@ -60,11 +91,14 @@ function parseRSSXML(xml) {
 
   while ((match = itemRe.exec(xml)) !== null) {
     const chunk = match[1];
-    const title       = decodeHTMLEntities(stripHTML(extractTag(chunk, 'title'))).trim();
-    const description = decodeHTMLEntities(stripHTML(extractTag(chunk, 'description'))).trim();
+    // IMPORTANT: decode entities first, THEN strip HTML.
+    // Google News RSS encodes its description as HTML entities (e.g. &lt;a href=&quot;...&quot;&gt;).
+    // If we strip before decoding the tags are invisible to stripHTML and survive into the output.
+    const title       = stripHTML(decodeHTMLEntities(extractTag(chunk, 'title'))).trim();
+    const description = stripHTML(decodeHTMLEntities(extractTag(chunk, 'description'))).trim();
     const link        = extractTag(chunk, 'link').trim();
     const pubDate     = extractTag(chunk, 'pubDate').trim();
-    const source      = decodeHTMLEntities(stripHTML(extractTag(chunk, 'source'))).trim();
+    const source      = stripHTML(decodeHTMLEntities(extractTag(chunk, 'source'))).trim();
 
     if (title) {
       items.push({ title, description, link, pubDate, source });
@@ -75,6 +109,45 @@ function parseRSSXML(xml) {
 }
 
 // ─── HTTP ─────────────────────────────────────────────────────────────────────
+
+// Fetch the og:image (or twitter:image) from an article page.
+// Reads only the first 10 KB of HTML — enough to cover the <head> — so it's fast
+// even for heavy pages.  Returns null on any error or timeout.
+async function fetchArticleImage(url, timeoutMs = 5000) {
+  if (!url) return null;
+  try {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), timeoutMs);
+    const response = await fetch(url, {
+      redirect: 'follow',
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (compatible; KonguTimesBot/1.0)',
+        'Accept': 'text/html',
+      },
+      signal: controller.signal,
+    });
+    clearTimeout(timer);
+    if (!response.ok) return null;
+
+    // Slice to 10 KB — the <head> with meta tags is always within this range
+    const html = (await response.text()).slice(0, 10240);
+
+    // og:image handles both attribute orderings
+    const og = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i)
+            || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i);
+    if (og?.[1]?.startsWith('http')) return og[1];
+
+    // twitter:image as fallback
+    const tw = html.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i)
+            || html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']/i);
+    if (tw?.[1]?.startsWith('http')) return tw[1];
+
+    return null;
+  } catch {
+    // Timeout, network error, or bot-blocked — caller will use category fallback
+    return null;
+  }
+}
 
 async function fetchURL(url) {
   const response = await fetch(url, {
@@ -155,10 +228,12 @@ async function callGemini(prompt, apiKey) {
 }
 
 function buildFallbackArticle(item) {
-  const summary = item.description
-    ? item.description.slice(0, 220) + (item.description.length > 220 ? '...' : '')
-    : item.title;
-  return { title: item.title.slice(0, 100), title_ta: '', summary, summary_ta: '', category: 'News' };
+  const cleanedTitle = cleanTitle(item.title);
+  // After the parse-order fix, description is already plain text with no HTML tags.
+  // Prefer it as the summary; fall back to the cleaned title.
+  const raw = item.description || cleanedTitle;
+  const summary = raw.length > 220 ? raw.slice(0, 220) + '...' : raw;
+  return { title: cleanedTitle, title_ta: '', summary, summary_ta: '', category: 'News' };
 }
 
 const REWRITE_PROMPT = (title, description) =>
@@ -180,7 +255,7 @@ Return ONLY a JSON object with exactly these fields:
 async function rewriteArticle(item, provider, apiKey) {
   if (!provider) return buildFallbackArticle(item);
 
-  const prompt = REWRITE_PROMPT(item.title, item.description || item.title);
+  const prompt = REWRITE_PROMPT(cleanTitle(item.title), item.description || cleanTitle(item.title));
   let rawJson;
 
   try {
@@ -266,7 +341,7 @@ async function sleep(ms) {
   return new Promise(r => setTimeout(r, ms));
 }
 
-async function processDistrict(district, providerInfo) {
+async function processDistrict(district, providerInfo, globalSeenTitles) {
   console.log(`\nProcessing ${district.name}...`);
 
   let rssItems;
@@ -282,19 +357,39 @@ async function processDistrict(district, providerInfo) {
     return;
   }
 
-  const topItems = rssItems.slice(0, MAX_ARTICLES_PER_DISTRICT);
+  // Filter out articles already claimed by a previously-processed district
+  const uniqueItems = rssItems.filter(item => {
+    const key = normalizeTitle(item.title);
+    if (globalSeenTitles.has(key)) return false;
+    globalSeenTitles.add(key);
+    return true;
+  });
+
+  const topItems = uniqueItems.slice(0, MAX_ARTICLES_PER_DISTRICT);
+  if (!topItems.length) {
+    console.log('  All RSS items were cross-district duplicates — skipping');
+    return;
+  }
+
   const newArticles = [];
 
   for (let i = 0; i < topItems.length; i++) {
     const item = topItems[i];
     console.log(`  [${i + 1}/${topItems.length}] ${item.title.slice(0, 70)}`);
 
-    const rewritten = await rewriteArticle(item, providerInfo.provider, providerInfo.apiKey);
+    // Run AI rewrite and article image fetch in parallel — no extra wall-clock cost
+    const [rewritten, articleImage] = await Promise.all([
+      rewriteArticle(item, providerInfo.provider, providerInfo.apiKey),
+      fetchArticleImage(item.link),
+    ]);
+    const category = rewritten.category || 'News';
+    const image    = articleImage || CATEGORY_IMAGES[category] || CATEGORY_IMAGES.News;
 
     newArticles.push({
       id:         generateId(district.slug, i, item.pubDate),
-      category:   rewritten.category || 'News',
+      category,
       featured:   i === 0,
+      image,
       title:      rewritten.title,
       title_ta:   rewritten.title_ta || '',
       summary:    rewritten.summary,
@@ -334,7 +429,12 @@ async function processMainJSON(providerInfo) {
     const item = topItems[i];
     console.log(`  [${i + 1}/${topItems.length}] ${item.title.slice(0, 70)}`);
 
-    const rewritten = await rewriteArticle(item, providerInfo.provider, providerInfo.apiKey);
+    const [rewritten, articleImage] = await Promise.all([
+      rewriteArticle(item, providerInfo.provider, providerInfo.apiKey),
+      fetchArticleImage(item.link),
+    ]);
+    const trendCategory = rewritten.category || 'News';
+    const image         = articleImage || CATEGORY_IMAGES[trendCategory] || CATEGORY_IMAGES.News;
 
     trending.push({
       id:         `main-trd-${String(i + 1).padStart(3, '0')}`,
@@ -343,8 +443,9 @@ async function processMainJSON(providerInfo) {
       summary_en: rewritten.summary,
       summary_ta: rewritten.summary_ta || '',
       district:   'Region',
-      category:   rewritten.category || 'News',
+      category:   trendCategory,
       date:       formatDate(item.pubDate),
+      image,
     });
 
     if (i < topItems.length - 1) await sleep(AI_CALL_DELAY_MS);
@@ -370,8 +471,12 @@ async function main() {
   const providerInfo = detectProvider();
   console.log(`AI Provider: ${providerInfo.provider ?? 'none (raw RSS fallback)'}`);
 
+  // Share seen-titles across districts so the same regional story never
+  // ends up in multiple district JSON files (avoids homepage duplicates).
+  const globalSeenTitles = new Set();
+
   for (const district of DISTRICTS) {
-    await processDistrict(district, providerInfo);
+    await processDistrict(district, providerInfo, globalSeenTitles);
   }
 
   await processMainJSON(providerInfo);
@@ -386,6 +491,8 @@ module.exports = {
   extractTag,
   stripHTML,
   decodeHTMLEntities,
+  cleanTitle,
+  fetchArticleImage,
   detectProvider,
   formatDate,
   generateId,
@@ -398,6 +505,7 @@ module.exports = {
   callGemini,
   KEEP_DAYS,
   DISTRICTS,
+  CATEGORY_IMAGES,
 };
 
 if (require.main === module) {
