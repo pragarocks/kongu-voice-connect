@@ -1,25 +1,36 @@
 [
   {
-    "id": "tir-may26-002",
+    "id": "tir-apr19-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "The candidate Tamil Nadu’s angry textile hub of Tiruppur wants to defeat: Donald Trump",
+    "title_ta": "",
+    "summary": "The candidate Tamil Nadu’s angry textile hub of Tiruppur wants to defeat: Donald Trump",
+    "summary_ta": "",
+    "date": "April 19, 2026"
+  },
+  {
+    "id": "tir-apr23-006",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Tamil Nadu: Boer Community Welfare Association in Tiruppur announce election boycott",
+    "title_ta": "",
+    "summary": "Tamil Nadu: Boer Community Welfare Association in Tiruppur announce election boycott",
+    "summary_ta": "",
+    "date": "April 23, 2026"
+  },
+  {
+    "id": "tir-may26-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "title": "Just Now | சேலம், திருப்பூரில் டாஸ்மாக் ஊழியர்கள் போராட்டம் | Tiruppur | Tasmac Workers Protest",
     "title_ta": "",
     "summary": "Just Now | சேலம், திருப்பூரில் டாஸ்மாக் ஊழியர்கள் போராட்டம் | Tiruppur | Tasmac Workers Protest News18 Tamil",
     "summary_ta": "",
     "date": "May 26, 2026"
-  },
-  {
-    "id": "tir-apr15-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "title": "Tamil Nadu polls: Vijay’s Tiruppur rally called off after 15 faint in scorching heat",
-    "title_ta": "",
-    "summary": "Tamil Nadu polls: Vijay’s Tiruppur rally called off after 15 faint in scorching heat The Times of India",
-    "summary_ta": "",
-    "date": "April 15, 2026"
   },
   {
     "id": "tir-may23-001",

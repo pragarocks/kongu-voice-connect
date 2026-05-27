@@ -1,24 +1,46 @@
 [
   {
-    "id": "kar-dec30-002",
+    "id": "kar-may4-001",
     "category": "News",
     "featured": true,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "title": "CBI Investigation of Karur Stampede Raises Stakes for TVK",
+    "title": "Thalapathy blockbuster Vijay in Tamil Nadu: Despite Karur stampede to Jana Nayagan controversy, how ",
     "title_ta": "",
-    "summary": "CBI Investigation of Karur Stampede Raises Stakes for TVK Frontline Magazine",
+    "summary": "Thalapathy blockbuster Vijay in Tamil Nadu: Despite Karur stampede to Jana Nayagan controversy, how ",
     "summary_ta": "",
-    "date": "December 30, 2025"
+    "date": "May 4, 2026"
   },
   {
-    "id": "kar-sep28-006",
+    "id": "kar-sep28-003",
     "category": "News",
     "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "title": "Vijay rally crush: At least 39 killed at political event in Tamil Nadu",
+    "title": "Tamil Nadu government forms one-member commission to investigate stampede at a rally in Karur",
     "title_ta": "",
-    "summary": "Vijay rally crush: At least 39 killed at political event in Tamil Nadu BBC",
+    "summary": "Tamil Nadu government forms one-member commission to investigate stampede at a rally in Karur",
     "summary_ta": "",
     "date": "September 28, 2025"
+  },
+  {
+    "id": "kar-mar15-004",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "TVK Chief Appears Before CBI For 3rd Round Of Questioning In Karur Stampede",
+    "title_ta": "",
+    "summary": "TVK Chief Appears Before CBI For 3rd Round Of Questioning In Karur Stampede",
+    "summary_ta": "",
+    "date": "March 15, 2026"
+  },
+  {
+    "id": "kar-apr14-005",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "title": "Promises, scepticism and unanswered questions: How Karur remembers TVK stampede deaths",
+    "title_ta": "",
+    "summary": "Promises, scepticism and unanswered questions: How Karur remembers TVK stampede deaths",
+    "summary_ta": "",
+    "date": "April 14, 2026"
   }
 ]
