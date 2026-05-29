@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-may27-001",
+    "id": "tir-may23-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV1NSWDYwTlhZLTVCRUlBUFh1WU5GZ2YyZm81amdwRFg4NVlwUkVGR1BCRWtkTG5jelE4UmoybXpQaV8wbFFleUxJRzEtUFdRRGEtb2RTTzUybVNEeE1QOTRiMWROWk1CUF9tUXAxYVdPdGpVbEVnTnlXSmh0YkhtWHVqSlhWSERnYU9aVC1xeFlYOGNMV3pzX3FlMHNHSjZxUkZFUC1qZjQ?oc=5",
+    "title": "Tiruppur court sentences 25 Bangladeshi labourers to two years for illegal stay",
+    "title_ta": "",
+    "summary": "Tiruppur court sentences 25 Bangladeshi labourers to two years for illegal stay",
+    "summary_ta": "",
+    "date": "May 23, 2026"
+  },
+  {
+    "id": "tir-may27-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pZ3pvNVRndGpjRFdtaVlpZjJhQXVCYWlybDMzbHFPbVBfVnhuYWlwcm16NWYzMlp5dGdyWVpJak9BWTFqalRScWt2bVp6cFBfYWZyNmtSYzF2M3A3NlV2Ymo1Q2hzQmhacGlFQ0lUMFRyUFNzNEtVMXFLTQ?oc=5",
     "title": "Tiruppur, Tamil Nadu",
