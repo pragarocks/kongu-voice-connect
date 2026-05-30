@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-may30-001",
+    "id": "coi-may28-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTU82SEJCWm1ndzRNM21ESG9WQXNOMHh0T2p0b0t3Uy15QnpxTVZVQUdmNHJnN2VCSVRvSlpGeTFRZklJX3ItUTJ5MnB0Z3ZwZFY1MWZueFBSQ3VUQTRZeExnZElJblRra3JVQ1VtYk42VXl0YmUwRXRaYThSeUV3cVBDejA3TkVRUGhIOWcyWUZ6UXZtQ3hFeGpDS2RjVjBHeFFmWFFnalhoV3BweV9CYjFCNERGSEF5WFJZR0U5bHh1aWJHTTBwLWxkdVRkLW5xb1E?oc=5",
+    "title": "Fact Check: Coimbatore assault-murder case–TN CM Vijay suspends police officers for laughing? No, cl",
+    "title_ta": "",
+    "summary": "Fact Check: Coimbatore assault-murder case–TN CM Vijay suspends police officers for laughing? No, cl",
+    "summary_ta": "",
+    "date": "May 28, 2026"
+  },
+  {
+    "id": "coi-may30-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMk9rdU0zR0hLTFZKaTJzTy1VQ1J5N2I2eDU1UGxNUmwzTlZvRV9kOW56cklmbUxnSGVXVXFwZTNhdmJka2lqN1FPQThOSlp5R0JraWd2OURwVVpFOUYwSHQ2MDB0WFNBWnMzVkE0QU9tWTZvU3ZsaktyRXNMM0NCbkw5QXJkaWt4UTRxbjhqRllYS1FSQlVnSG05d29GUTNIYkdmVFBEMEZWNVZuZDJnTWRkNnotcVJwaXlpZG9Bb9IBxAFBVV95cUxQbkw4YThnc1ZYdllZY0FuZm5fWjZzbXpFLWxCOTBlSEtnSlkyRlVoVzhPUVFKS3lHUEJ0ZV9ZWkFoRnRReFpOQ1VzeC1oR3hjeld5ajJoNGVaakxSX2ZhZWFZNmE4T1RRLUNOS2NIckJtb09TYUNuQzF5Q2xrV2V0R2ZVbmdDOXVLNnhRc0tCa1F6N3Jud29HWUlvcFpCb3R6cjdFU2NqZ2t1T2JYa1hwX0huYS1NRnNDVHNYYklWOGJWdVlK?oc=5",
     "title": "Coimbatore corporation gets new commissioner",
@@ -130,17 +142,5 @@
     "summary": "Video | Coimbatore News | Tamil Nadu Shocker: 10-Year-Old Girl Kidnapped, Killed In Coimbatore",
     "summary_ta": "",
     "date": "May 24, 2026"
-  },
-  {
-    "id": "coi-may25-005",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTW1wLTh3NlYxc0JnZlowTDFWVU4xa1diSTBHRW5fUlZJZjNBeFp3N2VDMVh2WlgxbktFM0lETGtiMTdaSGY5RTRFZ09BUXgzMnRBanJJTHVEeTZRT05YUXF2UE05QkVuTzQ0SlJzLWc5UWlsT3preVA1SV90SFAtQ1h6cGN6X3p5cUozdHlPbjljYnlRVU01cHRIOUxTcVBwMnhlZFNaZVR3NG0ycUJHSUJGdVJVbVAyOVI5V0tZZFVpVGlGZEhEMTdOTjQ2cmhtSy1Va096TW5kWm1xMjJoM3ZqZm5qMHJuU3JzNm9UUdIB9AFBVV95cUxOOHpuV1RHMFpBUjl5SW9ic0ctcFpjWVUxOERRQmx0QTY3UnV0d3p5NDRpa0xJYmYyUTVGcHNNSUZmWlU4RlN1NHpIdUpLZDQzWk1VNjBuZ1Q2X1h1VElKTElRVFhzZW9vdi1xUUgyUXhoX1hWRng2aTdac2pIV2tCQmlKTjRMbUk2QXROVWNUTjlGY3o0d1B3ckdzMHM2dEQtUmFuM0dvVTl0SDNCVG8zTGo5a0hjNVllT1ViSTA3a2NmZzl4QXZxMDFfS2NEdWNhMzVxQ3ZnTEI4V3FCT0thcngtRzNwQkNWOGt4aXhyUHFtTTVM?oc=5",
-    "title": "Tamil Nadu shocker: Gang hurls petrol bombs at woman’s house in Coimbatore after she rejects man's p",
-    "title_ta": "",
-    "summary": "Tamil Nadu shocker: Gang hurls petrol bombs at woman’s house in Coimbatore after she rejects man's p",
-    "summary_ta": "",
-    "date": "May 25, 2026"
   }
 ]
