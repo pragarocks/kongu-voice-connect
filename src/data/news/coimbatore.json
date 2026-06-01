@@ -1,8 +1,32 @@
 [
   {
-    "id": "coi-jun1-001",
+    "id": "coi-jun1-003",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNEdHaTVfZTUydUR1VTdKT3hpb0FPcmlJa2JuSWpXSWw4OVpZU3l0aDVOTkFTVWF0ZDRIV0tTeXRZTmJLVkJVRzhJNVhwYlkwWmJfZVNENTVkZGtYR0xiR0xnVkltWU5HNkR2TFlONFlUNVJVbGhoUXI0ZG8ySXhXdUtsWGtmbTBBSEhmWTR5R2pTNlpjbU1LZGdkSkcxbmVVcFBmS2tPUEVLWGR6XzNMOVNuRVJ4eWU5eDNIalBhNlprTnFqN3VoY21CM2thUGNMNE90NmVaUjJ0REI4cEZ2czNieTdObWxzWWo00gHwAUFVX3lxTE4wUEg0YS02bmlROWNGQXh0VHlMWHJCQmJXMWlicUVVY0hUb2dzbnZ1ZUd6bzQxd1BOWHNXVGN1RE40TkRCVWZ3aEFOQVo0dWowSDBPZHE3NXZJdGhCMV9LRDVuMmJUUnBYOWJDRnE4eF9sRGRuU3RZczMwc3NRbXBtbHNZaklLS1E3TVl3QmVFdE9MVjRCVzlVdkoteXU3MkJBOFU1eDViTDh6TDN5aklQaGRibUlwZjh3NTZ1eWY2d2txUW93a21hSEh2bnNicUdlS1RTLU91ZVU5UXFYR21pVGNhSkg1TDlpVG0xUFlNdg?oc=5",
+    "title": "‘Makkal Sakthi Iyakkam’ posters all over Coimbatore; Rajini's 'Annamalai' move in Tamil Nadu?",
+    "title_ta": "",
+    "summary": "‘Makkal Sakthi Iyakkam’ posters all over Coimbatore; Rajini's 'Annamalai' move in Tamil Nadu?",
+    "summary_ta": "",
+    "date": "June 1, 2026"
+  },
+  {
+    "id": "coi-may30-006",
+    "category": "News",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRUk5TzJ1VWdhVVVSVy01LVRueGJwMkQtWDdaaXdwY3J2MXp0ODNlUG5wQ28xdXZhTHdZYkNIdDBUUXdWM1lpbC1BbDVoclJaNVRzYTZQeGMwaDNYemlQaldZNmF0ZFJsVTF1b0d5cDRRTUpmeVlxdmVBM3NJcTN6Um5maEU4LUY4ckhBRWJGQ044cUhPZFVDMEZjTTYyaFBsTDBHazY2V2V1MkJqalAwNnEwb25TWHdyVV9jM1ZaRXhhai1VTFpRR0o5Nkl3Z3Q5LWVZOExCekx0dThjVEE?oc=5",
+    "title": "Tamil Nadu farmers protest outside Coimbatore Collectorate over crop loan waiver slab",
+    "title_ta": "",
+    "summary": "Tamil Nadu farmers protest outside Coimbatore Collectorate over crop loan waiver slab",
+    "summary_ta": "",
+    "date": "May 30, 2026"
+  },
+  {
+    "id": "coi-jun1-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWDRlMmRseEdYV3oyUWlDMF9GQUlKUXBBM1RBc0h2aG9hWHZfU3UycWVIMjB4NVJ4bE8xWnRHOE1qcUJBRzJVdGMybzE1REJVbkFUN3YzUHRQZEVkb2dzN0V1cjV4eEdrMy1weXlOWDJpV19IamQ0VVV2UmdJOFBTVzFhZ19pTTNCNVYyM2xmTS10bV9ldGNFSWs1d1lqdGViOW1kNHZsSVJpMldqYTdKYkNPV2hfc3B4THpsaHZXX1pwOHNtYmREVFVsVmVDUHJtSjgyeHpHM0NUOFhnbkVHU190RHHSAeoBQVVfeXFMTU5fakxSaEpGY3gxeWdfb2loVXA1Y0VoajE4MVFualpPd3REVDA4dTJVdG1vX2RUUmd0em4wZmZOekliQUlGLU90OE9BazFCazZ3MG5sMktLbUJBcUxKREJzbVZvMWQ3RnFPbjFqM3ZWOHhwTWJRZUQ5X0tjUzJUeXplMFFXMF9qUGsxQXk3a25uRDFuaGFmQmt0U19BMWJsY0NWdkNaaWJtMlZBYWhSWDFJRGVIOHFWUXFuNGN0QlVqNzFieVpuRUxRSHVra25jelc3aUc1LS1reE1KYWwxLTBJaXFCTjA2d2ln?oc=5",
     "title": "Is BJP's Annamalai launching new party in TN? Posters across Coimbatore spark buzz",
@@ -118,29 +142,5 @@
     "summary": "Two arrested over murder of 10-year-old girl in Coimbatore",
     "summary_ta": "",
     "date": "May 30, 2026"
-  },
-  {
-    "id": "coi-may31-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOUV9kNHFTZkdWZFA1NFRla0hQekNBX2pBMjVXTlkxMFkyREE4WUZBQUxweGhLcTFGaGZ1eERjT1lpckRCcTN4LUk5QmhVWTVPWFl0dHh6bndrZkREbU5id0Q0NGxhR1JTNkdVMGV2Ul9WRGphRngtNEtzN29DMU5fb21ZTVJlUlZhUWFrcFA1VE1QcWVmRVFFZmZNQWc1anZZYmNCQ2dSSzdyTkxNRmE4Zy1SY0FveGNzVUl2NTFfT3pSZmlwYkpUSFJoOUd6UWdQbXdTUEk0ZVVLa2U5bWZTVEN0MDE1VklDd25BU0NCQV92Zzg3Y0ZqMkhSOHVrMHc4eTRsNlgyallOTFRaMVHSAZsCQVVfeXFMTVNGdHl5UWxGR2JaYW4zbmhjdUpuSjR2Nl9fczViY184WUt0SXBjdU5xMnQ0UnNiWjlzNk4xejFDOGF1dkY4Z25oLUhiUDhQODdIV2QwWmlOSnVHaUhWS2ZKMGVJbG01bGNfaHNKNjZiLU5tX205Uk1IY0dtdDU4QzlkbDZBWU02dy1OUVR5Z21WQzRuZGpxRTk0Qlh4bnFPOGVYY3BmX3p0eEVOQ3lIa2t3Y3hpSl8yTkpEV3pXQ3RQOFVRR0IyNUpmME5tQnNuMDQ0TkIxRUtPRWNoQWJnRzdWYWVBTGRhMFFBNGNFMHhIVHREOGxzZjhyQUdTRkFwTFk1aW5GWExJRGJOOUc3aHVVY1BDaDlJandwRQ?oc=5",
-    "title": "Coimbatore: SC residents allege bus operation to locality stopped over caste bias, minister assures ",
-    "title_ta": "",
-    "summary": "Coimbatore: SC residents allege bus operation to locality stopped over caste bias, minister assures ",
-    "summary_ta": "",
-    "date": "May 31, 2026"
-  },
-  {
-    "id": "coi-may28-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTU82SEJCWm1ndzRNM21ESG9WQXNOMHh0T2p0b0t3Uy15QnpxTVZVQUdmNHJnN2VCSVRvSlpGeTFRZklJX3ItUTJ5MnB0Z3ZwZFY1MWZueFBSQ3VUQTRZeExnZElJblRra3JVQ1VtYk42VXl0YmUwRXRaYThSeUV3cVBDejA3TkVRUGhIOWcyWUZ6UXZtQ3hFeGpDS2RjVjBHeFFmWFFnalhoV3BweV9CYjFCNERGSEF5WFJZR0U5bHh1aWJHTTBwLWxkdVRkLW5xb1E?oc=5",
-    "title": "Fact Check: Coimbatore assault-murder case–TN CM Vijay suspends police officers for laughing? No, cl",
-    "title_ta": "",
-    "summary": "Fact Check: Coimbatore assault-murder case–TN CM Vijay suspends police officers for laughing? No, cl",
-    "summary_ta": "",
-    "date": "May 28, 2026"
   }
 ]
