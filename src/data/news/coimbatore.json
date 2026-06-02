@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun1-003",
+    "id": "coi-jun1-006",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNMl9WcDJOWXBpU0U3dElOWHZwdFNURWJpQXljTGo1VVFoMVhuMmlSbWpQQUU3UUU0VUpCdGxTRGQyNF83NUdDeFlvaTJ4T1FLdGE4eVMtQWNKZ3lBWHdwUHZkQTFkeVdGMG5DN0xJc1ZzMkc5cFk5V2k2QVpqOW50SW5HNGJTNzNMSzgxMmpOQ0Z2S1hMb2V5UzZNaGpwdVdOV0NTdkJ4Mm9pbk80S2ZjTFhZRW44US1OMmFRdXN0UlkxVUtkVGhsLTNVMGtZbHBKcmxNRlZzcVM4UjROMTFxcjhFMkVNVFRYNWlKZmk5YjdRMTgyOFlpSERRaW1HR1ZpOEJ6RU4zUGFZT0Y2Z3F6R1pfd2lUN2NQVDhxNHNTYndFaWRnai1jTmVaaFp6Ym50dE1pNkxB?oc=5",
+    "title": "SKÅL INDIA NATIONAL CONGRESS 2026 GEARS UP AS SKÅL INTERNATIONAL COIMBATORE HOSTS CURTAIN RAISER EVE",
+    "title_ta": "",
+    "summary": "SKÅL INDIA NATIONAL CONGRESS 2026 GEARS UP AS SKÅL INTERNATIONAL COIMBATORE HOSTS CURTAIN RAISER EVE",
+    "summary_ta": "",
+    "date": "June 1, 2026"
+  },
+  {
+    "id": "coi-jun1-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNEdHaTVfZTUydUR1VTdKT3hpb0FPcmlJa2JuSWpXSWw4OVpZU3l0aDVOTkFTVWF0ZDRIV0tTeXRZTmJLVkJVRzhJNVhwYlkwWmJfZVNENTVkZGtYR0xiR0xnVkltWU5HNkR2TFlONFlUNVJVbGhoUXI0ZG8ySXhXdUtsWGtmbTBBSEhmWTR5R2pTNlpjbU1LZGdkSkcxbmVVcFBmS2tPUEVLWGR6XzNMOVNuRVJ4eWU5eDNIalBhNlprTnFqN3VoY21CM2thUGNMNE90NmVaUjJ0REI4cEZ2czNieTdObWxzWWo00gHwAUFVX3lxTE4wUEg0YS02bmlROWNGQXh0VHlMWHJCQmJXMWlicUVVY0hUb2dzbnZ1ZUd6bzQxd1BOWHNXVGN1RE40TkRCVWZ3aEFOQVo0dWowSDBPZHE3NXZJdGhCMV9LRDVuMmJUUnBYOWJDRnE4eF9sRGRuU3RZczMwc3NRbXBtbHNZaklLS1E3TVl3QmVFdE9MVjRCVzlVdkoteXU3MkJBOFU1eDViTDh6TDN5aklQaGRibUlwZjh3NTZ1eWY2d2txUW93a21hSEh2bnNicUdlS1RTLU91ZVU5UXFYR21pVGNhSkg1TDlpVG0xUFlNdg?oc=5",
     "title": "‘Makkal Sakthi Iyakkam’ posters all over Coimbatore; Rajini's 'Annamalai' move in Tamil Nadu?",
@@ -130,17 +142,5 @@
     "summary": "Tamil Nadu: The Sulur horror story of sexual assault and murder of 10-year-old girl",
     "summary_ta": "",
     "date": "May 31, 2026"
-  },
-  {
-    "id": "coi-may30-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
-    "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
-    "title_ta": "",
-    "summary": "Two arrested over murder of 10-year-old girl in Coimbatore",
-    "summary_ta": "",
-    "date": "May 30, 2026"
   }
 ]
