@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun1-005",
+    "id": "coi-jun5-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb2N1MHJ5QmJWc0lpenF6MldNUHBiUzE3LXZzSzQ4bVNrTmlaeEdhU1k5OU92U05oTnlDSUNMODRJbWxSbXRXUU1XQkdkdHgtUmtMRUNVdmdEQXB5dmlFcjJ5RWhSdTBCZXlSLWlkQVpxS2ZmXy1aX1prc0RLRDdDZ3FHN3NmYVVsdEU2MExSUkhhTEU2RElDdWRic1c1UjNtWlcxNUgta1E1QjNaZXhUbGpn?oc=5",
+    "title": "Tamil Nadu Sports Minister Arjuna inspects Coimbatore’s Nehru stadium facilities",
+    "title_ta": "",
+    "summary": "Tamil Nadu Sports Minister Arjuna inspects Coimbatore’s Nehru stadium facilities",
+    "summary_ta": "",
+    "date": "June 5, 2026"
+  },
+  {
+    "id": "coi-jun1-005",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWDRlMmRseEdYV3oyUWlDMF9GQUlKUXBBM1RBc0h2aG9hWHZfU3UycWVIMjB4NVJ4bE8xWnRHOE1qcUJBRzJVdGMybzE1REJVbkFUN3YzUHRQZEVkb2dzN0V1cjV4eEdrMy1weXlOWDJpV19IamQ0VVV2UmdJOFBTVzFhZ19pTTNCNVYyM2xmTS10bV9ldGNFSWs1d1lqdGViOW1kNHZsSVJpMldqYTdKYkNPV2hfc3B4THpsaHZXX1pwOHNtYmREVFVsVmVDUHJtSjgyeHpHM0NUOFhnbkVHU190RHHSAeoBQVVfeXFMTU5fakxSaEpGY3gxeWdfb2loVXA1Y0VoajE4MVFualpPd3REVDA4dTJVdG1vX2RUUmd0em4wZmZOekliQUlGLU90OE9BazFCazZ3MG5sMktLbUJBcUxKREJzbVZvMWQ3RnFPbjFqM3ZWOHhwTWJRZUQ5X0tjUzJUeXplMFFXMF9qUGsxQXk3a25uRDFuaGFmQmt0U19BMWJsY0NWdkNaaWJtMlZBYWhSWDFJRGVIOHFWUXFuNGN0QlVqNzFieVpuRUxRSHVra25jelc3aUc1LS1reE1KYWwxLTBJaXFCTjA2d2ln?oc=5",
     "title": "Is BJP's Annamalai launching new party in TN? Posters across Coimbatore spark buzz",
@@ -130,17 +142,5 @@
     "summary": "Two arrested over murder of 10-year-old girl in Coimbatore",
     "summary_ta": "",
     "date": "June 1, 2026"
-  },
-  {
-    "id": "coi-may30-003",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMk9rdU0zR0hLTFZKaTJzTy1VQ1J5N2I2eDU1UGxNUmwzTlZvRV9kOW56cklmbUxnSGVXVXFwZTNhdmJka2lqN1FPQThOSlp5R0JraWd2OURwVVpFOUYwSHQ2MDB0WFNBWnMzVkE0QU9tWTZvU3ZsaktyRXNMM0NCbkw5QXJkaWt4UTRxbjhqRllYS1FSQlVnSG05d29GUTNIYkdmVFBEMEZWNVZuZDJnTWRkNnotcVJwaXlpZG9Bb9IBxAFBVV95cUxQbkw4YThnc1ZYdllZY0FuZm5fWjZzbXpFLWxCOTBlSEtnSlkyRlVoVzhPUVFKS3lHUEJ0ZV9ZWkFoRnRReFpOQ1VzeC1oR3hjeld5ajJoNGVaakxSX2ZhZWFZNmE4T1RRLUNOS2NIckJtb09TYUNuQzF5Q2xrV2V0R2ZVbmdDOXVLNnhRc0tCa1F6N3Jud29HWUlvcFpCb3R6cjdFU2NqZ2t1T2JYa1hwX0huYS1NRnNDVHNYYklWOGJWdVlK?oc=5",
-    "title": "Coimbatore corporation gets new commissioner",
-    "title_ta": "",
-    "summary": "Coimbatore corporation gets new commissioner",
-    "summary_ta": "",
-    "date": "May 30, 2026"
   }
 ]
