@@ -1,8 +1,20 @@
 [
   {
-    "id": "tir-jun3-002",
+    "id": "tir-jun6-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaVlkM1ltcGV0anA0MHFGQUV5Y3lTbWhrTThZZENsbzR1RU4wM3hodlpUeGgzdUk0ck1QQm9sLVhQMHJmOWdxcnUyWE14eDhVSVRla2l4UmxtbUl1SVkweGV0VWNtRE9qU1Fta0NiRTNzTlludjFkLUNqRW01VUxmeVNRRXd0bFRFS0dzaG14YVFrd1hzM2tyVWFFbTh6SGVDU1g5U1NKM2kzNVJaS1NpTzA5MjFtVlV5N3dQeXVyelpnUGk4VU1fajE1NkYtOWkwNVNsSFVLSVEzdGd4cUFxblFLZ3IwZlp3N3BISWZEMnduSFBy0gH0AUFVX3lxTFBpWWQzWW1wZXRqcDQwcUZBRXljeVNtaGtNOFlkQ2xvNHVFTjAzeGh2WlR4aDN1STRyTVBCb2wtWFAwcmY5Z3FydTJYTXh4OFVJVGVraXhSbG1tSXVJWTB4ZXRVY21ET2pTUW1rQ2JFM3NOWW52MWQtQ2pFbTVVTGZ5U1FFd3RsVEVLR3NobXhhUWt3WHMza3JVYUVtOHpIZUNTWDlTU0ozaTM1UlpLU2lPMDkyMW1WVXk3d1B5dXJ6WmdQaThVTV9qMTU2Ri05aTA1U2xIVUtJUTN0Z3hxQXFuUUtncjBmWnc3cEhJZkQyd25IUHI?oc=5",
+    "title": "Poultry farmers in Tiruppur urge State govt. to emulate Karnataka in revising rearing rate",
+    "title_ta": "",
+    "summary": "Poultry farmers in Tiruppur urge State govt. to emulate Karnataka in revising rearing rate",
+    "summary_ta": "",
+    "date": "June 6, 2026"
+  },
+  {
+    "id": "tir-jun3-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00OEQtb0NmQzB3dEp6dFZQejdNZkxqLVBRZWV6T0ZZeHdrNF9xYU1JNVA2ZEFiZm4zUUxidXZ3YU9Kbm1BcHRzQ0Q1TjQyQ0JkYkM0cG9rTGJVczBNdFBKYnhyMDVKbUtQc3VIVEZ2X3hnUmRxRjVOZkJjYw?oc=5",
     "title": "Tiruppur Athletes shine at state meet",
