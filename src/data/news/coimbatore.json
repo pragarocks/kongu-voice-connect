@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun3-006",
+    "id": "coi-jun4-005",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZk1GVzc4eThyQWJQbzduaFdQc1VZSDVvM2g2TVlXS2VHNHBURDNYc09DVEkwWWlnQWVsaW95UGtEMjEtdGJpcXU0RDAzM1JodW9LZVFhd0liMW0wWDFZVGdsSXVRNkhPdW1MTW1XZ0VLN3cxNEFjYVh6SkNlTUZFWGd1Z0RQWkxDVVVwbERXNHBhRUVX?oc=5",
+    "title": "Ondipudur, Coimbatore South, Tamil Nadu, India",
+    "title_ta": "",
+    "summary": "Ondipudur, Coimbatore South, Tamil Nadu, India",
+    "summary_ta": "",
+    "date": "June 4, 2026"
+  },
+  {
+    "id": "coi-jun3-006",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3pUX2NnTnZQekR5R2RHcS1NclZQUDZNQVcwc0Q2djFIRi1QT0owbDNRUVpCMmFDZW4wSVVFRHFVN0lQWmJTVktnczBHYUFKZjdZcGpKSXR5YnRacFJfcXdJMExhc3E3YXJld3BUQlNDdG15WUtUaEhUazV3eGRpOWpwZTFKelc5eGVhZkl6RWhRU044aGZiWURJclBjQWJPQnlUZw?oc=5",
     "title": "Monsoon preparedness measures intensified across Coimbatore District",
@@ -128,18 +140,6 @@
     "title": "Tamil Nadu arrests two in Coimbatore minor girl’s abduction and murder case",
     "title_ta": "",
     "summary": "Tamil Nadu arrests two in Coimbatore minor girl’s abduction and murder case",
-    "summary_ta": "",
-    "date": "June 4, 2026"
-  },
-  {
-    "id": "coi-jun4-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdkptQVBmRDkxOHlFQjdZdlNJdUxyVXdvVE1EV3Q2ZExLanVyTjVlWlpYaVJQWEw3OW5qdU5yWHhKU2tFazB4WDg3cjZvQ01NWkQ0bHhPejNDbmQ2cHF1OGs3UW5tdW5RUG1SSGJLb3QxOWhOMFJiT0tTd1V3Y3FIZXB0WGY4Rmo5SUpFQUJ6YlFWTlFIb1huRlp3akpFckJGMHJqZ2JURG9HeFFuQ2hNMjRUdGM?oc=5",
-    "title": "India's L&T to invest nearly $2 billion in Tamil Nadu, state government says",
-    "title_ta": "",
-    "summary": "India's L&T to invest nearly $2 billion in Tamil Nadu, state government says",
     "summary_ta": "",
     "date": "June 4, 2026"
   }
