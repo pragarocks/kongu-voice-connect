@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun4-004",
+    "id": "coi-jun2-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbmhrWEUwY3N3ZmdvVWpUYzZfZ3o1djRPaEw0Y0p3RTlGS2xfRWpnam5Wbk9IaWdZSHA1TzNsbDlxNUpzN1p2RDVBNURZbzdxbV8tUGxyYzRYblJaN2Q4YkhVS3Z6Sm8zZ2NUb1c1V0tjbWFwOTd2ZkxIZlJlOXRfcDZpU2xlMlYzczV4bExNTnY0OTZnZjdmRlVVMzRWZ0VLU3RLanBQZnFCNXNiM1ExVGwwZFRLMm5fSXQxYkNEbTE5NTd3YlRXQzJnamg3Yi1DMVRYU0h30gHjAUFVX3lxTE1fSzA3bk9DYnN5QnlDM0dBMHlFaDZoalRCa0N5aGhHY0g1MFB3a2w0ZlZMT3BTTHBqd1FOTFRvMDBYWWNTTG5hc3dEMkZWR0FfTjBDNndRamZmbVZKNnhwZHNKcm56YXhZYjc1ckM2Z3BTUXZfZncta2ZWWXhHN0Z6WXhMY0RtRXN0SU1zaGFZa3Q0SmFTV3pzaDVQSVJuM3YteUw2THNkeDVWSGw1aDFta25OSnZDWlRndlA0TVJkTGQ1WkE3QzJfdk5OZEwtUTd2ck9WRXY2MzNwUHJhMXpfZ0t3?oc=5",
+    "title": "No, Vijay Didn't Suspend Cops Seen Laughing Amid Coimbatore Rape-Murder Presser",
+    "title_ta": "",
+    "summary": "No, Vijay Didn't Suspend Cops Seen Laughing Amid Coimbatore Rape-Murder Presser",
+    "summary_ta": "",
+    "date": "June 2, 2026"
+  },
+  {
+    "id": "coi-jun4-004",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
     "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
@@ -130,17 +142,5 @@
     "summary": "Ground Report on Coimbatore POCSO case: Moral scrutiny of mother overshadows violence of men",
     "summary_ta": "",
     "date": "June 3, 2026"
-  },
-  {
-    "id": "coi-may31-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOHBMOUZDR3JULVdETldhTklTaTFRT1duQzdJZ1RvRWJ2anBaQl9VYVYxSWxrazlRYV9kQzhmNzZMTTdWUGpUUHhPZzNudlhfZXY5U1N5U25RdHNNZWFqbGhNUWlsWGktaEVjZ2t3R2tTemhXQUw2Q0Q1TjBqNmcwaHVsOUNwdW5hMDR0SWQ3d0p1TG9kZ2xMNy1GVUlndkNoN1NVdUdxZlQ0Zkc5bmdsaVZrZ1FLdnh0X1UwM2xBNXZ3Tko0MjBwRFR0Q1VPSnkxUEtkVGI5NzRWRjBTSGNYMW82Z2hXWmgw0gHvAUFVX3lxTE1ZYjhZUXdnbEJJWFJqVzVLTVIyWDdlNVV5QzNWOVBPLUFReHNObUl4OXRyRktPX0ZnbU9rTVFGSTc4d0xFYlNWeWx1amlZb0hBRV96Y3lZQUxSQmNmRGJ2UDR3cFNtdXlnemp5Y1NzSnVnbUU4RXZ5a21kb1FRRWZRaWdoRHRSVUc5clVFOHhpaWp6bkZaVk9PWk1iUnlBZS1aMDZwdloyalFjTGR3ajFzakZCRVUtM2ZWMUgtaHp0N3dCY0tMUS1kdDZQMkJGUC1jdVpoQTE0VnN2VEYwTFhsTjlmWHpsZ0hKdTBnOTBr?oc=5",
-    "title": "Tamil Nadu: The Sulur horror story of sexual assault and murder of 10-year-old girl",
-    "title_ta": "",
-    "summary": "Tamil Nadu: The Sulur horror story of sexual assault and murder of 10-year-old girl",
-    "summary_ta": "",
-    "date": "May 31, 2026"
   }
 ]
