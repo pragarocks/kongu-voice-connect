@@ -1,8 +1,20 @@
 [
   {
-    "id": "dha-jun2-001",
+    "id": "dha-jun6-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS0szZ0tsc1ZDVFhkdW01b2tkWFFFS2NuaExDRVA1bjBfeGRqYmxaVTdnVnkyaTBQVXhLckdKeU1zQ01zSDhMREhPSkVXQllHYzVQeTN0dFlqcV9FUW40ZkdRc2h5S3Q4Z0ZqU2NTOTZZaWNwcWU1b1dnSHVVZ29ycVhwakNLc1JNbkJFRDFESnoxMTh4N3p5QlV0YjlCeGpLVFU1bE9PT0VUUGhJVi1iWEI1Vjg3bzJBM2tsMnUyM3BnNnIzRVo3bNIB1gFBVV95cUxPMFdkLS02Nkw1ci04TkZZRy12RGhrWnBVYmpHOVY0QjFEU0JyS3JTRFFiTVJReTZZd2k1T1JlT3hQY3hTQnVWUGtXWHZjeElGc01neWc0SHN6VjhNYjdJZ3RIaXRCSUdXZmRKeUstM0lNeHJic0ZnZ1dlaUpYX1hiNnlqTGNRel9VX2RaRlFUa1c1OUdpQXhOTHRqX3ltdlA2RjZLbG9va2RDeFdqelQzWGpnZmpkUWxwNG83Rk16dm13SFMtUHZHMkQteUtCQWpEdl83Tl93?oc=5",
+    "title": "Highway works worsen traffic woes on Dharmapuri's Thoppur ghat road",
+    "title_ta": "",
+    "summary": "Highway works worsen traffic woes on Dharmapuri's Thoppur ghat road",
+    "summary_ta": "",
+    "date": "June 6, 2026"
+  },
+  {
+    "id": "dha-jun2-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOclhSNzRNVnFTWVNYbTFaX2JTb01IX20wdXpuNUxXZDNybEl3REM0TzlKSVhLWjRyUHdqSWN3RU8yU04xdjJWVW9tOVVCdTBHRlI2bFE2bnhfVHRMakN0RHo2eFJua04tWnNyRDhFUmtKY2J2N1l5VWh4WXNBUzRudm1zc2V4bFdDZ2lIdEFQZw?oc=5",
     "title": "Dharmapuri Assembly Election 2026: Candidates List, MLA, Seat Details, Results & Vote Share",
@@ -22,29 +34,5 @@
     "summary": "Heavy rain likely in 15 districts of Tamil Nadu till June 7; heatwave to persist in northern coastal",
     "summary_ta": "",
     "date": "June 2, 2026"
-  },
-  {
-    "id": "dha-may30-002",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNUg5TXY2VUY1Y29sQXJISzdWYXhkajQtX1d6RGpaTHdUV1locC1mem5jaU00TDVMVVphazBmZ0huc2V3TldkQmtvdVpoZDV5ZDBsRU5HbDhVNU9XWFRxQXo2MzhKQWZzZVlrT2NPVmsxRm5HWVhFZGFYbkwwRmhmcDNzMnRzUFJIQTJKRGd1dFgwUkM1MUppNGxoRkluV2s2TUdGdkdBMHgtbUtqWGdkU2tPWmFsTXPSAcQBQVVfeXFMTzN5OUZSSXRTTEptYV9rRkRPQlEzMWIxaTd6eVNwbFVUMXVDRUVEVWV0OW02NFVMcGFBeEVhVGxlOEV5am5jTmNaSUpFNzJDc1FXdHF4RUFBbnB1c1QyZTROZDNGR25WR3RLdUVNZWNNa0JZT2ZId2pka2FHMUEtc1pzdVJVOXhJYmVPQXRPMmViMTFrNUVqNlRoaTdWbWMwZDhQcWxOZE1tUk0tUFZQa1Y3ei1aNk1kenhXb19TVURmTVlTdA?oc=5",
-    "title": "14 collectors shifted as TN transfers 40 IAS officers",
-    "title_ta": "",
-    "summary": "14 collectors shifted as TN transfers 40 IAS officers",
-    "summary_ta": "",
-    "date": "May 30, 2026"
-  },
-  {
-    "id": "dha-may30-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWGRZcDg1ZlE3SWU0VjFQQmoyUzR1REdJbzlLcXdRdFoza25tQ0Q2Z2NuME83Q0lHeF8tNEpjemRvUWMtTV9VLWd2enE0RUU2VmlXclNfVlNsOEFvYWlEU1RLcWZHZTZqckNCaDBmTnpyWjN5YUR0T0g5MG5VeUJfdXJfN3prU0JLdklfWkdoMFFVemtDZmVfc1FrcTd0b3JIUzEtWGJoeEhwby1ObDBpMDktcEMtbWV6UWxLYzFGRXdpRUtDLUl2Rnd6WFVGbTTSAdwBQVVfeXFMTkhuNXVKcEg5SmtyZjc1MTRDa18zd1NidTdRb3plTFI2Y3R0UkkxQmpKSG1PbjZTLTl4cmhhYXpkN3J5OHJ6cENSenFmNURXQzBYYy1Nd2JQNkx5Z0k5TE5KRWFUNEZPS1M2cjJ1VTFqdkNQemdiUG83TkFscnJlU1FQMFZmSjR6UUtuQlhtc0NjMTJyV2FKNnlaVVNFanM0TUNBZGpBYkxoSHBxTHFYYWl5S0lDSHU5Wk5wRTdGWm1QdU4zM2tjcFR0X3huTk1DZW5tcmpZMnpMbE1xbg?oc=5",
-    "title": "NHAI commences road expansion work along NH44 in Nallampalli, Dharmapuri",
-    "title_ta": "",
-    "summary": "NHAI commences road expansion work along NH44 in Nallampalli, Dharmapuri",
-    "summary_ta": "",
-    "date": "May 30, 2026"
   }
 ]
