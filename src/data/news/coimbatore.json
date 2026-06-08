@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun8-001",
+    "id": "coi-jun8-002",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMlVjVmJ3Z2NGZ1BIa1V6VW56aDJkOGhua2tOaXVheW9KTnU1T2dpZ0JvTW9rMTJGTElTUDlxdUFsYktCeVhVc01LX25Da0JIRmVfLWdHMzV4MzFrcHpsVXJ6Wkh0dVFPRjh0N2tVRWtLTElIc1RmalVMWHNDcVV5TjYzN1pVZUtHWlVQS1Jyd3o1OUxqWUVUbm9HU0NCc2plUlpxcWxkdng2aWdYbWpHT0NmQ3EyR3l2eVRaaFJQZng1bFlGUHNGWmpNU0pYOEZ5X2s3TUtraEFjMHRPVkdPalFMLTFRNjdtb3MwQW4tMUNsY3FI0gH6AUFVX3lxTE04OHVDczZHZlVLSV9GNUR0cHQ1azJVZWo3SFNTYXRwVDdPOU5PTEpSdkR5dzlBYW9wWkdwWjJJbVZxUlZ1Z1ZlQTlaRXpEWW45ZmtJQTBhd2xEZ3pQVkRta19CanpjSFdMTWFfWkVIaVk1akdBTDU5U2o2NHc4a0ZuWVZ5UzI3alJzc252UlJtMjFQcU10NXl3bXJhYUNFN1NOT1FLaEg4aWw0bTZzVmhRQk03bHY5Q2pZUFNEOFUwSHo0NWloTVpqRy1neVNJeXFqem1IYzU0ejJlMXpyUFNrMWdYSXBXdDVUXzgxMnN2XzdUY1dtNmFsMHc?oc=5",
+    "title": "Tamil Nadu Farmers Association protests imposition of taxes on agricultural tractors",
+    "title_ta": "",
+    "summary": "Tamil Nadu Farmers Association protests imposition of taxes on agricultural tractors",
+    "summary_ta": "",
+    "date": "June 8, 2026"
+  },
+  {
+    "id": "coi-jun8-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcmFrSENkd0JjTGdoX01qaEhvMG1NY1ZXdS1MNGhyZDdWdUNTcnd1SG9HRHgzN2xHaWlNX2R0SHdjbzhDQlpsdnF6UFBkelRfYk1OeElwRlgwT2IwZGtRVFQ5SnFxSXJGVFR4MlRacDNXbkxQUTNkb25zLUdhUzVsd19zcXF0dkNsRjZMSkFSdzJvT1Y4OTVPbXpR?oc=5",
     "title": "ECLGS 5.0 Scheme creates awareness among MSMEs in Coimbatore",
@@ -130,17 +142,5 @@
     "summary": "No, Vijay Didn't Suspend Cops Seen Laughing Amid Coimbatore Rape-Murder Presser",
     "summary_ta": "",
     "date": "June 2, 2026"
-  },
-  {
-    "id": "coi-jun4-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
-    "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
-    "title_ta": "",
-    "summary": "Two arrested over murder of 10-year-old girl in Coimbatore",
-    "summary_ta": "",
-    "date": "June 4, 2026"
   }
 ]
