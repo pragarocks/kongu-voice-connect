@@ -1,8 +1,20 @@
 [
   {
-    "id": "sal-jun7-003",
+    "id": "sal-jun8-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTFVwM1V4ZzFhcnp5SFhJRlNBeHZfRFpvUTJIeTYxTFNaYTQzZ0pGTWlpdXY2UXBFN3NGWU5tYUk0NHpZQVVTYzFWc2twYXQ2dDdOVm03M2FjbGNwRFNTY0pQdWJaZl82VS1KMHlaSlVTZEJMTFZBMDZhQl9sNnFGVGNSeVNtMGdFUDA2MU5Bb0FZOXI0ZVZJdWZhTGxOYmNFNzBPRjNWWVBKWXlGWFMwbnlWRjNaUTZQVThZNjgtWWFWSC1CdXUtY3VySHUycTF0NWhwZ1lkSm1LQVU3TnkyMGdRa9IB6gFBVV95cUxOR0ljcnB0VU1DNG1XdWFpcFhsUWtaX1Q4UU4tNExZd0ZVTjY0bkpZa0puaXdlMW45Y3NjZkJLbEQ1azVRcWFmNTNEd0pIdndueGhxRnZRbmcwbFRfaWd6bXhNRWtxalJabXozYUV3aHlpRmVEc3BOc1VjOFcxSXVEVThCbGlZb3VFeHZlbkYwdmJhQTdRbWdKSm9UclR3VGF1a0FneXJMM29laW5hRUNHbjZXeEtNOEhyXzEteVVGUzhVTEljNVJsMGlKTEVhM21tTVB0bzNOZUhEUHJCQXBMZkRFdWhxUVdMbXc?oc=5",
+    "title": "Schoolchildren participate in TVK function in Salem district; Education department launches inquiry",
+    "title_ta": "",
+    "summary": "Schoolchildren participate in TVK function in Salem district; Education department launches inquiry",
+    "summary_ta": "",
+    "date": "June 8, 2026"
+  },
+  {
+    "id": "sal-jun7-003",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkh0ZmNiTWYxMzUtdm9wdUk4RVFzYXdFR05PeWFzN0FxOXJacVVwOTE0LTlLZFRIYWk3c3BiOWx2by0zNGplbU1xVG1GcXpiTGY0RGh1VUI2NUR2RWxGSU9hNTBfV2JGSWRVRHNjRFJ6ZkU2U1QwTV83TEljZ0RoVXdYdVJORmVDNEZucVNjd0xqNlUxcW1HZXRaRnh6Nm9lbVNldUNPVk1fSE1W0gGzAUFVX3lxTE91Y01OQ205YlZfdmx3dTdYRGxxUFRsTzdqVV9mUkRuazZ6OXcwZTRPRjVVQ0NTejV6aV8yY3lCcXRSc3ZCdDRiM0JvM3UxLURmOXE5Smx1Um56ZFNhcmV3QnE4dEJlYXVFRWpZX3VBdS1ZWl81YTdRZElTa3d5eTMxRW9oTWJISFpXYWFPdktPM0hKOXRMWEtFSnlvTGtJNGVubWZreVRmdnVSZUZhdDI2V0tF?oc=5",
     "title": "22 Tasamc outlets shut in Salem district",
@@ -34,17 +46,5 @@
     "summary": "20 injured as bus falls into agricultural field near Namakkal",
     "summary_ta": "",
     "date": "June 6, 2026"
-  },
-  {
-    "id": "sal-jun2-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPemNiWmw3WmpkeF8tVVdQRE5sV0pmTDI2eWxuTkRjbFlfWHduWUFPUEZpd3NVWDBSQVBiUF9KOFJ4d2xVNEljZFR2NmxaSmlNTERoTHBTakE4YkxNeTYtb3ZMY3M2RUtYbmdvTkFsRzdESFZKQUVGT2xkcFBHdEZYNzZacnpNdw?oc=5",
-    "title": "Okra farmers in TN’s Salem face heavy losses as prices crash",
-    "title_ta": "",
-    "summary": "Okra farmers in TN’s Salem face heavy losses as prices crash",
-    "summary_ta": "",
-    "date": "June 2, 2026"
   }
 ]
