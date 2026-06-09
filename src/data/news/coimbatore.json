@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun8-002",
+    "id": "coi-jun8-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeHpQcmlxaWkxZDNQT21XSFZvU3JDUUU4S0lKYmQyRGpIcEVWT3F3b05YMUFrSlFwWjFzUF9JeDRTZWJwZ3ZFMEhGWnlNVWMzMWk0ZHdBTHlQeWg5cXJLRFFjaEkwQ0MtN00wS0I5Zlo3VmFhbGUzbUhWeW5MT2xva2ZPbnJaeGhlUG1RTzlMYjdJbVpVbWphblNrZFktSkpYZ3lPOE4wd2dJdWNtQlBWRThJVTVQeVlUOWZyLXdZNnd1TzRWRklsQWt2VlJDdEFXMDk0Y09hdnpnbURtU1lkbWlPd0FfVnRBOHd1R3QwVDdmdzdFczBr0gH-AUFVX3lxTE1uR0lRbTItTFh6bTFFak1ldm1YQ05xLWxTSURCeGJQU0JhcFJOZEFHaE9JdnF3eTdlTXVSUURtRlh2M0ZIQ2o5VWM0bFVRbThGYjVpcXlmVGZDdnBIdjMxRHdTTEVSWDNfZlFzNk1UMW1Mb0h5UGZ3VnBrLW5nVEdGeWpEc2w5OThxMDRrMzNTeUlZVHZOTGVMdlBfZmtmTUdWR28tM2RTY1hPV0pldi1hZ2xSMFBvLUs5ZkNkNlhPcDctczFIeHlXb2RzWk4xUEtGeC1aQ2NJYi1JanAwODJ1dmY5aXQzandLd01KOXoxZkY5SnJUVHVqNTRMdmVR?oc=5",
+    "title": "Coimbatore Corporation yet to submit lake-wise restoration and maintenance details sought by NGT",
+    "title_ta": "",
+    "summary": "Coimbatore Corporation yet to submit lake-wise restoration and maintenance details sought by NGT",
+    "summary_ta": "",
+    "date": "June 8, 2026"
+  },
+  {
+    "id": "coi-jun8-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1N3SmxtSGFkYmlKaXJkSW9GMVFtQUk1aGY4b3ozN0RmVlFsY1BTalBaZnhaTlEyLXdTeGl1RXVTTXU0TEtNTUdwOFU0cnRQQVhJaXI5MjFtZEFtdHYxVmp1ZW80azZKZ2lidDBKRVViUHkyc3RRR1hyV3lEQXdSQ0FKVzJPcC1Rb3FxNjNGRjJrY0FFVmc?oc=5",
     "title": "Two arrested over murder of 10-year-old girl in Coimbatore",
@@ -130,17 +142,5 @@
     "summary": "Ondipudur, Coimbatore South, Tamil Nadu, India",
     "summary_ta": "",
     "date": "June 4, 2026"
-  },
-  {
-    "id": "coi-jun3-006",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3pUX2NnTnZQekR5R2RHcS1NclZQUDZNQVcwc0Q2djFIRi1QT0owbDNRUVpCMmFDZW4wSVVFRHFVN0lQWmJTVktnczBHYUFKZjdZcGpKSXR5YnRacFJfcXdJMExhc3E3YXJld3BUQlNDdG15WUtUaEhUazV3eGRpOWpwZTFKelc5eGVhZkl6RWhRU044aGZiWURJclBjQWJPQnlUZw?oc=5",
-    "title": "Monsoon preparedness measures intensified across Coimbatore District",
-    "title_ta": "",
-    "summary": "Monsoon preparedness measures intensified across Coimbatore District",
-    "summary_ta": "",
-    "date": "June 3, 2026"
   }
 ]
