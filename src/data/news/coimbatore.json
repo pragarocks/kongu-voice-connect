@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun10-001",
+    "id": "coi-jun10-004",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXJKb3A2NHNINW9fczRHdzBIN0dLM3RYQ2tVOWJiclBYQTFILTJ1X2kxdlhRb2RnMThJWEl1LVRfRnZwc0lXbFgtR003dmpkTXhCTDU3MTFmb2lMOWtkOFFwZHkxRjBjN0I0T1BhTzhVSXBFeDA1WWJyMEpyczdJVnNwaUxXRzBjNFowaTRfQ2gxaC1aY3NsSUkwdnJqX1dIQkJyQ1hhUGJTX1U?oc=5",
+    "title": "Tamil Nadu arrests two in Coimbatore minor girl’s abduction and murder case",
+    "title_ta": "",
+    "summary": "Tamil Nadu arrests two in Coimbatore minor girl’s abduction and murder case",
+    "summary_ta": "",
+    "date": "June 10, 2026"
+  },
+  {
+    "id": "coi-jun10-001",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUYzZ293SklvTU12YVRrS2phZHFFU3J5WkdjdURyY2tnem9UVlFWeEwzU3QyM1NUcnd1RHlWY3NnbWVTS0VOSjRmWHNpZ1lIR0ZObWdiaWMzc195dFFjMl9TNDZJZ3hnQ2dsUnctZFRlVHNaYUVEQWFSOWZDOUVNcmRlQXpuSFd6NmNMS1FFY0lENURTVHpTQlhkYU1DeHlLeURWaDh3?oc=5",
     "title": "PM Modi to visit Coimbatore today: Traffic curbs, airport restrictions in place",
@@ -128,18 +140,6 @@
     "title": "Tamil Nadu Farmers Association protests imposition of taxes on agricultural tractors",
     "title_ta": "",
     "summary": "Tamil Nadu Farmers Association protests imposition of taxes on agricultural tractors",
-    "summary_ta": "",
-    "date": "June 8, 2026"
-  },
-  {
-    "id": "coi-jun8-001",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcmFrSENkd0JjTGdoX01qaEhvMG1NY1ZXdS1MNGhyZDdWdUNTcnd1SG9HRHgzN2xHaWlNX2R0SHdjbzhDQlpsdnF6UFBkelRfYk1OeElwRlgwT2IwZGtRVFQ5SnFxSXJGVFR4MlRacDNXbkxQUTNkb25zLUdhUzVsd19zcXF0dkNsRjZMSkFSdzJvT1Y4OTVPbXpR?oc=5",
-    "title": "ECLGS 5.0 Scheme creates awareness among MSMEs in Coimbatore",
-    "title_ta": "",
-    "summary": "ECLGS 5.0 Scheme creates awareness among MSMEs in Coimbatore",
     "summary_ta": "",
     "date": "June 8, 2026"
   }
