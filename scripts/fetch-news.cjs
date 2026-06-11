@@ -57,6 +57,75 @@ const CATEGORY_IMAGES = {
   News:           'https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80',
 };
 
+// ─── Publisher RSS image lookup ──────────────────────────────────────────────
+// Google News RSS has no images. For each article's publisher we know the
+// publisher name (from the <source> element). We map that name to the
+// publisher's own RSS feed, which DOES carry images, then match by title.
+//
+// Only publishers whose RSS feeds are verified to carry images are listed.
+const PUBLISHER_RSS = {
+  'The Hindu':            ['https://www.thehindu.com/news/national/tamil-nadu/?service=rss', 'https://www.thehindu.com/?service=rss'],
+  'NDTV':                 ['https://feeds.feedburner.com/ndtvnews-south-india', 'https://feeds.feedburner.com/ndtvnews-india-news', 'https://feeds.feedburner.com/NDTV-LatestNews'],
+  'DT Next':              ['https://www.dtnext.in/feed'],
+  'The News Minute':      ['https://www.thenewsminute.com/rss', 'https://www.thenewsminute.com/feed'],
+  'India Today':          ['https://www.indiatoday.in/rss/home'],
+  'ETV Bharat':           ['https://www.etvbharat.com/feed'],
+};
+
+// In-memory cache: publisher name → their RSS items (fetched once per script run)
+const publisherFeedCache = {};
+
+// Extract the best image from an RSS item.
+function extractItemImage(item) {
+  if (item.mediaContent?.$.url)   return item.mediaContent.$.url;
+  if (item.mediaThumbnail?.$.url) return item.mediaThumbnail.$.url;
+  if (item.enclosure?.url)        return item.enclosure.url;
+  const html = item.content || item.description || '';
+  const m = html.match(/<img[^>]+src=["']([^"']+)["']/i);
+  return m?.[1]?.startsWith('http') ? m[1] : null;
+}
+
+// Given a publisher name (e.g. "The Hindu") and article title, look up the
+// publisher's own RSS feed and return the matching article's image URL.
+// Returns null if the publisher is unknown, the feed fails, or no title match.
+async function fetchPublisherImage(publisherName, title) {
+  if (!publisherName || !title) return null;
+
+  // Find the feed URL list: exact match first, then substring match
+  const feedKey = Object.keys(PUBLISHER_RSS).find(k =>
+    k === publisherName || publisherName.includes(k) || k.includes(publisherName)
+  );
+  if (!feedKey) return null;
+
+  // Fetch and cache the publisher's RSS once per script run
+  if (!publisherFeedCache[feedKey]) {
+    const parser = buildParser();
+    let found = false;
+    for (const url of PUBLISHER_RSS[feedKey]) {
+      try {
+        const feed = await parser.parseURL(url);
+        publisherFeedCache[feedKey] = feed.items;
+        found = true;
+        break;
+      } catch { /* try next URL */ }
+    }
+    if (!found) publisherFeedCache[feedKey] = []; // mark as failed so we don't retry
+  }
+
+  const items = publisherFeedCache[feedKey];
+  if (!items.length) return null;
+
+  // Match article by normalised title: exact first, then 35-char prefix
+  const key = normalizeTitle(cleanTitle(title));
+  const match = items.find(it => normalizeTitle(cleanTitle(it.title || '')) === key)
+             || items.find(it => {
+               const thKey = normalizeTitle(cleanTitle(it.title || ''));
+               return thKey.startsWith(key.slice(0, 35)) || key.startsWith(thKey.slice(0, 35));
+             });
+
+  return match ? (extractItemImage(match) || null) : null;
+}
+
 // ─── RSS Parsing ────────────────────────────────────────────────────────────
 
 function buildParser() {
@@ -72,6 +141,7 @@ function buildParser() {
         ['media:content',   'mediaContent',   { keepArray: false }],
         ['media:thumbnail', 'mediaThumbnail', { keepArray: false }],
         ['enclosure',       'enclosure'],
+        ['source',          'sourceData',     { keepArray: false }], // publisher name string
       ],
     },
   });
@@ -116,7 +186,7 @@ async function fetchRSS(query) {
       description: (item.contentSnippet || item.title || '').trim().slice(0, 400),
       link:        item.link || item.guid || '',
       pubDate:     item.isoDate || item.pubDate || '',
-      source:      (item.source?.name || '').trim(),
+      source:      (item.sourceData || item.source?.name || '').trim(), // publisher name
       image:       extractRSSImage(item), // null for Google News
     }));
 }
@@ -424,15 +494,20 @@ async function processDistrict(district, providerInfo, globalSeenTitles) {
 
     console.log(`  [new]  ${item.title.slice(0, 70)}`);
 
-    // RSS image + AI rewrite run in parallel (only for genuinely new articles).
-    // Decode the Google News tracking URL to get the real publisher URL so we can
-    // fetch its og:image — the redirect stays on google.com and never reaches the article.
+    // Image resolution order:
+    //   1. Inline RSS image (rare but takes priority)
+    //   2. Publisher's own RSS feed matched by title (works for The Hindu, NDTV, DT Next, etc.)
+    //   3. og:image from decoded real article URL (Google News redirect doesn't work server-side,
+    //      but decodeGoogleNewsURL tries to extract the publisher URL from the signed token)
+    //   4. Per-category Unsplash image fallback
     const realUrl = decodeGoogleNewsURL(item.link) || item.link;
-    const [rewritten, rssImage] = await Promise.all([
+    const [rewritten, publisherImg, fetchedImg] = await Promise.all([
       rewriteArticle(item, providerInfo.provider, providerInfo.apiKey),
-      item.image ? Promise.resolve(item.image) : fetchArticleImage(realUrl),
+      item.image ? Promise.resolve(null) : fetchPublisherImage(item.source, item.title),
+      item.image ? Promise.resolve(null) : fetchArticleImage(realUrl),
     ]);
 
+    const rssImage = item.image || publisherImg || fetchedImg;
     const category = rewritten.category || 'News';
     newArticles.push({
       id:         generateId(district.slug, i, item.pubDate),
@@ -504,10 +579,12 @@ async function processMainJSON(providerInfo) {
     console.log(`  [new]  ${item.title.slice(0, 70)}`);
 
     const realUrl = decodeGoogleNewsURL(item.link) || item.link;
-    const [rewritten, rssImage] = await Promise.all([
+    const [rewritten, publisherImg, fetchedImg] = await Promise.all([
       rewriteArticle(item, providerInfo.provider, providerInfo.apiKey),
-      item.image ? Promise.resolve(item.image) : fetchArticleImage(realUrl),
+      item.image ? Promise.resolve(null) : fetchPublisherImage(item.source, item.title),
+      item.image ? Promise.resolve(null) : fetchArticleImage(realUrl),
     ]);
+    const rssImage = item.image || publisherImg || fetchedImg;
     const cat = rewritten.category || 'News';
 
     trending.unshift({                          // newest at the front
@@ -568,6 +645,7 @@ module.exports = {
   cleanTitle,
   articleKey,
   decodeGoogleNewsURL,
+  fetchPublisherImage,
   fetchRSS,
   fetchArticleImage,
   detectProvider,
