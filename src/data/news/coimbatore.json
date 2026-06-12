@@ -1,8 +1,20 @@
 [
   {
-    "id": "coi-jun12-002",
+    "id": "coi-jun12-001",
     "category": "News",
     "featured": true,
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdUhLTThIQVpieUd4TFIyQVJGbEVGWnhRLVZISTVfZm1kNU1pcUZrckdnZnNlaFJtUFBoS2ZabWtXOXhWTEZDM1otbVMyV2YyOVF3NjJOUURobjBvU21NYWI1NFhlbEwxNTdQZXF2YnRGMVBidW9zX2JkX3hGQ2Z1SUtOU3BPeWhYSnFjR3NaZy1CcVpYUWdGTzNPMm8tNWcxdzFvdVl1NkZ2ZUxnNTlTc1ItUmdualg3ZWZFamdSa1d5ME1SY1JHQThKVW1ra0dXNFN0eDEzVjFCWUJRMHRYaThQNjMtVVdFZVh0UVBWYWZsRUtNOFF0M9IB_wFBVV95cUxQRUhVdUtwSWMzZlF3VjFjbjN1al9YMHZET0xOdEpvQk9XTy1tdS1pbGxSZlZib2tXZHpoaUtzODJEdy11Z2pLMmZNSERlaUlyZnowRmRURkFGVmkzMU9xUFpPaXpMbGItR3ptblVVaTRzdXRtdVI0UzRrSzd2WTdJbkNMVEFqZDFHcVBXOFNjaGxzZGZIZ2NNOXhyY2UwTHFzZld4Z3k2U1VpVGJrYjVwX0hXajdKaU9MT21mUm1XOFFTUlkyZmwwUUZhZ2dNNUFDWC1TYjRGTzdMZF9jUW5Hbnd2ZUpXZEZtWWk5YlBzZGNFeEZqdHVma3I5eDl6X2M?oc=5",
+    "title": "Coimbatore tops Tamil Nadu in higher education enrolment of government school students in 2024-25",
+    "title_ta": "",
+    "summary": "Coimbatore tops Tamil Nadu in higher education enrolment of government school students in 2024-25",
+    "summary_ta": "",
+    "date": "June 12, 2026"
+  },
+  {
+    "id": "coi-jun12-002",
+    "category": "News",
+    "featured": false,
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43dDBFak5WN1BHQWpDVkN2WDR3VjEybExsU0JEUTB5UHIwcl8ySXZEcmpQN2s3YkxIQzRyT3NVOHlxM0ItRV9jU0oxMVRjNVE0TElTWHllYTI0TnU4Tk95aGlSNFJPSUhtUVl0RXdnc3FZdFNaTEJKVWVB?oc=5",
     "title": "Vi expands 5G services to Coimbatore, Tiruppur, and Vellore in Tamil Nadu",
@@ -130,17 +142,5 @@
     "summary": "Tamil Nadu Sports Minister Arjuna inspects Coimbatore’s Nehru stadium facilities",
     "summary_ta": "",
     "date": "June 10, 2026"
-  },
-  {
-    "id": "coi-jun9-004",
-    "category": "News",
-    "featured": false,
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168d5c?w=800&q=80",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZnJIdnRWb2lnU04xbENXVEVJbDhBWWJjaUYxNHg0VkEySVBHVTUyY0xGcXBLNkFRQmVVQTNRSWIyd3ZTdGRkNy1RRFpFRUNLQ0xvdkhTbkxqaUlzSnJOd01WbmxMZmY1TjZSb3NrYlhOYjNwNFFvWkpPV0x1ZXBTeUVRMVlfX2lFaFNWXy00RV8ydklEY2hfM0JYbjdEWDk3THJ0UEVRYXFUcnBPNTh4WVRnd055Y2JkNlNHd1c1U2VubkVaaFVIYVlNcE5GT1VPYklBTDk3YWxYcVhVS3JmZEgwTDFjNDZ3bXNJNGNOa9IB_AFBVV95cUxOU05teDlqbTdhM20xWGZPLThuc3ZrajB2R2R5VGM5MlBPc3k4WEY1VHBNTEJ1WnRlQXM1OUR3clVBRFRlY1FnZXNHWk1CUmtzenlZVGZ2WVZNbjMtdm9LeG5OSjlsZ21felQ0QjhvdXNLd0hDOVhjanpybU9aSVRHMVNZMDZjVks1dDBOR002dVBJSUplS1ZUMm0wcmVOWmFHRk9PZ0J3RDh0VFVzamVoWXlPMWFGWFEwOEtlSnQ5TFVNem1ZeDhMVVpEaGwxMGFDZjJNdXdQRHJPdjEwdXA4VUJTNWxtc3ZUbkx5MHU4TUVmNi1Fb0R3NEI1UDg?oc=5",
-    "title": "29-year-old tourist dies by suicide at Isha Yoga Centre in Coimbatore, police rule out foul play",
-    "title_ta": "",
-    "summary": "29-year-old tourist dies by suicide at Isha Yoga Centre in Coimbatore, police rule out foul play",
-    "summary_ta": "",
-    "date": "June 9, 2026"
   }
 ]
